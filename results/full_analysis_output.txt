@@ -1,0 +1,75 @@
+CORRELATION MATRIX
+               MWDT     MWDT2    WinPct    AvgAge  NetRating   Payroll  Turnover
+MWDT       1.000000  0.991197  0.326094 -0.036141   0.505818  0.018227  0.519477
+MWDT2      0.991197  1.000000  0.326370 -0.067108   0.478233  0.008534  0.505821
+WinPct     0.326094  0.326370  1.000000 -0.049035   0.270809 -0.155389  0.518026
+AvgAge    -0.036141 -0.067108 -0.049035  1.000000   0.197300  0.463607  0.074392
+NetRating  0.505818  0.478233  0.270809  0.197300   1.000000  0.263276  0.448813
+Payroll    0.018227  0.008534 -0.155389  0.463607   0.263276  1.000000  0.050728
+Turnover   0.519477  0.505821  0.518026  0.074392   0.448813  0.050728  1.000000
+
+WIN PERCENTAGE MODEL
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 WinPct   R-squared:                       0.308
+Model:                            OLS   Adj. R-squared:                  0.267
+Method:                 Least Squares   F-statistic:                     7.470
+Date:                Sun, 29 Mar 2026   Prob (F-statistic):           7.70e-06
+Time:                        19:10:39   Log-Likelihood:                 58.258
+No. Observations:                  90   AIC:                            -104.5
+Df Residuals:                      84   BIC:                            -89.52
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.5904      0.329      1.797      0.076      -0.063       1.244
+MWDT          -0.0008      0.002     -0.394      0.695      -0.005       0.003
+MWDT2       1.978e-06   3.91e-06      0.506      0.614   -5.79e-06    9.75e-06
+Payroll    -1.347e-09   7.48e-10     -1.800      0.075   -2.83e-09    1.41e-10
+AvgAge         0.0016      0.012      0.133      0.895      -0.023       0.026
+Turnover       0.4906      0.107      4.583      0.000       0.278       0.703
+==============================================================================
+Omnibus:                        2.317   Durbin-Watson:                   1.944
+Prob(Omnibus):                  0.314   Jarque-Bera (JB):                1.672
+Skew:                           0.282   Prob(JB):                        0.433
+Kurtosis:                       3.359   Cond. No.                     3.89e+09
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.89e+09. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+NET RATING MODEL
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              NetRating   R-squared:                       0.386
+Model:                            OLS   Adj. R-squared:                  0.350
+Method:                 Least Squares   F-statistic:                     10.58
+Date:                Sun, 29 Mar 2026   Prob (F-statistic):           6.71e-08
+Time:                        19:10:39   Log-Likelihood:                -251.74
+No. Observations:                  90   AIC:                             515.5
+Df Residuals:                      84   BIC:                             530.5
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept    -39.1585     10.294     -3.804      0.000     -59.628     -18.689
+MWDT           0.1235      0.061      2.014      0.047       0.002       0.245
+MWDT2         -0.0002      0.000     -1.454      0.150      -0.000    6.54e-05
+Payroll     4.925e-08   2.34e-08      2.101      0.039    2.64e-09    9.59e-08
+AvgAge         0.2734      0.387      0.707      0.482      -0.496       1.042
+Turnover       7.3968      3.353      2.206      0.030       0.728      14.065
+==============================================================================
+Omnibus:                        0.471   Durbin-Watson:                   1.496
+Prob(Omnibus):                  0.790   Jarque-Bera (JB):                0.120
+Skew:                           0.005   Prob(JB):                        0.942
+Kurtosis:                       3.178   Cond. No.                     3.89e+09
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.89e+09. This might indicate that there are
+strong multicollinearity or other numerical problems.

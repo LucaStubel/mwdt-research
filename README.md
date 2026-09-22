@@ -8,7 +8,7 @@
 
 **Author:** Luca Stuebel — Texas A&M University San Antonio  
 **Advisor:** Dr. Tan Kim — Department of Management  
-**Contact:** luca@das2.com
+**Contact:** lucastuebel@gmail.com
 
 ---
 

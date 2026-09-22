@@ -1,0 +1,5142 @@
+Player1,Player2,SharedMinutes,Team,Season
+Kuzma,Poole,520,WAS,2024-25
+Coulibaly,Kuzma,584,WAS,2024-25
+Kuzma,Sarr,487,WAS,2024-25
+Carrington,Kuzma,543,WAS,2024-25
+Coulibaly,Poole,1372,WAS,2024-25
+Poole,Sarr,1186,WAS,2024-25
+Carrington,Poole,1090,WAS,2024-25
+Coulibaly,Sarr,1077,WAS,2024-25
+Carrington,Coulibaly,1144,WAS,2024-25
+Carrington,Sarr,1241,WAS,2024-25
+George,Poole,852,WAS,2024-25
+Coulibaly,George,912,WAS,2024-25
+George,Sarr,777,WAS,2024-25
+Carrington,George,997,WAS,2024-25
+Kispert,Kuzma,366,WAS,2024-25
+George,Kuzma,352,WAS,2024-25
+Kuzma,Valančiūnas,348,WAS,2024-25
+Carrington,Kispert,936,WAS,2024-25
+George,Kispert,951,WAS,2024-25
+Kispert,Valančiūnas,667,WAS,2024-25
+Carrington,Valančiūnas,513,WAS,2024-25
+George,Valančiūnas,617,WAS,2024-25
+Kispert,Poole,603,WAS,2024-25
+Poole,Valančiūnas,532,WAS,2024-25
+Coulibaly,Kispert,763,WAS,2024-25
+Coulibaly,Valančiūnas,542,WAS,2024-25
+Champagnie,Poole,607,WAS,2024-25
+Champagnie,Coulibaly,356,WAS,2024-25
+Champagnie,Sarr,653,WAS,2024-25
+Carrington,Champagnie,860,WAS,2024-25
+Johnson,Poole,149,WAS,2024-25
+Champagnie,Johnson,313,WAS,2024-25
+Johnson,Sarr,278,WAS,2024-25
+Carrington,Johnson,375,WAS,2024-25
+Brogdon,Kispert,309,WAS,2024-25
+Brogdon,Carrington,276,WAS,2024-25
+Brogdon,George,224,WAS,2024-25
+Brogdon,Valančiūnas,217,WAS,2024-25
+Kispert,Sarr,431,WAS,2024-25
+Middleton,Poole,226,WAS,2024-25
+Champagnie,George,389,WAS,2024-25
+Champagnie,Middleton,105,WAS,2024-25
+Middleton,Sarr,250,WAS,2024-25
+George,Middleton,237,WAS,2024-25
+Holmes,Poole,230,WAS,2024-25
+Coulibaly,Holmes,246,WAS,2024-25
+Carrington,Holmes,335,WAS,2024-25
+George,Holmes,256,WAS,2024-25
+Coulibaly,Middleton,159,WAS,2024-25
+Carrington,Middleton,132,WAS,2024-25
+Champagnie,Valančiūnas,175,WAS,2024-25
+Champagnie,Holmes,189,WAS,2024-25
+Holmes,Kispert,314,WAS,2024-25
+Holmes,Smart,135,WAS,2024-25
+Champagnie,Kispert,343,WAS,2024-25
+Champagnie,Smart,125,WAS,2024-25
+Kispert,Smart,153,WAS,2024-25
+Carrington,Smart,163,WAS,2024-25
+George,Johnson,100,WAS,2024-25
+Brogdon,Champagnie,162,WAS,2024-25
+Brogdon,Coulibaly,267,WAS,2024-25
+Brogdon,Sarr,258,WAS,2024-25
+Champagnie,Jones,162,WAS,2024-25
+Champagnie,Vukcevic,230,WAS,2024-25
+Jones,Vukcevic,206,WAS,2024-25
+Carrington,Jones,209,WAS,2024-25
+Johnson,Jones,263,WAS,2024-25
+Carrington,Vukcevic,293,WAS,2024-25
+Johnson,Vukcevic,264,WAS,2024-25
+Holmes,Middleton,45,WAS,2024-25
+George,Smart,92,WAS,2024-25
+Brogdon,Poole,214,WAS,2024-25
+Sarr,Valančiūnas,62,WAS,2024-25
+Bagley III,Butler,95,WAS,2024-25
+Bagley III,Gill,69,WAS,2024-25
+Bagley III,Davis,79,WAS,2024-25
+Bagley III,Baldwin Jr.,35,WAS,2024-25
+Butler,Gill,134,WAS,2024-25
+Butler,Davis,153,WAS,2024-25
+Baldwin Jr.,Butler,80,WAS,2024-25
+Davis,Gill,139,WAS,2024-25
+Baldwin Jr.,Gill,70,WAS,2024-25
+Baldwin Jr.,Davis,77,WAS,2024-25
+Brogdon,Vukcevic,41,WAS,2024-25
+Kispert,Vukcevic,142,WAS,2024-25
+Brogdon,Kuzma,161,WAS,2024-25
+Champagnie,Kuzma,79,WAS,2024-25
+Jones,Thor,163,WAS,2024-25
+Thor,Vukcevic,115,WAS,2024-25
+Martin,Thor,88,WAS,2024-25
+Johnson,Thor,135,WAS,2024-25
+Jones,Martin,169,WAS,2024-25
+Martin,Vukcevic,155,WAS,2024-25
+Johnson,Martin,155,WAS,2024-25
+Butler,Champagnie,154,WAS,2024-25
+Butler,Kispert,145,WAS,2024-25
+Butler,George,129,WAS,2024-25
+Butler,Valančiūnas,124,WAS,2024-25
+Champagnie,Martin,66,WAS,2024-25
+Bagley III,Carrington,86,WAS,2024-25
+Butler,Carrington,117,WAS,2024-25
+Carrington,Gill,195,WAS,2024-25
+Carrington,Davis,90,WAS,2024-25
+Gill,Jones,103,WAS,2024-25
+Gill,Vukcevic,129,WAS,2024-25
+Gill,Martin,67,WAS,2024-25
+Gill,Johnson,135,WAS,2024-25
+Poole,Vukcevic,69,WAS,2024-25
+Sarr,Vukcevic,77,WAS,2024-25
+Butler,Coulibaly,89,WAS,2024-25
+Butler,Sarr,67,WAS,2024-25
+Gill,Thor,86,WAS,2024-25
+Carrington,Thor,107,WAS,2024-25
+Bagley III,Brogdon,24,WAS,2024-25
+Bagley III,Poole,57,WAS,2024-25
+Bagley III,Coulibaly,59,WAS,2024-25
+Bagley III,Sarr,21,WAS,2024-25
+Butler,Holmes,56,WAS,2024-25
+Bagley III,Champagnie,38,WAS,2024-25
+Champagnie,Gill,128,WAS,2024-25
+Champagnie,Davis,77,WAS,2024-25
+Carrington,Martin,93,WAS,2024-25
+Gill,Smart,27,WAS,2024-25
+Smart,Thor,28,WAS,2024-25
+Jones,Smart,56,WAS,2024-25
+Martin,Smart,33,WAS,2024-25
+Coulibaly,Vukcevic,68,WAS,2024-25
+George,Vukcevic,99,WAS,2024-25
+Gill,Holmes,43,WAS,2024-25
+Davis,Holmes,27,WAS,2024-25
+Baldwin Jr.,Holmes,19,WAS,2024-25
+Jones,Poole,28,WAS,2024-25
+Jones,Sarr,132,WAS,2024-25
+Smart,Vukcevic,69,WAS,2024-25
+Baldwin Jr.,Champagnie,21,WAS,2024-25
+Davis,Vukcevic,41,WAS,2024-25
+Baldwin Jr.,Vukcevic,21,WAS,2024-25
+Brogdon,Holmes,60,WAS,2024-25
+Sarr,Smart,58,WAS,2024-25
+Johnson,Smart,57,WAS,2024-25
+Gill,Kispert,60,WAS,2024-25
+George,Gill,40,WAS,2024-25
+Gill,Valančiūnas,36,WAS,2024-25
+Holmes,Johnson,70,WAS,2024-25
+Davis,Poole,51,WAS,2024-25
+Davis,Kispert,54,WAS,2024-25
+Coulibaly,Davis,50,WAS,2024-25
+Davis,Valančiūnas,72,WAS,2024-25
+Johnson,Middleton,13,WAS,2024-25
+Champagnie,Thor,52,WAS,2024-25
+Brogdon,Johnson,14,WAS,2024-25
+Johnson,Kispert,43,WAS,2024-25
+Davis,George,45,WAS,2024-25
+Holmes,Kuzma,48,WAS,2024-25
+Martin,Sarr,65,WAS,2024-25
+Coulibaly,Smart,43,WAS,2024-25
+Butler,Vukcevic,22,WAS,2024-25
+Gill,Sarr,61,WAS,2024-25
+George,Jones,38,WAS,2024-25
+Bagley III,Kispert,38,WAS,2024-25
+Bagley III,George,43,WAS,2024-25
+Butler,Poole,48,WAS,2024-25
+Brogdon,Gill,12,WAS,2024-25
+Brogdon,Butler,13,WAS,2024-25
+Poole,Smart,31,WAS,2024-25
+Sarr,Thor,43,WAS,2024-25
+Holmes,Jones,16,WAS,2024-25
+Davis,Sarr,17,WAS,2024-25
+George,Thor,16,WAS,2024-25
+Butler,Kuzma,30,WAS,2024-25
+Kispert,Middleton,24,WAS,2024-25
+Baldwin Jr.,George,22,WAS,2024-25
+Middleton,Smart,18,WAS,2024-25
+Martin,Poole,21,WAS,2024-25
+Baldwin Jr.,Poole,11,WAS,2024-25
+Baldwin Jr.,Kispert,12,WAS,2024-25
+Baldwin Jr.,Coulibaly,6,WAS,2024-25
+Baldwin Jr.,Sarr,6,WAS,2024-25
+Gill,Poole,40,WAS,2024-25
+Gill,McDaniels,4,WAS,2024-25
+Champagnie,McDaniels,4,WAS,2024-25
+McDaniels,Vukcevic,4,WAS,2024-25
+Carrington,McDaniels,6,WAS,2024-25
+Baldwin Jr.,Valančiūnas,9,WAS,2024-25
+Poole,Thor,11,WAS,2024-25
+Coulibaly,Gill,21,WAS,2024-25
+Baldwin Jr.,Carrington,7,WAS,2024-25
+Middleton,Vukcevic,3,WAS,2024-25
+Holmes,Vukcevic,16,WAS,2024-25
+Holmes,Martin,16,WAS,2024-25
+Coulibaly,Johnson,8,WAS,2024-25
+Bagley III,Valančiūnas,6,WAS,2024-25
+George,Martin,8,WAS,2024-25
+Bagley III,Kuzma,6,WAS,2024-25
+Kispert,Martin,4,WAS,2024-25
+Martin,Middleton,4,WAS,2024-25
+Holmes,McDaniels,2,WAS,2024-25
+Kispert,McDaniels,2,WAS,2024-25
+Coulibaly,McDaniels,2,WAS,2024-25
+Holmes,Sarr,1,WAS,2024-25
+Gill,Middleton,1,WAS,2024-25
+Jones,Middleton,3,WAS,2024-25
+Davis,Kuzma,0,WAS,2024-25
+Collins,Markkanen,609,UTA,2024-25
+Markkanen,Sexton,862,UTA,2024-25
+Kessler,Markkanen,937,UTA,2024-25
+George,Markkanen,734,UTA,2024-25
+Collins,Sexton,600,UTA,2024-25
+Collins,Kessler,583,UTA,2024-25
+Collins,George,695,UTA,2024-25
+Kessler,Sexton,949,UTA,2024-25
+George,Sexton,803,UTA,2024-25
+George,Kessler,978,UTA,2024-25
+Juzang,Martin,186,UTA,2024-25
+Martin,Sensabaugh,212,UTA,2024-25
+Collier,Martin,222,UTA,2024-25
+Filipowski,Martin,215,UTA,2024-25
+Juzang,Sensabaugh,470,UTA,2024-25
+Collier,Juzang,586,UTA,2024-25
+Filipowski,Juzang,514,UTA,2024-25
+Collier,Sensabaugh,689,UTA,2024-25
+Filipowski,Sensabaugh,628,UTA,2024-25
+Collier,Filipowski,760,UTA,2024-25
+Filipowski,Markkanen,259,UTA,2024-25
+Collins,Filipowski,270,UTA,2024-25
+Filipowski,Sexton,464,UTA,2024-25
+Filipowski,George,751,UTA,2024-25
+Juzang,Markkanen,260,UTA,2024-25
+Juzang,Sexton,382,UTA,2024-25
+Juzang,Kessler,360,UTA,2024-25
+George,Juzang,490,UTA,2024-25
+Markkanen,Williams,268,UTA,2024-25
+Collier,Markkanen,551,UTA,2024-25
+Sexton,Williams,320,UTA,2024-25
+Collier,Sexton,517,UTA,2024-25
+Kessler,Williams,414,UTA,2024-25
+Collier,Kessler,739,UTA,2024-25
+Collier,Williams,429,UTA,2024-25
+Clarkson,Markkanen,458,UTA,2024-25
+Clarkson,Collins,376,UTA,2024-25
+Clarkson,Kessler,391,UTA,2024-25
+Clarkson,George,389,UTA,2024-25
+Filipowski,Kessler,247,UTA,2024-25
+Filipowski,Williams,400,UTA,2024-25
+Collier,Collins,441,UTA,2024-25
+Clarkson,Collier,325,UTA,2024-25
+Juzang,Springer,63,UTA,2024-25
+George,Springer,136,UTA,2024-25
+Sensabaugh,Springer,68,UTA,2024-25
+Filipowski,Springer,104,UTA,2024-25
+George,Sensabaugh,611,UTA,2024-25
+Hendricks,Markkanen,53,UTA,2024-25
+Hendricks,Sexton,38,UTA,2024-25
+Hendricks,Kessler,54,UTA,2024-25
+George,Hendricks,59,UTA,2024-25
+Clarkson,Sexton,237,UTA,2024-25
+Collier,George,636,UTA,2024-25
+Collins,Mykhailiuk,126,UTA,2024-25
+Mykhailiuk,Sexton,221,UTA,2024-25
+Kessler,Mykhailiuk,215,UTA,2024-25
+George,Mykhailiuk,319,UTA,2024-25
+Sensabaugh,Sexton,420,UTA,2024-25
+George,Martin,195,UTA,2024-25
+George,Williams,450,UTA,2024-25
+Markkanen,Mykhailiuk,99,UTA,2024-25
+Collier,Mykhailiuk,250,UTA,2024-25
+Mykhailiuk,Potter,196,UTA,2024-25
+Mykhailiuk,Tshiebwe,107,UTA,2024-25
+Mykhailiuk,Sensabaugh,172,UTA,2024-25
+Potter,Tshiebwe,109,UTA,2024-25
+George,Potter,310,UTA,2024-25
+Potter,Sensabaugh,255,UTA,2024-25
+George,Tshiebwe,118,UTA,2024-25
+Sensabaugh,Tshiebwe,94,UTA,2024-25
+Clarkson,Williams,203,UTA,2024-25
+Clarkson,Filipowski,262,UTA,2024-25
+Collins,Juzang,239,UTA,2024-25
+Kessler,Sensabaugh,407,UTA,2024-25
+Sensabaugh,Williams,252,UTA,2024-25
+Markkanen,Sensabaugh,226,UTA,2024-25
+Eubanks,Juzang,175,UTA,2024-25
+Eubanks,Potter,112,UTA,2024-25
+Eubanks,Williams,174,UTA,2024-25
+Eubanks,Mills,141,UTA,2024-25
+Juzang,Potter,220,UTA,2024-25
+Juzang,Williams,150,UTA,2024-25
+Juzang,Mills,77,UTA,2024-25
+Potter,Williams,158,UTA,2024-25
+Mills,Potter,29,UTA,2024-25
+Mills,Williams,89,UTA,2024-25
+Eubanks,Markkanen,119,UTA,2024-25
+Collier,Eubanks,246,UTA,2024-25
+Clarkson,Eubanks,131,UTA,2024-25
+Eubanks,Sensabaugh,206,UTA,2024-25
+Collier,Potter,253,UTA,2024-25
+Martin,Springer,33,UTA,2024-25
+Martin,Williams,101,UTA,2024-25
+Springer,Williams,50,UTA,2024-25
+Potter,Sexton,213,UTA,2024-25
+Kessler,Potter,137,UTA,2024-25
+Collins,Sensabaugh,253,UTA,2024-25
+Clarkson,Juzang,204,UTA,2024-25
+Filipowski,Mykhailiuk,263,UTA,2024-25
+Filipowski,Potter,162,UTA,2024-25
+Kessler,Martin,115,UTA,2024-25
+Clarkson,Martin,66,UTA,2024-25
+Collins,Eubanks,151,UTA,2024-25
+Eubanks,George,147,UTA,2024-25
+Eubanks,Mykhailiuk,114,UTA,2024-25
+Mills,Mykhailiuk,56,UTA,2024-25
+Eubanks,Filipowski,116,UTA,2024-25
+Mills,Sensabaugh,70,UTA,2024-25
+Filipowski,Mills,82,UTA,2024-25
+Collins,Williams,148,UTA,2024-25
+Mykhailiuk,Springer,59,UTA,2024-25
+Sexton,Springer,41,UTA,2024-25
+Potter,Springer,67,UTA,2024-25
+Clarkson,Sensabaugh,230,UTA,2024-25
+Markkanen,Mills,52,UTA,2024-25
+Collins,Mills,110,UTA,2024-25
+Clarkson,Mills,55,UTA,2024-25
+Juzang,Mykhailiuk,157,UTA,2024-25
+Springer,Tshiebwe,54,UTA,2024-25
+Tshiebwe,Williams,54,UTA,2024-25
+Clarkson,Mykhailiuk,67,UTA,2024-25
+Martin,Sexton,67,UTA,2024-25
+Eubanks,Sexton,168,UTA,2024-25
+Clarkson,Potter,92,UTA,2024-25
+Markkanen,Martin,23,UTA,2024-25
+Mykhailiuk,Williams,116,UTA,2024-25
+Markkanen,Potter,85,UTA,2024-25
+Martin,Mykhailiuk,59,UTA,2024-25
+Martin,Tshiebwe,33,UTA,2024-25
+Collins,Hendricks,14,UTA,2024-25
+Hendricks,Mills,13,UTA,2024-25
+Clarkson,Hendricks,30,UTA,2024-25
+Harkless,Markkanen,20,UTA,2024-25
+Harkless,Kessler,27,UTA,2024-25
+George,Harkless,44,UTA,2024-25
+Collier,Harkless,61,UTA,2024-25
+Mills,Sexton,51,UTA,2024-25
+Sexton,Tshiebwe,57,UTA,2024-25
+Collier,Tshiebwe,72,UTA,2024-25
+Harkless,Sexton,26,UTA,2024-25
+Collins,Harkless,8,UTA,2024-25
+Harkless,Mykhailiuk,40,UTA,2024-25
+Eubanks,Harkless,52,UTA,2024-25
+Filipowski,Harkless,38,UTA,2024-25
+Collier,Springer,40,UTA,2024-25
+Markkanen,Springer,13,UTA,2024-25
+Clarkson,Tshiebwe,15,UTA,2024-25
+Juzang,Tshiebwe,64,UTA,2024-25
+Collier,Mills,27,UTA,2024-25
+Harkless,Potter,29,UTA,2024-25
+Harkless,Williams,21,UTA,2024-25
+Harkless,Mills,18,UTA,2024-25
+Harkless,Sensabaugh,29,UTA,2024-25
+Collins,Springer,5,UTA,2024-25
+Filipowski,Tshiebwe,37,UTA,2024-25
+Collins,Martin,8,UTA,2024-25
+Collins,Potter,40,UTA,2024-25
+Hendricks,Williams,11,UTA,2024-25
+Kessler,Mills,23,UTA,2024-25
+Kessler,Springer,12,UTA,2024-25
+Clarkson,Springer,11,UTA,2024-25
+Martin,Potter,13,UTA,2024-25
+George,Mills,19,UTA,2024-25
+Harkless,Tshiebwe,10,UTA,2024-25
+Hendricks,Sensabaugh,12,UTA,2024-25
+Filipowski,Hendricks,4,UTA,2024-25
+Clarkson,Harkless,6,UTA,2024-25
+Harkless,Juzang,3,UTA,2024-25
+Barrett,Poeltl,983,TOR,2024-25
+Agbaji,Poeltl,812,TOR,2024-25
+Mitchell,Poeltl,653,TOR,2024-25
+Dick,Poeltl,905,TOR,2024-25
+Agbaji,Barrett,757,TOR,2024-25
+Barrett,Mitchell,648,TOR,2024-25
+Barrett,Dick,922,TOR,2024-25
+Agbaji,Mitchell,548,TOR,2024-25
+Agbaji,Dick,856,TOR,2024-25
+Dick,Mitchell,588,TOR,2024-25
+Barnes,Poeltl,866,TOR,2024-25
+Barnes,Barrett,893,TOR,2024-25
+Barnes,Mitchell,437,TOR,2024-25
+Barnes,Dick,777,TOR,2024-25
+Poeltl,Quickley,393,TOR,2024-25
+Barrett,Quickley,358,TOR,2024-25
+Barnes,Quickley,702,TOR,2024-25
+Dick,Quickley,371,TOR,2024-25
+Poeltl,Walter,276,TOR,2024-25
+Barrett,Walter,330,TOR,2024-25
+Agbaji,Barnes,741,TOR,2024-25
+Agbaji,Walter,379,TOR,2024-25
+Barnes,Walter,520,TOR,2024-25
+Agbaji,Quickley,235,TOR,2024-25
+Mogbo,Quickley,206,TOR,2024-25
+Agbaji,Mogbo,486,TOR,2024-25
+Barnes,Mogbo,469,TOR,2024-25
+Dick,Mogbo,334,TOR,2024-25
+Barrett,Mogbo,403,TOR,2024-25
+Barrett,Robinson,244,TOR,2024-25
+Quickley,Robinson,157,TOR,2024-25
+Barnes,Robinson,293,TOR,2024-25
+Dick,Robinson,105,TOR,2024-25
+Barrett,Shead,472,TOR,2024-25
+Barnes,Shead,559,TOR,2024-25
+Robinson,Walter,240,TOR,2024-25
+Robinson,Shead,346,TOR,2024-25
+Shead,Walter,419,TOR,2024-25
+Boucher,Poeltl,200,TOR,2024-25
+Agbaji,Boucher,226,TOR,2024-25
+Boucher,Mitchell,255,TOR,2024-25
+Boucher,Dick,227,TOR,2024-25
+Battle,Poeltl,181,TOR,2024-25
+Quickley,Walter,238,TOR,2024-25
+Battle,Quickley,137,TOR,2024-25
+Barnes,Battle,378,TOR,2024-25
+Battle,Walter,194,TOR,2024-25
+Boucher,Brown,96,TOR,2024-25
+Barnes,Boucher,346,TOR,2024-25
+Boucher,Shead,357,TOR,2024-25
+Boucher,Olynyk,139,TOR,2024-25
+Barnes,Brown,192,TOR,2024-25
+Brown,Shead,156,TOR,2024-25
+Brown,Olynyk,114,TOR,2024-25
+Barnes,Olynyk,240,TOR,2024-25
+Olynyk,Shead,131,TOR,2024-25
+Boucher,Mogbo,222,TOR,2024-25
+Battle,Boucher,206,TOR,2024-25
+Mitchell,Mogbo,227,TOR,2024-25
+Battle,Mitchell,140,TOR,2024-25
+Battle,Mogbo,439,TOR,2024-25
+Poeltl,Shead,275,TOR,2024-25
+Barrett,Boucher,316,TOR,2024-25
+Dick,Shead,366,TOR,2024-25
+Agbaji,Shead,495,TOR,2024-25
+Agbaji,Battle,260,TOR,2024-25
+Mogbo,Shead,501,TOR,2024-25
+Battle,Shead,424,TOR,2024-25
+Mogbo,Robinson,163,TOR,2024-25
+Battle,Robinson,211,TOR,2024-25
+Mogbo,Walter,399,TOR,2024-25
+Barrett,Battle,186,TOR,2024-25
+Mogbo,Poeltl,166,TOR,2024-25
+Dick,Walter,203,TOR,2024-25
+Battle,Dick,80,TOR,2024-25
+Boucher,Fernando,77,TOR,2024-25
+Barnes,Fernando,36,TOR,2024-25
+Fernando,Shead,69,TOR,2024-25
+Battle,Fernando,60,TOR,2024-25
+Barrett,Olynyk,83,TOR,2024-25
+Agbaji,Olynyk,106,TOR,2024-25
+Dick,Olynyk,131,TOR,2024-25
+Boucher,Quickley,106,TOR,2024-25
+Boucher,Walter,173,TOR,2024-25
+Barrett,Castleton,42,TOR,2024-25
+Agbaji,Castleton,52,TOR,2024-25
+Barnes,Castleton,108,TOR,2024-25
+Castleton,Shead,123,TOR,2024-25
+Mitchell,Walter,128,TOR,2024-25
+Olynyk,Walter,145,TOR,2024-25
+Battle,Olynyk,38,TOR,2024-25
+Castleton,Quickley,59,TOR,2024-25
+Castleton,Mogbo,48,TOR,2024-25
+Battle,Castleton,152,TOR,2024-25
+Boucher,Robinson,67,TOR,2024-25
+Lawson,Quickley,79,TOR,2024-25
+Quickley,Temple,29,TOR,2024-25
+Barnes,Lawson,151,TOR,2024-25
+Barnes,Temple,57,TOR,2024-25
+Castleton,Lawson,133,TOR,2024-25
+Lawson,Temple,94,TOR,2024-25
+Castleton,Temple,54,TOR,2024-25
+Brown,Quickley,38,TOR,2024-25
+Brown,Walter,63,TOR,2024-25
+Olynyk,Quickley,55,TOR,2024-25
+Brown,Poeltl,133,TOR,2024-25
+Barrett,Brown,116,TOR,2024-25
+Agbaji,Robinson,145,TOR,2024-25
+Agbaji,Brown,101,TOR,2024-25
+Lawson,Robinson,195,TOR,2024-25
+Lawson,Rhoden,132,TOR,2024-25
+Lawson,Shead,186,TOR,2024-25
+Castleton,Robinson,72,TOR,2024-25
+Castleton,Rhoden,77,TOR,2024-25
+Rhoden,Robinson,116,TOR,2024-25
+Rhoden,Shead,71,TOR,2024-25
+Brown,Mitchell,87,TOR,2024-25
+Battle,Lawson,198,TOR,2024-25
+Battle,Rhoden,82,TOR,2024-25
+Lawson,Swider,81,TOR,2024-25
+Lawson,Mogbo,135,TOR,2024-25
+Robinson,Swider,58,TOR,2024-25
+Shead,Swider,30,TOR,2024-25
+Mogbo,Swider,88,TOR,2024-25
+Rhoden,Swider,46,TOR,2024-25
+Mogbo,Rhoden,43,TOR,2024-25
+Battle,Swider,74,TOR,2024-25
+Robinson,Temple,86,TOR,2024-25
+Shead,Temple,98,TOR,2024-25
+Battle,Temple,100,TOR,2024-25
+Mitchell,Olynyk,98,TOR,2024-25
+Mogbo,Olynyk,34,TOR,2024-25
+Quickley,Rhoden,40,TOR,2024-25
+Barnes,Rhoden,50,TOR,2024-25
+Lawson,Poeltl,66,TOR,2024-25
+Poeltl,Rhoden,37,TOR,2024-25
+Poeltl,Swider,25,TOR,2024-25
+Quickley,Swider,29,TOR,2024-25
+Barrett,Lawson,59,TOR,2024-25
+Barnes,Swider,42,TOR,2024-25
+Brown,Robinson,33,TOR,2024-25
+Agbaji,Swider,31,TOR,2024-25
+Mitchell,Quickley,20,TOR,2024-25
+Castleton,Poeltl,32,TOR,2024-25
+Agbaji,Pöltl,38,TOR,2024-25
+Mitchell,Pöltl,32,TOR,2024-25
+Dick,Pöltl,41,TOR,2024-25
+Pöltl,Walter,10,TOR,2024-25
+Brown,Dick,50,TOR,2024-25
+Quickley,Shead,58,TOR,2024-25
+Barrett,Fernando,47,TOR,2024-25
+Agbaji,Fernando,59,TOR,2024-25
+Mogbo,Temple,63,TOR,2024-25
+Lawson,Walter,51,TOR,2024-25
+Mitchell,Robinson,22,TOR,2024-25
+Swider,Walter,17,TOR,2024-25
+Temple,Walter,35,TOR,2024-25
+Agbaji,Lawson,64,TOR,2024-25
+Fernando,Mitchell,36,TOR,2024-25
+Dick,Fernando,47,TOR,2024-25
+Fernando,Mogbo,19,TOR,2024-25
+Fernando,Temple,10,TOR,2024-25
+Brown,Mogbo,14,TOR,2024-25
+Barrett,Rhoden,39,TOR,2024-25
+Boucher,Pöltl,29,TOR,2024-25
+Battle,Pöltl,39,TOR,2024-25
+Agbaji,Rhoden,8,TOR,2024-25
+Agbaji,Temple,27,TOR,2024-25
+Pöltl,Shead,43,TOR,2024-25
+Mogbo,Pöltl,25,TOR,2024-25
+Boucher,Carton,10,TOR,2024-25
+Barnes,Carton,13,TOR,2024-25
+Carton,Mogbo,19,TOR,2024-25
+Battle,Carton,9,TOR,2024-25
+Castleton,Walter,8,TOR,2024-25
+Barrett,Pöltl,20,TOR,2024-25
+Chomche,Lawson,9,TOR,2024-25
+Chomche,Mogbo,13,TOR,2024-25
+Battle,Chomche,17,TOR,2024-25
+Chomche,Temple,9,TOR,2024-25
+Poeltl,Temple,18,TOR,2024-25
+Fernando,Quickley,9,TOR,2024-25
+Rhoden,Temple,31,TOR,2024-25
+Chomche,Mitchell,4,TOR,2024-25
+Mitchell,Temple,13,TOR,2024-25
+Battle,Brown,15,TOR,2024-25
+Rhoden,Walter,8,TOR,2024-25
+Barnes,Pöltl,7,TOR,2024-25
+Mitchell,Shead,17,TOR,2024-25
+Chomche,Walter,12,TOR,2024-25
+Boucher,Chomche,4,TOR,2024-25
+Chomche,Quickley,11,TOR,2024-25
+Barnes,Chomche,11,TOR,2024-25
+Barrett,Swider,11,TOR,2024-25
+Boucher,Temple,12,TOR,2024-25
+Olynyk,Temple,10,TOR,2024-25
+Poeltl,Robinson,7,TOR,2024-25
+Pöltl,Quickley,14,TOR,2024-25
+Fernando,Walter,15,TOR,2024-25
+Carton,Pöltl,10,TOR,2024-25
+Agbaji,Carton,10,TOR,2024-25
+Carton,Shead,9,TOR,2024-25
+Dick,Lawson,3,TOR,2024-25
+Barrett,Temple,6,TOR,2024-25
+Barrett,Carton,5,TOR,2024-25
+Carton,Walter,5,TOR,2024-25
+Chomche,Dick,3,TOR,2024-25
+Chomche,Shead,3,TOR,2024-25
+Dick,Temple,12,TOR,2024-25
+Carton,Mitchell,7,TOR,2024-25
+Carton,Dick,3,TOR,2024-25
+Swider,Temple,4,TOR,2024-25
+Champagnie,Paul,959,SAS,2024-25
+Paul,Wembanyama,1153,SAS,2024-25
+Castle,Paul,1103,SAS,2024-25
+Barnes,Paul,1625,SAS,2024-25
+Champagnie,Wembanyama,762,SAS,2024-25
+Castle,Champagnie,1003,SAS,2024-25
+Barnes,Champagnie,835,SAS,2024-25
+Castle,Wembanyama,778,SAS,2024-25
+Barnes,Wembanyama,956,SAS,2024-25
+Barnes,Castle,1211,SAS,2024-25
+Paul,Vassell,1302,SAS,2024-25
+Vassell,Wembanyama,717,SAS,2024-25
+Castle,Vassell,1031,SAS,2024-25
+Barnes,Vassell,1175,SAS,2024-25
+Biyombo,Paul,410,SAS,2024-25
+Biyombo,Vassell,386,SAS,2024-25
+Biyombo,Castle,266,SAS,2024-25
+Barnes,Biyombo,388,SAS,2024-25
+Paul,Sochan,786,SAS,2024-25
+Sochan,Vassell,767,SAS,2024-25
+Sochan,Wembanyama,482,SAS,2024-25
+Barnes,Sochan,715,SAS,2024-25
+Fox,Paul,325,SAS,2024-25
+Fox,Vassell,368,SAS,2024-25
+Biyombo,Fox,182,SAS,2024-25
+Barnes,Fox,373,SAS,2024-25
+Champagnie,Sochan,606,SAS,2024-25
+Castle,Sochan,597,SAS,2024-25
+Johnson,Jones,367,SAS,2024-25
+Champagnie,Johnson,1046,SAS,2024-25
+Johnson,Wembanyama,556,SAS,2024-25
+Castle,Johnson,1008,SAS,2024-25
+Champagnie,Jones,298,SAS,2024-25
+Jones,Wembanyama,227,SAS,2024-25
+Castle,Jones,200,SAS,2024-25
+Fox,Wembanyama,121,SAS,2024-25
+Fox,Johnson,213,SAS,2024-25
+Champagnie,Fox,170,SAS,2024-25
+Fox,Sochan,230,SAS,2024-25
+Castle,Fox,236,SAS,2024-25
+Johnson,Sochan,669,SAS,2024-25
+Johnson,Mamukelashvili,290,SAS,2024-25
+Johnson,Wesley,347,SAS,2024-25
+Champagnie,Mamukelashvili,395,SAS,2024-25
+Mamukelashvili,Wesley,373,SAS,2024-25
+Castle,Mamukelashvili,302,SAS,2024-25
+Champagnie,Wesley,398,SAS,2024-25
+Castle,Wesley,237,SAS,2024-25
+Johnson,Vassell,836,SAS,2024-25
+Champagnie,Vassell,531,SAS,2024-25
+Johnson,Paul,680,SAS,2024-25
+Collins,Paul,151,SAS,2024-25
+Champagnie,Collins,209,SAS,2024-25
+Castle,Collins,235,SAS,2024-25
+Barnes,Collins,208,SAS,2024-25
+Biyombo,Champagnie,141,SAS,2024-25
+Vassell,Wesley,158,SAS,2024-25
+Sochan,Wesley,139,SAS,2024-25
+Jones,Paul,75,SAS,2024-25
+Mamukelashvili,Paul,217,SAS,2024-25
+Paul,Wesley,135,SAS,2024-25
+Mamukelashvili,Wembanyama,138,SAS,2024-25
+Wembanyama,Wesley,115,SAS,2024-25
+Barnes,Johnson,578,SAS,2024-25
+Bassey,Mamukelashvili,60,SAS,2024-25
+Bassey,Branham,75,SAS,2024-25
+Bassey,Wesley,78,SAS,2024-25
+Bassey,Cissoko,38,SAS,2024-25
+Branham,Mamukelashvili,205,SAS,2024-25
+Cissoko,Mamukelashvili,45,SAS,2024-25
+Branham,Wesley,197,SAS,2024-25
+Branham,Cissoko,43,SAS,2024-25
+Cissoko,Wesley,46,SAS,2024-25
+Collins,Johnson,267,SAS,2024-25
+Collins,Vassell,147,SAS,2024-25
+Mamukelashvili,Vassell,132,SAS,2024-25
+Jones,Sochan,98,SAS,2024-25
+Barnes,Jones,167,SAS,2024-25
+Collins,Jones,84,SAS,2024-25
+Jones,Vassell,135,SAS,2024-25
+Bassey,Paul,134,SAS,2024-25
+Bassey,Johnson,179,SAS,2024-25
+Bassey,Castle,195,SAS,2024-25
+Barnes,Bassey,156,SAS,2024-25
+Branham,Johnson,162,SAS,2024-25
+Branham,Champagnie,164,SAS,2024-25
+Branham,Wembanyama,102,SAS,2024-25
+Branham,Castle,174,SAS,2024-25
+Bassey,Vassell,171,SAS,2024-25
+Bassey,Jones,89,SAS,2024-25
+Bassey,Champagnie,171,SAS,2024-25
+Branham,Collins,111,SAS,2024-25
+Mamukelashvili,McLaughlin,86,SAS,2024-25
+Branham,McLaughlin,93,SAS,2024-25
+McLaughlin,Wesley,94,SAS,2024-25
+Biyombo,McLaughlin,41,SAS,2024-25
+Biyombo,Mamukelashvili,40,SAS,2024-25
+Biyombo,Branham,35,SAS,2024-25
+Biyombo,Wesley,80,SAS,2024-25
+Barnes,Mamukelashvili,202,SAS,2024-25
+Barnes,Wesley,159,SAS,2024-25
+Collins,Sochan,119,SAS,2024-25
+Biyombo,Johnson,116,SAS,2024-25
+Castle,McLaughlin,38,SAS,2024-25
+Bassey,Sochan,87,SAS,2024-25
+Collins,Wesley,105,SAS,2024-25
+Fox,Mamukelashvili,60,SAS,2024-25
+Collins,Mamukelashvili,39,SAS,2024-25
+Cissoko,Collins,13,SAS,2024-25
+Branham,Paul,77,SAS,2024-25
+Barnes,Branham,108,SAS,2024-25
+Mamukelashvili,Sochan,87,SAS,2024-25
+Duke Jr.,McLaughlin,17,SAS,2024-25
+Ingram,McLaughlin,19,SAS,2024-25
+Branham,Duke Jr.,19,SAS,2024-25
+Duke Jr.,Wesley,22,SAS,2024-25
+Duke Jr.,Ingram,26,SAS,2024-25
+Branham,Ingram,22,SAS,2024-25
+Ingram,Wesley,24,SAS,2024-25
+Johnson,McLaughlin,10,SAS,2024-25
+Champagnie,McLaughlin,39,SAS,2024-25
+Branham,Vassell,33,SAS,2024-25
+Bassey,Duke Jr.,11,SAS,2024-25
+Bassey,Ingram,7,SAS,2024-25
+Bassey,Minix,7,SAS,2024-25
+Cissoko,Duke Jr.,8,SAS,2024-25
+Duke Jr.,Minix,7,SAS,2024-25
+Cissoko,Ingram,7,SAS,2024-25
+Ingram,Minix,7,SAS,2024-25
+Cissoko,Minix,7,SAS,2024-25
+Ingram,Mamukelashvili,17,SAS,2024-25
+Barnes,McLaughlin,24,SAS,2024-25
+Branham,Sochan,39,SAS,2024-25
+Branham,Jones,21,SAS,2024-25
+Bassey,McLaughlin,13,SAS,2024-25
+Bassey,Collins,8,SAS,2024-25
+Jones,Wesley,16,SAS,2024-25
+Biyombo,Sochan,27,SAS,2024-25
+Bassey,Fox,9,SAS,2024-25
+McLaughlin,Paul,12,SAS,2024-25
+Duke Jr.,Mamukelashvili,13,SAS,2024-25
+Fox,Wesley,13,SAS,2024-25
+McLaughlin,Vassell,6,SAS,2024-25
+Jones,Mamukelashvili,15,SAS,2024-25
+Castle,Duke Jr.,3,SAS,2024-25
+Castle,Ingram,4,SAS,2024-25
+Castle,Cissoko,7,SAS,2024-25
+Duke Jr.,Vassell,2,SAS,2024-25
+Ingram,Vassell,2,SAS,2024-25
+Champagnie,Ingram,1,SAS,2024-25
+Cissoko,Vassell,1,SAS,2024-25
+Cissoko,Wembanyama,1,SAS,2024-25
+Fox,Sabonis,1124,SAC,2024-25
+Monk,Sabonis,1509,SAC,2024-25
+Murray,Sabonis,1728,SAC,2024-25
+DeRozan,Sabonis,1964,SAC,2024-25
+Fox,Monk,809,SAC,2024-25
+Fox,Murray,1245,SAC,2024-25
+DeRozan,Fox,1117,SAC,2024-25
+Monk,Murray,1392,SAC,2024-25
+DeRozan,Monk,1513,SAC,2024-25
+DeRozan,Murray,1950,SAC,2024-25
+Ellis,Sabonis,1211,SAC,2024-25
+LaVine,Sabonis,640,SAC,2024-25
+Ellis,Murray,1066,SAC,2024-25
+LaVine,Murray,802,SAC,2024-25
+DeRozan,Ellis,1291,SAC,2024-25
+Ellis,LaVine,667,SAC,2024-25
+DeRozan,LaVine,875,SAC,2024-25
+Ellis,Monk,829,SAC,2024-25
+LaVine,Monk,482,SAC,2024-25
+Huerter,Sabonis,545,SAC,2024-25
+Fox,Huerter,573,SAC,2024-25
+Huerter,Murray,563,SAC,2024-25
+DeRozan,Huerter,468,SAC,2024-25
+Murray,Valančiūnas,282,SAC,2024-25
+Ellis,Valančiūnas,304,SAC,2024-25
+DeRozan,Valančiūnas,347,SAC,2024-25
+LaVine,Valančiūnas,377,SAC,2024-25
+Lyles,Sabonis,505,SAC,2024-25
+Ellis,Lyles,722,SAC,2024-25
+DeRozan,Lyles,733,SAC,2024-25
+LaVine,Lyles,344,SAC,2024-25
+Ellis,Fox,522,SAC,2024-25
+Monk,Valančiūnas,248,SAC,2024-25
+Lyles,Monk,558,SAC,2024-25
+Huerter,Lyles,345,SAC,2024-25
+Huerter,Monk,295,SAC,2024-25
+Ellis,Huerter,319,SAC,2024-25
+Fox,Lyles,508,SAC,2024-25
+Lyles,Murray,513,SAC,2024-25
+Lyles,McDermott,154,SAC,2024-25
+Fox,McDermott,177,SAC,2024-25
+McDermott,Murray,105,SAC,2024-25
+Ellis,McDermott,120,SAC,2024-25
+LaRavia,Lyles,185,SAC,2024-25
+Lyles,Valančiūnas,165,SAC,2024-25
+LaRavia,Monk,130,SAC,2024-25
+Ellis,LaRavia,210,SAC,2024-25
+LaRavia,Valančiūnas,168,SAC,2024-25
+LaRavia,Murray,128,SAC,2024-25
+DeRozan,LaRavia,188,SAC,2024-25
+LaRavia,LaVine,224,SAC,2024-25
+Len,Lyles,113,SAC,2024-25
+Fox,Len,181,SAC,2024-25
+Ellis,Len,86,SAC,2024-25
+DeRozan,Len,135,SAC,2024-25
+Huerter,McDermott,70,SAC,2024-25
+Fox,Jones,176,SAC,2024-25
+Crowder,Fox,80,SAC,2024-25
+Huerter,Jones,138,SAC,2024-25
+Crowder,Huerter,34,SAC,2024-25
+Jones,Murray,145,SAC,2024-25
+Crowder,Murray,72,SAC,2024-25
+Crowder,Jones,58,SAC,2024-25
+Huerter,Len,106,SAC,2024-25
+McDermott,Sabonis,113,SAC,2024-25
+McDermott,Monk,62,SAC,2024-25
+DeRozan,McDermott,93,SAC,2024-25
+Len,Monk,56,SAC,2024-25
+Len,Murray,112,SAC,2024-25
+Carter,Lyles,234,SAC,2024-25
+Carter,Huerter,53,SAC,2024-25
+Carter,Murray,164,SAC,2024-25
+Carter,DeRozan,202,SAC,2024-25
+Carter,Fox,56,SAC,2024-25
+Crowder,Sabonis,38,SAC,2024-25
+Crowder,Ellis,39,SAC,2024-25
+Ellis,Jones,153,SAC,2024-25
+Jones,Sabonis,102,SAC,2024-25
+Jones,Monk,125,SAC,2024-25
+Carter,Ellis,83,SAC,2024-25
+Carter,LaRavia,71,SAC,2024-25
+Fultz,Lyles,90,SAC,2024-25
+Fultz,Monk,52,SAC,2024-25
+Fultz,Valančiūnas,73,SAC,2024-25
+Fultz,LaVine,76,SAC,2024-25
+Jones,Lyles,109,SAC,2024-25
+Jones,McLaughlin,101,SAC,2024-25
+Len,McLaughlin,57,SAC,2024-25
+McDermott,McLaughlin,71,SAC,2024-25
+Jones,Jones,93,SAC,2024-25
+Jones,Len,55,SAC,2024-25
+Jones,McDermott,121,SAC,2024-25
+Len,McDermott,63,SAC,2024-25
+Carter,Valančiūnas,100,SAC,2024-25
+Carter,LaVine,121,SAC,2024-25
+Crowder,Monk,29,SAC,2024-25
+Carter,Sabonis,94,SAC,2024-25
+Carter,Monk,105,SAC,2024-25
+LaRavia,Sabonis,35,SAC,2024-25
+DeRozan,Jones,91,SAC,2024-25
+Lyles,McLaughlin,73,SAC,2024-25
+McLaughlin,Sabonis,53,SAC,2024-25
+Ellis,McLaughlin,82,SAC,2024-25
+DeRozan,McLaughlin,32,SAC,2024-25
+Len,Sabonis,9,SAC,2024-25
+Fox,Robinson,29,SAC,2024-25
+Huerter,Robinson,34,SAC,2024-25
+Murray,Robinson,29,SAC,2024-25
+Ellis,Robinson,29,SAC,2024-25
+Fox,McLaughlin,63,SAC,2024-25
+Huerter,McLaughlin,66,SAC,2024-25
+McLaughlin,Murray,75,SAC,2024-25
+Carter,Len,32,SAC,2024-25
+Fultz,LaRavia,75,SAC,2024-25
+McLaughlin,Robinson,31,SAC,2024-25
+Carter,McLaughlin,22,SAC,2024-25
+Carter,Robinson,7,SAC,2024-25
+Len,Robinson,7,SAC,2024-25
+McDermott,Robinson,15,SAC,2024-25
+Carter,McDermott,55,SAC,2024-25
+Ellis,Fultz,28,SAC,2024-25
+Crowder,Lyles,10,SAC,2024-25
+Fultz,Jones,68,SAC,2024-25
+Crowder,Fultz,10,SAC,2024-25
+Fultz,McDermott,44,SAC,2024-25
+Crowder,McDermott,8,SAC,2024-25
+Fultz,Murray,45,SAC,2024-25
+Carter,Fultz,35,SAC,2024-25
+Jones,LaVine,27,SAC,2024-25
+Carter,Jones,98,SAC,2024-25
+LaVine,McDermott,22,SAC,2024-25
+Fultz,Labissiere,10,SAC,2024-25
+Jones,Labissiere,20,SAC,2024-25
+Crawford,Labissiere,8,SAC,2024-25
+Crawford,Fultz,30,SAC,2024-25
+Crawford,Jones,59,SAC,2024-25
+DeRozan,Fultz,51,SAC,2024-25
+Jones,Robinson,37,SAC,2024-25
+Fultz,Sabonis,22,SAC,2024-25
+Carter,Crawford,23,SAC,2024-25
+Davis,Fultz,8,SAC,2024-25
+Davis,Jones,8,SAC,2024-25
+Davis,Valančiūnas,5,SAC,2024-25
+Davis,McDermott,8,SAC,2024-25
+Jones,Valančiūnas,24,SAC,2024-25
+McDermott,Valančiūnas,29,SAC,2024-25
+LaRavia,Labissiere,4,SAC,2024-25
+Labissiere,McDermott,4,SAC,2024-25
+Jones,LaRavia,13,SAC,2024-25
+LaRavia,McDermott,12,SAC,2024-25
+Crowder,Len,5,SAC,2024-25
+Crawford,McDermott,20,SAC,2024-25
+Sabonis,Valančiūnas,12,SAC,2024-25
+Carter,Davis,3,SAC,2024-25
+Crawford,Lyles,5,SAC,2024-25
+McLaughlin,Monk,17,SAC,2024-25
+Crawford,LaRavia,5,SAC,2024-25
+Crowder,McLaughlin,8,SAC,2024-25
+Crawford,McLaughlin,9,SAC,2024-25
+Crawford,Ellis,3,SAC,2024-25
+Crawford,Len,9,SAC,2024-25
+Crawford,Huerter,3,SAC,2024-25
+Crowder,DeRozan,5,SAC,2024-25
+Fultz,Taylor,7,SAC,2024-25
+Jones,Taylor,10,SAC,2024-25
+Crawford,Taylor,7,SAC,2024-25
+Lyles,Robinson,10,SAC,2024-25
+Crowder,Valančiūnas,2,SAC,2024-25
+Crawford,Crowder,2,SAC,2024-25
+Carter,Crowder,2,SAC,2024-25
+Crowder,Robinson,2,SAC,2024-25
+LaVine,Len,2,SAC,2024-25
+Carter,Labissiere,2,SAC,2024-25
+McDermott,Taylor,2,SAC,2024-25
+Carter,Taylor,2,SAC,2024-25
+DeRozan,Robinson,1,SAC,2024-25
+Crawford,LaVine,1,SAC,2024-25
+Monk,Robinson,1,SAC,2024-25
+Crawford,Monk,0,SAC,2024-25
+Crawford,Murray,0,SAC,2024-25
+Crawford,DeRozan,0,SAC,2024-25
+Labissiere,Lyles,0,SAC,2024-25
+Ellis,Labissiere,0,SAC,2024-25
+Labissiere,Valančiūnas,0,SAC,2024-25
+LaVine,Labissiere,0,SAC,2024-25
+Ayton,Simons,893,POR,2024-25
+Avdija,Simons,1404,POR,2024-25
+Camara,Simons,1562,POR,2024-25
+Grant,Simons,1012,POR,2024-25
+Avdija,Ayton,762,POR,2024-25
+Ayton,Camara,973,POR,2024-25
+Ayton,Grant,684,POR,2024-25
+Avdija,Camara,1453,POR,2024-25
+Avdija,Grant,779,POR,2024-25
+Camara,Grant,1098,POR,2024-25
+Sharpe,Simons,1196,POR,2024-25
+Clingan,Simons,710,POR,2024-25
+Avdija,Sharpe,1158,POR,2024-25
+Avdija,Clingan,741,POR,2024-25
+Camara,Sharpe,1536,POR,2024-25
+Clingan,Sharpe,776,POR,2024-25
+Camara,Clingan,778,POR,2024-25
+Ayton,Sharpe,643,POR,2024-25
+Grant,Sharpe,742,POR,2024-25
+Avdija,Henderson,851,POR,2024-25
+Henderson,Sharpe,892,POR,2024-25
+Camara,Henderson,1113,POR,2024-25
+Clingan,Henderson,562,POR,2024-25
+Ayton,Henderson,555,POR,2024-25
+Clingan,Grant,399,POR,2024-25
+Henderson,Simons,800,POR,2024-25
+Grant,Henderson,626,POR,2024-25
+Avdija,Reath,190,POR,2024-25
+Henderson,Reath,220,POR,2024-25
+Reath,Sharpe,233,POR,2024-25
+Camara,Reath,207,POR,2024-25
+Banton,Walker,349,POR,2024-25
+Banton,Murray,400,POR,2024-25
+Banton,Rupert,256,POR,2024-25
+Banton,Reath,178,POR,2024-25
+Murray,Walker,368,POR,2024-25
+Rupert,Walker,271,POR,2024-25
+Reath,Walker,148,POR,2024-25
+Murray,Rupert,287,POR,2024-25
+Murray,Reath,206,POR,2024-25
+Reath,Rupert,104,POR,2024-25
+Murray,Simons,392,POR,2024-25
+Avdija,Murray,290,POR,2024-25
+Murray,Sharpe,422,POR,2024-25
+Clingan,Murray,418,POR,2024-25
+Avdija,Banton,458,POR,2024-25
+Banton,Sharpe,575,POR,2024-25
+Banton,Camara,439,POR,2024-25
+Banton,Clingan,385,POR,2024-25
+Henderson,Murray,461,POR,2024-25
+Camara,Murray,342,POR,2024-25
+Banton,Thybulle,179,POR,2024-25
+Murray,Thybulle,120,POR,2024-25
+Camara,Thybulle,136,POR,2024-25
+Clingan,Thybulle,152,POR,2024-25
+Clingan,Walker,134,POR,2024-25
+Clingan,Rupert,153,POR,2024-25
+Simons,Williams III,193,POR,2024-25
+Avdija,Williams III,186,POR,2024-25
+Camara,Williams III,197,POR,2024-25
+Grant,Williams III,187,POR,2024-25
+Simons,Walker,279,POR,2024-25
+Henderson,Walker,282,POR,2024-25
+Sharpe,Walker,364,POR,2024-25
+Camara,Walker,228,POR,2024-25
+Ayton,Murray,110,POR,2024-25
+Henderson,Williams III,178,POR,2024-25
+Sharpe,Williams III,191,POR,2024-25
+Sharpe,Thybulle,159,POR,2024-25
+Banton,Simons,391,POR,2024-25
+Reath,Simons,184,POR,2024-25
+Grant,Walker,134,POR,2024-25
+Grant,Murray,132,POR,2024-25
+Minaya,Sharpe,22,POR,2024-25
+Rupert,Sharpe,96,POR,2024-25
+Minaya,Walker,68,POR,2024-25
+Minaya,Murray,70,POR,2024-25
+Minaya,Rupert,85,POR,2024-25
+Banton,Grant,209,POR,2024-25
+Banton,Williams III,138,POR,2024-25
+Avdija,Thybulle,123,POR,2024-25
+Clingan,Williams III,31,POR,2024-25
+Banton,Minaya,43,POR,2024-25
+Ayton,Banton,127,POR,2024-25
+Banton,Henderson,288,POR,2024-25
+Henderson,Rupert,112,POR,2024-25
+Grant,Rupert,47,POR,2024-25
+Camara,Rupert,106,POR,2024-25
+McGowens,Walker,18,POR,2024-25
+McGowens,Murray,28,POR,2024-25
+McGowens,Rupert,27,POR,2024-25
+McGowens,Reath,19,POR,2024-25
+Grant,Reath,39,POR,2024-25
+Avdija,Walker,157,POR,2024-25
+Thybulle,Walker,65,POR,2024-25
+Rupert,Thybulle,39,POR,2024-25
+Avdija,Rupert,83,POR,2024-25
+Cissoko,Walker,37,POR,2024-25
+Cissoko,Murray,27,POR,2024-25
+Cissoko,Minaya,29,POR,2024-25
+Cissoko,Rupert,45,POR,2024-25
+Walker,Williams III,16,POR,2024-25
+Murray,Williams III,63,POR,2024-25
+Banton,Cissoko,31,POR,2024-25
+Simons,Thybulle,80,POR,2024-25
+Henderson,Thybulle,60,POR,2024-25
+Reath,Thybulle,95,POR,2024-25
+Rupert,Williams III,18,POR,2024-25
+Ayton,Walker,32,POR,2024-25
+Rupert,Simons,40,POR,2024-25
+Ayton,Rupert,27,POR,2024-25
+Moore,Walker,18,POR,2024-25
+Moore,Murray,12,POR,2024-25
+Moore,Rupert,20,POR,2024-25
+Moore,Reath,9,POR,2024-25
+Cissoko,Thybulle,23,POR,2024-25
+Clingan,Moore,6,POR,2024-25
+Ayton,Williams III,6,POR,2024-25
+Banton,McGowens,11,POR,2024-25
+McGowens,Minaya,12,POR,2024-25
+Minaya,Reath,17,POR,2024-25
+Clingan,Minaya,16,POR,2024-25
+Cissoko,Clingan,14,POR,2024-25
+Camara,Cissoko,14,POR,2024-25
+Henderson,McGowens,3,POR,2024-25
+Clingan,McGowens,3,POR,2024-25
+Banton,Moore,3,POR,2024-25
+Minaya,Moore,6,POR,2024-25
+Minaya,Thybulle,9,POR,2024-25
+Cissoko,Reath,9,POR,2024-25
+Camara,Minaya,8,POR,2024-25
+Avdija,Minaya,3,POR,2024-25
+Clingan,Reath,2,POR,2024-25
+Avdija,Moore,2,POR,2024-25
+Moore,Sharpe,2,POR,2024-25
+Camara,Moore,2,POR,2024-25
+Cissoko,McGowens,2,POR,2024-25
+Cissoko,Henderson,1,POR,2024-25
+McGowens,Sharpe,1,POR,2024-25
+Booker,Jones,1577,PHX,2024-25
+Durant,Jones,1259,PHX,2024-25
+Beal,Jones,733,PHX,2024-25
+Jones,Nurkić,450,PHX,2024-25
+Booker,Durant,1533,PHX,2024-25
+Beal,Booker,1139,PHX,2024-25
+Booker,Nurkić,391,PHX,2024-25
+Beal,Durant,1040,PHX,2024-25
+Durant,Nurkić,423,PHX,2024-25
+Beal,Nurkić,307,PHX,2024-25
+Dunn,Jones,720,PHX,2024-25
+Jones,Plumlee,684,PHX,2024-25
+Booker,Dunn,1021,PHX,2024-25
+Booker,Plumlee,845,PHX,2024-25
+Dunn,Durant,683,PHX,2024-25
+Dunn,Plumlee,455,PHX,2024-25
+Durant,Plumlee,666,PHX,2024-25
+Booker,Richards,717,PHX,2024-25
+Booker,Gillespie,298,PHX,2024-25
+Gillespie,Richards,176,PHX,2024-25
+Dunn,Richards,302,PHX,2024-25
+Durant,Richards,557,PHX,2024-25
+Dunn,Gillespie,255,PHX,2024-25
+Durant,Gillespie,217,PHX,2024-25
+Jones,Richards,416,PHX,2024-25
+Jones,O'Neale,1025,PHX,2024-25
+Booker,O'Neale,1214,PHX,2024-25
+Durant,O'Neale,980,PHX,2024-25
+Nurkić,O'Neale,282,PHX,2024-25
+Bol,Booker,258,PHX,2024-25
+Bol,Richards,172,PHX,2024-25
+Bol,Durant,240,PHX,2024-25
+Beal,Bol,135,PHX,2024-25
+Beal,Richards,294,PHX,2024-25
+Bol,Jones,195,PHX,2024-25
+Allen,Jones,650,PHX,2024-25
+Allen,Booker,983,PHX,2024-25
+Allen,O'Neale,651,PHX,2024-25
+O'Neale,Plumlee,584,PHX,2024-25
+Allen,Plumlee,636,PHX,2024-25
+Beal,O'Neale,723,PHX,2024-25
+Beal,Plumlee,592,PHX,2024-25
+Allen,Durant,700,PHX,2024-25
+Allen,Beal,701,PHX,2024-25
+O'Neale,Richards,318,PHX,2024-25
+Ighodaro,Jones,531,PHX,2024-25
+Booker,Ighodaro,675,PHX,2024-25
+Ighodaro,O'Neale,448,PHX,2024-25
+Beal,Ighodaro,348,PHX,2024-25
+Allen,Dunn,384,PHX,2024-25
+Allen,Richards,223,PHX,2024-25
+Jones,Martin,153,PHX,2024-25
+Booker,Martin,96,PHX,2024-25
+Martin,O'Neale,95,PHX,2024-25
+Ighodaro,Martin,137,PHX,2024-25
+Beal,Dunn,453,PHX,2024-25
+Dunn,O'Neale,331,PHX,2024-25
+Dunn,Nurkić,185,PHX,2024-25
+Dunn,Ighodaro,408,PHX,2024-25
+Durant,Ighodaro,388,PHX,2024-25
+Durant,Martin,57,PHX,2024-25
+Allen,Ighodaro,403,PHX,2024-25
+Gillespie,Ighodaro,173,PHX,2024-25
+Bol,O'Neale,99,PHX,2024-25
+Booker,Morris,205,PHX,2024-25
+Booker,Okogie,169,PHX,2024-25
+Allen,Morris,273,PHX,2024-25
+Morris,Okogie,167,PHX,2024-25
+Ighodaro,Morris,234,PHX,2024-25
+Allen,Okogie,124,PHX,2024-25
+Ighodaro,Okogie,169,PHX,2024-25
+Morris,O'Neale,241,PHX,2024-25
+Jones,Okogie,145,PHX,2024-25
+Dunn,Okogie,101,PHX,2024-25
+Nurkić,Okogie,67,PHX,2024-25
+Gillespie,O'Neale,146,PHX,2024-25
+Allen,Gillespie,125,PHX,2024-25
+Durant,Morris,170,PHX,2024-25
+Beal,Morris,168,PHX,2024-25
+Morris,Nurkić,90,PHX,2024-25
+Allen,Nurkić,142,PHX,2024-25
+Allen,Martin,68,PHX,2024-25
+Allen,Bol,79,PHX,2024-25
+Bol,Plumlee,125,PHX,2024-25
+Bol,Lee,94,PHX,2024-25
+Lee,Washington Jr.,42,PHX,2024-25
+Bridges,Lee,30,PHX,2024-25
+Ighodaro,Lee,76,PHX,2024-25
+Bol,Washington Jr.,65,PHX,2024-25
+Bol,Bridges,22,PHX,2024-25
+Bol,Ighodaro,76,PHX,2024-25
+Bridges,Washington Jr.,16,PHX,2024-25
+Ighodaro,Washington Jr.,44,PHX,2024-25
+Bridges,Ighodaro,30,PHX,2024-25
+Martin,Richards,46,PHX,2024-25
+Gillespie,Martin,63,PHX,2024-25
+Beal,Martin,15,PHX,2024-25
+Gillespie,Jones,65,PHX,2024-25
+Gillespie,Plumlee,107,PHX,2024-25
+Dunn,Morris,207,PHX,2024-25
+Lee,Morris,90,PHX,2024-25
+Gillespie,Lee,46,PHX,2024-25
+Bol,Morris,95,PHX,2024-25
+Gillespie,Morris,30,PHX,2024-25
+Bol,Gillespie,48,PHX,2024-25
+Lee,Plumlee,54,PHX,2024-25
+Lee,Micić,22,PHX,2024-25
+Morris,Plumlee,217,PHX,2024-25
+Micić,Morris,18,PHX,2024-25
+Bol,Micić,20,PHX,2024-25
+Micić,Plumlee,12,PHX,2024-25
+O'Neale,Okogie,105,PHX,2024-25
+Beal,Okogie,109,PHX,2024-25
+Beal,Gillespie,43,PHX,2024-25
+Durant,Okogie,87,PHX,2024-25
+Okogie,Plumlee,108,PHX,2024-25
+Ighodaro,Plumlee,28,PHX,2024-25
+Bol,Dunn,39,PHX,2024-25
+Nurkić,Plumlee,10,PHX,2024-25
+Bridges,Gillespie,10,PHX,2024-25
+Booker,Lee,17,PHX,2024-25
+Dunn,Martin,31,PHX,2024-25
+Lee,O'Neale,26,PHX,2024-25
+Morris,Washington Jr.,27,PHX,2024-25
+Micić,Washington Jr.,6,PHX,2024-25
+Lee,Martin,11,PHX,2024-25
+Martin,Morris,13,PHX,2024-25
+Martin,Plumlee,18,PHX,2024-25
+Gillespie,Washington Jr.,30,PHX,2024-25
+Allen,Lee,6,PHX,2024-25
+Lee,Okogie,18,PHX,2024-25
+Dunn,Lee,23,PHX,2024-25
+Bridges,Okogie,6,PHX,2024-25
+Bridges,Dunn,5,PHX,2024-25
+O'Neale,Washington Jr.,40,PHX,2024-25
+Allen,Washington Jr.,20,PHX,2024-25
+Plumlee,Washington Jr.,35,PHX,2024-25
+Jones,Washington Jr.,32,PHX,2024-25
+Durant,Washington Jr.,28,PHX,2024-25
+Morris,Richards,6,PHX,2024-25
+Jones,Morris,24,PHX,2024-25
+Booker,Washington Jr.,22,PHX,2024-25
+Ighodaro,Nurkić,20,PHX,2024-25
+Richards,Washington Jr.,22,PHX,2024-25
+Bol,Okogie,16,PHX,2024-25
+Okogie,Washington Jr.,17,PHX,2024-25
+Dunn,Washington Jr.,23,PHX,2024-25
+Durant,Lee,12,PHX,2024-25
+Lee,Nurkić,7,PHX,2024-25
+Jones,Lee,9,PHX,2024-25
+Ighodaro,Richards,2,PHX,2024-25
+Bol,Martin,2,PHX,2024-25
+Martin,Micić,2,PHX,2024-25
+Gillespie,Micić,4,PHX,2024-25
+Nurkić,Washington Jr.,2,PHX,2024-25
+Ighodaro,Micić,2,PHX,2024-25
+Dunn,Micić,2,PHX,2024-25
+Lee,Richards,1,PHX,2024-25
+Bridges,Morris,1,PHX,2024-25
+Martin,Washington Jr.,1,PHX,2024-25
+Plumlee,Richards,0,PHX,2024-25
+Oubre Jr.,Yabusele,996,PHI,2024-25
+Martin,Oubre Jr.,740,PHI,2024-25
+Maxey,Oubre Jr.,1412,PHI,2024-25
+George,Oubre Jr.,887,PHI,2024-25
+Martin,Yabusele,650,PHI,2024-25
+Maxey,Yabusele,1020,PHI,2024-25
+George,Yabusele,585,PHI,2024-25
+Martin,Maxey,900,PHI,2024-25
+George,Martin,572,PHI,2024-25
+George,Maxey,862,PHI,2024-25
+Edwards,Oubre Jr.,461,PHI,2024-25
+Gordon,Oubre Jr.,438,PHI,2024-25
+Edwards,Yabusele,542,PHI,2024-25
+Gordon,Yabusele,367,PHI,2024-25
+Edwards,Maxey,433,PHI,2024-25
+Gordon,Maxey,522,PHI,2024-25
+Edwards,Gordon,140,PHI,2024-25
+George,Gordon,212,PHI,2024-25
+Embiid,Oubre Jr.,365,PHI,2024-25
+Embiid,Martin,243,PHI,2024-25
+Embiid,Maxey,358,PHI,2024-25
+Embiid,George,380,PHI,2024-25
+Grimes,Walker IV,230,PHI,2024-25
+Butler,Walker IV,207,PHI,2024-25
+Bagley,Walker IV,126,PHI,2024-25
+Bona,Walker IV,227,PHI,2024-25
+Butler,Grimes,379,PHI,2024-25
+Bagley,Grimes,111,PHI,2024-25
+Bona,Grimes,241,PHI,2024-25
+Bagley,Butler,139,PHI,2024-25
+Bona,Butler,282,PHI,2024-25
+Bagley,Bona,142,PHI,2024-25
+Lowry,Oubre Jr.,306,PHI,2024-25
+Drummond,Oubre Jr.,506,PHI,2024-25
+Lowry,Martin,398,PHI,2024-25
+Drummond,Martin,361,PHI,2024-25
+Lowry,Maxey,268,PHI,2024-25
+Drummond,Maxey,409,PHI,2024-25
+Drummond,Lowry,155,PHI,2024-25
+Council IV,Oubre Jr.,345,PHI,2024-25
+Council IV,Yabusele,447,PHI,2024-25
+Council IV,Maxey,385,PHI,2024-25
+Council IV,Edwards,346,PHI,2024-25
+Edwards,George,189,PHI,2024-25
+Grimes,Oubre Jr.,293,PHI,2024-25
+Grimes,Maxey,195,PHI,2024-25
+George,Grimes,209,PHI,2024-25
+Embiid,Grimes,81,PHI,2024-25
+Edwards,Embiid,83,PHI,2024-25
+Drummond,Grimes,153,PHI,2024-25
+Drummond,George,274,PHI,2024-25
+Martin,McCain,412,PHI,2024-25
+Lowry,McCain,118,PHI,2024-25
+George,McCain,152,PHI,2024-25
+Embiid,McCain,109,PHI,2024-25
+George,Lowry,259,PHI,2024-25
+Embiid,Lowry,104,PHI,2024-25
+Gordon,Martin,298,PHI,2024-25
+Drummond,Gordon,187,PHI,2024-25
+Grimes,Yabusele,407,PHI,2024-25
+McCain,Oubre Jr.,296,PHI,2024-25
+McCain,Yabusele,272,PHI,2024-25
+Maxey,McCain,229,PHI,2024-25
+Embiid,Yabusele,170,PHI,2024-25
+Lowry,Yabusele,260,PHI,2024-25
+Butler,Yabusele,254,PHI,2024-25
+Council IV,Grimes,221,PHI,2024-25
+Edwards,Grimes,384,PHI,2024-25
+Butler,Council IV,266,PHI,2024-25
+Butler,Edwards,279,PHI,2024-25
+Bona,Yabusele,103,PHI,2024-25
+Bona,Edwards,311,PHI,2024-25
+Bona,Oubre Jr.,233,PHI,2024-25
+Bona,Maxey,200,PHI,2024-25
+Bona,Council IV,426,PHI,2024-25
+Bona,Gordon,94,PHI,2024-25
+Council IV,Gordon,141,PHI,2024-25
+Drummond,Yabusele,152,PHI,2024-25
+Drummond,McCain,149,PHI,2024-25
+Okeke,Yabusele,90,PHI,2024-25
+Dowtin Jr.,Yabusele,217,PHI,2024-25
+Grimes,Okeke,73,PHI,2024-25
+Dowtin Jr.,Okeke,55,PHI,2024-25
+Edwards,Okeke,108,PHI,2024-25
+Dowtin Jr.,Grimes,115,PHI,2024-25
+Dowtin Jr.,Edwards,197,PHI,2024-25
+Bona,George,82,PHI,2024-25
+Butler,Okeke,74,PHI,2024-25
+Butler,Dowtin Jr.,95,PHI,2024-25
+Butler,Reese,91,PHI,2024-25
+Bona,Dowtin Jr.,202,PHI,2024-25
+Council IV,Dowtin Jr.,280,PHI,2024-25
+Dowtin Jr.,Reese,69,PHI,2024-25
+Bona,Reese,61,PHI,2024-25
+Council IV,Reese,139,PHI,2024-25
+Butler,Oubre Jr.,83,PHI,2024-25
+Butler,George,37,PHI,2024-25
+Council IV,Walker IV,173,PHI,2024-25
+Bagley,Council IV,111,PHI,2024-25
+Edwards,Walker IV,132,PHI,2024-25
+Council IV,McCain,127,PHI,2024-25
+Butler,Drummond,41,PHI,2024-25
+Drummond,Edwards,111,PHI,2024-25
+Brissett,Grimes,66,PHI,2024-25
+Brissett,Butler,82,PHI,2024-25
+Brissett,Council IV,53,PHI,2024-25
+Brissett,Edwards,63,PHI,2024-25
+Walker IV,Yabusele,123,PHI,2024-25
+Council IV,Drummond,77,PHI,2024-25
+Council IV,Okeke,68,PHI,2024-25
+Council IV,Martin,185,PHI,2024-25
+Council IV,George,98,PHI,2024-25
+Gordon,Lowry,82,PHI,2024-25
+Dowtin Jr.,Nance,35,PHI,2024-25
+Bona,Nance,21,PHI,2024-25
+Council IV,Nance,39,PHI,2024-25
+Edwards,Nance,35,PHI,2024-25
+Jackson,Oubre Jr.,131,PHI,2024-25
+Bona,Lowry,82,PHI,2024-25
+Bona,Jackson,97,PHI,2024-25
+Council IV,Lowry,93,PHI,2024-25
+Council IV,Jackson,107,PHI,2024-25
+Jackson,Lowry,134,PHI,2024-25
+Jackson,Yabusele,150,PHI,2024-25
+Jackson,Martin,139,PHI,2024-25
+Jackson,McCain,80,PHI,2024-25
+Edwards,Lowry,66,PHI,2024-25
+Edwards,Jackson,82,PHI,2024-25
+Jackson,Maxey,85,PHI,2024-25
+Brissett,Yabusele,27,PHI,2024-25
+Oubre Jr.,Walker IV,52,PHI,2024-25
+Dowtin Jr.,Oubre Jr.,123,PHI,2024-25
+Dowtin Jr.,Maxey,44,PHI,2024-25
+Dowtin Jr.,Walker IV,68,PHI,2024-25
+Martin,Martin,100,PHI,2024-25
+Brissett,Okeke,44,PHI,2024-25
+Brissett,Dowtin Jr.,27,PHI,2024-25
+Brissett,Hood-Schifino,50,PHI,2024-25
+Brissett,Reese,39,PHI,2024-25
+Hood-Schifino,Okeke,60,PHI,2024-25
+Okeke,Reese,43,PHI,2024-25
+Dowtin Jr.,Hood-Schifino,60,PHI,2024-25
+Hood-Schifino,Reese,51,PHI,2024-25
+Grimes,Hood-Schifino,88,PHI,2024-25
+Butler,Hood-Schifino,54,PHI,2024-25
+Edwards,Hood-Schifino,74,PHI,2024-25
+Dowtin Jr.,McCain,45,PHI,2024-25
+Dowtin Jr.,Embiid,22,PHI,2024-25
+Bona,Martin,92,PHI,2024-25
+Gordon,Jackson,72,PHI,2024-25
+Gordon,McCain,69,PHI,2024-25
+Maxey,Nance,28,PHI,2024-25
+Dowtin Jr.,Gordon,71,PHI,2024-25
+Gordon,Nance,25,PHI,2024-25
+Grimes,Reese,62,PHI,2024-25
+Nance,Oubre Jr.,20,PHI,2024-25
+Bagley,Edwards,43,PHI,2024-25
+Council IV,Hood-Schifino,126,PHI,2024-25
+Edwards,Reese,38,PHI,2024-25
+Dowtin Jr.,Martin,40,PHI,2024-25
+Dowtin Jr.,Drummond,62,PHI,2024-25
+Drummond,Walker IV,33,PHI,2024-25
+Council IV,Embiid,48,PHI,2024-25
+Reese,Walker IV,36,PHI,2024-25
+Bagley,Dowtin Jr.,43,PHI,2024-25
+Bagley,Hood-Schifino,88,PHI,2024-25
+Bona,Hood-Schifino,67,PHI,2024-25
+Mobley,Walker IV,10,PHI,2024-25
+Hood-Schifino,Walker IV,84,PHI,2024-25
+Bagley,Mobley,15,PHI,2024-25
+Hood-Schifino,Mobley,15,PHI,2024-25
+Council IV,Mobley,14,PHI,2024-25
+George,Jackson,59,PHI,2024-25
+Embiid,Jackson,49,PHI,2024-25
+Reese,Yabusele,14,PHI,2024-25
+Dowtin Jr.,George,69,PHI,2024-25
+Castleton,Yabusele,15,PHI,2024-25
+Castleton,Grimes,32,PHI,2024-25
+Butler,Castleton,31,PHI,2024-25
+Castleton,Edwards,15,PHI,2024-25
+Bona,McCain,44,PHI,2024-25
+Butler,Embiid,23,PHI,2024-25
+Castleton,Walker IV,40,PHI,2024-25
+Castleton,Dowtin Jr.,40,PHI,2024-25
+Castleton,Council IV,41,PHI,2024-25
+Castleton,Reese,6,PHI,2024-25
+Bagley,Castleton,30,PHI,2024-25
+Castleton,Hood-Schifino,40,PHI,2024-25
+Bona,Castleton,19,PHI,2024-25
+Embiid,Gordon,29,PHI,2024-25
+Lowry,Walker IV,20,PHI,2024-25
+Castleton,Lowry,11,PHI,2024-25
+Hood-Schifino,Lowry,14,PHI,2024-25
+Bagley,Wheeler,20,PHI,2024-25
+Bagley,Reese,22,PHI,2024-25
+Hood-Schifino,Wheeler,14,PHI,2024-25
+Council IV,Wheeler,19,PHI,2024-25
+Reese,Wheeler,11,PHI,2024-25
+Drummond,Jackson,46,PHI,2024-25
+Bagley,Yabusele,27,PHI,2024-25
+Hood-Schifino,Yabusele,51,PHI,2024-25
+Bagley,Okeke,8,PHI,2024-25
+Wheeler,Yabusele,11,PHI,2024-25
+Walker IV,Wheeler,12,PHI,2024-25
+Edwards,Wheeler,22,PHI,2024-25
+Butler,Wheeler,15,PHI,2024-25
+Dowtin Jr.,Jackson,25,PHI,2024-25
+Dowtin Jr.,Quinones,5,PHI,2024-25
+Bona,Quinones,16,PHI,2024-25
+Council IV,Quinones,13,PHI,2024-25
+McCain,Quinones,11,PHI,2024-25
+Oubre Jr.,Reese,5,PHI,2024-25
+Brissett,Walker IV,5,PHI,2024-25
+Okeke,Walker IV,5,PHI,2024-25
+Roddy,Yabusele,10,PHI,2024-25
+Dowtin Jr.,Roddy,6,PHI,2024-25
+Council IV,Roddy,16,PHI,2024-25
+Drummond,Roddy,4,PHI,2024-25
+Roddy,Walker IV,6,PHI,2024-25
+Butler,Roddy,6,PHI,2024-25
+Bona,Roddy,4,PHI,2024-25
+Edwards,Martin,7,PHI,2024-25
+Gordon,Grimes,17,PHI,2024-25
+George,Walker IV,14,PHI,2024-25
+Grimes,Lowry,35,PHI,2024-25
+Butler,Lowry,12,PHI,2024-25
+Grimes,Wheeler,6,PHI,2024-25
+Bona,Wheeler,8,PHI,2024-25
+Bagley,Lowry,11,PHI,2024-25
+Grimes,Roddy,6,PHI,2024-25
+Maxey,Roddy,3,PHI,2024-25
+Oubre Jr.,Roddy,3,PHI,2024-25
+Dowtin Jr.,Lowry,3,PHI,2024-25
+Maxey,Walker IV,13,PHI,2024-25
+Edwards,Quinones,8,PHI,2024-25
+Jackson,Quinones,3,PHI,2024-25
+Edwards,McCain,3,PHI,2024-25
+Oubre Jr.,Quinones,5,PHI,2024-25
+Martin,Quinones,3,PHI,2024-25
+Jackson,Nance,5,PHI,2024-25
+Lowry,Reese,9,PHI,2024-25
+Grimes,Mobley,8,PHI,2024-25
+Bona,Brissett,8,PHI,2024-25
+Butler,Maxey,6,PHI,2024-25
+Butler,Mobley,4,PHI,2024-25
+Dowtin Jr.,Wheeler,2,PHI,2024-25
+Bona,Okeke,4,PHI,2024-25
+Bona,Mobley,2,PHI,2024-25
+Carter Jr.,Wagner,959,ORL,2024-25
+Banchero,Carter Jr.,1049,ORL,2024-25
+Carter Jr.,Joseph,388,ORL,2024-25
+Caldwell-Pope,Carter Jr.,1246,ORL,2024-25
+Banchero,Wagner,1009,ORL,2024-25
+Joseph,Wagner,324,ORL,2024-25
+Caldwell-Pope,Wagner,1498,ORL,2024-25
+Banchero,Joseph,386,ORL,2024-25
+Banchero,Caldwell-Pope,1107,ORL,2024-25
+Caldwell-Pope,Joseph,340,ORL,2024-25
+Anthony,Carter Jr.,533,ORL,2024-25
+Anthony,Wagner,648,ORL,2024-25
+Anthony,Banchero,528,ORL,2024-25
+Anthony,Caldwell-Pope,642,ORL,2024-25
+Bitadze,Wagner,794,ORL,2024-25
+Bitadze,Suggs,509,ORL,2024-25
+Bitadze,da Silva,807,ORL,2024-25
+Bitadze,Caldwell-Pope,941,ORL,2024-25
+Suggs,Wagner,754,ORL,2024-25
+Wagner,da Silva,767,ORL,2024-25
+Suggs,da Silva,484,ORL,2024-25
+Caldwell-Pope,Suggs,726,ORL,2024-25
+Caldwell-Pope,da Silva,849,ORL,2024-25
+Bitadze,Carter Jr.,217,ORL,2024-25
+Carter Jr.,Suggs,396,ORL,2024-25
+Carter Jr.,da Silva,519,ORL,2024-25
+Banchero,Suggs,137,ORL,2024-25
+Anthony,Bitadze,371,ORL,2024-25
+Bitadze,Houstan,286,ORL,2024-25
+Anthony,Houstan,276,ORL,2024-25
+Anthony,da Silva,438,ORL,2024-25
+Houstan,da Silva,361,ORL,2024-25
+Caldwell-Pope,Houstan,217,ORL,2024-25
+Black,Carter Jr.,566,ORL,2024-25
+Black,Wagner,1280,ORL,2024-25
+Banchero,Black,593,ORL,2024-25
+Black,Caldwell-Pope,682,ORL,2024-25
+Banchero,Bitadze,314,ORL,2024-25
+Bitadze,Black,589,ORL,2024-25
+Isaac,Wagner,746,ORL,2024-25
+Isaac,Suggs,184,ORL,2024-25
+Black,Isaac,753,ORL,2024-25
+Harris,Isaac,269,ORL,2024-25
+Harris,Wagner,413,ORL,2024-25
+Black,Suggs,313,ORL,2024-25
+Harris,Suggs,148,ORL,2024-25
+Black,Harris,420,ORL,2024-25
+Black,da Silva,735,ORL,2024-25
+Banchero,da Silva,291,ORL,2024-25
+Bitadze,Queen,112,ORL,2024-25
+Queen,Suggs,59,ORL,2024-25
+Queen,da Silva,184,ORL,2024-25
+Caldwell-Pope,Queen,115,ORL,2024-25
+Houstan,Queen,178,ORL,2024-25
+Black,Queen,201,ORL,2024-25
+Howard,Queen,137,ORL,2024-25
+Black,Houstan,423,ORL,2024-25
+Houstan,Howard,214,ORL,2024-25
+Black,Howard,377,ORL,2024-25
+Howard,da Silva,267,ORL,2024-25
+Bitadze,Isaac,216,ORL,2024-25
+Isaac,da Silva,326,ORL,2024-25
+Anthony,Howard,219,ORL,2024-25
+Anthony,Joseph,74,ORL,2024-25
+Houstan,Joseph,175,ORL,2024-25
+Howard,Joseph,120,ORL,2024-25
+Joseph,da Silva,125,ORL,2024-25
+Howard,Isaac,257,ORL,2024-25
+Howard,Wagner,358,ORL,2024-25
+Howard,Suggs,87,ORL,2024-25
+Carter Jr.,Harris,229,ORL,2024-25
+Anthony,Harris,185,ORL,2024-25
+Banchero,Harris,256,ORL,2024-25
+Caldwell-Pope,Harris,153,ORL,2024-25
+Caldwell-Pope,Isaac,293,ORL,2024-25
+Wagner,Wagner,234,ORL,2024-25
+Isaac,Queen,151,ORL,2024-25
+Banchero,Isaac,191,ORL,2024-25
+Houstan,Isaac,177,ORL,2024-25
+Banchero,Queen,71,ORL,2024-25
+Banchero,Houstan,197,ORL,2024-25
+Carter Jr.,Houstan,214,ORL,2024-25
+Bitadze,Harris,202,ORL,2024-25
+Harris,da Silva,198,ORL,2024-25
+Anthony,Isaac,293,ORL,2024-25
+Anthony,Black,386,ORL,2024-25
+Bitadze,Joseph,68,ORL,2024-25
+Bitadze,Howard,156,ORL,2024-25
+Carter Jr.,Isaac,239,ORL,2024-25
+Isaac,Joseph,109,ORL,2024-25
+Carter Jr.,Queen,139,ORL,2024-25
+Carter Jr.,Howard,186,ORL,2024-25
+Joseph,Queen,111,ORL,2024-25
+Houstan,Wagner,178,ORL,2024-25
+Houstan,Suggs,50,ORL,2024-25
+Harris,Houstan,112,ORL,2024-25
+Anthony,Queen,125,ORL,2024-25
+Banchero,Howard,95,ORL,2024-25
+Caldwell-Pope,Howard,131,ORL,2024-25
+Harris,Joseph,55,ORL,2024-25
+Harris,Howard,70,ORL,2024-25
+Black,Joseph,77,ORL,2024-25
+Anthony,Suggs,78,ORL,2024-25
+Queen,Wagner,20,ORL,2024-25
+Houstan,McClung,10,ORL,2024-25
+Black,McClung,5,ORL,2024-25
+Howard,McClung,10,ORL,2024-25
+McClung,da Silva,5,ORL,2024-25
+Harris,Queen,18,ORL,2024-25
+Joseph,Suggs,7,ORL,2024-25
+McClung,Queen,3,ORL,2024-25
+Joseph,McClung,5,ORL,2024-25
+Bitadze,McClung,2,ORL,2024-25
+Gilgeous-Alexander,Hartenstein,1112,OKC,2024-25
+Dort,Hartenstein,955,OKC,2024-25
+Hartenstein,Williams,1500,OKC,2024-25
+Hartenstein,Wallace,793,OKC,2024-25
+Dort,Gilgeous-Alexander,1824,OKC,2024-25
+Gilgeous-Alexander,Williams,2493,OKC,2024-25
+Gilgeous-Alexander,Wallace,1323,OKC,2024-25
+Dort,Williams,2043,OKC,2024-25
+Dort,Wallace,1036,OKC,2024-25
+Wallace,Williams,1803,OKC,2024-25
+Hartenstein,Holmgren,315,OKC,2024-25
+Gilgeous-Alexander,Holmgren,624,OKC,2024-25
+Dort,Holmgren,538,OKC,2024-25
+Holmgren,Williams,735,OKC,2024-25
+Holmgren,Wallace,346,OKC,2024-25
+Hartenstein,Wiggins,550,OKC,2024-25
+Gilgeous-Alexander,Wiggins,895,OKC,2024-25
+Dort,Wiggins,613,OKC,2024-25
+Wiggins,Williams,1809,OKC,2024-25
+Hartenstein,Joe,496,OKC,2024-25
+Gilgeous-Alexander,Joe,926,OKC,2024-25
+Dort,Joe,642,OKC,2024-25
+Joe,Williams,1607,OKC,2024-25
+Joe,Wallace,539,OKC,2024-25
+Holmgren,Joe,287,OKC,2024-25
+Wallace,Wiggins,619,OKC,2024-25
+Joe,Wiggins,645,OKC,2024-25
+Williams,Williams,836,OKC,2024-25
+Caruso,Gilgeous-Alexander,557,OKC,2024-25
+Caruso,Dort,288,OKC,2024-25
+Caruso,Williams,918,OKC,2024-25
+Caruso,Wallace,435,OKC,2024-25
+Caruso,Wiggins,457,OKC,2024-25
+Caruso,Holmgren,219,OKC,2024-25
+Holmgren,Wiggins,287,OKC,2024-25
+Joe,Mitchell,165,OKC,2024-25
+Mitchell,Wiggins,283,OKC,2024-25
+Holmgren,Mitchell,64,OKC,2024-25
+Mitchell,Williams,527,OKC,2024-25
+Caruso,Joe,406,OKC,2024-25
+Caruso,Hartenstein,313,OKC,2024-25
+Dieng,Williams,314,OKC,2024-25
+Dieng,Joe,139,OKC,2024-25
+Dieng,Wiggins,202,OKC,2024-25
+Flagler,Williams,169,OKC,2024-25
+Jones,Williams,476,OKC,2024-25
+Carlson,Williams,173,OKC,2024-25
+Ducas,Williams,121,OKC,2024-25
+Flagler,Jones,150,OKC,2024-25
+Carlson,Flagler,114,OKC,2024-25
+Ducas,Flagler,86,OKC,2024-25
+Carlson,Jones,130,OKC,2024-25
+Ducas,Jones,83,OKC,2024-25
+Carlson,Ducas,67,OKC,2024-25
+Flagler,Joe,53,OKC,2024-25
+Joe,Jones,262,OKC,2024-25
+Carlson,Joe,100,OKC,2024-25
+Caruso,Mitchell,146,OKC,2024-25
+Hartenstein,Mitchell,187,OKC,2024-25
+Caruso,Dieng,141,OKC,2024-25
+Dieng,Wallace,138,OKC,2024-25
+Caruso,Jones,121,OKC,2024-25
+Gilgeous-Alexander,Jones,153,OKC,2024-25
+Jones,Wiggins,238,OKC,2024-25
+Holmgren,Jones,31,OKC,2024-25
+Dort,Mitchell,148,OKC,2024-25
+Mitchell,Wallace,227,OKC,2024-25
+Gilgeous-Alexander,Mitchell,189,OKC,2024-25
+Dieng,Gilgeous-Alexander,106,OKC,2024-25
+Dieng,Mitchell,116,OKC,2024-25
+Dieng,Dort,62,OKC,2024-25
+Dieng,Hartenstein,67,OKC,2024-25
+Carlson,Wiggins,122,OKC,2024-25
+Dieng,Flagler,54,OKC,2024-25
+Dieng,Jones,109,OKC,2024-25
+Dieng,Ducas,41,OKC,2024-25
+Jones,Wallace,112,OKC,2024-25
+Dort,Jones,55,OKC,2024-25
+Flagler,Wiggins,78,OKC,2024-25
+Flagler,Mitchell,35,OKC,2024-25
+Carlson,Mitchell,42,OKC,2024-25
+Jones,Mitchell,117,OKC,2024-25
+Dieng,Leons,21,OKC,2024-25
+Flagler,Leons,8,OKC,2024-25
+Jones,Leons,21,OKC,2024-25
+Leons,Mitchell,21,OKC,2024-25
+Leons,Wiggins,7,OKC,2024-25
+Ducas,Wiggins,51,OKC,2024-25
+Carlson,Dieng,40,OKC,2024-25
+Flagler,Holmgren,11,OKC,2024-25
+Carlson,Holmgren,8,OKC,2024-25
+Carlson,Wallace,41,OKC,2024-25
+Carlson,Caruso,39,OKC,2024-25
+Carlson,Gilgeous-Alexander,37,OKC,2024-25
+Hartenstein,Jones,44,OKC,2024-25
+Ducas,Mitchell,19,OKC,2024-25
+Joe,Leons,6,OKC,2024-25
+Caruso,Flagler,16,OKC,2024-25
+Flagler,Gilgeous-Alexander,12,OKC,2024-25
+Dort,Flagler,8,OKC,2024-25
+Dieng,Holmgren,10,OKC,2024-25
+Ducas,Joe,15,OKC,2024-25
+Ducas,Wallace,4,OKC,2024-25
+Flagler,Wallace,8,OKC,2024-25
+Carlson,Dort,15,OKC,2024-25
+Flagler,Reese,2,OKC,2024-25
+Jones,Reese,2,OKC,2024-25
+Mitchell,Reese,2,OKC,2024-25
+Ducas,Reese,2,OKC,2024-25
+Ducas,Gilgeous-Alexander,1,OKC,2024-25
+Dort,Ducas,1,OKC,2024-25
+Ducas,Holmgren,1,OKC,2024-25
+Anunoby,Towns,1797,NYK,2024-25
+Hart,Towns,2016,NYK,2024-25
+Bridges,Towns,2024,NYK,2024-25
+Brunson,Towns,1462,NYK,2024-25
+Anunoby,Hart,2094,NYK,2024-25
+Anunoby,Bridges,2184,NYK,2024-25
+Anunoby,Brunson,1796,NYK,2024-25
+Bridges,Hart,2349,NYK,2024-25
+Brunson,Hart,1856,NYK,2024-25
+Bridges,Brunson,1996,NYK,2024-25
+McBride,Towns,880,NYK,2024-25
+Anunoby,McBride,842,NYK,2024-25
+Hart,McBride,893,NYK,2024-25
+Bridges,McBride,1003,NYK,2024-25
+Achiuwa,Anunoby,480,NYK,2024-25
+Achiuwa,Hart,625,NYK,2024-25
+Achiuwa,Bridges,780,NYK,2024-25
+Achiuwa,Brunson,623,NYK,2024-25
+Anunoby,Sims,282,NYK,2024-25
+Hart,Sims,227,NYK,2024-25
+Bridges,Sims,305,NYK,2024-25
+Brunson,Sims,305,NYK,2024-25
+Achiuwa,Towns,481,NYK,2024-25
+Payne,Towns,694,NYK,2024-25
+Anunoby,Payne,528,NYK,2024-25
+Hart,Payne,597,NYK,2024-25
+Bridges,Payne,581,NYK,2024-25
+Brunson,McBride,693,NYK,2024-25
+McBride,Payne,553,NYK,2024-25
+Towns,Wright,108,NYK,2024-25
+Anunoby,Wright,137,NYK,2024-25
+Hart,Wright,149,NYK,2024-25
+Bridges,Wright,144,NYK,2024-25
+Achiuwa,McBride,573,NYK,2024-25
+McBride,Sims,200,NYK,2024-25
+Anunoby,Robinson,204,NYK,2024-25
+Hart,Robinson,184,NYK,2024-25
+Bridges,Robinson,219,NYK,2024-25
+Brunson,Robinson,93,NYK,2024-25
+Achiuwa,Payne,388,NYK,2024-25
+Shamet,Towns,343,NYK,2024-25
+Payne,Shamet,392,NYK,2024-25
+Achiuwa,Shamet,405,NYK,2024-25
+McBride,Shamet,312,NYK,2024-25
+Brunson,Payne,117,NYK,2024-25
+Hart,Shamet,330,NYK,2024-25
+Robinson,Wright,50,NYK,2024-25
+Anunoby,Hukporti,65,NYK,2024-25
+Hart,Hukporti,83,NYK,2024-25
+Bridges,Hukporti,100,NYK,2024-25
+Brunson,Hukporti,100,NYK,2024-25
+Payne,Sims,121,NYK,2024-25
+Bridges,Shamet,269,NYK,2024-25
+Anunoby,Shamet,282,NYK,2024-25
+Robinson,Shamet,139,NYK,2024-25
+McBride,Robinson,113,NYK,2024-25
+Kolek,Towns,123,NYK,2024-25
+Anunoby,Kolek,91,NYK,2024-25
+Kolek,Shamet,136,NYK,2024-25
+Achiuwa,Kolek,96,NYK,2024-25
+Payne,Tucker,33,NYK,2024-25
+Shamet,Tucker,36,NYK,2024-25
+Achiuwa,Tucker,34,NYK,2024-25
+McBride,Tucker,36,NYK,2024-25
+Achiuwa,Hukporti,47,NYK,2024-25
+Hukporti,McBride,96,NYK,2024-25
+Brunson,Shamet,116,NYK,2024-25
+Hart,Kolek,130,NYK,2024-25
+Bridges,Kolek,120,NYK,2024-25
+Kolek,McBride,51,NYK,2024-25
+Kolek,Payne,54,NYK,2024-25
+Shamet,Wright,110,NYK,2024-25
+Achiuwa,Wright,52,NYK,2024-25
+Robinson,Towns,46,NYK,2024-25
+Payne,Robinson,63,NYK,2024-25
+Bridges,Tucker,18,NYK,2024-25
+Brunson,Tucker,14,NYK,2024-25
+Hukporti,Ryan,36,NYK,2024-25
+Ryan,Sims,39,NYK,2024-25
+Ryan,Toppin,25,NYK,2024-25
+Kolek,Ryan,41,NYK,2024-25
+Hukporti,Sims,35,NYK,2024-25
+Hukporti,Toppin,34,NYK,2024-25
+Hukporti,Kolek,55,NYK,2024-25
+Sims,Toppin,28,NYK,2024-25
+Kolek,Sims,57,NYK,2024-25
+Kolek,Toppin,41,NYK,2024-25
+Dadiet,Towns,23,NYK,2024-25
+Dadiet,Payne,58,NYK,2024-25
+Dadiet,Hart,25,NYK,2024-25
+Bridges,Dadiet,26,NYK,2024-25
+Anunoby,Dadiet,15,NYK,2024-25
+Brunson,Dadiet,16,NYK,2024-25
+Dadiet,Hukporti,53,NYK,2024-25
+Hukporti,Payne,85,NYK,2024-25
+Dadiet,Sims,38,NYK,2024-25
+Dadiet,Kolek,61,NYK,2024-25
+Dadiet,Ryan,17,NYK,2024-25
+Beauchamp,Shamet,13,NYK,2024-25
+Shamet,Watson,16,NYK,2024-25
+Achiuwa,Beauchamp,8,NYK,2024-25
+Achiuwa,Watson,8,NYK,2024-25
+Beauchamp,Watson,13,NYK,2024-25
+Beauchamp,Kolek,14,NYK,2024-25
+Kolek,Watson,21,NYK,2024-25
+Payne,Toppin,11,NYK,2024-25
+Hukporti,Shamet,50,NYK,2024-25
+Shamet,Toppin,19,NYK,2024-25
+McBride,Toppin,16,NYK,2024-25
+Dadiet,Toppin,15,NYK,2024-25
+Payne,Wright,33,NYK,2024-25
+Tucker,Wright,24,NYK,2024-25
+Towns,Tucker,9,NYK,2024-25
+McCullar Jr.,Wright,22,NYK,2024-25
+McCullar Jr.,Payne,17,NYK,2024-25
+McCullar Jr.,Shamet,21,NYK,2024-25
+Achiuwa,McCullar Jr.,19,NYK,2024-25
+Sims,Towns,9,NYK,2024-25
+Ryan,Shamet,14,NYK,2024-25
+Shamet,Sims,16,NYK,2024-25
+Ryan,Towns,13,NYK,2024-25
+Payne,Ryan,25,NYK,2024-25
+Hart,Ryan,9,NYK,2024-25
+McBride,Ryan,27,NYK,2024-25
+Beauchamp,Wright,7,NYK,2024-25
+Watson,Wright,11,NYK,2024-25
+Kolek,Wright,29,NYK,2024-25
+Anunoby,Ryan,7,NYK,2024-25
+Achiuwa,Robinson,17,NYK,2024-25
+Kolek,Robinson,24,NYK,2024-25
+Achiuwa,Sims,22,NYK,2024-25
+Achiuwa,Dadiet,12,NYK,2024-25
+Dadiet,McBride,35,NYK,2024-25
+McBride,McCullar Jr.,8,NYK,2024-25
+Hukporti,Wright,12,NYK,2024-25
+Dadiet,Wright,20,NYK,2024-25
+Dadiet,Shamet,25,NYK,2024-25
+Kolek,Tucker,14,NYK,2024-25
+Dadiet,Tucker,6,NYK,2024-25
+Ryan,Wright,4,NYK,2024-25
+Hukporti,Towns,17,NYK,2024-25
+Kolek,McCullar Jr.,13,NYK,2024-25
+McCullar Jr.,Tucker,8,NYK,2024-25
+McBride,Wright,12,NYK,2024-25
+McBride,Watson,3,NYK,2024-25
+Dadiet,Watson,5,NYK,2024-25
+Achiuwa,Ryan,5,NYK,2024-25
+Beauchamp,Payne,3,NYK,2024-25
+Beauchamp,McBride,2,NYK,2024-25
+Beauchamp,McCullar Jr.,5,NYK,2024-25
+Payne,Watson,3,NYK,2024-25
+Tucker,Watson,2,NYK,2024-25
+McCullar Jr.,Watson,5,NYK,2024-25
+Dadiet,McCullar Jr.,2,NYK,2024-25
+Bridges,Ryan,2,NYK,2024-25
+Brunson,Ryan,4,NYK,2024-25
+Beauchamp,Tucker,2,NYK,2024-25
+Achiuwa,Toppin,1,NYK,2024-25
+Toppin,Towns,1,NYK,2024-25
+Hart,Toppin,1,NYK,2024-25
+Brunson,Kolek,1,NYK,2024-25
+Beauchamp,Towns,1,NYK,2024-25
+Towns,Watson,1,NYK,2024-25
+Beauchamp,Robinson,0,NYK,2024-25
+Jones,Murray,443,NOP,2024-25
+Murphy III,Murray,690,NOP,2024-25
+Missi,Murray,662,NOP,2024-25
+McCollum,Murray,746,NOP,2024-25
+Jones,Murphy III,337,NOP,2024-25
+Jones,Missi,433,NOP,2024-25
+Jones,McCollum,500,NOP,2024-25
+Missi,Murphy III,1066,NOP,2024-25
+McCollum,Murphy III,1166,NOP,2024-25
+McCollum,Missi,1146,NOP,2024-25
+Green,Murray,339,NOP,2024-25
+Green,Murphy III,486,NOP,2024-25
+Green,Missi,544,NOP,2024-25
+Green,McCollum,509,NOP,2024-25
+Murphy III,Williamson,401,NOP,2024-25
+Missi,Williamson,398,NOP,2024-25
+McCollum,Williamson,454,NOP,2024-25
+Olynyk,Williamson,151,NOP,2024-25
+Murphy III,Olynyk,189,NOP,2024-25
+Missi,Olynyk,321,NOP,2024-25
+McCollum,Olynyk,216,NOP,2024-25
+Murray,Williamson,102,NOP,2024-25
+Alvarado,Brown,269,NOP,2024-25
+Brown,Reeves,139,NOP,2024-25
+Brown,Missi,283,NOP,2024-25
+Brown,Olynyk,220,NOP,2024-25
+Alvarado,Reeves,191,NOP,2024-25
+Alvarado,Missi,578,NOP,2024-25
+Alvarado,Olynyk,299,NOP,2024-25
+Missi,Reeves,172,NOP,2024-25
+Olynyk,Reeves,100,NOP,2024-25
+Green,Ingram,254,NOP,2024-25
+Boston Jr.,Ingram,268,NOP,2024-25
+Ingram,Murphy III,127,NOP,2024-25
+Ingram,Missi,311,NOP,2024-25
+Boston Jr.,Green,225,NOP,2024-25
+Boston Jr.,Murphy III,154,NOP,2024-25
+Boston Jr.,Missi,250,NOP,2024-25
+Alvarado,Williamson,373,NOP,2024-25
+Alvarado,Murphy III,445,NOP,2024-25
+Alvarado,McCollum,346,NOP,2024-25
+Matković,Williamson,215,NOP,2024-25
+Matković,Murphy III,295,NOP,2024-25
+Matković,Missi,79,NOP,2024-25
+Matković,McCollum,220,NOP,2024-25
+Murray,Theis,224,NOP,2024-25
+Green,Theis,242,NOP,2024-25
+Murphy III,Theis,276,NOP,2024-25
+McCollum,Theis,281,NOP,2024-25
+Brooks Jr.,Robinson-Earl,169,NOP,2024-25
+Matković,Robinson-Earl,282,NOP,2024-25
+Reeves,Robinson-Earl,286,NOP,2024-25
+Payton,Robinson-Earl,242,NOP,2024-25
+Brooks Jr.,Matković,114,NOP,2024-25
+Brooks Jr.,Reeves,159,NOP,2024-25
+Brooks Jr.,Payton,127,NOP,2024-25
+Matković,Reeves,234,NOP,2024-25
+Matković,Payton,143,NOP,2024-25
+Payton,Reeves,163,NOP,2024-25
+Brown,Williamson,109,NOP,2024-25
+Brown,Murphy III,219,NOP,2024-25
+Brown,McCollum,230,NOP,2024-25
+Ingram,Theis,115,NOP,2024-25
+Ingram,Williamson,101,NOP,2024-25
+Ingram,Jones,126,NOP,2024-25
+Ingram,McCollum,143,NOP,2024-25
+Theis,Williamson,102,NOP,2024-25
+Jones,Theis,118,NOP,2024-25
+Jones,Williamson,63,NOP,2024-25
+Alvarado,Ingram,187,NOP,2024-25
+Hawkins,Ingram,140,NOP,2024-25
+Alvarado,Green,278,NOP,2024-25
+Green,Hawkins,354,NOP,2024-25
+Alvarado,Hawkins,542,NOP,2024-25
+Hawkins,Missi,459,NOP,2024-25
+Boston,Murray,194,NOP,2024-25
+Boston,Jones,137,NOP,2024-25
+Boston,Murphy III,181,NOP,2024-25
+Boston,Missi,192,NOP,2024-25
+Ingram,Robinson-Earl,191,NOP,2024-25
+Green,Robinson-Earl,215,NOP,2024-25
+Boston Jr.,Robinson-Earl,294,NOP,2024-25
+Missi,Robinson-Earl,292,NOP,2024-25
+Cain,Robinson-Earl,272,NOP,2024-25
+Cain,Matković,148,NOP,2024-25
+Cain,Reeves,194,NOP,2024-25
+Cain,Payton,99,NOP,2024-25
+Hawkins,Murray,191,NOP,2024-25
+Hawkins,McCollum,399,NOP,2024-25
+Brown,Hawkins,232,NOP,2024-25
+Hawkins,Murphy III,462,NOP,2024-25
+Brown,Matković,186,NOP,2024-25
+Alvarado,Matković,303,NOP,2024-25
+Hawkins,Matković,320,NOP,2024-25
+Murray,Robinson-Earl,136,NOP,2024-25
+Murphy III,Robinson-Earl,273,NOP,2024-25
+McCollum,Robinson-Earl,281,NOP,2024-25
+Alvarado,Robinson-Earl,363,NOP,2024-25
+Alvarado,Boston Jr.,108,NOP,2024-25
+Hawkins,Williamson,331,NOP,2024-25
+Matković,Olynyk,119,NOP,2024-25
+Hawkins,Olynyk,158,NOP,2024-25
+Robinson-Earl,Williamson,125,NOP,2024-25
+Hawkins,Robinson-Earl,407,NOP,2024-25
+Ingram,Nowell,85,NOP,2024-25
+Green,Nowell,62,NOP,2024-25
+Boston Jr.,Nowell,88,NOP,2024-25
+Missi,Nowell,63,NOP,2024-25
+Hawkins,Theis,255,NOP,2024-25
+Boston,McCollum,191,NOP,2024-25
+Boston,Theis,189,NOP,2024-25
+Alvarado,Theis,190,NOP,2024-25
+Alvarado,Boston,131,NOP,2024-25
+Boston,Hawkins,142,NOP,2024-25
+Brooks Jr.,Brown,79,NOP,2024-25
+Alvarado,Brooks Jr.,132,NOP,2024-25
+Brooks Jr.,Missi,93,NOP,2024-25
+Brooks Jr.,Olynyk,55,NOP,2024-25
+Robinson-Earl,Theis,157,NOP,2024-25
+Boston,Robinson-Earl,103,NOP,2024-25
+Quinones,Robinson-Earl,85,NOP,2024-25
+Brooks Jr.,Quinones,98,NOP,2024-25
+Matković,Quinones,51,NOP,2024-25
+Payton,Quinones,77,NOP,2024-25
+Green,Matković,74,NOP,2024-25
+Ingram,Murray,60,NOP,2024-25
+Boston,Green,143,NOP,2024-25
+Green,Williamson,132,NOP,2024-25
+Green,Payton,60,NOP,2024-25
+Murphy III,Payton,69,NOP,2024-25
+Missi,Payton,99,NOP,2024-25
+McCollum,Payton,53,NOP,2024-25
+Boston Jr.,Williamson,44,NOP,2024-25
+Hawkins,Jones,133,NOP,2024-25
+Brooks Jr.,Cain,102,NOP,2024-25
+Cain,Quinones,97,NOP,2024-25
+Quinones,Reeves,96,NOP,2024-25
+Nowell,Robinson-Earl,77,NOP,2024-25
+Murphy III,Nowell,37,NOP,2024-25
+Cain,Nowell,74,NOP,2024-25
+Jemison III,Nowell,65,NOP,2024-25
+Jemison III,Robinson-Earl,89,NOP,2024-25
+Cain,Murphy III,52,NOP,2024-25
+Jemison III,Murphy III,39,NOP,2024-25
+Cain,Jemison III,66,NOP,2024-25
+Jones,Robinson-Earl,55,NOP,2024-25
+Alvarado,Payton,29,NOP,2024-25
+Brown,Payton,28,NOP,2024-25
+Brown,Quinones,12,NOP,2024-25
+Missi,Quinones,17,NOP,2024-25
+Bamba,Williamson,24,NOP,2024-25
+Alvarado,Bamba,38,NOP,2024-25
+Bamba,Matković,21,NOP,2024-25
+Bamba,Hawkins,46,NOP,2024-25
+Cain,Ingram,47,NOP,2024-25
+Cain,Missi,90,NOP,2024-25
+Brooks Jr.,Hawkins,46,NOP,2024-25
+Kelley,Robinson-Earl,26,NOP,2024-25
+Cain,Kelley,44,NOP,2024-25
+Kelley,Quinones,47,NOP,2024-25
+Kelley,Reeves,37,NOP,2024-25
+Alvarado,Jones,35,NOP,2024-25
+Boston Jr.,Matković,21,NOP,2024-25
+Boston Jr.,Cain,99,NOP,2024-25
+Boston Jr.,Reeves,62,NOP,2024-25
+Boston Jr.,Jemison III,76,NOP,2024-25
+Jemison III,Matković,15,NOP,2024-25
+Jemison III,Reeves,54,NOP,2024-25
+Cain,Green,34,NOP,2024-25
+Green,Jemison III,39,NOP,2024-25
+Boston,Cain,26,NOP,2024-25
+Cain,Jones,12,NOP,2024-25
+Cain,McCollum,40,NOP,2024-25
+Boston Jr.,Hawkins,72,NOP,2024-25
+Ingram,Payton,19,NOP,2024-25
+Payton,Theis,33,NOP,2024-25
+Boston,Williamson,24,NOP,2024-25
+Cain,Williamson,35,NOP,2024-25
+Cain,Hawkins,67,NOP,2024-25
+Hawkins,Reeves,82,NOP,2024-25
+Kelley,Payton,27,NOP,2024-25
+Reeves,Theis,20,NOP,2024-25
+Green,Reeves,77,NOP,2024-25
+Boston,Reeves,21,NOP,2024-25
+Brown,Robinson-Earl,83,NOP,2024-25
+Boston Jr.,Payton,61,NOP,2024-25
+Brooks Jr.,Kelley,31,NOP,2024-25
+Boston Jr.,McCollum,46,NOP,2024-25
+Alvarado,Quinones,20,NOP,2024-25
+Boston Jr.,Murray,22,NOP,2024-25
+Boston Jr.,Jones,22,NOP,2024-25
+Reeves,Williamson,48,NOP,2024-25
+Green,Jones,38,NOP,2024-25
+Murphy III,Reeves,72,NOP,2024-25
+Alvarado,Kelley,15,NOP,2024-25
+Ingram,Jemison III,37,NOP,2024-25
+Ingram,Reeves,17,NOP,2024-25
+Nowell,Reeves,39,NOP,2024-25
+Bamba,Robinson-Earl,31,NOP,2024-25
+Bamba,Murphy III,20,NOP,2024-25
+Alvarado,Jemison III,11,NOP,2024-25
+Alvarado,Murray,32,NOP,2024-25
+Alvarado,Cain,97,NOP,2024-25
+Jemison III,Payton,17,NOP,2024-25
+McCollum,Reeves,32,NOP,2024-25
+Matković,Murray,12,NOP,2024-25
+Boston Jr.,Theis,59,NOP,2024-25
+Boston,Matković,24,NOP,2024-25
+Olynyk,Robinson-Earl,38,NOP,2024-25
+Olynyk,Payton,21,NOP,2024-25
+Cain,Theis,29,NOP,2024-25
+Brown,Cain,26,NOP,2024-25
+Cain,Olynyk,21,NOP,2024-25
+Jemison,Nowell,5,NOP,2024-25
+Boston Jr.,Jemison,5,NOP,2024-25
+Cain,Jemison,5,NOP,2024-25
+Jemison,Reeves,5,NOP,2024-25
+Hawkins,Payton,37,NOP,2024-25
+Bamba,McCollum,17,NOP,2024-25
+Kelley,Matković,5,NOP,2024-25
+Brooks Jr.,McCollum,11,NOP,2024-25
+Brown,Green,7,NOP,2024-25
+Olynyk,Quinones,8,NOP,2024-25
+Bamba,Cain,4,NOP,2024-25
+Bamba,Reeves,13,NOP,2024-25
+Cain,Murray,4,NOP,2024-25
+Jemison III,Murray,16,NOP,2024-25
+Murray,Payton,8,NOP,2024-25
+Hawkins,Jemison III,9,NOP,2024-25
+Matković,Nowell,7,NOP,2024-25
+Nowell,Theis,14,NOP,2024-25
+Alvarado,Nowell,4,NOP,2024-25
+Bamba,Brown,6,NOP,2024-25
+Jemison III,Jones,8,NOP,2024-25
+Jemison III,McCollum,9,NOP,2024-25
+Murray,Reeves,3,NOP,2024-25
+Boston,Jemison III,2,NOP,2024-25
+Edwards,McDaniels,2142,MIN,2024-25
+Conley,Edwards,1271,MIN,2024-25
+Edwards,Gobert,1884,MIN,2024-25
+Edwards,Randle,1863,MIN,2024-25
+Conley,McDaniels,1323,MIN,2024-25
+Gobert,McDaniels,1777,MIN,2024-25
+McDaniels,Randle,1635,MIN,2024-25
+Conley,Gobert,1315,MIN,2024-25
+Conley,Randle,1092,MIN,2024-25
+Gobert,Randle,1269,MIN,2024-25
+DiVincenzo,Edwards,1012,MIN,2024-25
+DiVincenzo,McDaniels,742,MIN,2024-25
+DiVincenzo,Gobert,842,MIN,2024-25
+DiVincenzo,Randle,904,MIN,2024-25
+Alexander-Walker,DiVincenzo,924,MIN,2024-25
+DiVincenzo,Reid,1147,MIN,2024-25
+Alexander-Walker,Reid,1504,MIN,2024-25
+Alexander-Walker,Edwards,1197,MIN,2024-25
+Alexander-Walker,Randle,948,MIN,2024-25
+Edwards,Reid,1392,MIN,2024-25
+Randle,Reid,836,MIN,2024-25
+Alexander-Walker,McDaniels,945,MIN,2024-25
+Alexander-Walker,Gobert,1010,MIN,2024-25
+Conley,DiVincenzo,386,MIN,2024-25
+Alexander-Walker,Conley,589,MIN,2024-25
+Conley,Reid,777,MIN,2024-25
+Gobert,Reid,947,MIN,2024-25
+McDaniels,Reid,1164,MIN,2024-25
+DiVincenzo,Minott,124,MIN,2024-25
+Alexander-Walker,Minott,157,MIN,2024-25
+Minott,Reid,145,MIN,2024-25
+Minott,Randle,96,MIN,2024-25
+Clark,DiVincenzo,131,MIN,2024-25
+Alexander-Walker,Clark,362,MIN,2024-25
+Clark,Reid,321,MIN,2024-25
+Clark,Randle,102,MIN,2024-25
+Clark,Edwards,258,MIN,2024-25
+Clark,McDaniels,242,MIN,2024-25
+Clark,Conley,119,MIN,2024-25
+Alexander-Walker,Shannon Jr.,203,MIN,2024-25
+Reid,Shannon Jr.,157,MIN,2024-25
+McDaniels,Shannon Jr.,141,MIN,2024-25
+Conley,Shannon Jr.,56,MIN,2024-25
+Alexander-Walker,Dillingham,314,MIN,2024-25
+Dillingham,Reid,300,MIN,2024-25
+Dillingham,Edwards,194,MIN,2024-25
+Dillingham,Gobert,193,MIN,2024-25
+Dillingham,McDaniels,179,MIN,2024-25
+Clark,Gobert,153,MIN,2024-25
+DiVincenzo,Dillingham,87,MIN,2024-25
+Dozier,Shannon Jr.,35,MIN,2024-25
+Dozier,Garza,33,MIN,2024-25
+Dozier,Minott,35,MIN,2024-25
+Dillingham,Dozier,20,MIN,2024-25
+Garza,Shannon Jr.,129,MIN,2024-25
+Minott,Shannon Jr.,84,MIN,2024-25
+Dillingham,Shannon Jr.,169,MIN,2024-25
+Garza,Minott,103,MIN,2024-25
+Dillingham,Garza,161,MIN,2024-25
+Dillingham,Minott,111,MIN,2024-25
+Gobert,Minott,54,MIN,2024-25
+Dillingham,Randle,104,MIN,2024-25
+Hyland,Shannon Jr.,15,MIN,2024-25
+Garza,Hyland,17,MIN,2024-25
+Hyland,Minott,17,MIN,2024-25
+Dillingham,Hyland,17,MIN,2024-25
+Edwards,Shannon Jr.,119,MIN,2024-25
+Ingles,Reid,64,MIN,2024-25
+Edwards,Ingles,51,MIN,2024-25
+Ingles,McDaniels,76,MIN,2024-25
+Gobert,Ingles,76,MIN,2024-25
+Clark,Shannon Jr.,98,MIN,2024-25
+Clark,Garza,93,MIN,2024-25
+Clark,Minott,33,MIN,2024-25
+Clark,Dillingham,141,MIN,2024-25
+Dozier,Nix,13,MIN,2024-25
+Nix,Shannon Jr.,13,MIN,2024-25
+Garza,Nix,13,MIN,2024-25
+Minott,Nix,13,MIN,2024-25
+Ingles,Randle,32,MIN,2024-25
+DiVincenzo,Shannon Jr.,69,MIN,2024-25
+DiVincenzo,Garza,34,MIN,2024-25
+Alexander-Walker,Ingles,64,MIN,2024-25
+Conley,Ingles,13,MIN,2024-25
+Edwards,Minott,37,MIN,2024-25
+Garza,Reid,46,MIN,2024-25
+Conley,Minott,27,MIN,2024-25
+Conley,Dillingham,35,MIN,2024-25
+Gobert,Shannon Jr.,24,MIN,2024-25
+Ingles,Shannon Jr.,14,MIN,2024-25
+Garza,Miller,25,MIN,2024-25
+Miller,Minott,33,MIN,2024-25
+Clark,Miller,12,MIN,2024-25
+Dillingham,Miller,29,MIN,2024-25
+Alexander-Walker,Garza,79,MIN,2024-25
+Edwards,Garza,67,MIN,2024-25
+Dillingham,Ingles,23,MIN,2024-25
+Randle,Shannon Jr.,25,MIN,2024-25
+Clark,Ingles,18,MIN,2024-25
+DiVincenzo,Ingles,9,MIN,2024-25
+Miller,Shannon Jr.,8,MIN,2024-25
+Newton,Shannon Jr.,5,MIN,2024-25
+Miller,Newton,8,MIN,2024-25
+Minott,Newton,8,MIN,2024-25
+Dillingham,Newton,7,MIN,2024-25
+Garza,McDaniels,51,MIN,2024-25
+Edwards,Miller,5,MIN,2024-25
+McDaniels,Minott,27,MIN,2024-25
+Garza,Ingles,8,MIN,2024-25
+Ingles,Miller,4,MIN,2024-25
+Ingles,Minott,4,MIN,2024-25
+Conley,Garza,12,MIN,2024-25
+Alexander-Walker,Miller,3,MIN,2024-25
+Garza,Gobert,4,MIN,2024-25
+Garza,Newton,3,MIN,2024-25
+Dozier,Miller,2,MIN,2024-25
+Hyland,Miller,2,MIN,2024-25
+Garza,Randle,2,MIN,2024-25
+Alexander-Walker,Dozier,1,MIN,2024-25
+Clark,Newton,1,MIN,2024-25
+DiVincenzo,Dozier,1,MIN,2024-25
+Conley,Miller,1,MIN,2024-25
+Jackson Jr.,Prince,584,MIL,2024-25
+Lopez,Prince,1700,MIL,2024-25
+Lillard,Prince,1313,MIL,2024-25
+Antetokounmpo,Prince,1497,MIL,2024-25
+Jackson Jr.,Lopez,695,MIL,2024-25
+Jackson Jr.,Lillard,597,MIL,2024-25
+Antetokounmpo,Jackson Jr.,565,MIL,2024-25
+Lillard,Lopez,1691,MIL,2024-25
+Antetokounmpo,Lopez,1529,MIL,2024-25
+Antetokounmpo,Lillard,1325,MIL,2024-25
+Kuzma,Prince,618,MIL,2024-25
+Kuzma,Lopez,675,MIL,2024-25
+Kuzma,Lillard,434,MIL,2024-25
+Antetokounmpo,Kuzma,539,MIL,2024-25
+Prince,Trent Jr.,791,MIL,2024-25
+Lopez,Trent Jr.,1088,MIL,2024-25
+Lillard,Trent Jr.,885,MIL,2024-25
+Antetokounmpo,Trent Jr.,883,MIL,2024-25
+Prince,Rollins,427,MIL,2024-25
+Kuzma,Rollins,320,MIL,2024-25
+Lopez,Rollins,468,MIL,2024-25
+Antetokounmpo,Rollins,422,MIL,2024-25
+Portis,Trent Jr.,736,MIL,2024-25
+Green,Portis,642,MIL,2024-25
+Lopez,Portis,545,MIL,2024-25
+Lillard,Portis,645,MIL,2024-25
+Green,Trent Jr.,936,MIL,2024-25
+Green,Lopez,850,MIL,2024-25
+Green,Lillard,714,MIL,2024-25
+Green,Prince,528,MIL,2024-25
+Antetokounmpo,Green,777,MIL,2024-25
+Portis,Prince,448,MIL,2024-25
+Middleton,Portis,286,MIL,2024-25
+Antetokounmpo,Portis,481,MIL,2024-25
+Middleton,Trent Jr.,268,MIL,2024-25
+Green,Middleton,218,MIL,2024-25
+Antetokounmpo,Middleton,342,MIL,2024-25
+Kuzma,Trent Jr.,464,MIL,2024-25
+Kuzma,Porter Jr.,338,MIL,2024-25
+Kuzma,Sims,164,MIL,2024-25
+Green,Kuzma,404,MIL,2024-25
+Porter Jr.,Trent Jr.,421,MIL,2024-25
+Sims,Trent Jr.,146,MIL,2024-25
+Porter Jr.,Sims,148,MIL,2024-25
+Green,Porter Jr.,388,MIL,2024-25
+Green,Sims,158,MIL,2024-25
+Jackson Jr.,Middleton,135,MIL,2024-25
+Lopez,Middleton,307,MIL,2024-25
+Lillard,Middleton,304,MIL,2024-25
+Lillard,Sims,82,MIL,2024-25
+Lopez,Porter Jr.,278,MIL,2024-25
+Porter Jr.,Portis,92,MIL,2024-25
+Antetokounmpo,Porter Jr.,270,MIL,2024-25
+Portis,Rollins,248,MIL,2024-25
+Jackson Jr.,Portis,260,MIL,2024-25
+Jackson Jr.,Rollins,141,MIL,2024-25
+Middleton,Rollins,125,MIL,2024-25
+Porter Jr.,Prince,270,MIL,2024-25
+Portis,Wright,213,MIL,2024-25
+Trent Jr.,Wright,170,MIL,2024-25
+Green,Wright,179,MIL,2024-25
+Antetokounmpo,Wright,222,MIL,2024-25
+Jackson Jr.,Kuzma,69,MIL,2024-25
+Prince,Wright,184,MIL,2024-25
+Lopez,Wright,167,MIL,2024-25
+Lillard,Rollins,64,MIL,2024-25
+Connaughton,Portis,282,MIL,2024-25
+Connaughton,Trent Jr.,256,MIL,2024-25
+Connaughton,Lopez,196,MIL,2024-25
+Connaughton,Lillard,191,MIL,2024-25
+Green,Jackson Jr.,165,MIL,2024-25
+Jackson Jr.,Wright,121,MIL,2024-25
+Rollins,Trent Jr.,331,MIL,2024-25
+Connaughton,Wright,127,MIL,2024-25
+Connaughton,Green,241,MIL,2024-25
+Antetokounmpo,Connaughton,271,MIL,2024-25
+Green,Rollins,292,MIL,2024-25
+Connaughton,Porter Jr.,61,MIL,2024-25
+Kuzma,Portis,80,MIL,2024-25
+Prince,Sims,54,MIL,2024-25
+Lillard,Porter Jr.,57,MIL,2024-25
+Bouyea,Connaughton,45,MIL,2024-25
+Connaughton,Nance,47,MIL,2024-25
+Connaughton,Jackson Jr.,147,MIL,2024-25
+Connaughton,Smith,46,MIL,2024-25
+Bouyea,Nance,44,MIL,2024-25
+Bouyea,Jackson Jr.,44,MIL,2024-25
+Bouyea,Smith,33,MIL,2024-25
+Jackson Jr.,Nance,39,MIL,2024-25
+Nance,Smith,26,MIL,2024-25
+Jackson Jr.,Smith,56,MIL,2024-25
+Connaughton,Rollins,133,MIL,2024-25
+Connaughton,Prince,163,MIL,2024-25
+Jackson Jr.,Trent Jr.,117,MIL,2024-25
+Kuzma,Nance,21,MIL,2024-25
+Nance,Trent Jr.,13,MIL,2024-25
+Nance,Rollins,19,MIL,2024-25
+Green,Nance,33,MIL,2024-25
+Beauchamp,Wright,47,MIL,2024-25
+Livingston,Wright,21,MIL,2024-25
+Smith,Wright,24,MIL,2024-25
+Johnson,Wright,17,MIL,2024-25
+Beauchamp,Livingston,39,MIL,2024-25
+Beauchamp,Smith,52,MIL,2024-25
+Beauchamp,Johnson,26,MIL,2024-25
+Livingston,Smith,48,MIL,2024-25
+Johnson,Livingston,22,MIL,2024-25
+Johnson,Smith,41,MIL,2024-25
+Beauchamp,Umude,56,MIL,2024-25
+Rollins,Umude,38,MIL,2024-25
+Robbins,Umude,45,MIL,2024-25
+Smith,Umude,35,MIL,2024-25
+Beauchamp,Rollins,65,MIL,2024-25
+Beauchamp,Robbins,55,MIL,2024-25
+Robbins,Rollins,41,MIL,2024-25
+Rollins,Smith,40,MIL,2024-25
+Robbins,Smith,21,MIL,2024-25
+Antetokounmpo,Sims,34,MIL,2024-25
+Middleton,Prince,77,MIL,2024-25
+Bouyea,Umude,21,MIL,2024-25
+Jackson Jr.,Umude,36,MIL,2024-25
+Livingston,Umude,45,MIL,2024-25
+Bouyea,Livingston,27,MIL,2024-25
+Jackson Jr.,Livingston,56,MIL,2024-25
+Middleton,Wright,26,MIL,2024-25
+Connaughton,Kuzma,46,MIL,2024-25
+Bouyea,Kuzma,8,MIL,2024-25
+Bouyea,Green,17,MIL,2024-25
+Umude,Wright,23,MIL,2024-25
+Rollins,Wright,14,MIL,2024-25
+Robbins,Wright,29,MIL,2024-25
+Beauchamp,Jackson Jr.,28,MIL,2024-25
+Livingston,Rollins,44,MIL,2024-25
+Jackson Jr.,Robbins,9,MIL,2024-25
+Lillard,Wright,44,MIL,2024-25
+Beauchamp,Portis,20,MIL,2024-25
+Beauchamp,Connaughton,28,MIL,2024-25
+Beauchamp,Lillard,13,MIL,2024-25
+Antetokounmpo,Beauchamp,10,MIL,2024-25
+Connaughton,Middleton,42,MIL,2024-25
+Connaughton,Johnson,16,MIL,2024-25
+Smith,Trent Jr.,21,MIL,2024-25
+Johnson,Trent Jr.,15,MIL,2024-25
+Jackson Jr.,Johnson,11,MIL,2024-25
+Johnson,Umude,6,MIL,2024-25
+Jackson Jr.,Porter Jr.,29,MIL,2024-25
+Livingston,Prince,10,MIL,2024-25
+Green,Livingston,20,MIL,2024-25
+Connaughton,Umude,19,MIL,2024-25
+Connaughton,Livingston,24,MIL,2024-25
+Porter Jr.,Rollins,33,MIL,2024-25
+Beauchamp,Lopez,6,MIL,2024-25
+Beauchamp,Middleton,5,MIL,2024-25
+Beauchamp,Trent Jr.,16,MIL,2024-25
+Beauchamp,Green,21,MIL,2024-25
+Green,Robbins,8,MIL,2024-25
+Green,Smith,23,MIL,2024-25
+Nance,Umude,8,MIL,2024-25
+Livingston,Nance,19,MIL,2024-25
+Livingston,Porter Jr.,5,MIL,2024-25
+Jackson Jr.,Sims,12,MIL,2024-25
+Livingston,Sims,9,MIL,2024-25
+Rollins,Sims,12,MIL,2024-25
+Connaughton,Robbins,11,MIL,2024-25
+Johnson,Rollins,11,MIL,2024-25
+Livingston,Trent Jr.,9,MIL,2024-25
+Green,Johnson,7,MIL,2024-25
+Sims,Smith,3,MIL,2024-25
+Connaughton,Sims,8,MIL,2024-25
+Robbins,Trent Jr.,4,MIL,2024-25
+Green,Umude,3,MIL,2024-25
+Livingston,Robbins,10,MIL,2024-25
+Beauchamp,Prince,5,MIL,2024-25
+Prince,Robbins,3,MIL,2024-25
+Prince,Smith,3,MIL,2024-25
+Kuzma,Umude,2,MIL,2024-25
+Kuzma,Livingston,2,MIL,2024-25
+Kuzma,Smith,4,MIL,2024-25
+Nance,Sims,2,MIL,2024-25
+Portis,Smith,2,MIL,2024-25
+Trent Jr.,Umude,2,MIL,2024-25
+Lopez,Smith,1,MIL,2024-25
+Lillard,Smith,1,MIL,2024-25
+Bouyea,Porter Jr.,1,MIL,2024-25
+Prince,Umude,1,MIL,2024-25
+Livingston,Middleton,1,MIL,2024-25
+Antetokounmpo,Livingston,1,MIL,2024-25
+Nance,Porter Jr.,1,MIL,2024-25
+Antetokounmpo,Smith,0,MIL,2024-25
+Porter Jr.,Smith,0,MIL,2024-25
+Livingston,Lopez,0,MIL,2024-25
+Antetokounmpo,Umude,0,MIL,2024-25
+Adebayo,Robinson,1228,MIA,2024-25
+Adebayo,Highsmith,1254,MIA,2024-25
+Adebayo,Herro,1954,MIA,2024-25
+Adebayo,Butler,547,MIA,2024-25
+Highsmith,Robinson,904,MIA,2024-25
+Herro,Robinson,952,MIA,2024-25
+Butler,Robinson,407,MIA,2024-25
+Herro,Highsmith,1395,MIA,2024-25
+Butler,Highsmith,338,MIA,2024-25
+Butler,Herro,570,MIA,2024-25
+Adebayo,Mitchell,602,MIA,2024-25
+Adebayo,Ware,540,MIA,2024-25
+Adebayo,Wiggins,437,MIA,2024-25
+Herro,Mitchell,640,MIA,2024-25
+Herro,Ware,1028,MIA,2024-25
+Herro,Wiggins,392,MIA,2024-25
+Mitchell,Ware,510,MIA,2024-25
+Mitchell,Wiggins,327,MIA,2024-25
+Ware,Wiggins,320,MIA,2024-25
+Adebayo,Rozier,1129,MIA,2024-25
+Highsmith,Rozier,658,MIA,2024-25
+Herro,Rozier,943,MIA,2024-25
+Jaquez Jr.,Rozier,723,MIA,2024-25
+Adebayo,Jaquez Jr.,739,MIA,2024-25
+Highsmith,Jaquez Jr.,477,MIA,2024-25
+Herro,Jaquez Jr.,789,MIA,2024-25
+Jović,Rozier,658,MIA,2024-25
+Butler,Rozier,291,MIA,2024-25
+Adebayo,Jović,689,MIA,2024-25
+Herro,Jović,731,MIA,2024-25
+Butler,Jović,180,MIA,2024-25
+Robinson,Ware,599,MIA,2024-25
+Highsmith,Ware,456,MIA,2024-25
+Jaquez Jr.,Robinson,539,MIA,2024-25
+Highsmith,Jović,275,MIA,2024-25
+Love,Rozier,143,MIA,2024-25
+Adebayo,Love,104,MIA,2024-25
+Highsmith,Love,152,MIA,2024-25
+Herro,Love,197,MIA,2024-25
+Rozier,Ware,374,MIA,2024-25
+Jaquez Jr.,Jović,435,MIA,2024-25
+Jović,Ware,413,MIA,2024-25
+Jaquez Jr.,Ware,438,MIA,2024-25
+Mitchell,Robinson,302,MIA,2024-25
+Highsmith,Mitchell,447,MIA,2024-25
+Adebayo,Burks,553,MIA,2024-25
+Burks,Herro,421,MIA,2024-25
+Burks,Ware,354,MIA,2024-25
+Burks,Wiggins,138,MIA,2024-25
+Robinson,Rozier,545,MIA,2024-25
+Adebayo,Larsson,442,MIA,2024-25
+Herro,Larsson,404,MIA,2024-25
+Larsson,Ware,316,MIA,2024-25
+Burks,Larsson,225,MIA,2024-25
+Anderson,Highsmith,196,MIA,2024-25
+Anderson,Herro,188,MIA,2024-25
+Anderson,Mitchell,268,MIA,2024-25
+Anderson,Ware,156,MIA,2024-25
+Adebayo,Anderson,188,MIA,2024-25
+Rozier,Smith,125,MIA,2024-25
+Adebayo,Smith,167,MIA,2024-25
+Robinson,Smith,88,MIA,2024-25
+Jaquez Jr.,Smith,115,MIA,2024-25
+Adebayo,Richardson,99,MIA,2024-25
+Richardson,Robinson,90,MIA,2024-25
+Jović,Richardson,71,MIA,2024-25
+Jaquez Jr.,Richardson,59,MIA,2024-25
+Jović,Robinson,478,MIA,2024-25
+Christopher,Rozier,44,MIA,2024-25
+Johnson,Rozier,64,MIA,2024-25
+Anderson,Rozier,161,MIA,2024-25
+Christopher,Jaquez Jr.,61,MIA,2024-25
+Christopher,Johnson,64,MIA,2024-25
+Anderson,Christopher,33,MIA,2024-25
+Jaquez Jr.,Johnson,77,MIA,2024-25
+Anderson,Jaquez Jr.,120,MIA,2024-25
+Anderson,Johnson,33,MIA,2024-25
+Burks,Jović,282,MIA,2024-25
+Burks,Jaquez Jr.,207,MIA,2024-25
+Highsmith,Wiggins,122,MIA,2024-25
+Burks,Rozier,246,MIA,2024-25
+Burks,Robinson,239,MIA,2024-25
+Larsson,Rozier,316,MIA,2024-25
+Larsson,Robinson,269,MIA,2024-25
+Jović,Larsson,147,MIA,2024-25
+Burks,Highsmith,223,MIA,2024-25
+Burks,Mitchell,217,MIA,2024-25
+Robinson,Wiggins,161,MIA,2024-25
+Anderson,Robinson,198,MIA,2024-25
+Jaquez Jr.,Larsson,196,MIA,2024-25
+Highsmith,Larsson,178,MIA,2024-25
+Herro,Richardson,68,MIA,2024-25
+Jović,Mitchell,69,MIA,2024-25
+Jović,Wiggins,64,MIA,2024-25
+Love,Robinson,40,MIA,2024-25
+Butler,Love,102,MIA,2024-25
+Butler,Larsson,103,MIA,2024-25
+Butler,Ware,69,MIA,2024-25
+Highsmith,Smith,70,MIA,2024-25
+Herro,Smith,148,MIA,2024-25
+Butler,Smith,100,MIA,2024-25
+Anderson,Larsson,108,MIA,2024-25
+Bryant,Robinson,65,MIA,2024-25
+Bryant,Jaquez Jr.,74,MIA,2024-25
+Bryant,Burks,38,MIA,2024-25
+Bryant,Butler,62,MIA,2024-25
+Butler,Jaquez Jr.,136,MIA,2024-25
+Burks,Butler,117,MIA,2024-25
+Jaquez Jr.,Mitchell,140,MIA,2024-25
+Jaquez Jr.,Wiggins,47,MIA,2024-25
+Mitchell,Rozier,61,MIA,2024-25
+Love,Mitchell,32,MIA,2024-25
+Burks,Love,53,MIA,2024-25
+Bryant,Rozier,42,MIA,2024-25
+Bryant,Highsmith,41,MIA,2024-25
+Love,Smith,43,MIA,2024-25
+Anderson,Wiggins,75,MIA,2024-25
+Larsson,Mitchell,157,MIA,2024-25
+Jaquez Jr.,Love,66,MIA,2024-25
+Anderson,Burks,82,MIA,2024-25
+Rozier,Wiggins,55,MIA,2024-25
+Christopher,Larsson,24,MIA,2024-25
+Christopher,Ware,22,MIA,2024-25
+Johnson,Larsson,36,MIA,2024-25
+Johnson,Ware,35,MIA,2024-25
+Larsson,Love,52,MIA,2024-25
+Larsson,Wiggins,38,MIA,2024-25
+Bryant,Smith,27,MIA,2024-25
+Jović,Smith,73,MIA,2024-25
+Bryant,Richardson,26,MIA,2024-25
+Burks,Richardson,30,MIA,2024-25
+Butler,Richardson,30,MIA,2024-25
+Johnson,Robinson,16,MIA,2024-25
+Herro,Johnson,20,MIA,2024-25
+Jović,Love,19,MIA,2024-25
+Larsson,Smith,40,MIA,2024-25
+Smith,Ware,22,MIA,2024-25
+Anderson,Jović,27,MIA,2024-25
+Bryant,Larsson,17,MIA,2024-25
+Bryant,Johnson,8,MIA,2024-25
+Johnson,Smith,8,MIA,2024-25
+Bryant,Herro,40,MIA,2024-25
+Richardson,Smith,11,MIA,2024-25
+Burks,Smith,31,MIA,2024-25
+Richardson,Rozier,24,MIA,2024-25
+Richardson,Ware,15,MIA,2024-25
+Highsmith,Richardson,34,MIA,2024-25
+Bryant,Jović,12,MIA,2024-25
+Christopher,Robinson,8,MIA,2024-25
+Christopher,Jović,7,MIA,2024-25
+Christopher,Highsmith,9,MIA,2024-25
+Highsmith,Johnson,9,MIA,2024-25
+Larsson,Richardson,26,MIA,2024-25
+Johnson,Jović,6,MIA,2024-25
+Adebayo,Johnson,3,MIA,2024-25
+Burks,Johnson,3,MIA,2024-25
+Christopher,Stevens,6,MIA,2024-25
+Jaquez Jr.,Stevens,6,MIA,2024-25
+Larsson,Stevens,2,MIA,2024-25
+Johnson,Stevens,6,MIA,2024-25
+Love,Richardson,5,MIA,2024-25
+Rozier,Stevens,2,MIA,2024-25
+Anderson,Love,3,MIA,2024-25
+Highsmith,Stevens,2,MIA,2024-25
+Adebayo,Christopher,1,MIA,2024-25
+Love,Ware,1,MIA,2024-25
+Burks,Christopher,1,MIA,2024-25
+Jackson Jr.,Morant,901,MEM,2024-25
+Bane,Jackson Jr.,1250,MEM,2024-25
+Edey,Jackson Jr.,822,MEM,2024-25
+Jackson Jr.,Wells,1202,MEM,2024-25
+Bane,Morant,840,MEM,2024-25
+Edey,Morant,662,MEM,2024-25
+Morant,Wells,821,MEM,2024-25
+Bane,Edey,790,MEM,2024-25
+Bane,Wells,1201,MEM,2024-25
+Edey,Wells,854,MEM,2024-25
+Clarke,Jackson Jr.,602,MEM,2024-25
+Clarke,Morant,444,MEM,2024-25
+Bane,Clarke,663,MEM,2024-25
+Clarke,Wells,611,MEM,2024-25
+Jackson Jr.,Kennard,764,MEM,2024-25
+Bane,Kennard,625,MEM,2024-25
+Edey,Kennard,508,MEM,2024-25
+Kennard,Wells,577,MEM,2024-25
+Jackson Jr.,Pippen Jr.,921,MEM,2024-25
+Clarke,Pippen Jr.,533,MEM,2024-25
+Bane,Pippen Jr.,751,MEM,2024-25
+Pippen Jr.,Wells,613,MEM,2024-25
+Edey,Pippen Jr.,412,MEM,2024-25
+Aldama,Morant,567,MEM,2024-25
+Aldama,Bane,812,MEM,2024-25
+Aldama,Edey,361,MEM,2024-25
+Aldama,Wells,708,MEM,2024-25
+Kennard,Morant,302,MEM,2024-25
+Aldama,Jackson Jr.,594,MEM,2024-25
+Aldama,Clarke,426,MEM,2024-25
+Aldama,Pippen Jr.,722,MEM,2024-25
+Aldama,Kennard,641,MEM,2024-25
+Kennard,Pippen Jr.,452,MEM,2024-25
+Bane,Huff,262,MEM,2024-25
+Bane,LaRavia,286,MEM,2024-25
+Aldama,Huff,337,MEM,2024-25
+Aldama,LaRavia,436,MEM,2024-25
+Huff,Pippen Jr.,317,MEM,2024-25
+LaRavia,Pippen Jr.,448,MEM,2024-25
+Huff,LaRavia,304,MEM,2024-25
+Clarke,Kennard,371,MEM,2024-25
+Morant,Williams Jr.,202,MEM,2024-25
+Bane,Williams Jr.,221,MEM,2024-25
+Edey,Williams Jr.,175,MEM,2024-25
+Wells,Williams Jr.,103,MEM,2024-25
+Jackson Jr.,Konchar,249,MEM,2024-25
+Bane,Konchar,129,MEM,2024-25
+Konchar,Pippen Jr.,211,MEM,2024-25
+Konchar,Wells,175,MEM,2024-25
+Kennard,LaRavia,301,MEM,2024-25
+Edey,LaRavia,233,MEM,2024-25
+LaRavia,Wells,275,MEM,2024-25
+Huff,Wells,259,MEM,2024-25
+Morant,Pippen Jr.,301,MEM,2024-25
+Jackson,Kennard,146,MEM,2024-25
+Clarke,Jackson,156,MEM,2024-25
+Bane,Jackson,210,MEM,2024-25
+Aldama,Jackson,122,MEM,2024-25
+Jackson Jr.,Williams Jr.,167,MEM,2024-25
+Edey,Jackson,103,MEM,2024-25
+Jackson,Wells,127,MEM,2024-25
+Huff,Morant,113,MEM,2024-25
+LaRavia,Morant,206,MEM,2024-25
+Aldama,Williams Jr.,156,MEM,2024-25
+Huff,Jackson Jr.,147,MEM,2024-25
+Jackson Jr.,LaRavia,401,MEM,2024-25
+Huff,Kennard,211,MEM,2024-25
+Clarke,LaRavia,256,MEM,2024-25
+Jackson Jr.,Smart,193,MEM,2024-25
+Morant,Smart,146,MEM,2024-25
+Bane,Smart,148,MEM,2024-25
+Edey,Smart,84,MEM,2024-25
+Kennard,Konchar,183,MEM,2024-25
+Clarke,Konchar,95,MEM,2024-25
+Aldama,Smart,173,MEM,2024-25
+Pippen Jr.,Smart,123,MEM,2024-25
+Huff,Smart,98,MEM,2024-25
+LaRavia,Smart,164,MEM,2024-25
+Edey,Konchar,149,MEM,2024-25
+Kennard,Williams Jr.,199,MEM,2024-25
+Kennard,Smart,66,MEM,2024-25
+Jackson,Morant,115,MEM,2024-25
+Clarke,Smart,100,MEM,2024-25
+Smart,Wells,42,MEM,2024-25
+Clarke,Huff,40,MEM,2024-25
+Clarke,Williams Jr.,122,MEM,2024-25
+Pippen Jr.,Williams Jr.,145,MEM,2024-25
+Aldama,Konchar,95,MEM,2024-25
+Bagley III,Konchar,26,MEM,2024-25
+Bagley III,Stevens,36,MEM,2024-25
+Bagley III,Spencer,46,MEM,2024-25
+Bagley III,Kawamura,19,MEM,2024-25
+Konchar,Stevens,32,MEM,2024-25
+Konchar,Spencer,85,MEM,2024-25
+Kawamura,Konchar,57,MEM,2024-25
+Spencer,Stevens,60,MEM,2024-25
+Kawamura,Stevens,16,MEM,2024-25
+Kawamura,Spencer,34,MEM,2024-25
+Huff,Williams Jr.,67,MEM,2024-25
+Bagley III,Kennard,13,MEM,2024-25
+Bagley III,Morant,30,MEM,2024-25
+Bagley III,Clarke,10,MEM,2024-25
+Bagley III,Wells,24,MEM,2024-25
+Jackson,Pippen Jr.,137,MEM,2024-25
+Jackson,Jackson Jr.,111,MEM,2024-25
+Bagley III,Williams Jr.,16,MEM,2024-25
+Bagley III,Jackson,33,MEM,2024-25
+Stevens,Williams Jr.,30,MEM,2024-25
+Jackson,Stevens,48,MEM,2024-25
+Jackson,Williams Jr.,53,MEM,2024-25
+Spencer,Williams Jr.,32,MEM,2024-25
+Jackson,Spencer,44,MEM,2024-25
+Huff,Jackson,71,MEM,2024-25
+Huff,Stevens,29,MEM,2024-25
+Huff,Spencer,77,MEM,2024-25
+Huff,Konchar,146,MEM,2024-25
+Castleton,Konchar,24,MEM,2024-25
+Castleton,Huff,24,MEM,2024-25
+Edey,Huff,25,MEM,2024-25
+Huff,Kawamura,56,MEM,2024-25
+Castleton,Edey,11,MEM,2024-25
+Castleton,Kawamura,28,MEM,2024-25
+Edey,Kawamura,16,MEM,2024-25
+Jackson,Konchar,49,MEM,2024-25
+Konchar,LaRavia,100,MEM,2024-25
+Aldama,Spencer,24,MEM,2024-25
+LaRavia,Spencer,59,MEM,2024-25
+Konchar,Morant,41,MEM,2024-25
+Jackson Jr.,Spencer,69,MEM,2024-25
+Pippen Jr.,Spencer,59,MEM,2024-25
+Edey,Spencer,29,MEM,2024-25
+Kennard,Spencer,56,MEM,2024-25
+Smart,Williams Jr.,15,MEM,2024-25
+Kennard,Stevens,35,MEM,2024-25
+Jackson Jr.,Stevens,23,MEM,2024-25
+Aldama,Stevens,16,MEM,2024-25
+Stevens,Wells,25,MEM,2024-25
+Konchar,Williams Jr.,34,MEM,2024-25
+Castleton,Kennard,14,MEM,2024-25
+Kawamura,Kennard,12,MEM,2024-25
+Castleton,Spencer,23,MEM,2024-25
+Clarke,Stevens,21,MEM,2024-25
+Pippen Jr.,Stevens,51,MEM,2024-25
+Jackson,LaRavia,28,MEM,2024-25
+Castleton,Wells,8,MEM,2024-25
+Spencer,Wells,45,MEM,2024-25
+Kawamura,Wells,18,MEM,2024-25
+Morant,Stevens,27,MEM,2024-25
+Bane,Stevens,43,MEM,2024-25
+Bagley III,Bane,28,MEM,2024-25
+Bagley III,Pippen Jr.,24,MEM,2024-25
+Bane,Castleton,9,MEM,2024-25
+Bane,Spencer,36,MEM,2024-25
+Castleton,Pippen Jr.,8,MEM,2024-25
+Bagley III,Jackson Jr.,5,MEM,2024-25
+Clarke,Spencer,34,MEM,2024-25
+Konchar,Smart,18,MEM,2024-25
+LaRavia,Williams Jr.,17,MEM,2024-25
+Aldama,Kawamura,9,MEM,2024-25
+Kawamura,LaRavia,22,MEM,2024-25
+Jackson,Kawamura,21,MEM,2024-25
+Aldama,Bagley III,7,MEM,2024-25
+Bagley III,Huff,15,MEM,2024-25
+Smart,Spencer,6,MEM,2024-25
+Castleton,Jackson Jr.,3,MEM,2024-25
+Edey,Stevens,16,MEM,2024-25
+Jackson,Smart,8,MEM,2024-25
+Clarke,Edey,10,MEM,2024-25
+Morant,Spencer,10,MEM,2024-25
+Kawamura,Williams Jr.,6,MEM,2024-25
+Castleton,LaRavia,4,MEM,2024-25
+Clarke,Kawamura,4,MEM,2024-25
+Castleton,Clarke,2,MEM,2024-25
+Aldama,Castleton,2,MEM,2024-25
+Konchar,Pullin,2,MEM,2024-25
+Huff,Pullin,2,MEM,2024-25
+Jackson,Pullin,2,MEM,2024-25
+Kawamura,Pullin,2,MEM,2024-25
+Hachimura,Reaves,1372,LAL,2024-25
+Christie,Hachimura,650,LAL,2024-25
+Davis,Hachimura,903,LAL,2024-25
+Hachimura,James,1264,LAL,2024-25
+Christie,Reaves,758,LAL,2024-25
+Davis,Reaves,1029,LAL,2024-25
+James,Reaves,1700,LAL,2024-25
+Christie,Davis,794,LAL,2024-25
+Christie,James,675,LAL,2024-25
+Davis,James,902,LAL,2024-25
+Dončić,Finney-Smith,660,LAL,2024-25
+Finney-Smith,Hachimura,433,LAL,2024-25
+Finney-Smith,Reaves,866,LAL,2024-25
+Finney-Smith,James,774,LAL,2024-25
+Dončić,Hachimura,347,LAL,2024-25
+Dončić,Reaves,661,LAL,2024-25
+Dončić,James,561,LAL,2024-25
+Hachimura,Russell,408,LAL,2024-25
+Reaves,Russell,365,LAL,2024-25
+Davis,Russell,504,LAL,2024-25
+James,Russell,463,LAL,2024-25
+Finney-Smith,Hayes,463,LAL,2024-25
+Dončić,Hayes,449,LAL,2024-25
+Hayes,Reaves,703,LAL,2024-25
+Hayes,James,786,LAL,2024-25
+Hachimura,Hayes,384,LAL,2024-25
+Hachimura,Reddish,233,LAL,2024-25
+Reaves,Reddish,327,LAL,2024-25
+Davis,Reddish,311,LAL,2024-25
+James,Reddish,370,LAL,2024-25
+Christie,Hayes,176,LAL,2024-25
+Christie,Finney-Smith,157,LAL,2024-25
+Davis,Finney-Smith,160,LAL,2024-25
+Finney-Smith,Vincent,504,LAL,2024-25
+Dončić,Vincent,434,LAL,2024-25
+Hayes,Vincent,452,LAL,2024-25
+James,Vincent,806,LAL,2024-25
+Knecht,Reddish,231,LAL,2024-25
+Knecht,Reaves,688,LAL,2024-25
+Davis,Knecht,532,LAL,2024-25
+James,Knecht,887,LAL,2024-25
+Christie,Knecht,359,LAL,2024-25
+Hachimura,Vincent,556,LAL,2024-25
+Reaves,Vincent,660,LAL,2024-25
+Christie,Vincent,347,LAL,2024-25
+Davis,Vincent,423,LAL,2024-25
+Christie,Russell,260,LAL,2024-25
+Finney-Smith,Goodwin,192,LAL,2024-25
+Dončić,Goodwin,217,LAL,2024-25
+Goodwin,Hayes,142,LAL,2024-25
+Goodwin,Reaves,245,LAL,2024-25
+Hachimura,Knecht,450,LAL,2024-25
+Knecht,Russell,335,LAL,2024-25
+Hayes,Knecht,301,LAL,2024-25
+Knecht,Vincent,502,LAL,2024-25
+Finney-Smith,Vanderbilt,254,LAL,2024-25
+Dončić,Vanderbilt,238,LAL,2024-25
+Reaves,Vanderbilt,343,LAL,2024-25
+James,Vanderbilt,276,LAL,2024-25
+Hayes,Russell,109,LAL,2024-25
+Vanderbilt,Vincent,279,LAL,2024-25
+Russell,Vincent,255,LAL,2024-25
+Koloko,Russell,107,LAL,2024-25
+Koloko,Vincent,153,LAL,2024-25
+Knecht,Koloko,218,LAL,2024-25
+James,Koloko,196,LAL,2024-25
+Finney-Smith,Knecht,211,LAL,2024-25
+Knecht,Vanderbilt,227,LAL,2024-25
+Goodwin,Hachimura,102,LAL,2024-25
+Goodwin,Vincent,211,LAL,2024-25
+Goodwin,Vanderbilt,182,LAL,2024-25
+Hachimura,Vanderbilt,118,LAL,2024-25
+Christie,Reddish,156,LAL,2024-25
+Knecht,Milton,202,LAL,2024-25
+James,Milton,213,LAL,2024-25
+Milton,Morris,72,LAL,2024-25
+Len,Milton,45,LAL,2024-25
+Knecht,Morris,69,LAL,2024-25
+Knecht,Len,71,LAL,2024-25
+James,Morris,54,LAL,2024-25
+James,Len,64,LAL,2024-25
+Len,Morris,36,LAL,2024-25
+Reddish,Russell,193,LAL,2024-25
+Reddish,Vincent,165,LAL,2024-25
+Finney-Smith,Milton,64,LAL,2024-25
+Hachimura,Milton,54,LAL,2024-25
+Christie,Koloko,95,LAL,2024-25
+Koloko,Vanderbilt,29,LAL,2024-25
+Dončić,Koloko,35,LAL,2024-25
+Dončić,Knecht,155,LAL,2024-25
+Goodwin,Knecht,205,LAL,2024-25
+Goodwin,James,187,LAL,2024-25
+Finney-Smith,Len,24,LAL,2024-25
+Dončić,Len,35,LAL,2024-25
+Len,Vincent,36,LAL,2024-25
+Len,Reaves,50,LAL,2024-25
+Hayes,Vanderbilt,77,LAL,2024-25
+Davis,Hayes,69,LAL,2024-25
+Goodwin,Milton,94,LAL,2024-25
+Koloko,Milton,77,LAL,2024-25
+Goodwin,Koloko,62,LAL,2024-25
+Milton,Reddish,51,LAL,2024-25
+Koloko,Reddish,96,LAL,2024-25
+Morris,Vincent,26,LAL,2024-25
+Hayes,Morris,17,LAL,2024-25
+Goodwin,Morris,74,LAL,2024-25
+Lewis,Vincent,17,LAL,2024-25
+Traore,Vincent,30,LAL,2024-25
+Christie,Lewis,21,LAL,2024-25
+Christie,Traore,38,LAL,2024-25
+Koloko,Lewis,28,LAL,2024-25
+Koloko,Traore,30,LAL,2024-25
+Lewis,Traore,27,LAL,2024-25
+Len,Vanderbilt,22,LAL,2024-25
+Goodwin,Len,39,LAL,2024-25
+Milton,Vanderbilt,56,LAL,2024-25
+Dončić,Milton,22,LAL,2024-25
+Jemison III,Milton,108,LAL,2024-25
+Jemison III,Vanderbilt,66,LAL,2024-25
+Dončić,Jemison III,54,LAL,2024-25
+Jemison III,Knecht,149,LAL,2024-25
+Milton,Vincent,33,LAL,2024-25
+Jemison III,Vincent,74,LAL,2024-25
+James,Jemison III,126,LAL,2024-25
+Hachimura,Koloko,50,LAL,2024-25
+Koloko,Reaves,98,LAL,2024-25
+Christie,Vanderbilt,21,LAL,2024-25
+Hayes,Milton,50,LAL,2024-25
+Finney-Smith,Reddish,29,LAL,2024-25
+Hayes,Reddish,73,LAL,2024-25
+Goodwin,Jemison III,89,LAL,2024-25
+Jemison III,Morris,18,LAL,2024-25
+Finney-Smith,Koloko,32,LAL,2024-25
+Lewis,Russell,6,LAL,2024-25
+Russell,Traore,17,LAL,2024-25
+Koloko,Morris,17,LAL,2024-25
+Milton,Reaves,67,LAL,2024-25
+Jemison III,Koloko,17,LAL,2024-25
+Christie,Milton,19,LAL,2024-25
+Davis,Milton,24,LAL,2024-25
+Finney-Smith,Jemison III,28,LAL,2024-25
+Hachimura,Len,14,LAL,2024-25
+Morris,Vanderbilt,12,LAL,2024-25
+Morris,Reaves,31,LAL,2024-25
+Jemison III,Reddish,14,LAL,2024-25
+Lewis,Reddish,6,LAL,2024-25
+Reddish,Traore,20,LAL,2024-25
+Christie,Hood-Schifino,13,LAL,2024-25
+Hood-Schifino,Knecht,5,LAL,2024-25
+Hood-Schifino,Traore,10,LAL,2024-25
+Davis,Hood-Schifino,12,LAL,2024-25
+Knecht,Traore,12,LAL,2024-25
+Davis,Traore,18,LAL,2024-25
+Milton,Traoré,5,LAL,2024-25
+Jemison III,Traoré,5,LAL,2024-25
+Knecht,Traoré,5,LAL,2024-25
+James,Traoré,5,LAL,2024-25
+Len,Reddish,7,LAL,2024-25
+Jemison III,Len,13,LAL,2024-25
+James,Traore,19,LAL,2024-25
+Jemison III,Reaves,45,LAL,2024-25
+Hachimura,Jemison III,23,LAL,2024-25
+Davis,Vanderbilt,9,LAL,2024-25
+Dončić,Morris,4,LAL,2024-25
+Christie,Jemison III,9,LAL,2024-25
+Hachimura,Morris,5,LAL,2024-25
+Hachimura,Olivari,3,LAL,2024-25
+Olivari,Vincent,5,LAL,2024-25
+Koloko,Olivari,6,LAL,2024-25
+Knecht,Olivari,5,LAL,2024-25
+Hachimura,Hood-Schifino,5,LAL,2024-25
+Hachimura,Traore,6,LAL,2024-25
+Finney-Smith,Morris,9,LAL,2024-25
+James,James,9,LAL,2024-25
+Goodwin,Reddish,11,LAL,2024-25
+Knecht,Lewis,5,LAL,2024-25
+James,Lewis,6,LAL,2024-25
+Lewis,Olivari,3,LAL,2024-25
+James,Olivari,3,LAL,2024-25
+Olivari,Traore,5,LAL,2024-25
+Reddish,Vanderbilt,3,LAL,2024-25
+Olivari,Russell,2,LAL,2024-25
+Olivari,Reddish,4,LAL,2024-25
+Davis,Olivari,2,LAL,2024-25
+Hayes,Olivari,2,LAL,2024-25
+Hood-Schifino,James,5,LAL,2024-25
+Hayes,Jemison III,2,LAL,2024-25
+Morris,Reddish,8,LAL,2024-25
+Hood-Schifino,Koloko,1,LAL,2024-25
+Hood-Schifino,Lewis,1,LAL,2024-25
+Hayes,Koloko,1,LAL,2024-25
+Dunn,Powell,981,LAC,2024-25
+Powell,Zubac,1610,LAC,2024-25
+Jones Jr.,Powell,1040,LAC,2024-25
+Harden,Powell,1564,LAC,2024-25
+Dunn,Zubac,1508,LAC,2024-25
+Dunn,Jones Jr.,721,LAC,2024-25
+Dunn,Harden,1459,LAC,2024-25
+Jones Jr.,Zubac,1384,LAC,2024-25
+Harden,Zubac,2181,LAC,2024-25
+Harden,Jones Jr.,1558,LAC,2024-25
+Leonard,Powell,627,LAC,2024-25
+Dunn,Leonard,583,LAC,2024-25
+Leonard,Zubac,957,LAC,2024-25
+Harden,Leonard,879,LAC,2024-25
+Jones Jr.,Leonard,482,LAC,2024-25
+Coffey,Dunn,627,LAC,2024-25
+Coffey,Zubac,926,LAC,2024-25
+Coffey,Jones Jr.,669,LAC,2024-25
+Coffey,Harden,970,LAC,2024-25
+Mann,Powell,327,LAC,2024-25
+Mann,Zubac,332,LAC,2024-25
+Jones Jr.,Mann,303,LAC,2024-25
+Harden,Mann,401,LAC,2024-25
+Coffey,Powell,570,LAC,2024-25
+Batum,Dunn,493,LAC,2024-25
+Batum,Zubac,614,LAC,2024-25
+Batum,Harden,807,LAC,2024-25
+Batum,Leonard,252,LAC,2024-25
+Bogdanović,Dunn,219,LAC,2024-25
+Bogdanović,Zubac,418,LAC,2024-25
+Batum,Bogdanović,341,LAC,2024-25
+Bogdanović,Harden,474,LAC,2024-25
+Bogdanović,Leonard,313,LAC,2024-25
+Dunn,Porter Jr.,232,LAC,2024-25
+Porter Jr.,Zubac,354,LAC,2024-25
+Coffey,Porter Jr.,580,LAC,2024-25
+Batum,Coffey,657,LAC,2024-25
+Batum,Porter Jr.,524,LAC,2024-25
+Bamba,Coffey,225,LAC,2024-25
+Bamba,Porter Jr.,231,LAC,2024-25
+Bamba,Batum,227,LAC,2024-25
+Bamba,Harden,144,LAC,2024-25
+Harden,Porter Jr.,305,LAC,2024-25
+Jones Jr.,Simmons,158,LAC,2024-25
+Batum,Simmons,172,LAC,2024-25
+Harden,Simmons,141,LAC,2024-25
+Bogdanović,Simmons,270,LAC,2024-25
+Batum,Jones Jr.,343,LAC,2024-25
+Bogdanović,Jones Jr.,358,LAC,2024-25
+Bamba,Mann,147,LAC,2024-25
+Bamba,Miller,156,LAC,2024-25
+Mann,Porter Jr.,331,LAC,2024-25
+Mann,Miller,159,LAC,2024-25
+Batum,Mann,288,LAC,2024-25
+Miller,Porter Jr.,180,LAC,2024-25
+Batum,Miller,168,LAC,2024-25
+Leonard,Simmons,108,LAC,2024-25
+Batum,Powell,378,LAC,2024-25
+Porter Jr.,Powell,297,LAC,2024-25
+Coffey,Mann,318,LAC,2024-25
+Coffey,Hyland,116,LAC,2024-25
+Coffey,Jones,109,LAC,2024-25
+Brown,Coffey,169,LAC,2024-25
+Coffey,Miller,203,LAC,2024-25
+Hyland,Jones,119,LAC,2024-25
+Brown,Hyland,91,LAC,2024-25
+Hyland,Miller,194,LAC,2024-25
+Brown,Jones,49,LAC,2024-25
+Jones,Miller,125,LAC,2024-25
+Brown,Miller,140,LAC,2024-25
+Coffey,Leonard,287,LAC,2024-25
+Bogdanović,Coffey,263,LAC,2024-25
+Bogdanović,Powell,144,LAC,2024-25
+Dunn,Jones,56,LAC,2024-25
+Jones,Porter Jr.,94,LAC,2024-25
+Batum,Jones,67,LAC,2024-25
+Coffey,Simmons,99,LAC,2024-25
+Jones Jr.,Porter Jr.,177,LAC,2024-25
+Brown,Jones Jr.,64,LAC,2024-25
+Brown,Mann,92,LAC,2024-25
+Brown,Porter Jr.,71,LAC,2024-25
+Bamba,Powell,65,LAC,2024-25
+Bamba,Dunn,41,LAC,2024-25
+Bamba,Jones Jr.,61,LAC,2024-25
+Harden,Jones,49,LAC,2024-25
+Bamba,Hyland,49,LAC,2024-25
+Bamba,Jones,21,LAC,2024-25
+Flowers,Hyland,14,LAC,2024-25
+Christie,Hyland,20,LAC,2024-25
+Flowers,Jones,15,LAC,2024-25
+Christie,Jones,21,LAC,2024-25
+Flowers,Miller,17,LAC,2024-25
+Christie,Miller,30,LAC,2024-25
+Christie,Flowers,26,LAC,2024-25
+Powell,Simmons,78,LAC,2024-25
+Simmons,Zubac,59,LAC,2024-25
+Hyland,Porter Jr.,87,LAC,2024-25
+Leonard,Porter Jr.,73,LAC,2024-25
+Leonard,Mann,52,LAC,2024-25
+Dunn,Mann,59,LAC,2024-25
+Jones,Powell,27,LAC,2024-25
+Jones,Jones Jr.,24,LAC,2024-25
+Jones,Mann,50,LAC,2024-25
+Hyland,Mann,56,LAC,2024-25
+Miller,Zubac,76,LAC,2024-25
+Eubanks,Jones Jr.,60,LAC,2024-25
+Jones Jr.,Mills,15,LAC,2024-25
+Coffey,Eubanks,110,LAC,2024-25
+Eubanks,Harden,61,LAC,2024-25
+Eubanks,Mills,52,LAC,2024-25
+Coffey,Mills,35,LAC,2024-25
+Harden,Mills,10,LAC,2024-25
+Dunn,Simmons,37,LAC,2024-25
+Bamba,Brown,27,LAC,2024-25
+Brown,Eubanks,68,LAC,2024-25
+Christie,Eubanks,23,LAC,2024-25
+Christie,Coffey,20,LAC,2024-25
+Brown,Christie,40,LAC,2024-25
+Brown,Mills,50,LAC,2024-25
+Christie,Mills,25,LAC,2024-25
+Batum,Hyland,45,LAC,2024-25
+Dunn,Eubanks,32,LAC,2024-25
+Batum,Eubanks,64,LAC,2024-25
+Harden,Miller,63,LAC,2024-25
+Bamba,Leonard,14,LAC,2024-25
+Eubanks,Leonard,43,LAC,2024-25
+Eubanks,Miller,32,LAC,2024-25
+Brown,Harden,48,LAC,2024-25
+Bogdanović,Eubanks,85,LAC,2024-25
+Miller,Mills,9,LAC,2024-25
+Miller,Powell,43,LAC,2024-25
+Eubanks,Mann,7,LAC,2024-25
+Eubanks,Hyland,7,LAC,2024-25
+Mann,Mills,7,LAC,2024-25
+Hyland,Mills,7,LAC,2024-25
+Bogdanović,Brown,57,LAC,2024-25
+Bogdanović,Mills,8,LAC,2024-25
+Brown,Zubac,19,LAC,2024-25
+Bogdanović,Miller,20,LAC,2024-25
+Brown,Powell,20,LAC,2024-25
+Brown,Leonard,18,LAC,2024-25
+Beauchamp,Eubanks,5,LAC,2024-25
+Beauchamp,Coffey,7,LAC,2024-25
+Beauchamp,Brown,14,LAC,2024-25
+Beauchamp,Mills,10,LAC,2024-25
+Eubanks,Powell,18,LAC,2024-25
+Eubanks,Simmons,23,LAC,2024-25
+Dunn,Miller,37,LAC,2024-25
+Dunn,Hyland,13,LAC,2024-25
+Brown,Dunn,19,LAC,2024-25
+Hyland,Powell,23,LAC,2024-25
+Hyland,Zubac,28,LAC,2024-25
+Hyland,Jones Jr.,13,LAC,2024-25
+Jones Jr.,Miller,30,LAC,2024-25
+Beauchamp,Simmons,8,LAC,2024-25
+Beauchamp,Zubac,7,LAC,2024-25
+Beauchamp,Harden,5,LAC,2024-25
+Beauchamp,Bogdanović,8,LAC,2024-25
+Brown,Simmons,14,LAC,2024-25
+Baldwin Jr.,Brown,6,LAC,2024-25
+Baldwin Jr.,Flowers,6,LAC,2024-25
+Baldwin Jr.,Christie,6,LAC,2024-25
+Baldwin Jr.,Mills,3,LAC,2024-25
+Brown,Flowers,12,LAC,2024-25
+Flowers,Mills,6,LAC,2024-25
+Christie,Zubac,3,LAC,2024-25
+Christie,Jones Jr.,4,LAC,2024-25
+Christie,Harden,3,LAC,2024-25
+Batum,Brown,8,LAC,2024-25
+Christie,Mann,3,LAC,2024-25
+Harden,Hyland,6,LAC,2024-25
+Eubanks,Flowers,7,LAC,2024-25
+Baldwin Jr.,Eubanks,3,LAC,2024-25
+Beauchamp,Jones,3,LAC,2024-25
+Jones,Mills,3,LAC,2024-25
+Beauchamp,Christie,3,LAC,2024-25
+Leonard,Miller,4,LAC,2024-25
+Beauchamp,Miller,2,LAC,2024-25
+Dunn,Mills,3,LAC,2024-25
+Bogdanović,Flowers,1,LAC,2024-25
+Bogdanović,Christie,1,LAC,2024-25
+Mills,Simmons,1,LAC,2024-25
+Christie,Dunn,0,LAC,2024-25
+Christie,Porter Jr.,0,LAC,2024-25
+Batum,Christie,0,LAC,2024-25
+Christie,Leonard,0,LAC,2024-25
+Mills,Zubac,0,LAC,2024-25
+Eubanks,Zubac,0,LAC,2024-25
+Siakam,Turner,1547,IND,2024-25
+Nembhard,Turner,1368,IND,2024-25
+Haliburton,Turner,1751,IND,2024-25
+Mathurin,Turner,1255,IND,2024-25
+Nembhard,Siakam,1327,IND,2024-25
+Haliburton,Siakam,1688,IND,2024-25
+Mathurin,Siakam,1433,IND,2024-25
+Haliburton,Nembhard,1482,IND,2024-25
+Mathurin,Nembhard,971,IND,2024-25
+Haliburton,Mathurin,1372,IND,2024-25
+Nesmith,Turner,741,IND,2024-25
+Nesmith,Siakam,824,IND,2024-25
+Nembhard,Nesmith,787,IND,2024-25
+Haliburton,Nesmith,757,IND,2024-25
+Sheppard,Turner,466,IND,2024-25
+Sheppard,Siakam,723,IND,2024-25
+Haliburton,Sheppard,403,IND,2024-25
+Mathurin,Sheppard,544,IND,2024-25
+Jackson,Turner,166,IND,2024-25
+Jackson,Siakam,213,IND,2024-25
+Haliburton,Jackson,220,IND,2024-25
+Jackson,Mathurin,259,IND,2024-25
+Toppin,Turner,530,IND,2024-25
+Nembhard,Toppin,586,IND,2024-25
+Haliburton,Toppin,848,IND,2024-25
+Mathurin,Toppin,780,IND,2024-25
+Nesmith,Toppin,334,IND,2024-25
+Bryant,Siakam,390,IND,2024-25
+Bryant,Nembhard,308,IND,2024-25
+Bryant,Haliburton,302,IND,2024-25
+Bryant,Nesmith,215,IND,2024-25
+Siakam,Walker,555,IND,2024-25
+McConnell,Siakam,826,IND,2024-25
+Bryant,Walker,316,IND,2024-25
+Bryant,Sheppard,439,IND,2024-25
+Bryant,McConnell,485,IND,2024-25
+Sheppard,Walker,373,IND,2024-25
+McConnell,Walker,651,IND,2024-25
+McConnell,Sheppard,683,IND,2024-25
+Mathurin,Nesmith,176,IND,2024-25
+Bryant,Mathurin,405,IND,2024-25
+Mathurin,McConnell,680,IND,2024-25
+Siakam,Toppin,468,IND,2024-25
+Sheppard,Toppin,547,IND,2024-25
+McConnell,Toppin,791,IND,2024-25
+Nesmith,Sheppard,233,IND,2024-25
+Furphy,Siakam,120,IND,2024-25
+Toppin,Walker,518,IND,2024-25
+Furphy,Toppin,144,IND,2024-25
+Furphy,Walker,247,IND,2024-25
+Furphy,McConnell,162,IND,2024-25
+Turner,Walker,385,IND,2024-25
+Haliburton,Walker,441,IND,2024-25
+Mathurin,Walker,471,IND,2024-25
+Bryant,Toppin,372,IND,2024-25
+McConnell,Turner,397,IND,2024-25
+Haliburton,McConnell,383,IND,2024-25
+McConnell,Nesmith,240,IND,2024-25
+Nembhard,Sheppard,238,IND,2024-25
+Nembhard,Walker,242,IND,2024-25
+Bradley,Jackson,68,IND,2024-25
+Bradley,Furphy,68,IND,2024-25
+Bradley,Freeman,26,IND,2024-25
+Bradley,Dennis,40,IND,2024-25
+Furphy,Jackson,120,IND,2024-25
+Freeman,Jackson,97,IND,2024-25
+Dennis,Jackson,29,IND,2024-25
+Freeman,Furphy,90,IND,2024-25
+Dennis,Furphy,63,IND,2024-25
+Dennis,Freeman,33,IND,2024-25
+McConnell,Nembhard,128,IND,2024-25
+Freeman,Siakam,48,IND,2024-25
+Freeman,Haliburton,50,IND,2024-25
+Freeman,Mathurin,69,IND,2024-25
+Freeman,Walker,110,IND,2024-25
+Jackson,Walker,155,IND,2024-25
+Jackson,Johnson,12,IND,2024-25
+Johnson,Walker,37,IND,2024-25
+Furphy,Johnson,37,IND,2024-25
+Freeman,Johnson,20,IND,2024-25
+Bradley,Walker,64,IND,2024-25
+Bradley,Sheppard,34,IND,2024-25
+Jackson,Sheppard,111,IND,2024-25
+Furphy,Sheppard,83,IND,2024-25
+Brown,Siakam,19,IND,2024-25
+Brown,Mathurin,24,IND,2024-25
+Brown,Walker,30,IND,2024-25
+Brown,McConnell,21,IND,2024-25
+Nesmith,Walker,102,IND,2024-25
+Furphy,Turner,73,IND,2024-25
+Furphy,Haliburton,61,IND,2024-25
+Furphy,Mathurin,106,IND,2024-25
+Jackson,Toppin,152,IND,2024-25
+Bryant,Furphy,91,IND,2024-25
+Jackson,McConnell,111,IND,2024-25
+Bryant,Dennis,22,IND,2024-25
+Dennis,Walker,50,IND,2024-25
+Dennis,Sheppard,14,IND,2024-25
+Bradley,Mathurin,37,IND,2024-25
+Dennis,Mathurin,15,IND,2024-25
+Jackson,Nesmith,44,IND,2024-25
+Jackson,Nembhard,20,IND,2024-25
+Brown,Jackson,19,IND,2024-25
+Brown,Newton,7,IND,2024-25
+Brown,Furphy,14,IND,2024-25
+Brown,Freeman,14,IND,2024-25
+Jackson,Newton,8,IND,2024-25
+Furphy,Newton,7,IND,2024-25
+Freeman,Newton,8,IND,2024-25
+Bradley,Toppin,31,IND,2024-25
+Freeman,Toppin,42,IND,2024-25
+Bryant,Jackson,44,IND,2024-25
+Freeman,Nembhard,16,IND,2024-25
+Freeman,McConnell,48,IND,2024-25
+Bryant,Johnson,7,IND,2024-25
+Johnson,Mathurin,5,IND,2024-25
+Bradley,McConnell,30,IND,2024-25
+Brown,Toppin,12,IND,2024-25
+Brown,Haliburton,13,IND,2024-25
+Freeman,Sheppard,37,IND,2024-25
+Bradley,Nembhard,15,IND,2024-25
+Bradley,Haliburton,6,IND,2024-25
+Bradley,Nesmith,11,IND,2024-25
+Brown,Johnson,4,IND,2024-25
+Furphy,Nembhard,20,IND,2024-25
+Bryant,Freeman,12,IND,2024-25
+Bradley,Siakam,5,IND,2024-25
+Bradley,Johnson,5,IND,2024-25
+Dennis,Johnson,9,IND,2024-25
+Johnson,Sheppard,9,IND,2024-25
+Okafor,Toppin,3,IND,2024-25
+Okafor,Walker,3,IND,2024-25
+Okafor,Sheppard,3,IND,2024-25
+Furphy,Okafor,3,IND,2024-25
+Dennis,Toppin,4,IND,2024-25
+Johnson,Toppin,3,IND,2024-25
+Dennis,McConnell,5,IND,2024-25
+Brown,Nembhard,3,IND,2024-25
+Freeman,Nesmith,3,IND,2024-25
+Furphy,Nesmith,7,IND,2024-25
+Freeman,Turner,5,IND,2024-25
+Toppin,Wiseman,2,IND,2024-25
+Haliburton,Wiseman,3,IND,2024-25
+Mathurin,Wiseman,2,IND,2024-25
+McConnell,Wiseman,3,IND,2024-25
+Siakam,Wiseman,2,IND,2024-25
+Nesmith,Wiseman,2,IND,2024-25
+Walker,Wiseman,1,IND,2024-25
+Nembhard,Wiseman,1,IND,2024-25
+Newton,Toppin,1,IND,2024-25
+Newton,Walker,1,IND,2024-25
+Brooks,VanVleet,1513,HOU,2024-25
+Green,VanVleet,1588,HOU,2024-25
+Sengun,VanVleet,1503,HOU,2024-25
+Smith Jr.,VanVleet,1039,HOU,2024-25
+Brooks,Green,2052,HOU,2024-25
+Brooks,Sengun,1745,HOU,2024-25
+Brooks,Smith Jr.,1030,HOU,2024-25
+Green,Sengun,1942,HOU,2024-25
+Green,Smith Jr.,1266,HOU,2024-25
+Sengun,Smith Jr.,1223,HOU,2024-25
+Thompson,VanVleet,1041,HOU,2024-25
+Brooks,Thompson,1241,HOU,2024-25
+Green,Thompson,1615,HOU,2024-25
+Sengun,Thompson,1314,HOU,2024-25
+Brooks,Eason,733,HOU,2024-25
+Eason,Green,936,HOU,2024-25
+Eason,Sengun,746,HOU,2024-25
+Eason,Thompson,879,HOU,2024-25
+Eason,VanVleet,621,HOU,2024-25
+Smith Jr.,Thompson,746,HOU,2024-25
+Eason,Smith Jr.,479,HOU,2024-25
+Green,Landale,332,HOU,2024-25
+Eason,Landale,215,HOU,2024-25
+Landale,Thompson,230,HOU,2024-25
+Landale,Sheppard,238,HOU,2024-25
+Green,Sheppard,324,HOU,2024-25
+Eason,Sheppard,267,HOU,2024-25
+Sheppard,Thompson,365,HOU,2024-25
+Adams,VanVleet,355,HOU,2024-25
+Adams,Brooks,348,HOU,2024-25
+Adams,Green,565,HOU,2024-25
+Adams,Thompson,487,HOU,2024-25
+Tate,VanVleet,190,HOU,2024-25
+Brooks,Tate,180,HOU,2024-25
+Green,Tate,395,HOU,2024-25
+Sengun,Tate,165,HOU,2024-25
+Brooks,Holiday,228,HOU,2024-25
+Green,Holiday,435,HOU,2024-25
+Holiday,Sengun,319,HOU,2024-25
+Holiday,Thompson,372,HOU,2024-25
+Adams,Eason,316,HOU,2024-25
+Adams,Sheppard,117,HOU,2024-25
+Adams,Smith Jr.,266,HOU,2024-25
+Green,Whitmore,445,HOU,2024-25
+Tate,Thompson,215,HOU,2024-25
+Tate,Whitmore,270,HOU,2024-25
+Adams,Tate,140,HOU,2024-25
+Thompson,Whitmore,364,HOU,2024-25
+Adams,Whitmore,217,HOU,2024-25
+Holiday,Landale,171,HOU,2024-25
+Holiday,Tate,204,HOU,2024-25
+Holiday,Williams,79,HOU,2024-25
+Holiday,Whitmore,271,HOU,2024-25
+Landale,Tate,132,HOU,2024-25
+Landale,Williams,71,HOU,2024-25
+Landale,Whitmore,226,HOU,2024-25
+Tate,Williams,74,HOU,2024-25
+Whitmore,Williams,110,HOU,2024-25
+Sengun,Whitmore,232,HOU,2024-25
+Sengun,Sheppard,194,HOU,2024-25
+Smith Jr.,Whitmore,117,HOU,2024-25
+Sheppard,Smith Jr.,169,HOU,2024-25
+Sheppard,Whitmore,292,HOU,2024-25
+Holiday,Sheppard,160,HOU,2024-25
+Sheppard,Tate,135,HOU,2024-25
+Green,Green,153,HOU,2024-25
+Brooks,Sheppard,102,HOU,2024-25
+Holiday,VanVleet,177,HOU,2024-25
+VanVleet,Whitmore,233,HOU,2024-25
+Adams,Holiday,199,HOU,2024-25
+Brooks,Whitmore,228,HOU,2024-25
+Eason,Holiday,187,HOU,2024-25
+Holiday,Smith Jr.,248,HOU,2024-25
+Adams,Sengun,160,HOU,2024-25
+Brooks,Landale,120,HOU,2024-25
+Landale,VanVleet,107,HOU,2024-25
+Sheppard,VanVleet,49,HOU,2024-25
+Landale,Smith Jr.,102,HOU,2024-25
+Eason,Tate,77,HOU,2024-25
+Eason,Whitmore,194,HOU,2024-25
+McVeigh,Williams,20,HOU,2024-25
+McVeigh,Whitmore,19,HOU,2024-25
+McVeigh,Sheppard,33,HOU,2024-25
+Dante,McVeigh,15,HOU,2024-25
+Sheppard,Williams,88,HOU,2024-25
+Dante,Williams,33,HOU,2024-25
+Dante,Whitmore,29,HOU,2024-25
+Dante,Sheppard,35,HOU,2024-25
+Smith Jr.,Tate,112,HOU,2024-25
+Green,Williams,53,HOU,2024-25
+Eason,Williams,6,HOU,2024-25
+Thompson,Williams,9,HOU,2024-25
+McVeigh,Roddy,12,HOU,2024-25
+Roddy,Williams,20,HOU,2024-25
+Roddy,Whitmore,17,HOU,2024-25
+Roddy,Sheppard,28,HOU,2024-25
+Holiday,McVeigh,23,HOU,2024-25
+Holiday,Roddy,22,HOU,2024-25
+Dante,Holiday,29,HOU,2024-25
+Dante,Roddy,20,HOU,2024-25
+McVeigh,Tate,22,HOU,2024-25
+Green,McVeigh,15,HOU,2024-25
+Dante,Tate,9,HOU,2024-25
+Smith Jr.,Williams,11,HOU,2024-25
+Dante,Smith Jr.,8,HOU,2024-25
+Landale,Sengun,5,HOU,2024-25
+Landale,McVeigh,13,HOU,2024-25
+Green,Roddy,13,HOU,2024-25
+Dante,Green,22,HOU,2024-25
+Landale,Roddy,8,HOU,2024-25
+Sengun,Williams,4,HOU,2024-25
+Adams,McVeigh,2,HOU,2024-25
+Adams,Landale,2,HOU,2024-25
+Dante,Eason,4,HOU,2024-25
+Adams,Williams,2,HOU,2024-25
+McVeigh,Thompson,2,HOU,2024-25
+Moody,Podziemski,820,GSW,2024-25
+Curry,Moody,783,GSW,2024-25
+Butler III,Moody,614,GSW,2024-25
+Green,Moody,871,GSW,2024-25
+Curry,Podziemski,630,GSW,2024-25
+Butler III,Podziemski,643,GSW,2024-25
+Green,Podziemski,882,GSW,2024-25
+Butler III,Curry,514,GSW,2024-25
+Curry,Green,1395,GSW,2024-25
+Butler III,Green,734,GSW,2024-25
+Moody,Post,359,GSW,2024-25
+Podziemski,Post,337,GSW,2024-25
+Butler III,Post,350,GSW,2024-25
+Green,Post,427,GSW,2024-25
+Jackson-Davis,Waters III,263,GSW,2024-25
+Curry,Waters III,239,GSW,2024-25
+Green,Waters III,269,GSW,2024-25
+Waters III,Wiggins,249,GSW,2024-25
+Curry,Jackson-Davis,471,GSW,2024-25
+Green,Jackson-Davis,380,GSW,2024-25
+Jackson-Davis,Wiggins,565,GSW,2024-25
+Curry,Wiggins,860,GSW,2024-25
+Green,Wiggins,644,GSW,2024-25
+Jackson-Davis,Schröder,362,GSW,2024-25
+Curry,Schröder,262,GSW,2024-25
+Green,Schröder,191,GSW,2024-25
+Schröder,Wiggins,414,GSW,2024-25
+Hield,Looney,737,GSW,2024-25
+Looney,Payton II,355,GSW,2024-25
+Kuminga,Looney,403,GSW,2024-25
+Curry,Looney,591,GSW,2024-25
+Hield,Payton II,494,GSW,2024-25
+Hield,Kuminga,674,GSW,2024-25
+Curry,Hield,953,GSW,2024-25
+Kuminga,Payton II,203,GSW,2024-25
+Curry,Payton II,638,GSW,2024-25
+Curry,Kuminga,528,GSW,2024-25
+Curry,Post,271,GSW,2024-25
+Hield,Podziemski,641,GSW,2024-25
+Hield,Post,263,GSW,2024-25
+Butler III,Hield,342,GSW,2024-25
+Green,Hield,664,GSW,2024-25
+Looney,Santos,355,GSW,2024-25
+Hield,Santos,340,GSW,2024-25
+Payton II,Santos,102,GSW,2024-25
+Curry,Santos,380,GSW,2024-25
+Green,Payton II,408,GSW,2024-25
+Green,Kuminga,432,GSW,2024-25
+Kuminga,Santos,127,GSW,2024-25
+Hield,Wiggins,462,GSW,2024-25
+Kuminga,Wiggins,321,GSW,2024-25
+Jackson-Davis,Kuminga,206,GSW,2024-25
+Hield,Moody,486,GSW,2024-25
+Looney,Podziemski,495,GSW,2024-25
+Butler III,Looney,170,GSW,2024-25
+Podziemski,Santos,233,GSW,2024-25
+Butler III,Santos,135,GSW,2024-25
+Looney,Moody,348,GSW,2024-25
+Kuminga,Moody,269,GSW,2024-25
+Kuminga,Podziemski,517,GSW,2024-25
+Moody,Payton II,264,GSW,2024-25
+Payton II,Post,123,GSW,2024-25
+Butler III,Payton II,185,GSW,2024-25
+Payton II,Wiggins,228,GSW,2024-25
+Kuminga,Schröder,119,GSW,2024-25
+Anderson,Hield,277,GSW,2024-25
+Anderson,Kuminga,151,GSW,2024-25
+Anderson,Moody,214,GSW,2024-25
+Anderson,Podziemski,183,GSW,2024-25
+Kuminga,Waters III,205,GSW,2024-25
+Podziemski,Waters III,202,GSW,2024-25
+Podziemski,Wiggins,318,GSW,2024-25
+Looney,Wiggins,283,GSW,2024-25
+Hield,Jackson-Davis,372,GSW,2024-25
+Hield,Schröder,234,GSW,2024-25
+Jackson-Davis,Moody,270,GSW,2024-25
+Moody,Schröder,186,GSW,2024-25
+Moody,Wiggins,220,GSW,2024-25
+Moody,Santos,299,GSW,2024-25
+Green,Santos,144,GSW,2024-25
+Butler III,Kuminga,115,GSW,2024-25
+Jackson-Davis,Santos,114,GSW,2024-25
+Santos,Schröder,116,GSW,2024-25
+Santos,Wiggins,103,GSW,2024-25
+Payton II,Podziemski,250,GSW,2024-25
+Jackson-Davis,Payton II,102,GSW,2024-25
+Moody,Waters III,170,GSW,2024-25
+Jackson-Davis,Podziemski,238,GSW,2024-25
+Kuminga,Post,60,GSW,2024-25
+Post,Wiggins,71,GSW,2024-25
+Kuminga,Melton,49,GSW,2024-25
+Curry,Melton,44,GSW,2024-25
+Green,Melton,49,GSW,2024-25
+Melton,Wiggins,51,GSW,2024-25
+Looney,Waters III,160,GSW,2024-25
+Anderson,Looney,112,GSW,2024-25
+Hield,Waters III,182,GSW,2024-25
+Anderson,Waters III,197,GSW,2024-25
+Anderson,Curry,142,GSW,2024-25
+Anderson,Green,107,GSW,2024-25
+Anderson,Wiggins,161,GSW,2024-25
+Schröder,Waters III,96,GSW,2024-25
+Anderson,Jackson-Davis,191,GSW,2024-25
+Anderson,Schröder,103,GSW,2024-25
+Looney,Spencer,82,GSW,2024-25
+Spencer,Waters III,70,GSW,2024-25
+Moody,Spencer,93,GSW,2024-25
+Santos,Spencer,109,GSW,2024-25
+Santos,Waters III,104,GSW,2024-25
+Jackson-Davis,Melton,25,GSW,2024-25
+Green,Looney,85,GSW,2024-25
+Payton II,Waters III,64,GSW,2024-25
+Melton,Payton II,24,GSW,2024-25
+Looney,Schröder,124,GSW,2024-25
+Looney,Melton,45,GSW,2024-25
+Hield,Melton,30,GSW,2024-25
+Melton,Podziemski,57,GSW,2024-25
+Post,Spencer,66,GSW,2024-25
+Post,Waters III,34,GSW,2024-25
+Post,Santos,152,GSW,2024-25
+Podziemski,Schröder,114,GSW,2024-25
+Post,Schröder,43,GSW,2024-25
+Payton II,Schröder,40,GSW,2024-25
+Butler III,Spencer,14,GSW,2024-25
+Green,Spencer,34,GSW,2024-25
+Anderson,Santos,47,GSW,2024-25
+Hield,Spencer,92,GSW,2024-25
+Jackson-Davis,Spencer,80,GSW,2024-25
+Anderson,Spencer,44,GSW,2024-25
+Knox II,Spencer,50,GSW,2024-25
+Collins,Knox II,16,GSW,2024-25
+Knox II,Rowe,17,GSW,2024-25
+Knox II,Post,35,GSW,2024-25
+Collins,Spencer,16,GSW,2024-25
+Rowe,Spencer,40,GSW,2024-25
+Collins,Rowe,8,GSW,2024-25
+Collins,Post,16,GSW,2024-25
+Post,Rowe,17,GSW,2024-25
+Knox II,Santos,46,GSW,2024-25
+Collins,Santos,8,GSW,2024-25
+Melton,Moody,43,GSW,2024-25
+Anderson,Melton,35,GSW,2024-25
+Jackson-Davis,Knox II,34,GSW,2024-25
+Jackson-Davis,Post,11,GSW,2024-25
+Key,Knox II,11,GSW,2024-25
+Key,Spencer,11,GSW,2024-25
+Jackson-Davis,Key,11,GSW,2024-25
+Key,Rowe,7,GSW,2024-25
+Jackson-Davis,Rowe,17,GSW,2024-25
+Knox II,Looney,25,GSW,2024-25
+Hield,Knox II,29,GSW,2024-25
+Curry,Knox II,9,GSW,2024-25
+Curry,Spencer,28,GSW,2024-25
+Anderson,Post,11,GSW,2024-25
+Knox II,Podziemski,20,GSW,2024-25
+Butler III,Knox II,6,GSW,2024-25
+Kuminga,Spencer,25,GSW,2024-25
+Spencer,Wiggins,18,GSW,2024-25
+Knox II,Moody,8,GSW,2024-25
+Knox II,Kuminga,4,GSW,2024-25
+Anderson,Payton II,33,GSW,2024-25
+Key,Santos,4,GSW,2024-25
+Hield,Rowe,12,GSW,2024-25
+Curry,Rowe,10,GSW,2024-25
+Green,Rowe,10,GSW,2024-25
+Butler III,Jackson-Davis,10,GSW,2024-25
+Moody,Rowe,12,GSW,2024-25
+Rowe,Santos,9,GSW,2024-25
+Payton II,Spencer,16,GSW,2024-25
+Podziemski,Spencer,29,GSW,2024-25
+Green,Knox II,4,GSW,2024-25
+Jackson-Davis,Looney,7,GSW,2024-25
+Looney,Rowe,11,GSW,2024-25
+Payton II,Rowe,5,GSW,2024-25
+Podziemski,Rowe,21,GSW,2024-25
+Beekman,Spencer,3,GSW,2024-25
+Beekman,Moody,3,GSW,2024-25
+Beekman,Santos,3,GSW,2024-25
+Beekman,Jackson-Davis,3,GSW,2024-25
+Butler,Santos,2,GSW,2024-25
+Butler,Podziemski,2,GSW,2024-25
+Butler,Post,2,GSW,2024-25
+Butler,Green,2,GSW,2024-25
+Knox II,Payton II,2,GSW,2024-25
+Cunningham,Duren,1546,DET,2024-25
+Cunningham,Thompson,904,DET,2024-25
+Cunningham,Harris,1723,DET,2024-25
+Cunningham,Hardaway Jr.,1603,DET,2024-25
+Duren,Thompson,944,DET,2024-25
+Duren,Harris,1528,DET,2024-25
+Duren,Hardaway Jr.,1528,DET,2024-25
+Harris,Thompson,795,DET,2024-25
+Hardaway Jr.,Thompson,957,DET,2024-25
+Hardaway Jr.,Harris,1563,DET,2024-25
+Cunningham,Ivey,520,DET,2024-25
+Duren,Ivey,491,DET,2024-25
+Harris,Ivey,648,DET,2024-25
+Hardaway Jr.,Ivey,522,DET,2024-25
+Beasley,Cunningham,1229,DET,2024-25
+Beasley,Duren,941,DET,2024-25
+Beasley,Harris,1094,DET,2024-25
+Beasley,Hardaway Jr.,817,DET,2024-25
+Beasley,Stewart,1057,DET,2024-25
+Beasley,Sasser,444,DET,2024-25
+Beasley,Fontecchio,909,DET,2024-25
+Beasley,Holland II,809,DET,2024-25
+Sasser,Stewart,361,DET,2024-25
+Fontecchio,Stewart,727,DET,2024-25
+Holland II,Stewart,703,DET,2024-25
+Fontecchio,Sasser,383,DET,2024-25
+Holland II,Sasser,451,DET,2024-25
+Fontecchio,Holland II,729,DET,2024-25
+Cunningham,Stewart,731,DET,2024-25
+Cunningham,Fontecchio,454,DET,2024-25
+Cunningham,Holland II,486,DET,2024-25
+Beasley,Schröder,502,DET,2024-25
+Schröder,Stewart,340,DET,2024-25
+Fontecchio,Schröder,264,DET,2024-25
+Holland II,Schröder,258,DET,2024-25
+Ivey,Stewart,335,DET,2024-25
+Harris,Stewart,652,DET,2024-25
+Hardaway Jr.,Stewart,468,DET,2024-25
+Beasley,Ivey,445,DET,2024-25
+Fontecchio,Ivey,223,DET,2024-25
+Holland II,Ivey,201,DET,2024-25
+Beasley,Thompson,506,DET,2024-25
+Duren,Schröder,307,DET,2024-25
+Schröder,Thompson,255,DET,2024-25
+Hardaway Jr.,Schröder,291,DET,2024-25
+Harris,Sasser,289,DET,2024-25
+Fontecchio,Harris,269,DET,2024-25
+Stewart,Thompson,239,DET,2024-25
+Harris,Schröder,247,DET,2024-25
+Duren,Fontecchio,244,DET,2024-25
+Cunningham,Schröder,244,DET,2024-25
+Harris,Holland II,251,DET,2024-25
+Duren,Sasser,211,DET,2024-25
+Sasser,Thompson,178,DET,2024-25
+Hardaway Jr.,Sasser,208,DET,2024-25
+Beasley,Reed,252,DET,2024-25
+Reed,Sasser,208,DET,2024-25
+Fontecchio,Reed,246,DET,2024-25
+Holland II,Reed,243,DET,2024-25
+Duren,Holland II,297,DET,2024-25
+Fontecchio,Hardaway Jr.,209,DET,2024-25
+Hardaway Jr.,Holland II,249,DET,2024-25
+Moore Jr.,Reed,84,DET,2024-25
+Moore Jr.,Sasser,138,DET,2024-25
+Fontecchio,Moore Jr.,83,DET,2024-25
+Holland II,Moore Jr.,133,DET,2024-25
+Ivey,Reed,60,DET,2024-25
+Reed,Waters III,70,DET,2024-25
+Sasser,Waters III,74,DET,2024-25
+Fontecchio,Waters III,52,DET,2024-25
+Holland II,Waters III,57,DET,2024-25
+Reed,Thompson,112,DET,2024-25
+Moore Jr.,Thompson,36,DET,2024-25
+Holland II,Thompson,145,DET,2024-25
+Cunningham,Reed,139,DET,2024-25
+Harris,Reed,93,DET,2024-25
+Hardaway Jr.,Reed,120,DET,2024-25
+Cunningham,Sasser,143,DET,2024-25
+Cunningham,Moore Jr.,74,DET,2024-25
+Duren,Moore Jr.,59,DET,2024-25
+Harris,Moore Jr.,57,DET,2024-25
+Hardaway Jr.,Moore Jr.,18,DET,2024-25
+Ivey,Thompson,66,DET,2024-25
+Fontecchio,Thompson,115,DET,2024-25
+Harper Jr.,Waters III,17,DET,2024-25
+Klintman,Waters III,34,DET,2024-25
+Smith,Waters III,22,DET,2024-25
+Harper Jr.,Sasser,14,DET,2024-25
+Harper Jr.,Klintman,16,DET,2024-25
+Harper Jr.,Smith,15,DET,2024-25
+Klintman,Sasser,30,DET,2024-25
+Sasser,Smith,18,DET,2024-25
+Klintman,Smith,14,DET,2024-25
+Sasser,Schröder,33,DET,2024-25
+Moore Jr.,Stewart,78,DET,2024-25
+Klintman,Reed,28,DET,2024-25
+Holland II,Klintman,18,DET,2024-25
+Beasley,Moore Jr.,60,DET,2024-25
+Ivey,Moore Jr.,38,DET,2024-25
+Ivey,Sasser,31,DET,2024-25
+Reed,Schröder,51,DET,2024-25
+Beasley,Waters III,40,DET,2024-25
+Duren,Waters III,30,DET,2024-25
+Thompson,Waters III,33,DET,2024-25
+Fontecchio,Smith,7,DET,2024-25
+Holland II,Smith,7,DET,2024-25
+Schröder,Waters III,24,DET,2024-25
+Jenkins,Reed,17,DET,2024-25
+Jenkins,Moore Jr.,8,DET,2024-25
+Jenkins,Sasser,6,DET,2024-25
+Holland II,Jenkins,11,DET,2024-25
+Hardaway Jr.,Waters III,23,DET,2024-25
+Klintman,Moore Jr.,8,DET,2024-25
+Beasley,Klintman,6,DET,2024-25
+Duren,Stewart,7,DET,2024-25
+Reed,Stewart,7,DET,2024-25
+Reed,Williams,4,DET,2024-25
+Reed,Swider,9,DET,2024-25
+Sasser,Williams,4,DET,2024-25
+Sasser,Swider,12,DET,2024-25
+Swider,Williams,4,DET,2024-25
+Holland II,Williams,4,DET,2024-25
+Holland II,Swider,12,DET,2024-25
+Harris,Waters III,7,DET,2024-25
+Moore Jr.,Swider,6,DET,2024-25
+Beasley,Jenkins,5,DET,2024-25
+Jenkins,Waters III,14,DET,2024-25
+Fontecchio,Jenkins,6,DET,2024-25
+Harper Jr.,Jenkins,4,DET,2024-25
+Jenkins,Klintman,12,DET,2024-25
+Jenkins,Smith,5,DET,2024-25
+Stewart,Waters III,3,DET,2024-25
+Fontecchio,Klintman,2,DET,2024-25
+Swider,Thompson,3,DET,2024-25
+Harper Jr.,Reed,2,DET,2024-25
+Duren,Reed,3,DET,2024-25
+Fontecchio,Swider,2,DET,2024-25
+Jenkins,Thompson,0,DET,2024-25
+Murray,Porter Jr.,1675,DEN,2024-25
+Braun,Murray,1726,DEN,2024-25
+Gordon,Murray,912,DEN,2024-25
+Jokić,Murray,1620,DEN,2024-25
+Braun,Porter Jr.,1884,DEN,2024-25
+Gordon,Porter Jr.,984,DEN,2024-25
+Jokić,Porter Jr.,1849,DEN,2024-25
+Braun,Gordon,1084,DEN,2024-25
+Braun,Jokić,2092,DEN,2024-25
+Gordon,Jokić,1120,DEN,2024-25
+Murray,Westbrook,1060,DEN,2024-25
+Porter Jr.,Westbrook,1390,DEN,2024-25
+Braun,Westbrook,1262,DEN,2024-25
+Jokić,Westbrook,1340,DEN,2024-25
+Murray,Watson,910,DEN,2024-25
+Porter Jr.,Watson,895,DEN,2024-25
+Braun,Watson,919,DEN,2024-25
+Jokić,Watson,899,DEN,2024-25
+Gordon,Westbrook,587,DEN,2024-25
+Watson,Westbrook,876,DEN,2024-25
+Porter Jr.,Strawther,545,DEN,2024-25
+Braun,Strawther,607,DEN,2024-25
+Strawther,Westbrook,650,DEN,2024-25
+Jokić,Strawther,656,DEN,2024-25
+Murray,Strawther,686,DEN,2024-25
+Gordon,Strawther,339,DEN,2024-25
+Pickett,Porter Jr.,268,DEN,2024-25
+Braun,Pickett,335,DEN,2024-25
+Gordon,Pickett,131,DEN,2024-25
+Jokić,Pickett,334,DEN,2024-25
+Gordon,Watson,378,DEN,2024-25
+Jordan,Murray,445,DEN,2024-25
+Jordan,Porter Jr.,321,DEN,2024-25
+Braun,Jordan,304,DEN,2024-25
+Jordan,Westbrook,345,DEN,2024-25
+Strawther,Watson,710,DEN,2024-25
+Jordan,Strawther,420,DEN,2024-25
+Jordan,Watson,339,DEN,2024-25
+Murray,Nnaji,269,DEN,2024-25
+Nnaji,Porter Jr.,267,DEN,2024-25
+Braun,Nnaji,258,DEN,2024-25
+Jokić,Nnaji,246,DEN,2024-25
+Murray,Šarić,141,DEN,2024-25
+Porter Jr.,Šarić,135,DEN,2024-25
+Braun,Šarić,130,DEN,2024-25
+Watson,Šarić,139,DEN,2024-25
+Nnaji,Watson,160,DEN,2024-25
+Nnaji,Westbrook,270,DEN,2024-25
+Gordon,Jordan,138,DEN,2024-25
+Murray,Pickett,118,DEN,2024-25
+Nnaji,Pickett,296,DEN,2024-25
+Pickett,Watson,229,DEN,2024-25
+Westbrook,Šarić,112,DEN,2024-25
+Strawther,Šarić,119,DEN,2024-25
+Nnaji,Strawther,256,DEN,2024-25
+Jordan,Nnaji,123,DEN,2024-25
+Pickett,Strawther,213,DEN,2024-25
+Jordan,Pickett,140,DEN,2024-25
+Alexander,Pickett,63,DEN,2024-25
+Pickett,Tyson,168,DEN,2024-25
+Alexander,Nnaji,54,DEN,2024-25
+Nnaji,Tyson,125,DEN,2024-25
+Alexander,Strawther,58,DEN,2024-25
+Strawther,Tyson,245,DEN,2024-25
+Alexander,Tyson,75,DEN,2024-25
+Hall,Pickett,56,DEN,2024-25
+Jones,Pickett,88,DEN,2024-25
+Alexander,Hall,36,DEN,2024-25
+Alexander,Jones,45,DEN,2024-25
+Hall,Tyson,63,DEN,2024-25
+Hall,Jones,43,DEN,2024-25
+Jones,Tyson,65,DEN,2024-25
+Porter Jr.,Tyson,70,DEN,2024-25
+Tyson,Watson,128,DEN,2024-25
+Tyson,Westbrook,156,DEN,2024-25
+Gordon,Tyson,54,DEN,2024-25
+Murray,Tyson,82,DEN,2024-25
+Jordan,Tyson,125,DEN,2024-25
+Pickett,Westbrook,156,DEN,2024-25
+Hall,Nnaji,30,DEN,2024-25
+Hall,Strawther,23,DEN,2024-25
+Pickett,Čančar,64,DEN,2024-25
+Hall,Čančar,17,DEN,2024-25
+Tyson,Čančar,41,DEN,2024-25
+Jones,Čančar,58,DEN,2024-25
+Jokić,Tyson,113,DEN,2024-25
+Braun,Tyson,80,DEN,2024-25
+Porter Jr.,Čančar,52,DEN,2024-25
+Watson,Čančar,28,DEN,2024-25
+Westbrook,Čančar,86,DEN,2024-25
+Gordon,Čančar,15,DEN,2024-25
+Pickett,Šarić,25,DEN,2024-25
+Nnaji,Čančar,40,DEN,2024-25
+Jones,Porter Jr.,21,DEN,2024-25
+Jones,Nnaji,42,DEN,2024-25
+Jones,Watson,15,DEN,2024-25
+Jones,Westbrook,47,DEN,2024-25
+Gordon,Jones,21,DEN,2024-25
+Alexander,Westbrook,35,DEN,2024-25
+Alexander,Jordan,19,DEN,2024-25
+Jones,Strawther,12,DEN,2024-25
+Strawther,Čančar,29,DEN,2024-25
+Braun,Čančar,23,DEN,2024-25
+Jones,Jordan,14,DEN,2024-25
+Braun,Jones,8,DEN,2024-25
+Alexander,Porter Jr.,16,DEN,2024-25
+Alexander,Jokić,13,DEN,2024-25
+Gordon,Nnaji,16,DEN,2024-25
+Jordan,Čančar,24,DEN,2024-25
+Tyson,Šarić,10,DEN,2024-25
+Alexander,Čančar,29,DEN,2024-25
+Čančar,Šarić,12,DEN,2024-25
+Alexander,Šarić,9,DEN,2024-25
+Jones,Šarić,11,DEN,2024-25
+Murray,Čančar,23,DEN,2024-25
+Jordan,Šarić,3,DEN,2024-25
+Alexander,Murray,9,DEN,2024-25
+Jokić,Šarić,5,DEN,2024-25
+Alexander,Braun,4,DEN,2024-25
+Alexander,Watson,11,DEN,2024-25
+Jokić,Jones,2,DEN,2024-25
+Jokić,Čančar,3,DEN,2024-25
+Gordon,Šarić,1,DEN,2024-25
+Jones,Murray,0,DEN,2024-25
+Jokić,Jordan,0,DEN,2024-25
+Dončić,Washington,409,DAL,2024-25
+Lively II,Washington,539,DAL,2024-25
+Irving,Washington,924,DAL,2024-25
+Thompson,Washington,982,DAL,2024-25
+Dončić,Lively II,310,DAL,2024-25
+Dončić,Irving,481,DAL,2024-25
+Dončić,Thompson,480,DAL,2024-25
+Irving,Lively II,418,DAL,2024-25
+Lively II,Thompson,472,DAL,2024-25
+Irving,Thompson,936,DAL,2024-25
+Gafford,Washington,599,DAL,2024-25
+Dončić,Gafford,328,DAL,2024-25
+Gafford,Irving,749,DAL,2024-25
+Gafford,Thompson,573,DAL,2024-25
+Dinwiddie,Washington,895,DAL,2024-25
+Dinwiddie,Gafford,577,DAL,2024-25
+Dinwiddie,Irving,663,DAL,2024-25
+Dinwiddie,Thompson,807,DAL,2024-25
+Dončić,Marshall,238,DAL,2024-25
+Gafford,Marshall,438,DAL,2024-25
+Irving,Marshall,650,DAL,2024-25
+Marshall,Thompson,724,DAL,2024-25
+Marshall,Washington,617,DAL,2024-25
+Lively II,Marshall,315,DAL,2024-25
+Dinwiddie,Marshall,948,DAL,2024-25
+Dinwiddie,Lively II,341,DAL,2024-25
+Christie,Marshall,620,DAL,2024-25
+Marshall,Prosper,152,DAL,2024-25
+Christie,Prosper,112,DAL,2024-25
+Christie,Irving,239,DAL,2024-25
+Christie,Dinwiddie,506,DAL,2024-25
+Irving,Prosper,212,DAL,2024-25
+Dinwiddie,Prosper,264,DAL,2024-25
+Grimes,Washington,493,DAL,2024-25
+Grimes,Lively II,298,DAL,2024-25
+Grimes,Irving,469,DAL,2024-25
+Grimes,Thompson,249,DAL,2024-25
+Edwards,Gafford,93,DAL,2024-25
+Exum,Gafford,59,DAL,2024-25
+Edwards,Irving,165,DAL,2024-25
+Edwards,Thompson,256,DAL,2024-25
+Edwards,Exum,158,DAL,2024-25
+Exum,Irving,112,DAL,2024-25
+Exum,Thompson,176,DAL,2024-25
+Edwards,Marshall,256,DAL,2024-25
+Exum,Marshall,161,DAL,2024-25
+Christie,Edwards,237,DAL,2024-25
+Christie,Thompson,320,DAL,2024-25
+Christie,Exum,138,DAL,2024-25
+Marshall,Powell,232,DAL,2024-25
+Christie,Powell,178,DAL,2024-25
+Powell,Thompson,137,DAL,2024-25
+Dinwiddie,Powell,231,DAL,2024-25
+Dinwiddie,Grimes,480,DAL,2024-25
+Gafford,Grimes,394,DAL,2024-25
+Jones,Washington,95,DAL,2024-25
+Jones,Marshall,151,DAL,2024-25
+Jones,Thompson,99,DAL,2024-25
+Dinwiddie,Jones,178,DAL,2024-25
+Dončić,Grimes,200,DAL,2024-25
+Christie,Washington,204,DAL,2024-25
+Christie,Jones,124,DAL,2024-25
+Marshall,Williams,229,DAL,2024-25
+Edwards,Williams,157,DAL,2024-25
+Christie,Williams,207,DAL,2024-25
+Dinwiddie,Williams,169,DAL,2024-25
+Dinwiddie,Edwards,252,DAL,2024-25
+Grimes,Marshall,279,DAL,2024-25
+Gafford,Kleber,195,DAL,2024-25
+Grimes,Kleber,323,DAL,2024-25
+Irving,Kleber,298,DAL,2024-25
+Dinwiddie,Kleber,335,DAL,2024-25
+Christie,Gafford,125,DAL,2024-25
+Hardy,Washington,256,DAL,2024-25
+Grimes,Hardy,247,DAL,2024-25
+Hardy,Lively II,168,DAL,2024-25
+Dinwiddie,Hardy,340,DAL,2024-25
+Kleber,Thompson,187,DAL,2024-25
+Kleber,Washington,239,DAL,2024-25
+Davis,Washington,117,DAL,2024-25
+Davis,Jones,49,DAL,2024-25
+Davis,Thompson,159,DAL,2024-25
+Davis,Dinwiddie,135,DAL,2024-25
+Kleber,Marshall,182,DAL,2024-25
+Dinwiddie,Dončić,189,DAL,2024-25
+Davis,Marshall,123,DAL,2024-25
+Davis,Lively II,48,DAL,2024-25
+Edwards,Washington,84,DAL,2024-25
+Brown,Marshall,38,DAL,2024-25
+Brown,Christie,49,DAL,2024-25
+Brown,Irving,46,DAL,2024-25
+Brown,Thompson,40,DAL,2024-25
+Dončić,Powell,45,DAL,2024-25
+Irving,Powell,88,DAL,2024-25
+Thompson,Williams,125,DAL,2024-25
+Exum,Washington,41,DAL,2024-25
+Grimes,Williams,55,DAL,2024-25
+Grimes,Prosper,156,DAL,2024-25
+Grimes,Powell,101,DAL,2024-25
+Hardy,Williams,118,DAL,2024-25
+Prosper,Williams,91,DAL,2024-25
+Powell,Williams,129,DAL,2024-25
+Hardy,Prosper,109,DAL,2024-25
+Hardy,Powell,150,DAL,2024-25
+Powell,Prosper,88,DAL,2024-25
+Hardy,Marshall,368,DAL,2024-25
+Christie,Hardy,154,DAL,2024-25
+Hardy,Irving,160,DAL,2024-25
+Prosper,Washington,69,DAL,2024-25
+Gafford,Prosper,91,DAL,2024-25
+Hardy,Jones,61,DAL,2024-25
+Jones,Powell,21,DAL,2024-25
+Prosper,Thompson,148,DAL,2024-25
+Dončić,Kleber,81,DAL,2024-25
+Gafford,Hardy,214,DAL,2024-25
+Hardy,Kleber,168,DAL,2024-25
+Kleber,Lively II,130,DAL,2024-25
+Hardy,Thompson,157,DAL,2024-25
+Brown,Washington,26,DAL,2024-25
+Powell,Washington,69,DAL,2024-25
+Kelley,Prosper,32,DAL,2024-25
+Kelley,Thompson,13,DAL,2024-25
+Dinwiddie,Kelley,25,DAL,2024-25
+Exum,Kelley,20,DAL,2024-25
+Exum,Prosper,58,DAL,2024-25
+Dinwiddie,Exum,114,DAL,2024-25
+Edwards,Prosper,110,DAL,2024-25
+Dončić,Hardy,110,DAL,2024-25
+Gafford,Martin,40,DAL,2024-25
+Marshall,Martin,147,DAL,2024-25
+Christie,Martin,147,DAL,2024-25
+Dinwiddie,Martin,128,DAL,2024-25
+Christie,Davis,89,DAL,2024-25
+Gortman,Marshall,12,DAL,2024-25
+Edwards,Gortman,20,DAL,2024-25
+Edwards,Powell,61,DAL,2024-25
+Gortman,Prosper,22,DAL,2024-25
+Gortman,Powell,22,DAL,2024-25
+Washington,Williams,83,DAL,2024-25
+Edwards,Grimes,45,DAL,2024-25
+Edwards,Hardy,70,DAL,2024-25
+Jones,Martin,51,DAL,2024-25
+Hardy,Martin,63,DAL,2024-25
+Martin,Williams,69,DAL,2024-25
+Edwards,Martin,33,DAL,2024-25
+Davis,Gafford,37,DAL,2024-25
+Jones,Williams,29,DAL,2024-25
+Davis,Williams,34,DAL,2024-25
+Davis,Hardy,42,DAL,2024-25
+Edwards,Jones,24,DAL,2024-25
+Martin,Powell,60,DAL,2024-25
+Dončić,Prosper,33,DAL,2024-25
+Lively II,Prosper,31,DAL,2024-25
+Gafford,Williams,49,DAL,2024-25
+Irving,Williams,11,DAL,2024-25
+Kelley,Williams,30,DAL,2024-25
+Edwards,Kelley,25,DAL,2024-25
+Hardy,Kelley,34,DAL,2024-25
+Kleber,Powell,37,DAL,2024-25
+Davis,Martin,58,DAL,2024-25
+Brown,Dinwiddie,24,DAL,2024-25
+Martin,Washington,19,DAL,2024-25
+Kleber,Prosper,31,DAL,2024-25
+Davis,Irving,21,DAL,2024-25
+Davis,Exum,18,DAL,2024-25
+Brown,Kelley,5,DAL,2024-25
+Brown,Williams,5,DAL,2024-25
+Brown,Hardy,10,DAL,2024-25
+Brown,Prosper,8,DAL,2024-25
+Exum,Powell,37,DAL,2024-25
+Jones,Prosper,5,DAL,2024-25
+Kelley,Marshall,20,DAL,2024-25
+Christie,Kelley,5,DAL,2024-25
+Irving,Kelley,5,DAL,2024-25
+Grimes,Morris,18,DAL,2024-25
+Morris,Prosper,30,DAL,2024-25
+Dinwiddie,Morris,14,DAL,2024-25
+Morris,Powell,21,DAL,2024-25
+Exum,Hardy,27,DAL,2024-25
+Morris,Williams,17,DAL,2024-25
+Martin,Thompson,58,DAL,2024-25
+Christie,Lively II,10,DAL,2024-25
+Exum,Lively II,8,DAL,2024-25
+Davis,Powell,6,DAL,2024-25
+Edwards,Morris,18,DAL,2024-25
+Hardy,Morris,12,DAL,2024-25
+Exum,Williams,25,DAL,2024-25
+Brown,Exum,13,DAL,2024-25
+Exum,Martin,38,DAL,2024-25
+Gortman,Williams,10,DAL,2024-25
+Gortman,Morris,11,DAL,2024-25
+Kleber,Williams,23,DAL,2024-25
+Grimes,Kelley,18,DAL,2024-25
+Kelley,Morris,4,DAL,2024-25
+Exum,Jones,10,DAL,2024-25
+Lively II,Martin,9,DAL,2024-25
+Gortman,Hardy,10,DAL,2024-25
+Gafford,Powell,3,DAL,2024-25
+Irving,Morris,5,DAL,2024-25
+Irving,Jones,3,DAL,2024-25
+Gortman,Kleber,11,DAL,2024-25
+Gortman,Irving,5,DAL,2024-25
+Dinwiddie,Gortman,9,DAL,2024-25
+Exum,Grimes,3,DAL,2024-25
+Lively II,Williams,3,DAL,2024-25
+Gortman,Washington,10,DAL,2024-25
+Gafford,Gortman,4,DAL,2024-25
+Gortman,Thompson,2,DAL,2024-25
+Morris,Washington,2,DAL,2024-25
+Allen,Mitchell,1215,CLE,2024-25
+Mitchell,Strus,679,CLE,2024-25
+Garland,Mitchell,1128,CLE,2024-25
+Mitchell,Mobley,1716,CLE,2024-25
+Allen,Strus,919,CLE,2024-25
+Allen,Garland,1999,CLE,2024-25
+Allen,Mobley,1036,CLE,2024-25
+Garland,Strus,919,CLE,2024-25
+Mobley,Strus,716,CLE,2024-25
+Garland,Mobley,1177,CLE,2024-25
+Mitchell,Wade,642,CLE,2024-25
+Allen,Wade,716,CLE,2024-25
+Garland,Wade,747,CLE,2024-25
+Mobley,Wade,579,CLE,2024-25
+Mitchell,Okoro,505,CLE,2024-25
+Allen,Okoro,631,CLE,2024-25
+Garland,Okoro,614,CLE,2024-25
+Mobley,Okoro,510,CLE,2024-25
+LeVert,Niang,477,CLE,2024-25
+LeVert,Mitchell,433,CLE,2024-25
+LeVert,Merrill,279,CLE,2024-25
+LeVert,Mobley,452,CLE,2024-25
+Mitchell,Niang,585,CLE,2024-25
+Merrill,Niang,501,CLE,2024-25
+Mobley,Niang,510,CLE,2024-25
+Merrill,Mitchell,719,CLE,2024-25
+Merrill,Mobley,698,CLE,2024-25
+Allen,LeVert,535,CLE,2024-25
+Garland,LeVert,581,CLE,2024-25
+Jerome,Niang,492,CLE,2024-25
+Jerome,Mitchell,622,CLE,2024-25
+Jerome,Merrill,647,CLE,2024-25
+Jerome,Mobley,624,CLE,2024-25
+LeVert,Strus,217,CLE,2024-25
+Niang,Strus,260,CLE,2024-25
+Hunter,Mitchell,321,CLE,2024-25
+Hunter,Jerome,318,CLE,2024-25
+Hunter,Merrill,328,CLE,2024-25
+Hunter,Mobley,320,CLE,2024-25
+Allen,Niang,363,CLE,2024-25
+Garland,Niang,377,CLE,2024-25
+Allen,Merrill,492,CLE,2024-25
+Garland,Merrill,521,CLE,2024-25
+Hunter,Wade,172,CLE,2024-25
+Jerome,Wade,484,CLE,2024-25
+Merrill,Wade,439,CLE,2024-25
+Strus,Wade,267,CLE,2024-25
+Allen,Hunter,354,CLE,2024-25
+Hunter,Strus,255,CLE,2024-25
+Garland,Hunter,348,CLE,2024-25
+Allen,Jerome,569,CLE,2024-25
+Jerome,Strus,246,CLE,2024-25
+Garland,Jerome,486,CLE,2024-25
+Okoro,Strus,213,CLE,2024-25
+LeVert,Wade,275,CLE,2024-25
+Jerome,Okoro,275,CLE,2024-25
+Okoro,Wade,318,CLE,2024-25
+Jerome,LeVert,194,CLE,2024-25
+Hunter,Okoro,164,CLE,2024-25
+Merrill,Okoro,328,CLE,2024-25
+Niang,Thompson,94,CLE,2024-25
+Mitchell,Thompson,82,CLE,2024-25
+Jerome,Thompson,156,CLE,2024-25
+Merrill,Thompson,143,CLE,2024-25
+Niang,Porter Jr.,125,CLE,2024-25
+Mitchell,Porter Jr.,122,CLE,2024-25
+Jerome,Porter Jr.,175,CLE,2024-25
+Mobley,Porter Jr.,160,CLE,2024-25
+LeVert,Okoro,95,CLE,2024-25
+Merrill,Strus,168,CLE,2024-25
+Niang,Okoro,138,CLE,2024-25
+Mitchell,Tyson,102,CLE,2024-25
+Jerome,Tyson,196,CLE,2024-25
+Merrill,Tyson,126,CLE,2024-25
+Mobley,Tyson,117,CLE,2024-25
+Green,Tomlin,24,CLE,2024-25
+Green,Porter Jr.,82,CLE,2024-25
+Green,Tyson,41,CLE,2024-25
+Green,Thompson,52,CLE,2024-25
+Porter Jr.,Tomlin,49,CLE,2024-25
+Tomlin,Tyson,55,CLE,2024-25
+Thompson,Tomlin,46,CLE,2024-25
+Porter Jr.,Tyson,230,CLE,2024-25
+Porter Jr.,Thompson,188,CLE,2024-25
+Thompson,Tyson,190,CLE,2024-25
+Bates,Tomlin,33,CLE,2024-25
+Bates,Porter Jr.,52,CLE,2024-25
+Bates,Tyson,61,CLE,2024-25
+Bates,Thompson,50,CLE,2024-25
+Okeke,Travers,21,CLE,2024-25
+Bates,Okeke,24,CLE,2024-25
+Okeke,Tomlin,16,CLE,2024-25
+Okeke,Tyson,18,CLE,2024-25
+Bates,Travers,36,CLE,2024-25
+Tomlin,Travers,21,CLE,2024-25
+Travers,Tyson,57,CLE,2024-25
+Thor,Travers,16,CLE,2024-25
+Porter Jr.,Thor,35,CLE,2024-25
+Thor,Tyson,37,CLE,2024-25
+Thompson,Thor,38,CLE,2024-25
+Porter Jr.,Travers,59,CLE,2024-25
+Thompson,Travers,51,CLE,2024-25
+Allen,Tyson,132,CLE,2024-25
+Niang,Wade,129,CLE,2024-25
+Porter Jr.,Strus,87,CLE,2024-25
+Strus,Tyson,68,CLE,2024-25
+Okoro,Porter Jr.,143,CLE,2024-25
+Okoro,Tyson,106,CLE,2024-25
+Garland,Tyson,93,CLE,2024-25
+Jerome,Thor,18,CLE,2024-25
+Allen,Green,53,CLE,2024-25
+Green,Strus,40,CLE,2024-25
+Green,Hunter,45,CLE,2024-25
+Garland,Green,58,CLE,2024-25
+Green,Okoro,79,CLE,2024-25
+Green,Merrill,56,CLE,2024-25
+Okoro,Thompson,87,CLE,2024-25
+Merrill,Porter Jr.,112,CLE,2024-25
+Tyson,Wade,43,CLE,2024-25
+Niang,Tyson,98,CLE,2024-25
+Thompson,Wade,34,CLE,2024-25
+Bates,Thor,9,CLE,2024-25
+LeVert,Porter Jr.,24,CLE,2024-25
+Porter Jr.,Wade,78,CLE,2024-25
+Allen,Porter Jr.,152,CLE,2024-25
+Garland,Porter Jr.,115,CLE,2024-25
+LeVert,Thompson,21,CLE,2024-25
+Hunter,Tyson,9,CLE,2024-25
+Hunter,Porter Jr.,49,CLE,2024-25
+Okoro,Tomlin,7,CLE,2024-25
+Strus,Thompson,15,CLE,2024-25
+Garland,Thompson,16,CLE,2024-25
+Mobley,Thompson,12,CLE,2024-25
+Thor,Wade,5,CLE,2024-25
+Merrill,Thor,8,CLE,2024-25
+Green,Mitchell,24,CLE,2024-25
+Green,Mobley,24,CLE,2024-25
+Niang,Travers,17,CLE,2024-25
+Allen,Travers,10,CLE,2024-25
+Jerome,Travers,18,CLE,2024-25
+Green,Jerome,17,CLE,2024-25
+Green,Wade,52,CLE,2024-25
+Merrill,Travers,15,CLE,2024-25
+Bates,Merrill,4,CLE,2024-25
+Okoro,Travers,7,CLE,2024-25
+Hunter,Thompson,9,CLE,2024-25
+Green,Travers,8,CLE,2024-25
+Okeke,Porter Jr.,7,CLE,2024-25
+Okeke,Thompson,8,CLE,2024-25
+Green,Okeke,6,CLE,2024-25
+Bates,Green,7,CLE,2024-25
+Bates,Niang,4,CLE,2024-25
+LeVert,Tyson,13,CLE,2024-25
+Allen,Bates,3,CLE,2024-25
+Bates,Strus,3,CLE,2024-25
+Bates,Garland,3,CLE,2024-25
+Mitchell,Travers,9,CLE,2024-25
+Mobley,Travers,5,CLE,2024-25
+Bates,Jerome,3,CLE,2024-25
+Garland,Travers,2,CLE,2024-25
+Niang,Thor,2,CLE,2024-25
+Allen,Tomlin,1,CLE,2024-25
+Bates,Mobley,0,CLE,2024-25
+White,Williams,983,CHI,2024-25
+Giddey,White,1244,CHI,2024-25
+Vučević,White,1415,CHI,2024-25
+LaVine,White,758,CHI,2024-25
+Giddey,Williams,779,CHI,2024-25
+Vučević,Williams,1013,CHI,2024-25
+LaVine,Williams,706,CHI,2024-25
+Giddey,Vučević,1407,CHI,2024-25
+Giddey,LaVine,855,CHI,2024-25
+LaVine,Vučević,1254,CHI,2024-25
+Huerter,White,517,CHI,2024-25
+Giddey,Huerter,400,CHI,2024-25
+Buzelis,Huerter,421,CHI,2024-25
+Huerter,Vučević,451,CHI,2024-25
+Buzelis,White,845,CHI,2024-25
+Buzelis,Giddey,743,CHI,2024-25
+Buzelis,Vučević,736,CHI,2024-25
+Dosunmu,White,805,CHI,2024-25
+Dosunmu,Williams,450,CHI,2024-25
+Dosunmu,Vučević,915,CHI,2024-25
+Dosunmu,LaVine,648,CHI,2024-25
+Dosunmu,Giddey,651,CHI,2024-25
+Ball,Williams,241,CHI,2024-25
+Ball,Giddey,421,CHI,2024-25
+Ball,Vučević,529,CHI,2024-25
+Ball,LaVine,385,CHI,2024-25
+Buzelis,Dosunmu,379,CHI,2024-25
+Dosunmu,Phillips,378,CHI,2024-25
+Giddey,Phillips,376,CHI,2024-25
+Phillips,Vučević,419,CHI,2024-25
+LaVine,Phillips,263,CHI,2024-25
+Huerter,Jones,251,CHI,2024-25
+Jones,White,271,CHI,2024-25
+Buzelis,Jones,236,CHI,2024-25
+Jones,Vučević,144,CHI,2024-25
+Ball,White,347,CHI,2024-25
+Ball,Dosunmu,240,CHI,2024-25
+Smith,White,567,CHI,2024-25
+Terry,White,484,CHI,2024-25
+Dosunmu,Smith,354,CHI,2024-25
+Smith,Terry,375,CHI,2024-25
+Buzelis,Smith,351,CHI,2024-25
+Dosunmu,Terry,258,CHI,2024-25
+Buzelis,Terry,392,CHI,2024-25
+Phillips,White,564,CHI,2024-25
+Phillips,Smith,362,CHI,2024-25
+Phillips,Terry,344,CHI,2024-25
+Collins,White,351,CHI,2024-25
+Collins,Jones,188,CHI,2024-25
+Collins,Giddey,231,CHI,2024-25
+Buzelis,Collins,246,CHI,2024-25
+Giddey,Jones,157,CHI,2024-25
+Collins,Williams,191,CHI,2024-25
+Collins,Terry,184,CHI,2024-25
+Collins,Phillips,194,CHI,2024-25
+Terry,Williams,313,CHI,2024-25
+Phillips,Williams,234,CHI,2024-25
+Ball,Buzelis,251,CHI,2024-25
+Buzelis,LaVine,255,CHI,2024-25
+Horton-Tucker,White,267,CHI,2024-25
+Horton-Tucker,Smith,319,CHI,2024-25
+Horton-Tucker,Terry,185,CHI,2024-25
+Buzelis,Horton-Tucker,269,CHI,2024-25
+Huerter,Williams,202,CHI,2024-25
+Terry,Vučević,305,CHI,2024-25
+LaVine,Terry,161,CHI,2024-25
+Ball,Collins,67,CHI,2024-25
+Giddey,Smith,361,CHI,2024-25
+Giddey,Terry,303,CHI,2024-25
+Huerter,Phillips,220,CHI,2024-25
+Buzelis,Phillips,169,CHI,2024-25
+Buzelis,Williams,288,CHI,2024-25
+Jones,Phillips,142,CHI,2024-25
+Carter,White,79,CHI,2024-25
+Carter,Horton-Tucker,156,CHI,2024-25
+Carter,Smith,118,CHI,2024-25
+Carter,Phillips,157,CHI,2024-25
+Horton-Tucker,Phillips,270,CHI,2024-25
+LaVine,Smith,141,CHI,2024-25
+Dosunmu,Horton-Tucker,132,CHI,2024-25
+Collins,Huerter,194,CHI,2024-25
+Ball,Phillips,126,CHI,2024-25
+Huerter,Terry,141,CHI,2024-25
+Smith,Williams,293,CHI,2024-25
+Collins,Horton-Tucker,121,CHI,2024-25
+Horton-Tucker,Jones,45,CHI,2024-25
+Craig,White,62,CHI,2024-25
+Craig,Giddey,49,CHI,2024-25
+Craig,Vučević,61,CHI,2024-25
+Craig,LaVine,50,CHI,2024-25
+Carter,Williams,91,CHI,2024-25
+Carter,Vučević,55,CHI,2024-25
+Carter,LaVine,32,CHI,2024-25
+Jones,Terry,69,CHI,2024-25
+Carter,Collins,64,CHI,2024-25
+Horton-Tucker,Williams,185,CHI,2024-25
+Giddey,Horton-Tucker,176,CHI,2024-25
+Horton-Tucker,Vučević,166,CHI,2024-25
+Horton-Tucker,LaVine,107,CHI,2024-25
+Carter,Duarte,49,CHI,2024-25
+Carter,Terry,91,CHI,2024-25
+Buzelis,Carter,119,CHI,2024-25
+Duarte,Horton-Tucker,50,CHI,2024-25
+Duarte,Terry,29,CHI,2024-25
+Buzelis,Duarte,61,CHI,2024-25
+Ball,Huerter,36,CHI,2024-25
+Huerter,Smith,80,CHI,2024-25
+Jones,Williams,94,CHI,2024-25
+Jones,Smith,74,CHI,2024-25
+Ball,Terry,65,CHI,2024-25
+Ball,Smith,140,CHI,2024-25
+Duarte,Phillips,28,CHI,2024-25
+Carter,Liddell,26,CHI,2024-25
+Horton-Tucker,Liddell,24,CHI,2024-25
+Duarte,Liddell,16,CHI,2024-25
+Buzelis,Liddell,18,CHI,2024-25
+Craig,Terry,26,CHI,2024-25
+Collins,Dosunmu,26,CHI,2024-25
+Dosunmu,Huerter,48,CHI,2024-25
+Craig,Dosunmu,30,CHI,2024-25
+Horton-Tucker,Huerter,43,CHI,2024-25
+Collins,Liddell,13,CHI,2024-25
+Collins,Miller,10,CHI,2024-25
+Collins,Young,18,CHI,2024-25
+Carter,Miller,18,CHI,2024-25
+Carter,Young,14,CHI,2024-25
+Liddell,Miller,15,CHI,2024-25
+Liddell,Young,17,CHI,2024-25
+Miller,Young,12,CHI,2024-25
+Ball,Horton-Tucker,86,CHI,2024-25
+Carter,Giddey,34,CHI,2024-25
+Carter,Craig,18,CHI,2024-25
+Craig,Horton-Tucker,22,CHI,2024-25
+Craig,Smith,25,CHI,2024-25
+Ball,Craig,17,CHI,2024-25
+Craig,Williams,16,CHI,2024-25
+Duarte,Smith,11,CHI,2024-25
+Liddell,Phillips,20,CHI,2024-25
+Dosunmu,Jones,20,CHI,2024-25
+Carter,Jones,17,CHI,2024-25
+Horton-Tucker,Miller,9,CHI,2024-25
+Miller,Williams,5,CHI,2024-25
+Miller,Smith,10,CHI,2024-25
+Horton-Tucker,Young,11,CHI,2024-25
+Phillips,Young,12,CHI,2024-25
+Ball,Jones,12,CHI,2024-25
+Dosunmu,Liddell,10,CHI,2024-25
+Giddey,Liddell,11,CHI,2024-25
+Collins,Smith,22,CHI,2024-25
+Craig,Duarte,6,CHI,2024-25
+Craig,Phillips,6,CHI,2024-25
+Buzelis,Craig,8,CHI,2024-25
+Smith,Vučević,11,CHI,2024-25
+Carter,Dosunmu,21,CHI,2024-25
+Liddell,Smith,5,CHI,2024-25
+Liddell,Terry,8,CHI,2024-25
+Miller,Terry,5,CHI,2024-25
+Ball,Duarte,7,CHI,2024-25
+Duarte,Vučević,6,CHI,2024-25
+Duarte,LaVine,6,CHI,2024-25
+Sanogo,White,16,CHI,2024-25
+Dosunmu,Sanogo,16,CHI,2024-25
+Sanogo,Terry,9,CHI,2024-25
+Phillips,Sanogo,4,CHI,2024-25
+Dosunmu,Duarte,3,CHI,2024-25
+Horton-Tucker,Sanogo,5,CHI,2024-25
+Buzelis,Sanogo,14,CHI,2024-25
+Carter,Huerter,3,CHI,2024-25
+Liddell,White,5,CHI,2024-25
+LaVine,Liddell,6,CHI,2024-25
+Buzelis,Young,3,CHI,2024-25
+Ball,Carter,6,CHI,2024-25
+Williams,Young,3,CHI,2024-25
+Smith,Young,5,CHI,2024-25
+Terry,Young,5,CHI,2024-25
+Miller,Phillips,4,CHI,2024-25
+Sanogo,Williams,4,CHI,2024-25
+Ball,Liddell,2,CHI,2024-25
+Duarte,White,3,CHI,2024-25
+Giddey,Sanogo,5,CHI,2024-25
+Ball,Sanogo,2,CHI,2024-25
+LaVine,Sanogo,5,CHI,2024-25
+Duarte,Williams,1,CHI,2024-25
+Huerter,Young,1,CHI,2024-25
+White,Young,1,CHI,2024-25
+Giddey,Young,1,CHI,2024-25
+Vučević,Young,1,CHI,2024-25
+Ball,Bridges,830,CHA,2024-25
+Bridges,Green,1102,CHA,2024-25
+Bridges,Williams,952,CHA,2024-25
+Bridges,Smith Jr.,669,CHA,2024-25
+Ball,Green,790,CHA,2024-25
+Ball,Williams,772,CHA,2024-25
+Ball,Smith Jr.,387,CHA,2024-25
+Green,Williams,934,CHA,2024-25
+Green,Smith Jr.,497,CHA,2024-25
+Smith Jr.,Williams,502,CHA,2024-25
+Bridges,Miller,282,CHA,2024-25
+Ball,Miller,439,CHA,2024-25
+Green,Miller,549,CHA,2024-25
+Miller,Williams,420,CHA,2024-25
+Bridges,Jeffries,462,CHA,2024-25
+Ball,Jeffries,233,CHA,2024-25
+Green,Jeffries,269,CHA,2024-25
+Jeffries,Williams,320,CHA,2024-25
+Bridges,Simpson,356,CHA,2024-25
+Green,Simpson,241,CHA,2024-25
+Simpson,Williams,272,CHA,2024-25
+Simpson,Smith Jr.,311,CHA,2024-25
+Bridges,Curry,475,CHA,2024-25
+Bridges,Micić,272,CHA,2024-25
+Curry,Green,274,CHA,2024-25
+Green,Micić,455,CHA,2024-25
+Curry,Williams,347,CHA,2024-25
+Micić,Williams,244,CHA,2024-25
+Curry,Micić,157,CHA,2024-25
+Diabaté,Green,276,CHA,2024-25
+Green,Salaün,295,CHA,2024-25
+Diabaté,Miller,85,CHA,2024-25
+Diabaté,Salaün,320,CHA,2024-25
+Diabaté,Micić,125,CHA,2024-25
+Miller,Salaün,253,CHA,2024-25
+Micić,Miller,228,CHA,2024-25
+Micić,Salaün,163,CHA,2024-25
+Micić,Smith Jr.,179,CHA,2024-25
+Green,Martin,244,CHA,2024-25
+Martin,Richards,244,CHA,2024-25
+Martin,Miller,382,CHA,2024-25
+Martin,Micić,203,CHA,2024-25
+Green,Richards,169,CHA,2024-25
+Miller,Richards,127,CHA,2024-25
+Micić,Richards,149,CHA,2024-25
+Bridges,Martin,268,CHA,2024-25
+Bridges,Richards,169,CHA,2024-25
+Ball,Martin,427,CHA,2024-25
+Curry,Martin,176,CHA,2024-25
+Ball,Richards,162,CHA,2024-25
+Ball,Curry,294,CHA,2024-25
+Curry,Richards,122,CHA,2024-25
+Jeffries,Smith Jr.,343,CHA,2024-25
+Diabate,Williams,118,CHA,2024-25
+Ball,Diabate,138,CHA,2024-25
+Diabate,Green,128,CHA,2024-25
+Diabate,Miller,174,CHA,2024-25
+Ball,Salaün,316,CHA,2024-25
+Ball,Gibson,111,CHA,2024-25
+Gibson,Green,124,CHA,2024-25
+Gibson,Miller,96,CHA,2024-25
+Gibson,Salaün,137,CHA,2024-25
+Martin,Williams,334,CHA,2024-25
+Diabate,Martin,171,CHA,2024-25
+Bridges,Diabaté,294,CHA,2024-25
+Baugh,Bridges,152,CHA,2024-25
+Baugh,Green,106,CHA,2024-25
+Diabaté,Smith Jr.,293,CHA,2024-25
+Baugh,Diabaté,144,CHA,2024-25
+Baugh,Smith Jr.,143,CHA,2024-25
+Ball,Diabaté,206,CHA,2024-25
+Curry,Simpson,209,CHA,2024-25
+Bridges,Gibson,103,CHA,2024-25
+Diabaté,Martin,98,CHA,2024-25
+Martin,Salaün,258,CHA,2024-25
+Curry,Diabaté,167,CHA,2024-25
+Curry,Salaün,247,CHA,2024-25
+Diabaté,Jeffries,199,CHA,2024-25
+Jeffries,Simpson,326,CHA,2024-25
+Curry,Jeffries,261,CHA,2024-25
+Diabaté,Simpson,157,CHA,2024-25
+Mann,Martin,172,CHA,2024-25
+Mann,Williams,181,CHA,2024-25
+Diabate,Mann,82,CHA,2024-25
+Mann,Miller,85,CHA,2024-25
+Jeffries,Salaün,261,CHA,2024-25
+Jeffries,Nurkić,200,CHA,2024-25
+Salaün,Smith Jr.,309,CHA,2024-25
+Nurkić,Smith Jr.,191,CHA,2024-25
+Salaün,Simpson,272,CHA,2024-25
+Nurkić,Salaün,177,CHA,2024-25
+Nurkić,Simpson,149,CHA,2024-25
+Bridges,Payton,58,CHA,2024-25
+Bridges,Nurkić,191,CHA,2024-25
+Green,Payton,45,CHA,2024-25
+Green,Nurkić,114,CHA,2024-25
+Payton,Smith Jr.,41,CHA,2024-25
+Nurkić,Payton,48,CHA,2024-25
+Richards,Salaün,118,CHA,2024-25
+Salaün,Williams,220,CHA,2024-25
+Mann,Salaün,83,CHA,2024-25
+Curry,Mann,69,CHA,2024-25
+Diabate,Salaün,95,CHA,2024-25
+Jeffries,Okogie,76,CHA,2024-25
+Okogie,Salaün,47,CHA,2024-25
+Okogie,Simpson,100,CHA,2024-25
+Nurkić,Okogie,51,CHA,2024-25
+Ball,Nurkić,94,CHA,2024-25
+Diabaté,Williams,64,CHA,2024-25
+Diabaté,Mann,33,CHA,2024-25
+Martin,Simpson,86,CHA,2024-25
+Richards,Simpson,44,CHA,2024-25
+Miller,Simpson,73,CHA,2024-25
+Curry,Nurkić,146,CHA,2024-25
+Bridges,Mann,104,CHA,2024-25
+Ball,Mann,102,CHA,2024-25
+Gibson,Williams,19,CHA,2024-25
+Martin,Smith Jr.,102,CHA,2024-25
+Jeffries,Wong,111,CHA,2024-25
+Diabate,Jeffries,70,CHA,2024-25
+Diabate,Wong,56,CHA,2024-25
+Salaün,Wong,94,CHA,2024-25
+Curry,Wong,37,CHA,2024-25
+Curry,Diabate,76,CHA,2024-25
+Moore Jr.,Salaün,64,CHA,2024-25
+Curry,Moore Jr.,60,CHA,2024-25
+Moore Jr.,Payton,29,CHA,2024-25
+Moore Jr.,Nurkić,79,CHA,2024-25
+Payton,Salaün,53,CHA,2024-25
+Curry,Payton,27,CHA,2024-25
+Garrett,Jeffries,36,CHA,2024-25
+Jeffries,Moore Jr.,69,CHA,2024-25
+Garrett,Moore Jr.,32,CHA,2024-25
+Diabaté,Garrett,28,CHA,2024-25
+Garrett,Smith Jr.,50,CHA,2024-25
+Diabaté,Moore Jr.,97,CHA,2024-25
+Moore Jr.,Smith Jr.,129,CHA,2024-25
+Bridges,Salaün,201,CHA,2024-25
+Baugh,Jeffries,100,CHA,2024-25
+Baugh,Williams,66,CHA,2024-25
+Baugh,Curry,64,CHA,2024-25
+Mann,Richards,46,CHA,2024-25
+Baugh,Salaün,102,CHA,2024-25
+Bridges,Okogie,76,CHA,2024-25
+Okogie,Williams,87,CHA,2024-25
+Curry,Okogie,73,CHA,2024-25
+Gibson,Martin,45,CHA,2024-25
+Gibson,Micić,54,CHA,2024-25
+Diabate,Micić,68,CHA,2024-25
+Green,Okogie,46,CHA,2024-25
+Micić,Okogie,64,CHA,2024-25
+Okogie,Smith Jr.,75,CHA,2024-25
+Moore Jr.,Simpson,56,CHA,2024-25
+Gibson,Moore Jr.,59,CHA,2024-25
+Diabaté,Gibson,37,CHA,2024-25
+Gibson,Smith Jr.,125,CHA,2024-25
+Gibson,Simpson,69,CHA,2024-25
+Martin,Okogie,22,CHA,2024-25
+Ball,Okogie,32,CHA,2024-25
+Diabate,Okogie,21,CHA,2024-25
+Bridges,Diabate,67,CHA,2024-25
+Jeffries,Micić,122,CHA,2024-25
+Jeffries,Martin,35,CHA,2024-25
+Jeffries,Miller,29,CHA,2024-25
+Baugh,Nurkić,58,CHA,2024-25
+Martin,Wong,41,CHA,2024-25
+Ball,Wong,14,CHA,2024-25
+Richards,Wong,53,CHA,2024-25
+Gibson,Okogie,11,CHA,2024-25
+Diabaté,Sims,39,CHA,2024-25
+Baugh,Sims,43,CHA,2024-25
+Salaün,Sims,45,CHA,2024-25
+Simpson,Sims,44,CHA,2024-25
+Baugh,Simpson,34,CHA,2024-25
+Ball,Baugh,36,CHA,2024-25
+Diabate,Smith Jr.,58,CHA,2024-25
+Diabate,Simpson,50,CHA,2024-25
+Ball,Moore Jr.,29,CHA,2024-25
+Green,Moore Jr.,28,CHA,2024-25
+Moore Jr.,Williams,28,CHA,2024-25
+Bridges,Garrett,27,CHA,2024-25
+Curry,Garrett,19,CHA,2024-25
+Garrett,Nurkić,30,CHA,2024-25
+Curry,Smith Jr.,173,CHA,2024-25
+Bridges,Wong,60,CHA,2024-25
+Green,Wong,53,CHA,2024-25
+Richards,Smith Jr.,47,CHA,2024-25
+Richards,Williams,32,CHA,2024-25
+Gibson,Jeffries,90,CHA,2024-25
+Simpson,Wong,28,CHA,2024-25
+Gibson,Wong,29,CHA,2024-25
+Curry,Gibson,93,CHA,2024-25
+Mann,Smith Jr.,7,CHA,2024-25
+Smith Jr.,Wong,35,CHA,2024-25
+Green,Mann,50,CHA,2024-25
+Mann,Micić,16,CHA,2024-25
+Diabaté,Rhoden,10,CHA,2024-25
+Rhoden,Smith Jr.,10,CHA,2024-25
+Rhoden,Salaün,10,CHA,2024-25
+Rhoden,Simpson,7,CHA,2024-25
+Diabaté,Okogie,49,CHA,2024-25
+Micić,Wong,55,CHA,2024-25
+Baugh,Moore Jr.,73,CHA,2024-25
+Diabaté,Payton,19,CHA,2024-25
+Baugh,Payton,17,CHA,2024-25
+Ball,Micić,30,CHA,2024-25
+Ball,Simpson,14,CHA,2024-25
+Jeffries,Sims,32,CHA,2024-25
+Baugh,Gibson,35,CHA,2024-25
+Miller,Wong,27,CHA,2024-25
+Miller,Smith Jr.,58,CHA,2024-25
+Moore Jr.,Sims,24,CHA,2024-25
+Sims,Smith Jr.,17,CHA,2024-25
+Gibson,Sims,31,CHA,2024-25
+Okogie,Wong,24,CHA,2024-25
+Payton,Wong,15,CHA,2024-25
+Gibson,Payton,19,CHA,2024-25
+Jeffries,Payton,24,CHA,2024-25
+Diabaté,Nurkić,33,CHA,2024-25
+Gibson,Nurkić,10,CHA,2024-25
+Gibson,Mann,10,CHA,2024-25
+Garrett,Williams,16,CHA,2024-25
+Bridges,Flynn,14,CHA,2024-25
+Flynn,Jeffries,22,CHA,2024-25
+Flynn,Williams,9,CHA,2024-25
+Flynn,Smith Jr.,9,CHA,2024-25
+Payton,Simpson,5,CHA,2024-25
+Okogie,Sims,8,CHA,2024-25
+Baugh,Okogie,14,CHA,2024-25
+Curry,Sims,13,CHA,2024-25
+Nurkić,Sims,24,CHA,2024-25
+Jeffries,Richards,46,CHA,2024-25
+Micić,Simpson,25,CHA,2024-25
+Nurkić,Williams,5,CHA,2024-25
+Bridges,Moore Jr.,33,CHA,2024-25
+Diabaté,Wong,19,CHA,2024-25
+Flynn,Green,10,CHA,2024-25
+Curry,Miller,9,CHA,2024-25
+Diabaté,Flynn,4,CHA,2024-25
+Flynn,Salaün,4,CHA,2024-25
+Flynn,Moore Jr.,7,CHA,2024-25
+Flynn,Gibson,9,CHA,2024-25
+Baugh,Wong,12,CHA,2024-25
+Williams,Wong,21,CHA,2024-25
+Baugh,Garrett,9,CHA,2024-25
+Sims,Williams,13,CHA,2024-25
+Garrett,Green,13,CHA,2024-25
+Bridges,Sims,7,CHA,2024-25
+Micić,Rhoden,3,CHA,2024-25
+Payton,Williams,8,CHA,2024-25
+Brown,Tatum,1410,BOS,2024-25
+Brown,White,1653,BOS,2024-25
+Brown,Holiday,1220,BOS,2024-25
+Brown,Porziņģis,807,BOS,2024-25
+Tatum,White,1778,BOS,2024-25
+Holiday,Tatum,1421,BOS,2024-25
+Porziņģis,Tatum,816,BOS,2024-25
+Holiday,White,1335,BOS,2024-25
+Porziņģis,White,944,BOS,2024-25
+Holiday,Porziņģis,836,BOS,2024-25
+Brown,Horford,915,BOS,2024-25
+Horford,Tatum,1188,BOS,2024-25
+Horford,White,1198,BOS,2024-25
+Holiday,Horford,855,BOS,2024-25
+Kornet,Tatum,884,BOS,2024-25
+Pritchard,Tatum,1237,BOS,2024-25
+Hauser,Tatum,841,BOS,2024-25
+Kornet,Pritchard,986,BOS,2024-25
+Hauser,Kornet,646,BOS,2024-25
+Horford,Kornet,401,BOS,2024-25
+Hauser,Pritchard,1175,BOS,2024-25
+Horford,Pritchard,773,BOS,2024-25
+Hauser,Horford,566,BOS,2024-25
+Horford,Porziņģis,420,BOS,2024-25
+Brown,Kornet,599,BOS,2024-25
+Kornet,White,720,BOS,2024-25
+Holiday,Kornet,417,BOS,2024-25
+Pritchard,White,1108,BOS,2024-25
+Hauser,White,773,BOS,2024-25
+Brown,Queta,319,BOS,2024-25
+Brown,Pritchard,908,BOS,2024-25
+Brown,Hauser,547,BOS,2024-25
+Queta,White,417,BOS,2024-25
+Pritchard,Queta,643,BOS,2024-25
+Hauser,Queta,388,BOS,2024-25
+Queta,Tatum,409,BOS,2024-25
+Horford,Queta,181,BOS,2024-25
+Holiday,Queta,244,BOS,2024-25
+Holiday,Pritchard,651,BOS,2024-25
+Porziņģis,Pritchard,488,BOS,2024-25
+Hauser,Holiday,418,BOS,2024-25
+Craig,Kornet,99,BOS,2024-25
+Kornet,Scheierman,172,BOS,2024-25
+Craig,Pritchard,164,BOS,2024-25
+Craig,Hauser,111,BOS,2024-25
+Craig,Scheierman,115,BOS,2024-25
+Pritchard,Scheierman,282,BOS,2024-25
+Hauser,Scheierman,143,BOS,2024-25
+Tatum,Walsh,135,BOS,2024-25
+Kornet,Walsh,142,BOS,2024-25
+Pritchard,Walsh,301,BOS,2024-25
+Hauser,Walsh,149,BOS,2024-25
+Hauser,Porziņģis,273,BOS,2024-25
+Queta,Walsh,219,BOS,2024-25
+Craig,Tatum,74,BOS,2024-25
+Scheierman,Tatum,110,BOS,2024-25
+Kornet,Porziņģis,145,BOS,2024-25
+Queta,Tillman,88,BOS,2024-25
+Queta,Springer,62,BOS,2024-25
+Peterson,Queta,104,BOS,2024-25
+Springer,Tillman,46,BOS,2024-25
+Tillman,Walsh,93,BOS,2024-25
+Peterson,Tillman,55,BOS,2024-25
+Springer,Walsh,68,BOS,2024-25
+Peterson,Springer,37,BOS,2024-25
+Peterson,Walsh,91,BOS,2024-25
+Craig,White,72,BOS,2024-25
+Scheierman,White,80,BOS,2024-25
+Craig,Queta,68,BOS,2024-25
+Queta,Scheierman,159,BOS,2024-25
+Peterson,Pritchard,108,BOS,2024-25
+Hauser,Peterson,39,BOS,2024-25
+Brown,Walsh,74,BOS,2024-25
+Walsh,White,95,BOS,2024-25
+Brown,Craig,27,BOS,2024-25
+Kornet,Queta,69,BOS,2024-25
+Davison,Kornet,17,BOS,2024-25
+Davison,Queta,56,BOS,2024-25
+Davison,Pritchard,28,BOS,2024-25
+Davison,Scheierman,75,BOS,2024-25
+Tatum,Tillman,79,BOS,2024-25
+Kornet,Tillman,42,BOS,2024-25
+Pritchard,Tillman,138,BOS,2024-25
+Holiday,Tillman,69,BOS,2024-25
+Davison,Walsh,55,BOS,2024-25
+Davison,Peterson,45,BOS,2024-25
+Scheierman,Walsh,101,BOS,2024-25
+Peterson,Scheierman,38,BOS,2024-25
+Springer,Tatum,44,BOS,2024-25
+Springer,White,37,BOS,2024-25
+Kornet,Springer,44,BOS,2024-25
+Pritchard,Springer,73,BOS,2024-25
+Holiday,Scheierman,53,BOS,2024-25
+Horford,Scheierman,40,BOS,2024-25
+Brown,Springer,35,BOS,2024-25
+Brown,Tillman,80,BOS,2024-25
+Tillman,White,61,BOS,2024-25
+Horford,Tillman,30,BOS,2024-25
+Holiday,Peterson,13,BOS,2024-25
+Peterson,Porziņģis,23,BOS,2024-25
+Scheierman,Tillman,45,BOS,2024-25
+Scheierman,Springer,37,BOS,2024-25
+Porziņģis,Queta,31,BOS,2024-25
+Porziņģis,Tillman,8,BOS,2024-25
+Hauser,Tillman,47,BOS,2024-25
+Horford,Springer,18,BOS,2024-25
+Holiday,Springer,14,BOS,2024-25
+Davison,Tillman,32,BOS,2024-25
+Norris,Tillman,11,BOS,2024-25
+Davison,Norris,11,BOS,2024-25
+Norris,Scheierman,14,BOS,2024-25
+Norris,Peterson,22,BOS,2024-25
+Craig,Norris,12,BOS,2024-25
+Norris,Queta,15,BOS,2024-25
+Norris,Pritchard,21,BOS,2024-25
+Peterson,Tatum,54,BOS,2024-25
+Peterson,White,30,BOS,2024-25
+Kornet,Peterson,48,BOS,2024-25
+Craig,Walsh,19,BOS,2024-25
+Horford,Peterson,14,BOS,2024-25
+Porziņģis,Scheierman,35,BOS,2024-25
+Davison,Springer,16,BOS,2024-25
+Craig,Peterson,10,BOS,2024-25
+Horford,Walsh,32,BOS,2024-25
+Brown,Scheierman,29,BOS,2024-25
+Davison,Hauser,14,BOS,2024-25
+Kornet,Norris,9,BOS,2024-25
+Hauser,Norris,9,BOS,2024-25
+Davison,Tatum,8,BOS,2024-25
+Craig,Davison,9,BOS,2024-25
+Norris,Walsh,16,BOS,2024-25
+Brown,Peterson,21,BOS,2024-25
+Porziņģis,Springer,12,BOS,2024-25
+Holiday,Walsh,16,BOS,2024-25
+Craig,Holiday,10,BOS,2024-25
+Davison,White,3,BOS,2024-25
+Davison,Horford,3,BOS,2024-25
+Craig,Horford,6,BOS,2024-25
+Hauser,Springer,13,BOS,2024-25
+Craig,Porziņģis,4,BOS,2024-25
+Porziņģis,Walsh,2,BOS,2024-25
+Claxton,Finney-Smith,206,BKN,2024-25
+Finney-Smith,Johnson,615,BKN,2024-25
+Finney-Smith,Thomas,318,BKN,2024-25
+Finney-Smith,Schröder,362,BKN,2024-25
+Claxton,Johnson,2071,BKN,2024-25
+Claxton,Thomas,353,BKN,2024-25
+Claxton,Schröder,370,BKN,2024-25
+Johnson,Thomas,712,BKN,2024-25
+Johnson,Schröder,691,BKN,2024-25
+Schröder,Thomas,343,BKN,2024-25
+Claxton,Russell,501,BKN,2024-25
+Johnson,Russell,697,BKN,2024-25
+Russell,Williams,408,BKN,2024-25
+Claxton,Williams,915,BKN,2024-25
+Johnson,Williams,1496,BKN,2024-25
+Johnson,Johnson,780,BKN,2024-25
+Finney-Smith,Simmons,271,BKN,2024-25
+Johnson,Simmons,826,BKN,2024-25
+Simmons,Thomas,231,BKN,2024-25
+Schröder,Simmons,164,BKN,2024-25
+Russell,Wilson,321,BKN,2024-25
+Claxton,Wilson,814,BKN,2024-25
+Williams,Wilson,557,BKN,2024-25
+Johnson,Wilson,1431,BKN,2024-25
+Claxton,Simmons,236,BKN,2024-25
+Clowney,Simmons,293,BKN,2024-25
+Claxton,Clowney,465,BKN,2024-25
+Clowney,Johnson,815,BKN,2024-25
+Claxton,Hayes,91,BKN,2024-25
+Hayes,Johnson,242,BKN,2024-25
+Hayes,Williams,105,BKN,2024-25
+Claxton,Martin,460,BKN,2024-25
+Martin,Williams,363,BKN,2024-25
+Clowney,Williams,353,BKN,2024-25
+Johnson,Martin,873,BKN,2024-25
+Clowney,Martin,360,BKN,2024-25
+Schröder,Williams,265,BKN,2024-25
+Clowney,Wilson,533,BKN,2024-25
+Schröder,Wilson,310,BKN,2024-25
+Clowney,Schröder,144,BKN,2024-25
+Thomas,Williams,291,BKN,2024-25
+Martin,Wilson,806,BKN,2024-25
+Russell,Sharpe,166,BKN,2024-25
+Martin,Russell,127,BKN,2024-25
+Evbuomwan,Russell,128,BKN,2024-25
+Sharpe,Wilson,523,BKN,2024-25
+Martin,Sharpe,526,BKN,2024-25
+Evbuomwan,Sharpe,257,BKN,2024-25
+Evbuomwan,Wilson,369,BKN,2024-25
+Evbuomwan,Martin,320,BKN,2024-25
+Johnson,Sharpe,558,BKN,2024-25
+Hayes,Sharpe,53,BKN,2024-25
+Sharpe,Williams,202,BKN,2024-25
+Simmons,Williams,222,BKN,2024-25
+Sharpe,Watford,305,BKN,2024-25
+Lewis,Sharpe,94,BKN,2024-25
+Clowney,Sharpe,231,BKN,2024-25
+Martin,Watford,347,BKN,2024-25
+Lewis,Watford,153,BKN,2024-25
+Clowney,Watford,128,BKN,2024-25
+Lewis,Martin,89,BKN,2024-25
+Clowney,Lewis,68,BKN,2024-25
+Russell,Thomas,89,BKN,2024-25
+Etienne,Timme,94,BKN,2024-25
+Etienne,Lewis,69,BKN,2024-25
+Etienne,Whitehead,76,BKN,2024-25
+Etienne,Evbuomwan,102,BKN,2024-25
+Lewis,Timme,99,BKN,2024-25
+Timme,Whitehead,134,BKN,2024-25
+Evbuomwan,Timme,110,BKN,2024-25
+Lewis,Whitehead,132,BKN,2024-25
+Evbuomwan,Lewis,66,BKN,2024-25
+Evbuomwan,Whitehead,93,BKN,2024-25
+Johnson,Watford,569,BKN,2024-25
+Watford,Wilson,422,BKN,2024-25
+Claxton,Watford,246,BKN,2024-25
+Watford,Williams,197,BKN,2024-25
+Clowney,Russell,130,BKN,2024-25
+Beekman,Sharpe,159,BKN,2024-25
+Beekman,Johnson,221,BKN,2024-25
+Beekman,Wilson,264,BKN,2024-25
+Beekman,Martin,196,BKN,2024-25
+Simmons,Wilson,351,BKN,2024-25
+Finney-Smith,Wilson,174,BKN,2024-25
+Thomas,Wilson,186,BKN,2024-25
+Claxton,Milton,151,BKN,2024-25
+Johnson,Milton,369,BKN,2024-25
+Milton,Wilson,301,BKN,2024-25
+Martin,Milton,144,BKN,2024-25
+Timme,Watford,135,BKN,2024-25
+Watford,Whitehead,87,BKN,2024-25
+Timme,Wilson,118,BKN,2024-25
+Lewis,Wilson,93,BKN,2024-25
+Whitehead,Wilson,77,BKN,2024-25
+Martin,Schröder,58,BKN,2024-25
+Evbuomwan,Johnson,243,BKN,2024-25
+Beekman,Evbuomwan,216,BKN,2024-25
+Beekman,Watford,118,BKN,2024-25
+Johnson,Timme,80,BKN,2024-25
+Beekman,Timme,88,BKN,2024-25
+Milton,Sharpe,105,BKN,2024-25
+Beekman,Claxton,87,BKN,2024-25
+Claxton,Evbuomwan,162,BKN,2024-25
+Martin,Timme,72,BKN,2024-25
+Clowney,Thomas,104,BKN,2024-25
+Finney-Smith,Milton,65,BKN,2024-25
+Evbuomwan,Williams,128,BKN,2024-25
+Evbuomwan,Watford,126,BKN,2024-25
+Clowney,Evbuomwan,86,BKN,2024-25
+Finney-Smith,Williams,80,BKN,2024-25
+Clowney,Finney-Smith,44,BKN,2024-25
+Beekman,Williams,79,BKN,2024-25
+Beekman,Etienne,45,BKN,2024-25
+Beekman,Lewis,84,BKN,2024-25
+Beekman,Whitehead,83,BKN,2024-25
+Milton,Watford,102,BKN,2024-25
+Milton,Schröder,123,BKN,2024-25
+Schröder,Watford,81,BKN,2024-25
+Clowney,Whitehead,20,BKN,2024-25
+Russell,Watford,118,BKN,2024-25
+Lewis,Russell,33,BKN,2024-25
+Claxton,Lewis,28,BKN,2024-25
+Johnson,Lewis,66,BKN,2024-25
+Timme,Williams,21,BKN,2024-25
+Simmons,Watford,94,BKN,2024-25
+Finney-Smith,Watford,31,BKN,2024-25
+Thomas,Watford,71,BKN,2024-25
+Evbuomwan,Simmons,66,BKN,2024-25
+Clowney,Milton,140,BKN,2024-25
+Milton,Simmons,97,BKN,2024-25
+Sharpe,Simmons,125,BKN,2024-25
+Etienne,Wilson,33,BKN,2024-25
+Etienne,Martin,18,BKN,2024-25
+Milton,Williams,111,BKN,2024-25
+Beekman,Clowney,62,BKN,2024-25
+Martin,Simmons,87,BKN,2024-25
+Lewis,Williams,35,BKN,2024-25
+Milton,Thomas,67,BKN,2024-25
+Russell,Timme,15,BKN,2024-25
+Russell,Whitehead,15,BKN,2024-25
+Etienne,Williams,13,BKN,2024-25
+Etienne,Johnson,31,BKN,2024-25
+Etienne,Watford,33,BKN,2024-25
+Hayes,Thomas,14,BKN,2024-25
+Martin,Thomas,61,BKN,2024-25
+Martin,Whitehead,49,BKN,2024-25
+Sharpe,Thomas,52,BKN,2024-25
+Finney-Smith,Sharpe,19,BKN,2024-25
+Johnson,Whitehead,38,BKN,2024-25
+Sharpe,Whitehead,36,BKN,2024-25
+Milton,Whitehead,24,BKN,2024-25
+Claxton,Whitehead,17,BKN,2024-25
+Schröder,Whitehead,15,BKN,2024-25
+Hayes,Wilson,44,BKN,2024-25
+Hayes,Martin,29,BKN,2024-25
+Hayes,Lewis,15,BKN,2024-25
+Beekman,Hayes,10,BKN,2024-25
+Hayes,Watford,13,BKN,2024-25
+Whitehead,Williams,11,BKN,2024-25
+Schröder,Sharpe,22,BKN,2024-25
+Russell,Simmons,13,BKN,2024-25
+Beekman,Milton,4,BKN,2024-25
+Beekman,Simmons,4,BKN,2024-25
+Claxton,Etienne,14,BKN,2024-25
+Beekman,Russell,3,BKN,2024-25
+Claxton,Timme,6,BKN,2024-25
+Finney-Smith,Martin,14,BKN,2024-25
+Beekman,Finney-Smith,5,BKN,2024-25
+Claxton,Sharpe,7,BKN,2024-25
+Beekman,Thomas,4,BKN,2024-25
+Milton,Yongxi,5,BKN,2024-25
+Johnson,Yongxi,4,BKN,2024-25
+Whitehead,Yongxi,5,BKN,2024-25
+Martin,Yongxi,5,BKN,2024-25
+Wilson,Yongxi,1,BKN,2024-25
+Johnson,Young,925,ATL,2024-25
+Daniels,Young,1869,ATL,2024-25
+Risacher,Young,1288,ATL,2024-25
+Capela,Young,931,ATL,2024-25
+Daniels,Johnson,745,ATL,2024-25
+Johnson,Risacher,567,ATL,2024-25
+Capela,Johnson,640,ATL,2024-25
+Daniels,Risacher,1304,ATL,2024-25
+Capela,Daniels,844,ATL,2024-25
+Capela,Risacher,643,ATL,2024-25
+Okongwu,Young,1408,ATL,2024-25
+Gueye,Young,382,ATL,2024-25
+Daniels,Okongwu,1521,ATL,2024-25
+Gueye,Okongwu,370,ATL,2024-25
+Okongwu,Risacher,983,ATL,2024-25
+Daniels,Gueye,374,ATL,2024-25
+Gueye,Risacher,376,ATL,2024-25
+LeVert,Niang,384,ATL,2024-25
+LeVert,Young,462,ATL,2024-25
+LeVert,Okongwu,408,ATL,2024-25
+Daniels,LeVert,466,ATL,2024-25
+Niang,Young,455,ATL,2024-25
+Niang,Okongwu,346,ATL,2024-25
+Daniels,Niang,382,ATL,2024-25
+Hunter,Young,725,ATL,2024-25
+Hunter,Johnson,470,ATL,2024-25
+Daniels,Hunter,665,ATL,2024-25
+Capela,Hunter,312,ATL,2024-25
+Hunter,Okongwu,569,ATL,2024-25
+Johnson,Okongwu,495,ATL,2024-25
+Bogdanović,Young,321,ATL,2024-25
+Bogdanović,Hunter,362,ATL,2024-25
+Bogdanović,Okongwu,358,ATL,2024-25
+Bogdanović,Daniels,298,ATL,2024-25
+Bufkin,Hunter,78,ATL,2024-25
+Bufkin,Okongwu,103,ATL,2024-25
+Bufkin,Johnson,101,ATL,2024-25
+Bogdanović,Johnson,263,ATL,2024-25
+Bogdanović,Bufkin,97,ATL,2024-25
+LeVert,Mann,354,ATL,2024-25
+Capela,LeVert,116,ATL,2024-25
+Mann,Niang,346,ATL,2024-25
+Capela,Niang,124,ATL,2024-25
+Mann,Young,443,ATL,2024-25
+Capela,Mann,142,ATL,2024-25
+Niang,Risacher,222,ATL,2024-25
+Hunter,Risacher,166,ATL,2024-25
+LeVert,Risacher,191,ATL,2024-25
+Barlow,LeVert,118,ATL,2024-25
+Barlow,Niang,122,ATL,2024-25
+Barlow,Young,217,ATL,2024-25
+Barlow,Mann,194,ATL,2024-25
+Mann,Okongwu,259,ATL,2024-25
+Daniels,Mann,270,ATL,2024-25
+Krejčí,Young,550,ATL,2024-25
+Hunter,Krejčí,287,ATL,2024-25
+Krejčí,Okongwu,563,ATL,2024-25
+Daniels,Krejčí,634,ATL,2024-25
+Krejčí,LeVert,146,ATL,2024-25
+Krejčí,Risacher,391,ATL,2024-25
+Capela,Krejčí,245,ATL,2024-25
+Johnson,Krejčí,224,ATL,2024-25
+Bogdanović,Capela,170,ATL,2024-25
+Barlow,Okongwu,42,ATL,2024-25
+Barlow,Daniels,112,ATL,2024-25
+Barlow,Risacher,122,ATL,2024-25
+Nance Jr.,Young,270,ATL,2024-25
+Hunter,Nance Jr.,179,ATL,2024-25
+Mathews,Nance Jr.,200,ATL,2024-25
+Johnson,Nance Jr.,160,ATL,2024-25
+Mathews,Young,464,ATL,2024-25
+Hunter,Mathews,234,ATL,2024-25
+Johnson,Mathews,278,ATL,2024-25
+Krejčí,Niang,118,ATL,2024-25
+Krejčí,Mann,227,ATL,2024-25
+Barlow,Krejčí,174,ATL,2024-25
+Daniels,Mathews,283,ATL,2024-25
+Mathews,Risacher,236,ATL,2024-25
+Capela,Mathews,242,ATL,2024-25
+Mathews,Okongwu,348,ATL,2024-25
+Bogdanović,Risacher,129,ATL,2024-25
+Mann,Risacher,228,ATL,2024-25
+Bogdanović,Krejčí,146,ATL,2024-25
+Gueye,Krejčí,123,ATL,2024-25
+Mathews,Wallace,220,ATL,2024-25
+Mathews,Roddy,173,ATL,2024-25
+Okongwu,Wallace,201,ATL,2024-25
+Okongwu,Roddy,152,ATL,2024-25
+Johnson,Wallace,161,ATL,2024-25
+Johnson,Roddy,94,ATL,2024-25
+Roddy,Wallace,133,ATL,2024-25
+Roddy,Young,182,ATL,2024-25
+Risacher,Roddy,154,ATL,2024-25
+Capela,Roddy,102,ATL,2024-25
+Gueye,Niang,41,ATL,2024-25
+Gueye,Mann,129,ATL,2024-25
+Daniels,Roddy,112,ATL,2024-25
+Gueye,LeVert,76,ATL,2024-25
+Krejčí,Nance Jr.,180,ATL,2024-25
+Daniels,Nance Jr.,217,ATL,2024-25
+Nance Jr.,Wallace,141,ATL,2024-25
+Hunter,Wallace,121,ATL,2024-25
+Krejčí,Wallace,173,ATL,2024-25
+Daniels,Wallace,158,ATL,2024-25
+Nance Jr.,Okongwu,94,ATL,2024-25
+Krejčí,Mathews,252,ATL,2024-25
+Bogdanović,Nance Jr.,51,ATL,2024-25
+Nance Jr.,Risacher,144,ATL,2024-25
+Capela,Nance Jr.,29,ATL,2024-25
+Bogdanović,Mathews,106,ATL,2024-25
+Krejčí,Roddy,96,ATL,2024-25
+Capela,Wallace,119,ATL,2024-25
+Risacher,Wallace,172,ATL,2024-25
+Gueye,Wallace,73,ATL,2024-25
+Bufkin,Risacher,43,ATL,2024-25
+Wallace,Young,76,ATL,2024-25
+Gueye,Nance Jr.,25,ATL,2024-25
+Barlow,Nance Jr.,25,ATL,2024-25
+Barlow,Mathews,97,ATL,2024-25
+Barlow,Roddy,43,ATL,2024-25
+Bufkin,Capela,13,ATL,2024-25
+Mathews,Plowden,57,ATL,2024-25
+Okongwu,Plowden,20,ATL,2024-25
+Plowden,Wallace,47,ATL,2024-25
+Bogdanović,Wallace,24,ATL,2024-25
+Bogdanović,Plowden,14,ATL,2024-25
+Barlow,Wallace,76,ATL,2024-25
+Gueye,Roddy,17,ATL,2024-25
+Barlow,Gueye,53,ATL,2024-25
+Mathews,Toppin,22,ATL,2024-25
+Toppin,Wallace,18,ATL,2024-25
+Barlow,Toppin,14,ATL,2024-25
+Plowden,Toppin,20,ATL,2024-25
+Barlow,Plowden,31,ATL,2024-25
+LeVert,Nance Jr.,29,ATL,2024-25
+Nance Jr.,Niang,16,ATL,2024-25
+Mann,Nance Jr.,36,ATL,2024-25
+Bufkin,Mathews,14,ATL,2024-25
+Bufkin,Krejčí,21,ATL,2024-25
+Bufkin,Roddy,11,ATL,2024-25
+Niang,Wallace,18,ATL,2024-25
+Mann,Wallace,43,ATL,2024-25
+Barlow,Hunter,18,ATL,2024-25
+Barlow,Capela,17,ATL,2024-25
+Bogdanović,Roddy,37,ATL,2024-25
+Hunter,Roddy,29,ATL,2024-25
+Nance Jr.,Roddy,48,ATL,2024-25
+Krejčí,Plowden,34,ATL,2024-25
+Daniels,Plowden,11,ATL,2024-25
+Capela,Gueye,25,ATL,2024-25
+Mann,Mathews,32,ATL,2024-25
+Mann,Toppin,14,ATL,2024-25
+Mann,Plowden,15,ATL,2024-25
+Krejčí,Toppin,16,ATL,2024-25
+Barlow,Bogdanović,16,ATL,2024-25
+Bufkin,Daniels,11,ATL,2024-25
+Gueye,Hunter,17,ATL,2024-25
+Gueye,Plowden,6,ATL,2024-25
+Gueye,Mathews,29,ATL,2024-25
+Barlow,Johnson,5,ATL,2024-25
+Plowden,Young,8,ATL,2024-25
+Capela,Plowden,10,ATL,2024-25
+Plowden,Roddy,9,ATL,2024-25
+LeVert,Mathews,12,ATL,2024-25
+Mathews,Niang,5,ATL,2024-25
+LeVert,Wallace,6,ATL,2024-25
+Niang,Plowden,1,ATL,2024-25
+Plowden,Risacher,1,ATL,2024-25
+Capela,Okongwu,0,ATL,2024-25

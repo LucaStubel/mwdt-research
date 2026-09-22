@@ -1,0 +1,5066 @@
+Player1,Player2,SharedMinutes,Team,Season
+Jones,Kuzma,1739,WAS,2023-24
+Gafford,Jones,1072,WAS,2023-24
+Jones,Poole,1322,WAS,2023-24
+Avdija,Jones,1206,WAS,2023-24
+Gafford,Kuzma,1084,WAS,2023-24
+Kuzma,Poole,1558,WAS,2023-24
+Avdija,Kuzma,1284,WAS,2023-24
+Gafford,Poole,912,WAS,2023-24
+Avdija,Gafford,771,WAS,2023-24
+Avdija,Poole,1459,WAS,2023-24
+Coulibaly,Jones,847,WAS,2023-24
+Coulibaly,Kuzma,955,WAS,2023-24
+Coulibaly,Gafford,414,WAS,2023-24
+Coulibaly,Poole,716,WAS,2023-24
+Avdija,Coulibaly,688,WAS,2023-24
+Jones,Kispert,598,WAS,2023-24
+Kispert,Kuzma,882,WAS,2023-24
+Avdija,Kispert,1079,WAS,2023-24
+Coulibaly,Kispert,956,WAS,2023-24
+Gafford,Kispert,306,WAS,2023-24
+Bagley III,Jones,298,WAS,2023-24
+Bagley III,Kuzma,328,WAS,2023-24
+Bagley III,Poole,325,WAS,2023-24
+Avdija,Bagley III,310,WAS,2023-24
+Holmes,Kuzma,169,WAS,2023-24
+Holmes,Poole,260,WAS,2023-24
+Avdija,Holmes,131,WAS,2023-24
+Holmes,Kispert,227,WAS,2023-24
+Kispert,Poole,967,WAS,2023-24
+Avdija,Wright,207,WAS,2023-24
+Kispert,Wright,363,WAS,2023-24
+Coulibaly,Wright,331,WAS,2023-24
+Muscala,Wright,108,WAS,2023-24
+Avdija,Muscala,157,WAS,2023-24
+Kispert,Muscala,231,WAS,2023-24
+Coulibaly,Muscala,246,WAS,2023-24
+Bagley III,Wright,81,WAS,2023-24
+Shamet,Wright,186,WAS,2023-24
+Bagley III,Shamet,184,WAS,2023-24
+Bagley III,Kispert,295,WAS,2023-24
+Bagley III,Coulibaly,209,WAS,2023-24
+Kispert,Shamet,416,WAS,2023-24
+Coulibaly,Shamet,354,WAS,2023-24
+Jones,Muscala,103,WAS,2023-24
+Kuzma,Muscala,114,WAS,2023-24
+Muscala,Poole,148,WAS,2023-24
+Avdija,Shamet,304,WAS,2023-24
+Gallinari,Shamet,134,WAS,2023-24
+Avdija,Gallinari,184,WAS,2023-24
+Gallinari,Kispert,305,WAS,2023-24
+Coulibaly,Gallinari,276,WAS,2023-24
+Butler,Gill,215,WAS,2023-24
+Butler,Omoruyi,189,WAS,2023-24
+Butler,Davis,182,WAS,2023-24
+Butler,Coulibaly,134,WAS,2023-24
+Gill,Omoruyi,113,WAS,2023-24
+Davis,Gill,205,WAS,2023-24
+Coulibaly,Gill,141,WAS,2023-24
+Davis,Omoruyi,176,WAS,2023-24
+Coulibaly,Omoruyi,152,WAS,2023-24
+Coulibaly,Davis,110,WAS,2023-24
+Jones,Shamet,255,WAS,2023-24
+Kuzma,Shamet,302,WAS,2023-24
+Baldwin Jr.,Wright,52,WAS,2023-24
+Avdija,Baldwin Jr.,216,WAS,2023-24
+Baldwin Jr.,Kispert,276,WAS,2023-24
+Baldwin Jr.,Coulibaly,100,WAS,2023-24
+Gallinari,Kuzma,129,WAS,2023-24
+Gallinari,Poole,179,WAS,2023-24
+Davis,Holmes,98,WAS,2023-24
+Baldwin Jr.,Holmes,60,WAS,2023-24
+Davis,Poole,289,WAS,2023-24
+Baldwin Jr.,Poole,184,WAS,2023-24
+Davis,Kispert,317,WAS,2023-24
+Baldwin Jr.,Davis,190,WAS,2023-24
+Gallinari,Muscala,46,WAS,2023-24
+Poole,Shamet,264,WAS,2023-24
+Gill,Rollins,44,WAS,2023-24
+Omoruyi,Rollins,43,WAS,2023-24
+Davis,Rollins,38,WAS,2023-24
+Coulibaly,Rollins,63,WAS,2023-24
+Avdija,Gill,184,WAS,2023-24
+Avdija,Davis,245,WAS,2023-24
+Gill,Kispert,243,WAS,2023-24
+Baldwin Jr.,Gill,156,WAS,2023-24
+Gafford,Shamet,127,WAS,2023-24
+Muscala,Shamet,85,WAS,2023-24
+Gill,Poole,189,WAS,2023-24
+Poole,Vukcevic,89,WAS,2023-24
+Avdija,Vukcevic,108,WAS,2023-24
+Gill,Vukcevic,29,WAS,2023-24
+Kispert,Vukcevic,125,WAS,2023-24
+Davis,Vukcevic,48,WAS,2023-24
+Coulibaly,Holmes,71,WAS,2023-24
+Avdija,Butler,213,WAS,2023-24
+Butler,Kispert,282,WAS,2023-24
+Butler,Gallinari,30,WAS,2023-24
+Kuzma,Wright,126,WAS,2023-24
+Gallinari,Wright,108,WAS,2023-24
+Holmes,Jones,70,WAS,2023-24
+Baldwin Jr.,Vukcevic,49,WAS,2023-24
+Gill,Kuzma,60,WAS,2023-24
+Gallinari,Jones,66,WAS,2023-24
+Butler,Kuzma,104,WAS,2023-24
+Davis,Kuzma,91,WAS,2023-24
+Bagley III,Butler,76,WAS,2023-24
+Bagley III,Davis,71,WAS,2023-24
+Butler,Poole,160,WAS,2023-24
+Champagnie,Gill,82,WAS,2023-24
+Bernard,Gill,70,WAS,2023-24
+Champagnie,Davis,69,WAS,2023-24
+Baldwin Jr.,Champagnie,115,WAS,2023-24
+Bernard,Champagnie,77,WAS,2023-24
+Bernard,Davis,66,WAS,2023-24
+Baldwin Jr.,Bernard,82,WAS,2023-24
+Omoruyi,Poole,125,WAS,2023-24
+Avdija,Omoruyi,127,WAS,2023-24
+Kispert,Omoruyi,182,WAS,2023-24
+Jones,Omoruyi,33,WAS,2023-24
+Kuzma,Omoruyi,49,WAS,2023-24
+Gill,Muscala,29,WAS,2023-24
+Champagnie,Holmes,42,WAS,2023-24
+Champagnie,Poole,85,WAS,2023-24
+Champagnie,Kispert,102,WAS,2023-24
+Poole,Wright,73,WAS,2023-24
+Davis,Gallinari,54,WAS,2023-24
+Bagley III,Baldwin Jr.,48,WAS,2023-24
+Omoruyi,Wright,33,WAS,2023-24
+Davis,Wright,34,WAS,2023-24
+Omoruyi,Shamet,75,WAS,2023-24
+Davis,Shamet,83,WAS,2023-24
+Baldwin Jr.,Butler,207,WAS,2023-24
+Butler,Vukcevic,60,WAS,2023-24
+Butler,Rollins,17,WAS,2023-24
+Baldwin Jr.,Omoruyi,92,WAS,2023-24
+Baldwin Jr.,Rollins,24,WAS,2023-24
+Gafford,Wright,53,WAS,2023-24
+Jones,Wright,17,WAS,2023-24
+Butler,Champagnie,148,WAS,2023-24
+Bernard,Butler,97,WAS,2023-24
+Butler,Holmes,70,WAS,2023-24
+Gallinari,Omoruyi,8,WAS,2023-24
+Bernard,Kispert,32,WAS,2023-24
+Baldwin Jr.,Shamet,32,WAS,2023-24
+Butler,Muscala,32,WAS,2023-24
+Baldwin Jr.,Muscala,7,WAS,2023-24
+Holmes,Shamet,36,WAS,2023-24
+Bernard,Omoruyi,53,WAS,2023-24
+Champagnie,Omoruyi,70,WAS,2023-24
+Bernard,Coulibaly,14,WAS,2023-24
+Avdija,Champagnie,48,WAS,2023-24
+Champagnie,Kuzma,28,WAS,2023-24
+Baldwin Jr.,Kuzma,34,WAS,2023-24
+Kuzma,Vukcevic,26,WAS,2023-24
+Champagnie,Vukcevic,25,WAS,2023-24
+Bagley III,Champagnie,18,WAS,2023-24
+Bagley III,Gill,13,WAS,2023-24
+Bagley III,Vukcevic,21,WAS,2023-24
+Muscala,Omoruyi,11,WAS,2023-24
+Avdija,Bernard,23,WAS,2023-24
+Butler,Shamet,27,WAS,2023-24
+Gallinari,Gill,7,WAS,2023-24
+Omoruyi,Vukcevic,11,WAS,2023-24
+Davis,Jones,23,WAS,2023-24
+Davis,Gafford,9,WAS,2023-24
+Avdija,Rollins,7,WAS,2023-24
+Champagnie,Coulibaly,11,WAS,2023-24
+Bernard,Poole,28,WAS,2023-24
+Gill,Shamet,15,WAS,2023-24
+Butler,Jones,9,WAS,2023-24
+Davis,Muscala,12,WAS,2023-24
+Bagley III,Bernard,15,WAS,2023-24
+Poole,Rollins,4,WAS,2023-24
+Kispert,Rollins,8,WAS,2023-24
+Gill,Jones,11,WAS,2023-24
+Gafford,Gill,6,WAS,2023-24
+Holmes,Omoruyi,12,WAS,2023-24
+Bernard,Holmes,10,WAS,2023-24
+Gill,Wright,9,WAS,2023-24
+Rollins,Wright,3,WAS,2023-24
+Bernard,Vukcevic,10,WAS,2023-24
+Muscala,Rollins,5,WAS,2023-24
+Bernard,Kuzma,6,WAS,2023-24
+Baldwin Jr.,Jones,6,WAS,2023-24
+Diallo,Wright,3,WAS,2023-24
+Bernard,Wright,4,WAS,2023-24
+Baldwin Jr.,Diallo,4,WAS,2023-24
+Bernard,Diallo,3,WAS,2023-24
+Coulibaly,Diallo,3,WAS,2023-24
+Gafford,Gallinari,2,WAS,2023-24
+Gafford,Omoruyi,2,WAS,2023-24
+Gafford,Muscala,2,WAS,2023-24
+Holmes,Vukcevic,3,WAS,2023-24
+Bernard,Jones,1,WAS,2023-24
+Avdija,Diallo,1,WAS,2023-24
+Holmes,Wright,1,WAS,2023-24
+Diallo,Gill,1,WAS,2023-24
+Davis,Diallo,1,WAS,2023-24
+Gill,Jemison,2,WAS,2023-24
+Davis,Jemison,1,WAS,2023-24
+Baldwin Jr.,Jemison,2,WAS,2023-24
+Bernard,Jemison,1,WAS,2023-24
+Jemison,Shamet,1,WAS,2023-24
+Coulibaly,Jemison,1,WAS,2023-24
+Dunn,Markkanen,657,UTA,2023-24
+Collins,Dunn,610,UTA,2023-24
+Dunn,Sexton,722,UTA,2023-24
+Dunn,Fontecchio,457,UTA,2023-24
+Collins,Markkanen,1064,UTA,2023-24
+Markkanen,Sexton,1073,UTA,2023-24
+Fontecchio,Markkanen,685,UTA,2023-24
+Collins,Sexton,1112,UTA,2023-24
+Collins,Fontecchio,617,UTA,2023-24
+Fontecchio,Sexton,738,UTA,2023-24
+Agbaji,Kessler,426,UTA,2023-24
+Agbaji,George,605,UTA,2023-24
+Agbaji,Olynyk,477,UTA,2023-24
+Agbaji,Clarkson,528,UTA,2023-24
+George,Kessler,774,UTA,2023-24
+Kessler,Olynyk,373,UTA,2023-24
+Clarkson,Kessler,734,UTA,2023-24
+George,Olynyk,488,UTA,2023-24
+Clarkson,George,1005,UTA,2023-24
+Clarkson,Olynyk,620,UTA,2023-24
+Agbaji,Markkanen,338,UTA,2023-24
+George,Markkanen,782,UTA,2023-24
+Clarkson,Markkanen,896,UTA,2023-24
+Agbaji,Collins,431,UTA,2023-24
+Collins,George,1010,UTA,2023-24
+Clarkson,Collins,974,UTA,2023-24
+Hendricks,Markkanen,201,UTA,2023-24
+Collins,Hendricks,310,UTA,2023-24
+Hendricks,Sexton,476,UTA,2023-24
+George,Sexton,723,UTA,2023-24
+George,Hendricks,568,UTA,2023-24
+Horton-Tucker,Markkanen,360,UTA,2023-24
+Kessler,Markkanen,671,UTA,2023-24
+Collins,Horton-Tucker,305,UTA,2023-24
+Collins,Kessler,298,UTA,2023-24
+Horton-Tucker,Kessler,456,UTA,2023-24
+Clarkson,Horton-Tucker,325,UTA,2023-24
+Fontecchio,Kessler,396,UTA,2023-24
+Fontecchio,George,425,UTA,2023-24
+Clarkson,Fontecchio,378,UTA,2023-24
+Collins,Olynyk,431,UTA,2023-24
+Clarkson,Sexton,532,UTA,2023-24
+Markkanen,Olynyk,346,UTA,2023-24
+Horton-Tucker,Sexton,439,UTA,2023-24
+Olynyk,Sexton,503,UTA,2023-24
+Fontecchio,Horton-Tucker,213,UTA,2023-24
+Horton-Tucker,Olynyk,314,UTA,2023-24
+Fontecchio,Olynyk,291,UTA,2023-24
+Samanic,Yurtseven,186,UTA,2023-24
+Juzang,Samanic,102,UTA,2023-24
+Hendricks,Samanic,162,UTA,2023-24
+George,Samanic,200,UTA,2023-24
+Juzang,Yurtseven,151,UTA,2023-24
+Hendricks,Yurtseven,186,UTA,2023-24
+George,Yurtseven,308,UTA,2023-24
+Hendricks,Juzang,140,UTA,2023-24
+George,Juzang,184,UTA,2023-24
+Dunn,Kessler,433,UTA,2023-24
+Kessler,Sexton,697,UTA,2023-24
+Agbaji,Sexton,297,UTA,2023-24
+Agbaji,Horton-Tucker,239,UTA,2023-24
+Collins,Yurtseven,102,UTA,2023-24
+Agbaji,Yurtseven,131,UTA,2023-24
+Fontecchio,Yurtseven,181,UTA,2023-24
+Agbaji,Fontecchio,196,UTA,2023-24
+Sexton,Yurtseven,202,UTA,2023-24
+Sensabaugh,Sexton,297,UTA,2023-24
+Sensabaugh,Yurtseven,132,UTA,2023-24
+Hendricks,Sensabaugh,253,UTA,2023-24
+George,Sensabaugh,293,UTA,2023-24
+Collins,Sensabaugh,184,UTA,2023-24
+Dunn,Sensabaugh,154,UTA,2023-24
+Clarkson,Dunn,304,UTA,2023-24
+Markkanen,Sensabaugh,84,UTA,2023-24
+Kessler,Sensabaugh,194,UTA,2023-24
+Clarkson,Sensabaugh,119,UTA,2023-24
+Clarkson,Yurtseven,65,UTA,2023-24
+Dunn,Olynyk,153,UTA,2023-24
+Hendricks,Kessler,262,UTA,2023-24
+Dunn,Hendricks,290,UTA,2023-24
+Dunn,George,318,UTA,2023-24
+Dunn,Horton-Tucker,214,UTA,2023-24
+Hendricks,Horton-Tucker,175,UTA,2023-24
+Dunn,Yurtseven,156,UTA,2023-24
+Collins,Juzang,59,UTA,2023-24
+Juzang,Sexton,153,UTA,2023-24
+Collins,Samanic,68,UTA,2023-24
+Samanic,Sexton,144,UTA,2023-24
+Samanic,Sensabaugh,125,UTA,2023-24
+Dunn,Samanic,127,UTA,2023-24
+Clarkson,Hendricks,130,UTA,2023-24
+Fontecchio,Samanic,28,UTA,2023-24
+Dunn,Juzang,89,UTA,2023-24
+Horton-Tucker,Yurtseven,160,UTA,2023-24
+Horton-Tucker,Juzang,112,UTA,2023-24
+Clarkson,Juzang,51,UTA,2023-24
+Potter,Sexton,78,UTA,2023-24
+Horton-Tucker,Potter,50,UTA,2023-24
+Juzang,Potter,107,UTA,2023-24
+Juzang,Kessler,84,UTA,2023-24
+Kessler,Potter,85,UTA,2023-24
+Lewis Jr.,Samanic,43,UTA,2023-24
+Lewis Jr.,Yurtseven,42,UTA,2023-24
+Hendricks,Lewis Jr.,35,UTA,2023-24
+Lewis Jr.,Sensabaugh,76,UTA,2023-24
+Horton-Tucker,Samanic,144,UTA,2023-24
+George,Horton-Tucker,214,UTA,2023-24
+Agbaji,Samanic,60,UTA,2023-24
+Lewis Jr.,Sexton,40,UTA,2023-24
+Lewis Jr.,Potter,56,UTA,2023-24
+Kessler,Lewis Jr.,35,UTA,2023-24
+Potter,Sensabaugh,66,UTA,2023-24
+Agbaji,Dunn,183,UTA,2023-24
+Agbaji,Hendricks,94,UTA,2023-24
+Bazley,Horton-Tucker,83,UTA,2023-24
+Bazley,Preston,36,UTA,2023-24
+Bazley,Lofton Jr.,57,UTA,2023-24
+Bazley,Sensabaugh,76,UTA,2023-24
+Horton-Tucker,Preston,46,UTA,2023-24
+Horton-Tucker,Lofton Jr.,68,UTA,2023-24
+Horton-Tucker,Sensabaugh,116,UTA,2023-24
+Lofton Jr.,Preston,25,UTA,2023-24
+Preston,Sensabaugh,24,UTA,2023-24
+Lofton Jr.,Sensabaugh,57,UTA,2023-24
+Olynyk,Yurtseven,28,UTA,2023-24
+Bazley,Juzang,86,UTA,2023-24
+Juzang,Preston,46,UTA,2023-24
+Juzang,Lofton Jr.,27,UTA,2023-24
+Lewis Jr.,Lofton Jr.,16,UTA,2023-24
+Lofton Jr.,Potter,23,UTA,2023-24
+Hendricks,Potter,32,UTA,2023-24
+Hendricks,Lofton Jr.,26,UTA,2023-24
+Lofton Jr.,Samanic,31,UTA,2023-24
+George,Lofton Jr.,34,UTA,2023-24
+Bazley,Sexton,28,UTA,2023-24
+Bazley,Lewis Jr.,23,UTA,2023-24
+Bazley,Potter,39,UTA,2023-24
+Juzang,Lewis Jr.,21,UTA,2023-24
+Bazley,Samanic,32,UTA,2023-24
+Hendricks,Olynyk,28,UTA,2023-24
+Juzang,Sensabaugh,76,UTA,2023-24
+Kessler,Samanic,59,UTA,2023-24
+Lewis Jr.,Markkanen,10,UTA,2023-24
+Markkanen,Yurtseven,47,UTA,2023-24
+Dunn,Lewis Jr.,22,UTA,2023-24
+George,Lewis Jr.,29,UTA,2023-24
+Dunn,Potter,53,UTA,2023-24
+Olynyk,Samanic,16,UTA,2023-24
+Preston,Sexton,14,UTA,2023-24
+Preston,Yurtseven,20,UTA,2023-24
+Potter,Yurtseven,37,UTA,2023-24
+Potter,Preston,15,UTA,2023-24
+Bazley,George,45,UTA,2023-24
+George,Potter,66,UTA,2023-24
+Bazley,Hendricks,12,UTA,2023-24
+Horton-Tucker,Lewis Jr.,11,UTA,2023-24
+Clarkson,Samanic,46,UTA,2023-24
+Kessler,Preston,15,UTA,2023-24
+Potter,Samanic,12,UTA,2023-24
+Bazley,Yurtseven,34,UTA,2023-24
+Fontecchio,Hendricks,21,UTA,2023-24
+Bazley,Dunn,21,UTA,2023-24
+Dunn,Preston,9,UTA,2023-24
+Clarkson,Potter,13,UTA,2023-24
+Preston,Samanic,10,UTA,2023-24
+Lewis Jr.,Preston,4,UTA,2023-24
+Hendricks,Preston,15,UTA,2023-24
+Markkanen,Samanic,9,UTA,2023-24
+Juzang,Markkanen,16,UTA,2023-24
+Agbaji,Potter,3,UTA,2023-24
+Markkanen,Potter,5,UTA,2023-24
+Fontecchio,Sensabaugh,2,UTA,2023-24
+Collins,Potter,4,UTA,2023-24
+George,Preston,1,UTA,2023-24
+Collins,Lewis Jr.,1,UTA,2023-24
+Poeltl,Siakam,868,TOR,2023-24
+Anunoby,Poeltl,577,TOR,2023-24
+Barnes,Poeltl,903,TOR,2023-24
+Poeltl,Schroder,830,TOR,2023-24
+Anunoby,Siakam,719,TOR,2023-24
+Barnes,Siakam,949,TOR,2023-24
+Schroder,Siakam,1042,TOR,2023-24
+Anunoby,Barnes,665,TOR,2023-24
+Anunoby,Schroder,672,TOR,2023-24
+Barnes,Schroder,1038,TOR,2023-24
+Poeltl,Trent Jr.,646,TOR,2023-24
+Barrett,Poeltl,336,TOR,2023-24
+Poeltl,Quickley,421,TOR,2023-24
+Barrett,Trent Jr.,594,TOR,2023-24
+Quickley,Trent Jr.,741,TOR,2023-24
+Barnes,Trent Jr.,1002,TOR,2023-24
+Barrett,Quickley,760,TOR,2023-24
+Barnes,Barrett,534,TOR,2023-24
+Barnes,Quickley,587,TOR,2023-24
+Siakam,Trent Jr.,581,TOR,2023-24
+Anunoby,Trent Jr.,336,TOR,2023-24
+Schroder,Trent Jr.,651,TOR,2023-24
+Agbaji,Trent Jr.,345,TOR,2023-24
+Olynyk,Trent Jr.,461,TOR,2023-24
+Agbaji,Barrett,159,TOR,2023-24
+Barrett,Olynyk,264,TOR,2023-24
+Agbaji,Quickley,279,TOR,2023-24
+Olynyk,Quickley,355,TOR,2023-24
+Agbaji,Olynyk,441,TOR,2023-24
+Dick,Trent Jr.,437,TOR,2023-24
+Dick,Quickley,378,TOR,2023-24
+Agbaji,Dick,348,TOR,2023-24
+Dick,Olynyk,475,TOR,2023-24
+Agbaji,Brown,240,TOR,2023-24
+Barnes,Brown,308,TOR,2023-24
+Brown,Dick,456,TOR,2023-24
+Brown,Olynyk,330,TOR,2023-24
+Agbaji,Barnes,73,TOR,2023-24
+Barnes,Dick,322,TOR,2023-24
+Barnes,Olynyk,96,TOR,2023-24
+Barrett,Siakam,157,TOR,2023-24
+Quickley,Siakam,181,TOR,2023-24
+Achiuwa,Siakam,203,TOR,2023-24
+Flynn,Siakam,173,TOR,2023-24
+Achiuwa,Trent Jr.,263,TOR,2023-24
+Flynn,Trent Jr.,266,TOR,2023-24
+Achiuwa,Flynn,263,TOR,2023-24
+Achiuwa,Barnes,309,TOR,2023-24
+Barnes,Flynn,327,TOR,2023-24
+Freeman-Liberty,Trent Jr.,166,TOR,2023-24
+Agbaji,Freeman-Liberty,167,TOR,2023-24
+Dick,Freeman-Liberty,213,TOR,2023-24
+Freeman-Liberty,Olynyk,185,TOR,2023-24
+Barrett,Dick,255,TOR,2023-24
+Porter,Trent Jr.,128,TOR,2023-24
+Barrett,Porter,135,TOR,2023-24
+Porter,Quickley,141,TOR,2023-24
+Barnes,Porter,124,TOR,2023-24
+Barrett,Brown,218,TOR,2023-24
+Brown,Quickley,246,TOR,2023-24
+Brown,Trent Jr.,334,TOR,2023-24
+Brown,Young,120,TOR,2023-24
+Brown,Schroder,160,TOR,2023-24
+Trent Jr.,Young,153,TOR,2023-24
+Barnes,Young,242,TOR,2023-24
+Schroder,Young,190,TOR,2023-24
+Boucher,Trent Jr.,257,TOR,2023-24
+Achiuwa,Boucher,174,TOR,2023-24
+Boucher,Flynn,236,TOR,2023-24
+Barnes,Boucher,405,TOR,2023-24
+Barrett,Young,155,TOR,2023-24
+Quickley,Young,148,TOR,2023-24
+Siakam,Young,49,TOR,2023-24
+Boucher,Dick,220,TOR,2023-24
+Achiuwa,Dick,80,TOR,2023-24
+Dick,Flynn,124,TOR,2023-24
+Dick,Poeltl,155,TOR,2023-24
+Dick,Siakam,102,TOR,2023-24
+Dick,Schroder,198,TOR,2023-24
+Brown,Poeltl,95,TOR,2023-24
+Brown,Freeman-Liberty,129,TOR,2023-24
+Quickley,Williams,49,TOR,2023-24
+Quickley,Temple,63,TOR,2023-24
+Agbaji,Williams,46,TOR,2023-24
+Agbaji,Temple,53,TOR,2023-24
+Dick,Williams,64,TOR,2023-24
+Dick,Temple,169,TOR,2023-24
+Temple,Williams,64,TOR,2023-24
+Achiuwa,Anunoby,135,TOR,2023-24
+Anunoby,Flynn,146,TOR,2023-24
+Barrett,Schroder,245,TOR,2023-24
+Quickley,Schroder,194,TOR,2023-24
+Achiuwa,Schroder,147,TOR,2023-24
+Anunoby,Boucher,141,TOR,2023-24
+Dick,Young,95,TOR,2023-24
+Boucher,Poeltl,94,TOR,2023-24
+Boucher,Siakam,131,TOR,2023-24
+Boucher,Schroder,284,TOR,2023-24
+Porter Jr.,Siakam,87,TOR,2023-24
+Anunoby,Porter Jr.,53,TOR,2023-24
+Barnes,Porter Jr.,112,TOR,2023-24
+Porter Jr.,Schroder,96,TOR,2023-24
+Anunoby,McDaniels,48,TOR,2023-24
+Boucher,McDaniels,150,TOR,2023-24
+Flynn,McDaniels,99,TOR,2023-24
+Barnes,McDaniels,138,TOR,2023-24
+Barrett,Boucher,120,TOR,2023-24
+McDaniels,Quickley,62,TOR,2023-24
+Dick,McDaniels,171,TOR,2023-24
+McDaniels,Williams,43,TOR,2023-24
+McDaniels,Temple,147,TOR,2023-24
+Barrett,Freeman-Liberty,74,TOR,2023-24
+McDaniels,Trent Jr.,113,TOR,2023-24
+Achiuwa,McDaniels,68,TOR,2023-24
+Porter,Siakam,51,TOR,2023-24
+Poeltl,Porter Jr.,44,TOR,2023-24
+Brown,Porter,105,TOR,2023-24
+Brown,Nwora,175,TOR,2023-24
+Nwora,Porter,120,TOR,2023-24
+Dick,Porter,117,TOR,2023-24
+Barnes,Nwora,62,TOR,2023-24
+Dick,Nwora,244,TOR,2023-24
+McDaniels,Nwora,188,TOR,2023-24
+Freeman-Liberty,McDaniels,76,TOR,2023-24
+Gueye,McDaniels,48,TOR,2023-24
+Freeman-Liberty,Nwora,143,TOR,2023-24
+Gueye,Nwora,93,TOR,2023-24
+Nwora,Temple,147,TOR,2023-24
+Freeman-Liberty,Gueye,63,TOR,2023-24
+Freeman-Liberty,Temple,87,TOR,2023-24
+Gueye,Temple,55,TOR,2023-24
+Nwora,Trent Jr.,82,TOR,2023-24
+Nwora,Olynyk,88,TOR,2023-24
+Agbaji,Poeltl,25,TOR,2023-24
+Boucher,Nwora,54,TOR,2023-24
+Boucher,Temple,40,TOR,2023-24
+Boucher,Quickley,106,TOR,2023-24
+Achiuwa,Poeltl,11,TOR,2023-24
+Porter Jr.,Trent Jr.,66,TOR,2023-24
+Achiuwa,Porter Jr.,46,TOR,2023-24
+Flynn,Porter Jr.,56,TOR,2023-24
+McDaniels,Siakam,51,TOR,2023-24
+McDaniels,Schroder,101,TOR,2023-24
+Boucher,Porter,65,TOR,2023-24
+Porter,Schroder,97,TOR,2023-24
+Flynn,Poeltl,72,TOR,2023-24
+Flynn,Schroder,52,TOR,2023-24
+Nwora,Poeltl,23,TOR,2023-24
+Nwora,Quickley,87,TOR,2023-24
+Ramsey,Trent Jr.,26,TOR,2023-24
+Agbaji,Ramsey,34,TOR,2023-24
+Dick,Ramsey,51,TOR,2023-24
+Olynyk,Ramsey,35,TOR,2023-24
+Barrett,Nwora,61,TOR,2023-24
+Barrett,Carton,16,TOR,2023-24
+Carton,Nwora,27,TOR,2023-24
+Carton,Dick,23,TOR,2023-24
+Carton,Olynyk,13,TOR,2023-24
+McDaniels,Simmons,33,TOR,2023-24
+Nwora,Simmons,54,TOR,2023-24
+Gueye,Simmons,34,TOR,2023-24
+Simmons,Temple,47,TOR,2023-24
+Boucher,Porter Jr.,45,TOR,2023-24
+Barrett,McDaniels,43,TOR,2023-24
+Brown,Ramsey,52,TOR,2023-24
+Porter,Ramsey,63,TOR,2023-24
+Nwora,Ramsey,70,TOR,2023-24
+Brown,Williams,41,TOR,2023-24
+Barrett,Williams,20,TOR,2023-24
+Freeman-Liberty,Williams,42,TOR,2023-24
+Olynyk,Poeltl,9,TOR,2023-24
+Boucher,Young,47,TOR,2023-24
+Temple,Trent Jr.,25,TOR,2023-24
+Olynyk,Temple,21,TOR,2023-24
+Brown,Simmons,23,TOR,2023-24
+Dick,Simmons,31,TOR,2023-24
+Brown,Temple,77,TOR,2023-24
+Dick,Gueye,44,TOR,2023-24
+Freeman-Liberty,Simmons,8,TOR,2023-24
+Anunoby,Dick,36,TOR,2023-24
+Agbaji,McDaniels,41,TOR,2023-24
+Agbaji,Nwora,82,TOR,2023-24
+Boucher,Freeman-Liberty,24,TOR,2023-24
+Freeman-Liberty,Quickley,41,TOR,2023-24
+Boucher,Brown,48,TOR,2023-24
+Nwora,Schroder,49,TOR,2023-24
+McDaniels,Porter,66,TOR,2023-24
+Porter,Temple,34,TOR,2023-24
+Brown,McDaniels,87,TOR,2023-24
+McDaniels,Olynyk,37,TOR,2023-24
+McDaniels,Poeltl,41,TOR,2023-24
+McDaniels,Ramsey,32,TOR,2023-24
+Agbaji,Porter,45,TOR,2023-24
+McDaniels,Young,44,TOR,2023-24
+Nwora,Young,32,TOR,2023-24
+Temple,Young,23,TOR,2023-24
+Carton,Porter,10,TOR,2023-24
+Boucher,Olynyk,16,TOR,2023-24
+Gueye,Quickley,13,TOR,2023-24
+Trent Jr.,Williams,14,TOR,2023-24
+Freeman-Liberty,Porter,28,TOR,2023-24
+Freeman-Liberty,Ramsey,23,TOR,2023-24
+Agbaji,Gueye,18,TOR,2023-24
+McDaniels,Porter Jr.,29,TOR,2023-24
+Brown,Gueye,19,TOR,2023-24
+Quickley,Ramsey,18,TOR,2023-24
+Flynn,Young,14,TOR,2023-24
+Flynn,Temple,12,TOR,2023-24
+Achiuwa,Young,5,TOR,2023-24
+Simmons,Trent Jr.,9,TOR,2023-24
+Olynyk,Simmons,5,TOR,2023-24
+Poeltl,Young,4,TOR,2023-24
+Gueye,Ramsey,16,TOR,2023-24
+Schroder,Temple,6,TOR,2023-24
+Dick,Porter Jr.,20,TOR,2023-24
+Agbaji,Boucher,8,TOR,2023-24
+Boucher,Carton,7,TOR,2023-24
+Carton,McDaniels,4,TOR,2023-24
+Agbaji,Carton,4,TOR,2023-24
+Nwora,Williams,27,TOR,2023-24
+Ramsey,Temple,11,TOR,2023-24
+Porter Jr.,Temple,7,TOR,2023-24
+Boucher,Harper Jr.,4,TOR,2023-24
+Harper Jr.,McDaniels,4,TOR,2023-24
+Flynn,Harper Jr.,4,TOR,2023-24
+Dick,Harper Jr.,4,TOR,2023-24
+Gueye,Porter,10,TOR,2023-24
+McDaniels,Nowell,4,TOR,2023-24
+Dick,Nowell,4,TOR,2023-24
+Nowell,Young,4,TOR,2023-24
+Nowell,Temple,4,TOR,2023-24
+Porter Jr.,Young,3,TOR,2023-24
+Olynyk,Porter,9,TOR,2023-24
+Carton,Ramsey,5,TOR,2023-24
+Carton,Freeman-Liberty,7,TOR,2023-24
+Carton,Gueye,3,TOR,2023-24
+Barrett,Temple,16,TOR,2023-24
+Brown,Carton,5,TOR,2023-24
+Porter,Young,4,TOR,2023-24
+Barrett,Gueye,2,TOR,2023-24
+Gueye,Trent Jr.,8,TOR,2023-24
+Gueye,Williams,2,TOR,2023-24
+Carton,Poeltl,2,TOR,2023-24
+Carton,Quickley,2,TOR,2023-24
+Jones,Vassell,1307,SAS,2023-24
+Champagnie,Vassell,767,SAS,2023-24
+Sochan,Vassell,1649,SAS,2023-24
+Vassell,Wembanyama,1221,SAS,2023-24
+Champagnie,Jones,957,SAS,2023-24
+Jones,Sochan,1155,SAS,2023-24
+Jones,Wembanyama,1286,SAS,2023-24
+Champagnie,Sochan,807,SAS,2023-24
+Champagnie,Wembanyama,889,SAS,2023-24
+Sochan,Wembanyama,1246,SAS,2023-24
+Johnson,Vassell,1143,SAS,2023-24
+Johnson,Jones,864,SAS,2023-24
+Johnson,Sochan,1124,SAS,2023-24
+Johnson,Wembanyama,995,SAS,2023-24
+Branham,Johnson,866,SAS,2023-24
+Branham,Vassell,589,SAS,2023-24
+Branham,Sochan,699,SAS,2023-24
+Branham,Wembanyama,831,SAS,2023-24
+Collins,Johnson,936,SAS,2023-24
+Collins,Vassell,823,SAS,2023-24
+Collins,Jones,629,SAS,2023-24
+Collins,Sochan,888,SAS,2023-24
+Collins,Wembanyama,413,SAS,2023-24
+Branham,Collins,613,SAS,2023-24
+Johnson,Osman,759,SAS,2023-24
+Branham,Osman,565,SAS,2023-24
+Osman,Wesley,363,SAS,2023-24
+Osman,Wembanyama,519,SAS,2023-24
+Johnson,Wesley,459,SAS,2023-24
+Branham,Wesley,324,SAS,2023-24
+Wembanyama,Wesley,254,SAS,2023-24
+Champagnie,Collins,417,SAS,2023-24
+Collins,Wesley,348,SAS,2023-24
+Vassell,Wesley,318,SAS,2023-24
+Sochan,Wesley,237,SAS,2023-24
+Jones,Mamukelashvili,211,SAS,2023-24
+Branham,Jones,532,SAS,2023-24
+Champagnie,Mamukelashvili,257,SAS,2023-24
+Branham,Mamukelashvili,237,SAS,2023-24
+Mamukelashvili,Wembanyama,127,SAS,2023-24
+Branham,Champagnie,434,SAS,2023-24
+Jones,Osman,632,SAS,2023-24
+McDermott,Osman,309,SAS,2023-24
+Johnson,McDermott,315,SAS,2023-24
+Jones,McDermott,356,SAS,2023-24
+McDermott,Wembanyama,399,SAS,2023-24
+Collins,Osman,447,SAS,2023-24
+Osman,Vassell,524,SAS,2023-24
+Champagnie,Osman,210,SAS,2023-24
+McDermott,Vassell,256,SAS,2023-24
+McDermott,Sochan,304,SAS,2023-24
+Champagnie,Johnson,265,SAS,2023-24
+Barlow,Vassell,235,SAS,2023-24
+Barlow,Jones,162,SAS,2023-24
+Barlow,Champagnie,145,SAS,2023-24
+Barlow,Sochan,185,SAS,2023-24
+Barlow,Johnson,237,SAS,2023-24
+Barlow,Wesley,188,SAS,2023-24
+Collins,McDermott,251,SAS,2023-24
+Branham,McDermott,236,SAS,2023-24
+Barlow,Osman,151,SAS,2023-24
+Barlow,Branham,156,SAS,2023-24
+Osman,Sochan,325,SAS,2023-24
+Duke Jr.,Gray,30,SAS,2023-24
+Duke Jr.,Wesley,24,SAS,2023-24
+Bouyea,Duke Jr.,31,SAS,2023-24
+Cissoko,Duke Jr.,30,SAS,2023-24
+Gray,Wesley,30,SAS,2023-24
+Bouyea,Gray,25,SAS,2023-24
+Cissoko,Gray,32,SAS,2023-24
+Bouyea,Wesley,20,SAS,2023-24
+Cissoko,Wesley,97,SAS,2023-24
+Bouyea,Cissoko,27,SAS,2023-24
+Collins,Graham,122,SAS,2023-24
+Collins,Mamukelashvili,118,SAS,2023-24
+Graham,Mamukelashvili,166,SAS,2023-24
+Branham,Graham,113,SAS,2023-24
+Graham,Wesley,144,SAS,2023-24
+Mamukelashvili,Wesley,217,SAS,2023-24
+Bassey,Osman,139,SAS,2023-24
+Bassey,Johnson,67,SAS,2023-24
+Bassey,Vassell,74,SAS,2023-24
+Bassey,Jones,138,SAS,2023-24
+Bassey,Branham,109,SAS,2023-24
+Bassey,Wembanyama,61,SAS,2023-24
+Champagnie,Graham,178,SAS,2023-24
+Barlow,Graham,47,SAS,2023-24
+Barlow,Mamukelashvili,55,SAS,2023-24
+Champagnie,Wesley,279,SAS,2023-24
+Graham,Jones,109,SAS,2023-24
+Graham,Wembanyama,112,SAS,2023-24
+Jones,Wesley,118,SAS,2023-24
+Cissoko,Graham,87,SAS,2023-24
+Cissoko,Mamukelashvili,57,SAS,2023-24
+Champagnie,Cissoko,61,SAS,2023-24
+McDermott,Wesley,71,SAS,2023-24
+Cissoko,Collins,48,SAS,2023-24
+Champagnie,McDermott,101,SAS,2023-24
+Mamukelashvili,Osman,92,SAS,2023-24
+Johnson,Mamukelashvili,71,SAS,2023-24
+Diakite,Graham,14,SAS,2023-24
+Diakite,Mamukelashvili,17,SAS,2023-24
+Champagnie,Diakite,10,SAS,2023-24
+Diakite,Wesley,17,SAS,2023-24
+Bassey,McDermott,75,SAS,2023-24
+Barlow,McDermott,50,SAS,2023-24
+Barlow,Wembanyama,22,SAS,2023-24
+Bassey,Sochan,54,SAS,2023-24
+Barlow,Cissoko,8,SAS,2023-24
+Bassey,Champagnie,47,SAS,2023-24
+Mamukelashvili,Vassell,46,SAS,2023-24
+Mamukelashvili,Sochan,41,SAS,2023-24
+Cissoko,Jones,58,SAS,2023-24
+Cissoko,Wembanyama,18,SAS,2023-24
+Barlow,Collins,10,SAS,2023-24
+Graham,Osman,31,SAS,2023-24
+Bassey,Graham,22,SAS,2023-24
+Bassey,Mamukelashvili,14,SAS,2023-24
+Barlow,Bassey,8,SAS,2023-24
+Branham,Cissoko,26,SAS,2023-24
+Collins,Duke Jr.,14,SAS,2023-24
+Duke Jr.,Jones,17,SAS,2023-24
+Duke Jr.,Mamukelashvili,16,SAS,2023-24
+Champagnie,Duke Jr.,13,SAS,2023-24
+Mamukelashvili,McDermott,46,SAS,2023-24
+Graham,Sochan,15,SAS,2023-24
+Bassey,Cissoko,4,SAS,2023-24
+Collins,Gray,9,SAS,2023-24
+Gray,Jones,13,SAS,2023-24
+Champagnie,Gray,7,SAS,2023-24
+Graham,Johnson,26,SAS,2023-24
+Duke Jr.,Graham,23,SAS,2023-24
+Graham,Gray,11,SAS,2023-24
+Bouyea,Graham,13,SAS,2023-24
+Bouyea,Mamukelashvili,14,SAS,2023-24
+Bouyea,Champagnie,8,SAS,2023-24
+Barlow,Diakite,5,SAS,2023-24
+Bouyea,Collins,6,SAS,2023-24
+Bouyea,Jones,4,SAS,2023-24
+Graham,McDermott,11,SAS,2023-24
+Bassey,Wesley,4,SAS,2023-24
+Cissoko,Johnson,5,SAS,2023-24
+Cissoko,Vassell,4,SAS,2023-24
+Graham,Vassell,12,SAS,2023-24
+Branham,Duke Jr.,3,SAS,2023-24
+Gray,Mamukelashvili,2,SAS,2023-24
+Duke Jr.,Wembanyama,3,SAS,2023-24
+Diakite,Osman,2,SAS,2023-24
+Branham,Diakite,2,SAS,2023-24
+Cissoko,Sochan,2,SAS,2023-24
+Diakite,Sochan,1,SAS,2023-24
+Branham,Gray,1,SAS,2023-24
+Fox,Sabonis,1917,SAC,2023-24
+Huerter,Sabonis,1395,SAC,2023-24
+Murray,Sabonis,2252,SAC,2023-24
+Barnes,Sabonis,2127,SAC,2023-24
+Fox,Huerter,1084,SAC,2023-24
+Fox,Murray,1822,SAC,2023-24
+Barnes,Fox,1782,SAC,2023-24
+Huerter,Murray,1064,SAC,2023-24
+Barnes,Huerter,1212,SAC,2023-24
+Barnes,Murray,1749,SAC,2023-24
+Ellis,Sabonis,750,SAC,2023-24
+Ellis,Fox,531,SAC,2023-24
+Ellis,Murray,614,SAC,2023-24
+Barnes,Ellis,559,SAC,2023-24
+Monk,Sabonis,1135,SAC,2023-24
+Fox,Monk,1088,SAC,2023-24
+Monk,Murray,924,SAC,2023-24
+Barnes,Monk,756,SAC,2023-24
+Duarte,Sabonis,420,SAC,2023-24
+Duarte,Fox,422,SAC,2023-24
+Duarte,Murray,368,SAC,2023-24
+Barnes,Duarte,288,SAC,2023-24
+Mitchell,Sabonis,833,SAC,2023-24
+Huerter,Mitchell,295,SAC,2023-24
+Mitchell,Murray,609,SAC,2023-24
+Barnes,Mitchell,483,SAC,2023-24
+Ellis,Huerter,180,SAC,2023-24
+Mitchell,Monk,551,SAC,2023-24
+Lyles,Sabonis,560,SAC,2023-24
+Lyles,Monk,809,SAC,2023-24
+Lyles,Mitchell,385,SAC,2023-24
+Lyles,Murray,481,SAC,2023-24
+Fox,Mitchell,276,SAC,2023-24
+Duarte,Huerter,102,SAC,2023-24
+Huerter,Monk,443,SAC,2023-24
+Ellis,Lyles,227,SAC,2023-24
+Ellis,Monk,373,SAC,2023-24
+Fox,Lyles,761,SAC,2023-24
+Lyles,Vezenkov,232,SAC,2023-24
+Lyles,McGee,151,SAC,2023-24
+Fox,Vezenkov,291,SAC,2023-24
+Fox,McGee,225,SAC,2023-24
+Monk,Vezenkov,355,SAC,2023-24
+McGee,Monk,273,SAC,2023-24
+McGee,Vezenkov,164,SAC,2023-24
+Huerter,Lyles,260,SAC,2023-24
+Duarte,Monk,345,SAC,2023-24
+Duarte,Mitchell,197,SAC,2023-24
+Duarte,Vezenkov,118,SAC,2023-24
+Duarte,McGee,114,SAC,2023-24
+Ellis,Mitchell,161,SAC,2023-24
+Barnes,Lyles,248,SAC,2023-24
+Len,Lyles,249,SAC,2023-24
+Fox,Len,327,SAC,2023-24
+Len,Monk,277,SAC,2023-24
+Ellis,Len,144,SAC,2023-24
+McGee,Murray,76,SAC,2023-24
+Huerter,Len,62,SAC,2023-24
+Len,Murray,146,SAC,2023-24
+Barnes,McGee,70,SAC,2023-24
+Duarte,Lyles,140,SAC,2023-24
+Huerter,McGee,41,SAC,2023-24
+Mitchell,Vezenkov,128,SAC,2023-24
+Len,Vezenkov,70,SAC,2023-24
+Len,Mitchell,144,SAC,2023-24
+Barnes,Vezenkov,90,SAC,2023-24
+Duarte,Len,113,SAC,2023-24
+Sabonis,Vezenkov,169,SAC,2023-24
+Edwards,Sabonis,70,SAC,2023-24
+Edwards,Fox,78,SAC,2023-24
+Edwards,Monk,77,SAC,2023-24
+Barnes,Edwards,66,SAC,2023-24
+Barnes,Len,63,SAC,2023-24
+Lyles,Toscano-Anderson,27,SAC,2023-24
+Fox,Toscano-Anderson,18,SAC,2023-24
+Monk,Toscano-Anderson,26,SAC,2023-24
+Len,Toscano-Anderson,23,SAC,2023-24
+Edwards,Lyles,57,SAC,2023-24
+Jones,Monk,49,SAC,2023-24
+Jones,Vezenkov,59,SAC,2023-24
+Duarte,Jones,78,SAC,2023-24
+Jones,McGee,75,SAC,2023-24
+Ellis,Vezenkov,103,SAC,2023-24
+Murray,Vezenkov,115,SAC,2023-24
+Jones,Sabonis,59,SAC,2023-24
+Fox,Jones,30,SAC,2023-24
+Jones,Murray,59,SAC,2023-24
+Barnes,Jones,33,SAC,2023-24
+Huerter,Vezenkov,71,SAC,2023-24
+Edwards,McGee,55,SAC,2023-24
+McGee,Mitchell,54,SAC,2023-24
+Edwards,Ford,19,SAC,2023-24
+Ellis,Ford,18,SAC,2023-24
+Ford,Jones,11,SAC,2023-24
+Ford,Len,9,SAC,2023-24
+Edwards,Ellis,70,SAC,2023-24
+Edwards,Jones,114,SAC,2023-24
+Edwards,Len,81,SAC,2023-24
+Ellis,Jones,48,SAC,2023-24
+Jones,Len,64,SAC,2023-24
+Edwards,Mitchell,125,SAC,2023-24
+Edwards,Slawson,35,SAC,2023-24
+Jones,Mitchell,82,SAC,2023-24
+Mitchell,Slawson,26,SAC,2023-24
+Jones,Slawson,36,SAC,2023-24
+McGee,Slawson,17,SAC,2023-24
+Ford,Vezenkov,10,SAC,2023-24
+Edwards,Vezenkov,51,SAC,2023-24
+Duarte,Ford,8,SAC,2023-24
+Duarte,Edwards,82,SAC,2023-24
+Duarte,Ellis,61,SAC,2023-24
+Toscano-Anderson,Vezenkov,13,SAC,2023-24
+Duarte,Toscano-Anderson,12,SAC,2023-24
+Edwards,Toscano-Anderson,18,SAC,2023-24
+Mitchell,Toscano-Anderson,20,SAC,2023-24
+Edwards,Huerter,34,SAC,2023-24
+Huerter,Jones,10,SAC,2023-24
+Ellis,McGee,36,SAC,2023-24
+Edwards,Petrusev,6,SAC,2023-24
+Mitchell,Petrusev,6,SAC,2023-24
+Jones,Petrusev,6,SAC,2023-24
+Petrusev,Slawson,6,SAC,2023-24
+Edwards,Murray,34,SAC,2023-24
+Jones,Lyles,41,SAC,2023-24
+Ellis,Toscano-Anderson,17,SAC,2023-24
+Jones,Toscano-Anderson,10,SAC,2023-24
+McGee,Toscano-Anderson,8,SAC,2023-24
+Slawson,Vezenkov,9,SAC,2023-24
+Jones,Jones,10,SAC,2023-24
+Len,Sabonis,4,SAC,2023-24
+Sabonis,Toscano-Anderson,7,SAC,2023-24
+Murray,Toscano-Anderson,5,SAC,2023-24
+Duarte,Slawson,8,SAC,2023-24
+Len,Slawson,4,SAC,2023-24
+Ford,Monk,2,SAC,2023-24
+Ford,Murray,2,SAC,2023-24
+Ford,McGee,3,SAC,2023-24
+McGee,Sabonis,2,SAC,2023-24
+Monk,Slawson,1,SAC,2023-24
+Huerter,Slawson,1,SAC,2023-24
+Huerter,Toscano-Anderson,2,SAC,2023-24
+Ford,Mitchell,1,SAC,2023-24
+Ford,Slawson,1,SAC,2023-24
+Barnes,Toscano-Anderson,2,SAC,2023-24
+Murray,Petrusev,0,SAC,2023-24
+Ellis,Petrusev,0,SAC,2023-24
+Murray,Slawson,0,SAC,2023-24
+Ellis,Slawson,0,SAC,2023-24
+Ayton,Brogdon,566,POR,2023-24
+Brogdon,Sharpe,420,POR,2023-24
+Brogdon,Camara,506,POR,2023-24
+Brogdon,Grant,750,POR,2023-24
+Ayton,Sharpe,562,POR,2023-24
+Ayton,Camara,778,POR,2023-24
+Ayton,Grant,1020,POR,2023-24
+Camara,Sharpe,559,POR,2023-24
+Grant,Sharpe,626,POR,2023-24
+Camara,Grant,799,POR,2023-24
+Ayton,Henderson,710,POR,2023-24
+Ayton,Walker,605,POR,2023-24
+Ayton,Murray,496,POR,2023-24
+Ayton,Rupert,183,POR,2023-24
+Henderson,Walker,797,POR,2023-24
+Henderson,Murray,550,POR,2023-24
+Henderson,Rupert,309,POR,2023-24
+Murray,Walker,550,POR,2023-24
+Rupert,Walker,297,POR,2023-24
+Murray,Rupert,425,POR,2023-24
+Brogdon,Simons,375,POR,2023-24
+Brogdon,Walker,453,POR,2023-24
+Ayton,Simons,770,POR,2023-24
+Simons,Walker,524,POR,2023-24
+Grant,Simons,774,POR,2023-24
+Grant,Walker,534,POR,2023-24
+Ayton,Mays,163,POR,2023-24
+Mays,Sharpe,192,POR,2023-24
+Camara,Mays,171,POR,2023-24
+Grant,Mays,209,POR,2023-24
+Henderson,Simons,598,POR,2023-24
+Camara,Simons,787,POR,2023-24
+Reath,Simons,525,POR,2023-24
+Camara,Henderson,638,POR,2023-24
+Henderson,Reath,611,POR,2023-24
+Grant,Henderson,656,POR,2023-24
+Camara,Reath,450,POR,2023-24
+Grant,Reath,403,POR,2023-24
+Ayton,Thybulle,608,POR,2023-24
+Henderson,Thybulle,629,POR,2023-24
+Sharpe,Thybulle,442,POR,2023-24
+Grant,Thybulle,761,POR,2023-24
+Henderson,Sharpe,317,POR,2023-24
+Banton,Simons,247,POR,2023-24
+Murray,Simons,517,POR,2023-24
+Ayton,Banton,329,POR,2023-24
+Banton,Murray,456,POR,2023-24
+Banton,Camara,253,POR,2023-24
+Camara,Murray,523,POR,2023-24
+Brogdon,Thybulle,455,POR,2023-24
+Grant,Murray,192,POR,2023-24
+Brogdon,Henderson,382,POR,2023-24
+Brogdon,Reath,228,POR,2023-24
+Thybulle,Walker,642,POR,2023-24
+Reath,Thybulle,450,POR,2023-24
+Reath,Walker,475,POR,2023-24
+Banton,Henderson,354,POR,2023-24
+Banton,Walker,382,POR,2023-24
+Simons,Thybulle,555,POR,2023-24
+Sharpe,Simons,226,POR,2023-24
+Camara,Thybulle,418,POR,2023-24
+Reath,Sharpe,200,POR,2023-24
+Mays,Thybulle,148,POR,2023-24
+Banton,Rupert,291,POR,2023-24
+Banton,Reath,380,POR,2023-24
+Reath,Rupert,239,POR,2023-24
+Murray,Thybulle,222,POR,2023-24
+Murray,Reath,424,POR,2023-24
+Camara,Rupert,132,POR,2023-24
+Sharpe,Walker,286,POR,2023-24
+Brogdon,Williams III,91,POR,2023-24
+Sharpe,Williams III,84,POR,2023-24
+Camara,Williams III,75,POR,2023-24
+Grant,Williams III,59,POR,2023-24
+Ayton,Hagans,39,POR,2023-24
+Hagans,Thybulle,115,POR,2023-24
+Hagans,Walker,177,POR,2023-24
+Grant,Hagans,93,POR,2023-24
+Camara,Walker,407,POR,2023-24
+Walker,Williams III,48,POR,2023-24
+Ayton,Minaya,93,POR,2023-24
+Banton,Minaya,162,POR,2023-24
+Henderson,Minaya,123,POR,2023-24
+Minaya,Walker,128,POR,2023-24
+Badji,Murray,111,POR,2023-24
+Badji,Minaya,41,POR,2023-24
+Badji,Rupert,61,POR,2023-24
+Badji,Camara,66,POR,2023-24
+Minaya,Murray,241,POR,2023-24
+Minaya,Rupert,163,POR,2023-24
+Camara,Minaya,56,POR,2023-24
+Minaya,Reath,155,POR,2023-24
+Mays,Walker,166,POR,2023-24
+Mays,Reath,58,POR,2023-24
+Brown,Hagans,53,POR,2023-24
+Banton,Brown,87,POR,2023-24
+Brown,Walker,58,POR,2023-24
+Brown,Rupert,68,POR,2023-24
+Banton,Hagans,147,POR,2023-24
+Hagans,Rupert,95,POR,2023-24
+Banton,Thybulle,153,POR,2023-24
+Banton,Grant,114,POR,2023-24
+Minaya,Simons,41,POR,2023-24
+Rupert,Simons,62,POR,2023-24
+Brogdon,Brown,44,POR,2023-24
+Brown,Henderson,69,POR,2023-24
+Brown,Camara,73,POR,2023-24
+Brown,Grant,41,POR,2023-24
+Badji,Thybulle,79,POR,2023-24
+Badji,Henderson,101,POR,2023-24
+Badji,Sharpe,58,POR,2023-24
+Badji,Grant,95,POR,2023-24
+Brown,Murray,82,POR,2023-24
+Brown,Minaya,44,POR,2023-24
+Hagans,Simons,57,POR,2023-24
+Hagans,Murray,145,POR,2023-24
+Camara,Hagans,87,POR,2023-24
+Badji,Simons,51,POR,2023-24
+Brown,Simons,48,POR,2023-24
+Hagans,Reath,91,POR,2023-24
+Brogdon,Mays,56,POR,2023-24
+Rupert,Thybulle,38,POR,2023-24
+Brown,Thybulle,27,POR,2023-24
+Mays,Williams III,32,POR,2023-24
+Hagans,Minaya,47,POR,2023-24
+Mays,Murray,82,POR,2023-24
+Minaya,Thybulle,44,POR,2023-24
+Henderson,Mays,34,POR,2023-24
+Brown,Reath,14,POR,2023-24
+Badji,Brogdon,59,POR,2023-24
+Banton,Moore,21,POR,2023-24
+Moore,Murray,34,POR,2023-24
+Minaya,Moore,20,POR,2023-24
+Moore,Reath,21,POR,2023-24
+Murray,Sharpe,105,POR,2023-24
+Bouyea,Brown,9,POR,2023-24
+Bouyea,Murray,26,POR,2023-24
+Bouyea,Minaya,17,POR,2023-24
+Bouyea,Rupert,19,POR,2023-24
+Ayton,Williams III,20,POR,2023-24
+Henderson,Williams III,29,POR,2023-24
+Grant,Rupert,15,POR,2023-24
+Badji,Walker,54,POR,2023-24
+Brogdon,Murray,47,POR,2023-24
+Brogdon,Rupert,7,POR,2023-24
+Rupert,Sharpe,22,POR,2023-24
+Ayton,Reath,28,POR,2023-24
+Ayton,Bouyea,26,POR,2023-24
+Bouyea,Sharpe,29,POR,2023-24
+Bouyea,Camara,19,POR,2023-24
+Bouyea,Grant,14,POR,2023-24
+Brown,Sharpe,15,POR,2023-24
+Mays,Rupert,15,POR,2023-24
+Badji,Hagans,26,POR,2023-24
+Grant,Minaya,11,POR,2023-24
+Badji,Banton,32,POR,2023-24
+Bouyea,Thybulle,16,POR,2023-24
+Bouyea,Wainright,5,POR,2023-24
+Murray,Wainright,40,POR,2023-24
+Minaya,Wainright,5,POR,2023-24
+Rupert,Wainright,9,POR,2023-24
+Bouyea,Walker,28,POR,2023-24
+Bouyea,Reath,16,POR,2023-24
+Hagans,Henderson,12,POR,2023-24
+Moore,Rupert,30,POR,2023-24
+Thybulle,Wainright,14,POR,2023-24
+Mays,Wainright,27,POR,2023-24
+Camara,Wainright,7,POR,2023-24
+Henderson,Moore,4,POR,2023-24
+Camara,Moore,8,POR,2023-24
+Wainright,Walker,17,POR,2023-24
+Henderson,Wainright,13,POR,2023-24
+Sharpe,Wainright,15,POR,2023-24
+Thybulle,Williams III,16,POR,2023-24
+Simons,Wainright,5,POR,2023-24
+Badji,Moore,10,POR,2023-24
+Minaya,Sharpe,14,POR,2023-24
+Simons,Williams III,10,POR,2023-24
+Brown,Mays,14,POR,2023-24
+Badji,Mays,18,POR,2023-24
+Mays,Minaya,7,POR,2023-24
+Badji,Wainright,6,POR,2023-24
+Brogdon,Wainright,9,POR,2023-24
+Brown,Wainright,6,POR,2023-24
+Brown,Moore,4,POR,2023-24
+Grant,Wainright,2,POR,2023-24
+Allen,Booker,1695,PHX,2023-24
+Booker,Durant,1708,PHX,2023-24
+Beal,Booker,1109,PHX,2023-24
+Booker,Nurkic,1396,PHX,2023-24
+Allen,Durant,2032,PHX,2023-24
+Allen,Beal,1094,PHX,2023-24
+Allen,Nurkic,1575,PHX,2023-24
+Beal,Durant,1309,PHX,2023-24
+Durant,Nurkic,1651,PHX,2023-24
+Beal,Nurkic,1010,PHX,2023-24
+Booker,Gordon,1019,PHX,2023-24
+Allen,Gordon,962,PHX,2023-24
+Durant,Gordon,1273,PHX,2023-24
+Gordon,Nurkic,853,PHX,2023-24
+Booker,Eubanks,619,PHX,2023-24
+Allen,Eubanks,515,PHX,2023-24
+Durant,Eubanks,687,PHX,2023-24
+Beal,Eubanks,428,PHX,2023-24
+Eubanks,Gordon,617,PHX,2023-24
+Allen,Okogie,454,PHX,2023-24
+Durant,Okogie,600,PHX,2023-24
+Gordon,Okogie,501,PHX,2023-24
+Nurkic,Okogie,439,PHX,2023-24
+Allen,O'Neale,432,PHX,2023-24
+Durant,O'Neale,528,PHX,2023-24
+Beal,O'Neale,376,PHX,2023-24
+Nurkic,O'Neale,338,PHX,2023-24
+Booker,Okogie,386,PHX,2023-24
+Booker,O'Neale,418,PHX,2023-24
+Beal,Gordon,617,PHX,2023-24
+Booker,Little,187,PHX,2023-24
+Allen,Little,170,PHX,2023-24
+Durant,Little,204,PHX,2023-24
+Little,Nurkic,170,PHX,2023-24
+Allen,Bates-Diop,301,PHX,2023-24
+Bates-Diop,Durant,242,PHX,2023-24
+Bates-Diop,Gordon,245,PHX,2023-24
+Bates-Diop,Nurkic,261,PHX,2023-24
+Bates-Diop,Beal,199,PHX,2023-24
+Bol,Eubanks,169,PHX,2023-24
+Bol,Durant,167,PHX,2023-24
+Bol,Gordon,216,PHX,2023-24
+Beal,Bol,238,PHX,2023-24
+Eubanks,O'Neale,215,PHX,2023-24
+Gordon,O'Neale,338,PHX,2023-24
+Booker,Metu,274,PHX,2023-24
+Allen,Metu,157,PHX,2023-24
+Beal,Metu,159,PHX,2023-24
+Metu,Nurkic,99,PHX,2023-24
+Bates-Diop,Booker,306,PHX,2023-24
+Bates-Diop,Okogie,149,PHX,2023-24
+Eubanks,Okogie,313,PHX,2023-24
+Beal,Okogie,236,PHX,2023-24
+Durant,Metu,132,PHX,2023-24
+Gordon,Metu,225,PHX,2023-24
+Allen,Goodwin,168,PHX,2023-24
+Goodwin,Okogie,112,PHX,2023-24
+Durant,Goodwin,242,PHX,2023-24
+Goodwin,Nurkic,190,PHX,2023-24
+Okogie,Watanabe,116,PHX,2023-24
+Eubanks,Watanabe,238,PHX,2023-24
+Durant,Watanabe,140,PHX,2023-24
+Gordon,Watanabe,164,PHX,2023-24
+Bol,O'Neale,151,PHX,2023-24
+Bol,Nurkic,164,PHX,2023-24
+Azubuike,Booker,74,PHX,2023-24
+Allen,Azubuike,53,PHX,2023-24
+Azubuike,Durant,48,PHX,2023-24
+Azubuike,Gordon,63,PHX,2023-24
+Goodwin,Watanabe,228,PHX,2023-24
+Eubanks,Goodwin,286,PHX,2023-24
+Goodwin,Gordon,199,PHX,2023-24
+Bates-Diop,Eubanks,205,PHX,2023-24
+Little,Watanabe,104,PHX,2023-24
+Eubanks,Little,134,PHX,2023-24
+Goodwin,Little,180,PHX,2023-24
+Little,Okogie,117,PHX,2023-24
+Gordon,Little,139,PHX,2023-24
+Booker,Watanabe,118,PHX,2023-24
+Booker,Goodwin,194,PHX,2023-24
+Metu,Watanabe,61,PHX,2023-24
+Eubanks,Metu,112,PHX,2023-24
+Goodwin,Metu,149,PHX,2023-24
+Bates-Diop,Metu,79,PHX,2023-24
+Bates-Diop,Watanabe,99,PHX,2023-24
+Bates-Diop,Little,81,PHX,2023-24
+Bates-Diop,Goodwin,158,PHX,2023-24
+Little,Metu,90,PHX,2023-24
+Bol,Booker,164,PHX,2023-24
+Allen,Bol,196,PHX,2023-24
+Metu,Okogie,114,PHX,2023-24
+Bol,Metu,25,PHX,2023-24
+Bol,Okogie,106,PHX,2023-24
+Beal,Watanabe,38,PHX,2023-24
+Nurkic,Watanabe,103,PHX,2023-24
+Beal,Goodwin,55,PHX,2023-24
+Lee,Metu,48,PHX,2023-24
+Lee,Little,43,PHX,2023-24
+Durant,Lee,81,PHX,2023-24
+Gordon,Lee,70,PHX,2023-24
+Azubuike,Bates-Diop,23,PHX,2023-24
+Azubuike,Beal,23,PHX,2023-24
+Allen,Young,41,PHX,2023-24
+Okogie,Young,27,PHX,2023-24
+Bol,Young,35,PHX,2023-24
+Durant,Young,39,PHX,2023-24
+Allen,Watanabe,74,PHX,2023-24
+O'Neale,Okogie,63,PHX,2023-24
+Lee,O'Neale,47,PHX,2023-24
+Lee,Okogie,24,PHX,2023-24
+Eubanks,Lee,72,PHX,2023-24
+Beal,Little,28,PHX,2023-24
+Bol,Little,34,PHX,2023-24
+Beal,Lee,37,PHX,2023-24
+Booker,Lee,39,PHX,2023-24
+Allen,Lee,49,PHX,2023-24
+Bol,Lee,65,PHX,2023-24
+Okogie,Roddy,24,PHX,2023-24
+Okogie,Thomas,17,PHX,2023-24
+Bol,Roddy,33,PHX,2023-24
+Bol,Thomas,9,PHX,2023-24
+Little,Roddy,35,PHX,2023-24
+Little,Thomas,20,PHX,2023-24
+Roddy,Thomas,15,PHX,2023-24
+Azubuike,Metu,32,PHX,2023-24
+O'Neale,Young,50,PHX,2023-24
+Gordon,Young,38,PHX,2023-24
+Beal,Young,37,PHX,2023-24
+Booker,Young,44,PHX,2023-24
+Lee,Nurkic,36,PHX,2023-24
+Bol,Watanabe,13,PHX,2023-24
+Bol,Goodwin,19,PHX,2023-24
+Lee,Watanabe,16,PHX,2023-24
+Goodwin,Lee,17,PHX,2023-24
+Little,O'Neale,16,PHX,2023-24
+Azubuike,Okogie,19,PHX,2023-24
+Azubuike,Little,32,PHX,2023-24
+Azubuike,Maledon,5,PHX,2023-24
+Azubuike,Lee,30,PHX,2023-24
+Azubuike,Roddy,5,PHX,2023-24
+Little,Maledon,11,PHX,2023-24
+Lee,Maledon,10,PHX,2023-24
+Maledon,Roddy,9,PHX,2023-24
+Lee,Roddy,19,PHX,2023-24
+Azubuike,Goodwin,19,PHX,2023-24
+Little,Young,15,PHX,2023-24
+Roddy,Young,12,PHX,2023-24
+Bates-Diop,Lee,20,PHX,2023-24
+Bates-Diop,Bol,12,PHX,2023-24
+Gordon,Roddy,11,PHX,2023-24
+Beal,Roddy,13,PHX,2023-24
+Nurkic,Roddy,11,PHX,2023-24
+Lee,Thomas,6,PHX,2023-24
+Booker,Wainright,7,PHX,2023-24
+Durant,Wainright,4,PHX,2023-24
+Beal,Wainright,10,PHX,2023-24
+Nurkic,Wainright,4,PHX,2023-24
+Azubuike,Watanabe,8,PHX,2023-24
+Eubanks,Roddy,16,PHX,2023-24
+Booker,Roddy,3,PHX,2023-24
+O'Neale,Roddy,9,PHX,2023-24
+Durant,Roddy,13,PHX,2023-24
+Allen,Roddy,11,PHX,2023-24
+Bol,Wainright,8,PHX,2023-24
+Little,Wainright,6,PHX,2023-24
+Roddy,Wainright,5,PHX,2023-24
+Wainright,Young,5,PHX,2023-24
+Bol,Maledon,6,PHX,2023-24
+O'Neale,Wainright,6,PHX,2023-24
+Allen,Wainright,3,PHX,2023-24
+Azubuike,Young,3,PHX,2023-24
+Azubuike,Thomas,4,PHX,2023-24
+Thomas,Young,6,PHX,2023-24
+Azubuike,Bol,14,PHX,2023-24
+Allen,Maledon,2,PHX,2023-24
+Eubanks,Maledon,2,PHX,2023-24
+Gordon,Wainright,2,PHX,2023-24
+Thomas,Wainright,3,PHX,2023-24
+Azubuike,O'Neale,1,PHX,2023-24
+Okogie,Wainright,1,PHX,2023-24
+Maledon,Okogie,2,PHX,2023-24
+Maledon,Young,1,PHX,2023-24
+Lee,Young,3,PHX,2023-24
+Maxey,Melton,766,PHI,2023-24
+Batum,Melton,379,PHI,2023-24
+Harris,Melton,866,PHI,2023-24
+Embiid,Melton,640,PHI,2023-24
+Batum,Maxey,1023,PHI,2023-24
+Harris,Maxey,1713,PHI,2023-24
+Embiid,Maxey,947,PHI,2023-24
+Batum,Harris,879,PHI,2023-24
+Batum,Embiid,624,PHI,2023-24
+Embiid,Harris,945,PHI,2023-24
+Maxey,Oubre Jr.,1333,PHI,2023-24
+Batum,Oubre Jr.,647,PHI,2023-24
+Harris,Oubre Jr.,1130,PHI,2023-24
+Embiid,Oubre Jr.,597,PHI,2023-24
+Melton,Oubre Jr.,285,PHI,2023-24
+Bamba,Oubre Jr.,421,PHI,2023-24
+Lowry,Oubre Jr.,451,PHI,2023-24
+Bamba,Maxey,418,PHI,2023-24
+Bamba,Lowry,294,PHI,2023-24
+Bamba,Harris,385,PHI,2023-24
+Lowry,Maxey,402,PHI,2023-24
+Harris,Lowry,389,PHI,2023-24
+Oubre Jr.,Reed,800,PHI,2023-24
+Melton,Reed,225,PHI,2023-24
+Maxey,Reed,1042,PHI,2023-24
+Harris,Reed,819,PHI,2023-24
+Covington,Melton,192,PHI,2023-24
+Covington,Maxey,248,PHI,2023-24
+Covington,Harris,193,PHI,2023-24
+Covington,Embiid,174,PHI,2023-24
+Hield,Oubre Jr.,427,PHI,2023-24
+Hield,Maxey,444,PHI,2023-24
+Hield,Reed,486,PHI,2023-24
+Harris,Hield,379,PHI,2023-24
+Melton,Tucker,51,PHI,2023-24
+Maxey,Tucker,59,PHI,2023-24
+Harris,Tucker,57,PHI,2023-24
+Embiid,Tucker,57,PHI,2023-24
+Martin,Oubre Jr.,336,PHI,2023-24
+Hield,Martin,227,PHI,2023-24
+Martin,Maxey,275,PHI,2023-24
+Martin,Reed,282,PHI,2023-24
+Batum,Hield,314,PHI,2023-24
+Batum,Reed,535,PHI,2023-24
+Bamba,Batum,138,PHI,2023-24
+Batum,Lowry,305,PHI,2023-24
+Hield,Payne,304,PHI,2023-24
+Payne,Reed,327,PHI,2023-24
+Batum,Payne,226,PHI,2023-24
+Harris,Payne,299,PHI,2023-24
+Beverley,Maxey,447,PHI,2023-24
+Maxey,Morris Sr.,400,PHI,2023-24
+Beverley,Reed,314,PHI,2023-24
+Morris Sr.,Reed,266,PHI,2023-24
+Beverley,Morris Sr.,366,PHI,2023-24
+Beverley,Harris,407,PHI,2023-24
+Harris,Morris Sr.,207,PHI,2023-24
+Embiid,Lowry,84,PHI,2023-24
+House Jr.,Korkmaz,104,PHI,2023-24
+Bamba,Korkmaz,77,PHI,2023-24
+Korkmaz,Martin,149,PHI,2023-24
+Korkmaz,Springer,134,PHI,2023-24
+Bamba,House Jr.,80,PHI,2023-24
+House Jr.,Martin,94,PHI,2023-24
+House Jr.,Springer,125,PHI,2023-24
+Bamba,Martin,177,PHI,2023-24
+Bamba,Springer,104,PHI,2023-24
+Martin,Springer,137,PHI,2023-24
+House Jr.,Oubre Jr.,160,PHI,2023-24
+House Jr.,Maxey,250,PHI,2023-24
+House Jr.,Reed,208,PHI,2023-24
+Harris,House Jr.,199,PHI,2023-24
+Bamba,Hield,172,PHI,2023-24
+Hield,Lowry,196,PHI,2023-24
+Morris Sr.,Oubre Jr.,264,PHI,2023-24
+Covington,Oubre Jr.,79,PHI,2023-24
+Covington,Reed,161,PHI,2023-24
+Covington,Morris Sr.,120,PHI,2023-24
+Beverley,Oubre Jr.,380,PHI,2023-24
+Beverley,Embiid,364,PHI,2023-24
+Oubre Jr.,Payne,306,PHI,2023-24
+Bamba,Payne,116,PHI,2023-24
+Lowry,Payne,129,PHI,2023-24
+Embiid,Morris Sr.,171,PHI,2023-24
+Lowry,Reed,179,PHI,2023-24
+Melton,Morris Sr.,123,PHI,2023-24
+Batum,Morris Sr.,143,PHI,2023-24
+Beverley,House Jr.,215,PHI,2023-24
+Embiid,House Jr.,191,PHI,2023-24
+Beverley,Melton,202,PHI,2023-24
+Martin,Payne,177,PHI,2023-24
+Embiid,Payne,52,PHI,2023-24
+Maxey,Payne,166,PHI,2023-24
+Batum,Beverley,204,PHI,2023-24
+Oubre Jr.,Springer,99,PHI,2023-24
+Maxey,Springer,155,PHI,2023-24
+Reed,Springer,156,PHI,2023-24
+Harris,Springer,131,PHI,2023-24
+Bamba,Beverley,142,PHI,2023-24
+Korkmaz,Smith,30,PHI,2023-24
+Council IV,Korkmaz,30,PHI,2023-24
+Martin,Smith,62,PHI,2023-24
+Council IV,Martin,107,PHI,2023-24
+Smith,Springer,24,PHI,2023-24
+Council IV,Springer,30,PHI,2023-24
+Council IV,Smith,61,PHI,2023-24
+Bamba,Melton,79,PHI,2023-24
+Batum,Martin,93,PHI,2023-24
+Beverley,Covington,163,PHI,2023-24
+Batum,Springer,36,PHI,2023-24
+Batum,House Jr.,46,PHI,2023-24
+Melton,Springer,32,PHI,2023-24
+Embiid,Springer,70,PHI,2023-24
+Council IV,Oubre Jr.,116,PHI,2023-24
+Council IV,Hield,106,PHI,2023-24
+Council IV,Maxey,101,PHI,2023-24
+Council IV,Harris,51,PHI,2023-24
+Lowry,Martin,77,PHI,2023-24
+Council IV,Reed,131,PHI,2023-24
+Batum,Council IV,39,PHI,2023-24
+House Jr.,Morris Sr.,155,PHI,2023-24
+Bamba,Morris Sr.,75,PHI,2023-24
+Council IV,Payne,102,PHI,2023-24
+House Jr.,Melton,42,PHI,2023-24
+Harris,Martin,127,PHI,2023-24
+Hield,Melton,22,PHI,2023-24
+Dowtin Jr.,Hield,73,PHI,2023-24
+Embiid,Hield,50,PHI,2023-24
+Dowtin Jr.,Melton,12,PHI,2023-24
+Batum,Dowtin Jr.,27,PHI,2023-24
+Dowtin Jr.,Embiid,13,PHI,2023-24
+Dowtin Jr.,Oubre Jr.,58,PHI,2023-24
+Dowtin Jr.,Reed,78,PHI,2023-24
+Dowtin Jr.,Martin,77,PHI,2023-24
+Council IV,Dowtin Jr.,53,PHI,2023-24
+Korkmaz,Reed,90,PHI,2023-24
+Reed,Smith,29,PHI,2023-24
+Covington,Springer,36,PHI,2023-24
+Beverley,Springer,101,PHI,2023-24
+Morris Sr.,Springer,59,PHI,2023-24
+Covington,House Jr.,61,PHI,2023-24
+Batum,Covington,51,PHI,2023-24
+Dowtin Jr.,Payne,43,PHI,2023-24
+Oubre Jr.,Tucker,12,PHI,2023-24
+Payne,Smith,13,PHI,2023-24
+Dowtin Jr.,Smith,11,PHI,2023-24
+Beverley,Korkmaz,95,PHI,2023-24
+Beverley,Martin,102,PHI,2023-24
+Korkmaz,Maxey,63,PHI,2023-24
+Harris,Korkmaz,82,PHI,2023-24
+Bamba,Smith,20,PHI,2023-24
+Bamba,Council IV,44,PHI,2023-24
+Korkmaz,Oubre Jr.,58,PHI,2023-24
+Bamba,Dowtin Jr.,23,PHI,2023-24
+Dowtin Jr.,Maxey,17,PHI,2023-24
+Bamba,Covington,52,PHI,2023-24
+Martin,Melton,33,PHI,2023-24
+Covington,Martin,28,PHI,2023-24
+Covington,Korkmaz,50,PHI,2023-24
+Embiid,Korkmaz,80,PHI,2023-24
+Dowtin Jr.,Harris,36,PHI,2023-24
+Council IV,Lowry,24,PHI,2023-24
+Korkmaz,Melton,27,PHI,2023-24
+Embiid,Martin,66,PHI,2023-24
+Bamba,Reed,23,PHI,2023-24
+Bazley,Payne,8,PHI,2023-24
+Bazley,Hield,8,PHI,2023-24
+Bamba,Bazley,6,PHI,2023-24
+Bazley,Council IV,8,PHI,2023-24
+Oubre Jr.,Smith,19,PHI,2023-24
+Hield,Smith,14,PHI,2023-24
+Martin,Morris Sr.,39,PHI,2023-24
+Korkmaz,Lofton Jr.,5,PHI,2023-24
+Lofton Jr.,Martin,9,PHI,2023-24
+Lofton Jr.,Smith,5,PHI,2023-24
+Council IV,Lofton Jr.,9,PHI,2023-24
+Melton,Payne,20,PHI,2023-24
+Korkmaz,Morris Sr.,33,PHI,2023-24
+Dowtin Jr.,Lowry,15,PHI,2023-24
+Lowry,Melton,15,PHI,2023-24
+Green,Oubre Jr.,18,PHI,2023-24
+Green,Maxey,12,PHI,2023-24
+Green,Reed,5,PHI,2023-24
+Beverley,Green,10,PHI,2023-24
+Harris,Smith,4,PHI,2023-24
+Council IV,Melton,7,PHI,2023-24
+Green,Harris,8,PHI,2023-24
+Embiid,Green,13,PHI,2023-24
+Hield,Wilson,10,PHI,2023-24
+Maxey,Wilson,6,PHI,2023-24
+Council IV,Wilson,6,PHI,2023-24
+Harris,Wilson,6,PHI,2023-24
+Green,Melton,6,PHI,2023-24
+Bamba,Lofton Jr.,4,PHI,2023-24
+Lofton Jr.,Springer,4,PHI,2023-24
+Batum,Korkmaz,18,PHI,2023-24
+Council IV,House Jr.,7,PHI,2023-24
+Council IV,Morris Sr.,3,PHI,2023-24
+Maxey,Smith,3,PHI,2023-24
+Embiid,Reed,5,PHI,2023-24
+Payne,Wilson,8,PHI,2023-24
+Reed,Wilson,2,PHI,2023-24
+Martin,Wilson,6,PHI,2023-24
+Lowry,Wilson,4,PHI,2023-24
+Bazley,Maxey,2,PHI,2023-24
+House Jr.,Smith,4,PHI,2023-24
+Reed,Tucker,4,PHI,2023-24
+Beverley,Tucker,4,PHI,2023-24
+Korkmaz,Petrusev,3,PHI,2023-24
+House Jr.,Petrusev,3,PHI,2023-24
+Bamba,Petrusev,2,PHI,2023-24
+Petrusev,Springer,3,PHI,2023-24
+Petrusev,Reed,1,PHI,2023-24
+Batum,Smith,1,PHI,2023-24
+Council IV,Embiid,1,PHI,2023-24
+Carter Jr.,Wagner,1108,ORL,2023-24
+Carter Jr.,Suggs,1000,ORL,2023-24
+Banchero,Carter Jr.,1231,ORL,2023-24
+Carter Jr.,Harris,584,ORL,2023-24
+Suggs,Wagner,1652,ORL,2023-24
+Banchero,Wagner,2332,ORL,2023-24
+Harris,Wagner,1277,ORL,2023-24
+Banchero,Suggs,1913,ORL,2023-24
+Harris,Suggs,575,ORL,2023-24
+Banchero,Harris,959,ORL,2023-24
+Carter Jr.,Fultz,514,ORL,2023-24
+Fultz,Wagner,701,ORL,2023-24
+Fultz,Suggs,489,ORL,2023-24
+Banchero,Fultz,650,ORL,2023-24
+Bitadze,Wagner,538,ORL,2023-24
+Bitadze,Suggs,654,ORL,2023-24
+Banchero,Bitadze,834,ORL,2023-24
+Bitadze,Black,544,ORL,2023-24
+Black,Wagner,960,ORL,2023-24
+Black,Suggs,510,ORL,2023-24
+Banchero,Black,793,ORL,2023-24
+Isaac,Wagner,1034,ORL,2023-24
+Anthony,Isaac,715,ORL,2023-24
+Harris,Isaac,305,ORL,2023-24
+Ingles,Isaac,495,ORL,2023-24
+Anthony,Wagner,2062,ORL,2023-24
+Ingles,Wagner,1124,ORL,2023-24
+Anthony,Harris,529,ORL,2023-24
+Anthony,Ingles,882,ORL,2023-24
+Harris,Ingles,333,ORL,2023-24
+Bitadze,Okeke,217,ORL,2023-24
+Bitadze,Houstan,264,ORL,2023-24
+Okeke,Suggs,182,ORL,2023-24
+Banchero,Okeke,215,ORL,2023-24
+Houstan,Okeke,296,ORL,2023-24
+Houstan,Suggs,310,ORL,2023-24
+Banchero,Houstan,488,ORL,2023-24
+Black,Isaac,189,ORL,2023-24
+Anthony,Black,362,ORL,2023-24
+Black,Ingles,254,ORL,2023-24
+Wagner,Wagner,672,ORL,2023-24
+Fultz,Isaac,207,ORL,2023-24
+Anthony,Fultz,371,ORL,2023-24
+Fultz,Ingles,328,ORL,2023-24
+Black,Carter Jr.,265,ORL,2023-24
+Bitadze,Harris,212,ORL,2023-24
+Black,Harris,168,ORL,2023-24
+Fultz,Harris,117,ORL,2023-24
+Isaac,Suggs,183,ORL,2023-24
+Banchero,Isaac,290,ORL,2023-24
+Carter Jr.,Houstan,190,ORL,2023-24
+Houstan,Wagner,571,ORL,2023-24
+Bitadze,Ingles,135,ORL,2023-24
+Ingles,Suggs,246,ORL,2023-24
+Banchero,Ingles,517,ORL,2023-24
+Anthony,Suggs,332,ORL,2023-24
+Anthony,Banchero,886,ORL,2023-24
+Anthony,Carter Jr.,342,ORL,2023-24
+Anthony,Bitadze,213,ORL,2023-24
+Carter Jr.,Isaac,118,ORL,2023-24
+Carter Jr.,Ingles,218,ORL,2023-24
+Anthony,Houstan,376,ORL,2023-24
+Houstan,Ingles,121,ORL,2023-24
+Okeke,Wagner,180,ORL,2023-24
+Anthony,Okeke,148,ORL,2023-24
+Fultz,Houstan,77,ORL,2023-24
+Houstan,Isaac,69,ORL,2023-24
+Harris,Houstan,119,ORL,2023-24
+Bitadze,Schofield,37,ORL,2023-24
+Okeke,Schofield,83,ORL,2023-24
+Black,Okeke,163,ORL,2023-24
+Houstan,Schofield,56,ORL,2023-24
+Black,Schofield,70,ORL,2023-24
+Black,Houstan,200,ORL,2023-24
+Howard,Okeke,57,ORL,2023-24
+Howard,Schofield,30,ORL,2023-24
+Houstan,Howard,42,ORL,2023-24
+Black,Howard,55,ORL,2023-24
+Bitadze,Howard,27,ORL,2023-24
+Bitadze,Carter Jr.,17,ORL,2023-24
+Bitadze,Fultz,61,ORL,2023-24
+Anthony,Schofield,19,ORL,2023-24
+Isaac,Queen,17,ORL,2023-24
+Queen,Wagner,93,ORL,2023-24
+Anthony,Queen,52,ORL,2023-24
+Black,Queen,72,ORL,2023-24
+Black,Fultz,43,ORL,2023-24
+Queen,Suggs,47,ORL,2023-24
+Banchero,Queen,87,ORL,2023-24
+Bitadze,Isaac,28,ORL,2023-24
+Okeke,Queen,79,ORL,2023-24
+Fultz,Okeke,43,ORL,2023-24
+Fultz,Schofield,7,ORL,2023-24
+Houstan,Queen,69,ORL,2023-24
+Bitadze,Queen,43,ORL,2023-24
+Ingles,Okeke,25,ORL,2023-24
+Fultz,Queen,16,ORL,2023-24
+Schofield,Wagner,6,ORL,2023-24
+Queen,Schofield,21,ORL,2023-24
+Carter Jr.,Okeke,31,ORL,2023-24
+Ingles,Queen,14,ORL,2023-24
+Carter Jr.,Queen,14,ORL,2023-24
+Howard,Queen,14,ORL,2023-24
+Howard,Wagner,14,ORL,2023-24
+Harris,Queen,10,ORL,2023-24
+Harris,Howard,6,ORL,2023-24
+Schofield,Suggs,3,ORL,2023-24
+Harris,Okeke,3,ORL,2023-24
+Harris,Schofield,3,ORL,2023-24
+Anthony,Howard,7,ORL,2023-24
+Howard,Suggs,4,ORL,2023-24
+Banchero,Howard,4,ORL,2023-24
+Banchero,Schofield,1,ORL,2023-24
+Isaac,Okeke,2,ORL,2023-24
+Dort,Gilgeous-Alexander,1806,OKC,2023-24
+Giddey,Gilgeous-Alexander,1348,OKC,2023-24
+Gilgeous-Alexander,Holmgren,1629,OKC,2023-24
+Gilgeous-Alexander,Williams,2461,OKC,2023-24
+Dort,Giddey,1423,OKC,2023-24
+Dort,Holmgren,1593,OKC,2023-24
+Dort,Williams,2178,OKC,2023-24
+Giddey,Holmgren,1469,OKC,2023-24
+Giddey,Williams,1970,OKC,2023-24
+Holmgren,Williams,2183,OKC,2023-24
+Gilgeous-Alexander,Joe,1073,OKC,2023-24
+Dort,Joe,677,OKC,2023-24
+Holmgren,Joe,605,OKC,2023-24
+Joe,Williams,1392,OKC,2023-24
+Giddey,Wiggins,441,OKC,2023-24
+Giddey,Wallace,623,OKC,2023-24
+Holmgren,Wiggins,646,OKC,2023-24
+Wiggins,Williams,1207,OKC,2023-24
+Wallace,Wiggins,631,OKC,2023-24
+Holmgren,Wallace,840,OKC,2023-24
+Wallace,Williams,1712,OKC,2023-24
+Gilgeous-Alexander,Wallace,849,OKC,2023-24
+Micic,Wiggins,185,OKC,2023-24
+Holmgren,Micic,209,OKC,2023-24
+Micic,Williams,412,OKC,2023-24
+Micic,Wallace,208,OKC,2023-24
+Dort,Wallace,396,OKC,2023-24
+Williams,Williams,829,OKC,2023-24
+Joe,Wallace,694,OKC,2023-24
+Gilgeous-Alexander,Wiggins,394,OKC,2023-24
+Joe,Wiggins,366,OKC,2023-24
+Giddey,Joe,286,OKC,2023-24
+Dort,Wiggins,387,OKC,2023-24
+Gilgeous-Alexander,Hayward,202,OKC,2023-24
+Hayward,Williams,385,OKC,2023-24
+Hayward,Joe,209,OKC,2023-24
+Hayward,Wallace,184,OKC,2023-24
+Dieng,Giddey,69,OKC,2023-24
+Dieng,Holmgren,110,OKC,2023-24
+Dieng,Williams,279,OKC,2023-24
+Dieng,Wallace,179,OKC,2023-24
+Hayward,Wiggins,149,OKC,2023-24
+Hayward,Holmgren,194,OKC,2023-24
+Dort,Hayward,176,OKC,2023-24
+Giddey,Hayward,120,OKC,2023-24
+Dort,Micic,71,OKC,2023-24
+Dieng,Gilgeous-Alexander,141,OKC,2023-24
+Dieng,Joe,121,OKC,2023-24
+Joe,Micic,76,OKC,2023-24
+Gilgeous-Alexander,Waters III,38,OKC,2023-24
+Joe,Waters III,50,OKC,2023-24
+Waters III,Williams,184,OKC,2023-24
+Wallace,Waters III,110,OKC,2023-24
+Dieng,Dort,64,OKC,2023-24
+Biyombo,Williams,32,OKC,2023-24
+Muscala,Williams,56,OKC,2023-24
+Dieng,Waters III,75,OKC,2023-24
+Biyombo,Waters III,43,OKC,2023-24
+Muscala,Waters III,56,OKC,2023-24
+Biyombo,Dieng,28,OKC,2023-24
+Dieng,Muscala,23,OKC,2023-24
+Biyombo,Muscala,34,OKC,2023-24
+Mann,Waters III,46,OKC,2023-24
+Johnson,Waters III,28,OKC,2023-24
+Mann,Williams,105,OKC,2023-24
+Dieng,Mann,52,OKC,2023-24
+Johnson,Mann,24,OKC,2023-24
+Johnson,Williams,45,OKC,2023-24
+Dieng,Johnson,33,OKC,2023-24
+Giddey,Micic,51,OKC,2023-24
+Dieng,Wiggins,101,OKC,2023-24
+Waters III,Wiggins,126,OKC,2023-24
+Flagler,Waters III,9,OKC,2023-24
+Flagler,Wiggins,15,OKC,2023-24
+Biyombo,Wiggins,45,OKC,2023-24
+Muscala,Wiggins,40,OKC,2023-24
+Biyombo,Flagler,15,OKC,2023-24
+Flagler,Muscala,9,OKC,2023-24
+Holmgren,Waters III,66,OKC,2023-24
+Micic,Waters III,33,OKC,2023-24
+Giddey,Waters III,51,OKC,2023-24
+Giddey,Muscala,31,OKC,2023-24
+Muscala,Wallace,40,OKC,2023-24
+Giddey,Sarr,23,OKC,2023-24
+Sarr,Williams,20,OKC,2023-24
+Dieng,Sarr,48,OKC,2023-24
+Sarr,Wallace,42,OKC,2023-24
+Pokusevski,Waters III,42,OKC,2023-24
+Pokusevski,Sarr,29,OKC,2023-24
+Dieng,Pokusevski,35,OKC,2023-24
+Johnson,Pokusevski,18,OKC,2023-24
+Sarr,Waters III,43,OKC,2023-24
+Johnson,Sarr,18,OKC,2023-24
+Mann,Pokusevski,38,OKC,2023-24
+Bertans,Pokusevski,22,OKC,2023-24
+Bertans,Waters III,17,OKC,2023-24
+Bertans,Mann,17,OKC,2023-24
+Bertans,Dieng,12,OKC,2023-24
+Biyombo,Wallace,27,OKC,2023-24
+Gilgeous-Alexander,Micic,39,OKC,2023-24
+Gilgeous-Alexander,Mann,18,OKC,2023-24
+Joe,Mann,21,OKC,2023-24
+Mann,Wallace,46,OKC,2023-24
+Johnson,Wallace,20,OKC,2023-24
+Pokusevski,Wallace,26,OKC,2023-24
+Mann,Sarr,22,OKC,2023-24
+Bertans,Sarr,17,OKC,2023-24
+Giddey,Mann,12,OKC,2023-24
+Mann,Wiggins,36,OKC,2023-24
+Holmgren,Mann,19,OKC,2023-24
+Gilgeous-Alexander,Johnson,12,OKC,2023-24
+Dort,Johnson,7,OKC,2023-24
+Bertans,Gilgeous-Alexander,52,OKC,2023-24
+Bertans,Dort,26,OKC,2023-24
+Bertans,Joe,45,OKC,2023-24
+Bertans,Williams,57,OKC,2023-24
+Hayward,Waters III,31,OKC,2023-24
+Dieng,Micic,66,OKC,2023-24
+Dort,Waters III,36,OKC,2023-24
+Joe,Muscala,18,OKC,2023-24
+Hayward,Muscala,31,OKC,2023-24
+Gilgeous-Alexander,Sarr,28,OKC,2023-24
+Dort,Sarr,18,OKC,2023-24
+Joe,Sarr,30,OKC,2023-24
+Bertans,Giddey,11,OKC,2023-24
+Bertans,Wiggins,18,OKC,2023-24
+Pokusevski,Wiggins,13,OKC,2023-24
+Johnson,Wiggins,21,OKC,2023-24
+Bertans,Wallace,25,OKC,2023-24
+Bertans,Johnson,8,OKC,2023-24
+Pokusevski,Williams,8,OKC,2023-24
+Biyombo,Gilgeous-Alexander,14,OKC,2023-24
+Biyombo,Joe,11,OKC,2023-24
+Biyombo,Hayward,28,OKC,2023-24
+Mann,Micic,28,OKC,2023-24
+Sarr,Wiggins,23,OKC,2023-24
+Micic,Sarr,15,OKC,2023-24
+Bertans,Holmgren,25,OKC,2023-24
+Muscala,Sarr,8,OKC,2023-24
+Gilgeous-Alexander,Muscala,9,OKC,2023-24
+Dort,Muscala,13,OKC,2023-24
+Flagler,Wallace,4,OKC,2023-24
+Flagler,Johnson,6,OKC,2023-24
+Biyombo,Johnson,7,OKC,2023-24
+Hayward,Sarr,4,OKC,2023-24
+Biyombo,Dort,9,OKC,2023-24
+Biyombo,Giddey,7,OKC,2023-24
+Dieng,Hayward,12,OKC,2023-24
+Giddey,Johnson,3,OKC,2023-24
+Joe,Johnson,5,OKC,2023-24
+Micic,Pokusevski,11,OKC,2023-24
+Gilgeous-Alexander,Pokusevski,3,OKC,2023-24
+Giddey,Pokusevski,2,OKC,2023-24
+Hayward,Johnson,5,OKC,2023-24
+Johnson,Micic,4,OKC,2023-24
+Joe,Pokusevski,5,OKC,2023-24
+Flagler,Hayward,2,OKC,2023-24
+Bertans,Micic,4,OKC,2023-24
+Brunson,Robinson,706,NYK,2023-24
+Barrett,Brunson,548,NYK,2023-24
+Brunson,Grimes,578,NYK,2023-24
+Brunson,Randle,1365,NYK,2023-24
+Barrett,Robinson,303,NYK,2023-24
+Grimes,Robinson,366,NYK,2023-24
+Randle,Robinson,571,NYK,2023-24
+Barrett,Grimes,335,NYK,2023-24
+Barrett,Randle,514,NYK,2023-24
+Grimes,Randle,555,NYK,2023-24
+Hart,Hartenstein,1360,NYK,2023-24
+Brunson,Hartenstein,1336,NYK,2023-24
+DiVincenzo,Hartenstein,1331,NYK,2023-24
+Achiuwa,Hartenstein,340,NYK,2023-24
+Brunson,Hart,1764,NYK,2023-24
+DiVincenzo,Hart,1602,NYK,2023-24
+Achiuwa,Hart,911,NYK,2023-24
+Brunson,DiVincenzo,1711,NYK,2023-24
+Achiuwa,Brunson,698,NYK,2023-24
+Achiuwa,DiVincenzo,751,NYK,2023-24
+Anunoby,Hartenstein,516,NYK,2023-24
+Anunoby,Brunson,636,NYK,2023-24
+Anunoby,DiVincenzo,529,NYK,2023-24
+Anunoby,Randle,348,NYK,2023-24
+Hartenstein,Randle,782,NYK,2023-24
+DiVincenzo,Randle,786,NYK,2023-24
+Hartenstein,McBride,558,NYK,2023-24
+Hart,McBride,992,NYK,2023-24
+Brunson,McBride,473,NYK,2023-24
+DiVincenzo,McBride,800,NYK,2023-24
+Anunoby,Hart,446,NYK,2023-24
+Barrett,Hartenstein,346,NYK,2023-24
+Hartenstein,Quickley,485,NYK,2023-24
+Barrett,Hart,271,NYK,2023-24
+Hart,Quickley,599,NYK,2023-24
+Barrett,DiVincenzo,352,NYK,2023-24
+DiVincenzo,Quickley,308,NYK,2023-24
+Barrett,Quickley,264,NYK,2023-24
+Hart,Robinson,410,NYK,2023-24
+Grimes,Hart,556,NYK,2023-24
+Hart,Randle,753,NYK,2023-24
+Brunson,Quickley,377,NYK,2023-24
+Quickley,Randle,389,NYK,2023-24
+Achiuwa,McBride,617,NYK,2023-24
+Hart,Sims,339,NYK,2023-24
+Brunson,Sims,319,NYK,2023-24
+DiVincenzo,Sims,373,NYK,2023-24
+Achiuwa,Sims,244,NYK,2023-24
+Quickley,Robinson,158,NYK,2023-24
+Barrett,Sims,63,NYK,2023-24
+Randle,Sims,117,NYK,2023-24
+DiVincenzo,Robinson,300,NYK,2023-24
+Bogdanovic,Hart,374,NYK,2023-24
+Bogdanovic,DiVincenzo,303,NYK,2023-24
+Achiuwa,Bogdanovic,304,NYK,2023-24
+Bogdanovic,McBride,379,NYK,2023-24
+Burks,Hart,211,NYK,2023-24
+Achiuwa,Burks,176,NYK,2023-24
+Burks,McBride,184,NYK,2023-24
+Bogdanovic,Burks,244,NYK,2023-24
+Anunoby,Grimes,158,NYK,2023-24
+Achiuwa,Anunoby,200,NYK,2023-24
+Anunoby,McBride,187,NYK,2023-24
+Achiuwa,Grimes,194,NYK,2023-24
+Grimes,McBride,193,NYK,2023-24
+McBride,Robinson,102,NYK,2023-24
+McBride,Sims,295,NYK,2023-24
+Grimes,Hartenstein,260,NYK,2023-24
+Grimes,Quickley,171,NYK,2023-24
+Burks,Sims,121,NYK,2023-24
+Bogdanovic,Sims,140,NYK,2023-24
+McBride,Randle,161,NYK,2023-24
+Anunoby,Sims,57,NYK,2023-24
+Bogdanovic,Brunson,188,NYK,2023-24
+Anunoby,Robinson,43,NYK,2023-24
+Achiuwa,Randle,94,NYK,2023-24
+Gibson,Hart,128,NYK,2023-24
+Barrett,Gibson,44,NYK,2023-24
+Gibson,Grimes,45,NYK,2023-24
+Gibson,Quickley,58,NYK,2023-24
+Bogdanovic,Hartenstein,156,NYK,2023-24
+Brunson,Burks,110,NYK,2023-24
+Burks,Hartenstein,70,NYK,2023-24
+DiVincenzo,Grimes,90,NYK,2023-24
+Grimes,Sims,74,NYK,2023-24
+Bogdanovic,Robinson,67,NYK,2023-24
+Brunson,Gibson,75,NYK,2023-24
+Gibson,Randle,52,NYK,2023-24
+DiVincenzo,Gibson,72,NYK,2023-24
+Achiuwa,Gibson,47,NYK,2023-24
+Anunoby,Flynn,16,NYK,2023-24
+Flynn,Hart,44,NYK,2023-24
+Flynn,Grimes,25,NYK,2023-24
+Achiuwa,Flynn,37,NYK,2023-24
+Burks,DiVincenzo,75,NYK,2023-24
+McBride,Quickley,38,NYK,2023-24
+Barrett,McBride,20,NYK,2023-24
+Gibson,McBride,64,NYK,2023-24
+Diakite,Milton,9,NYK,2023-24
+Jeffries,Milton,12,NYK,2023-24
+Achiuwa,Milton,18,NYK,2023-24
+Milton,Sims,16,NYK,2023-24
+Diakite,Jeffries,9,NYK,2023-24
+Achiuwa,Diakite,8,NYK,2023-24
+Diakite,Sims,9,NYK,2023-24
+Achiuwa,Jeffries,11,NYK,2023-24
+Jeffries,Sims,41,NYK,2023-24
+Achiuwa,Arcidiacono,17,NYK,2023-24
+Arcidiacono,Flynn,16,NYK,2023-24
+Arcidiacono,McBride,45,NYK,2023-24
+Arcidiacono,Sims,38,NYK,2023-24
+Flynn,McBride,39,NYK,2023-24
+Flynn,Sims,23,NYK,2023-24
+Anunoby,Burks,18,NYK,2023-24
+Anunoby,Bogdanovic,54,NYK,2023-24
+Fournier,Hartenstein,19,NYK,2023-24
+Fournier,Hart,22,NYK,2023-24
+Fournier,Quickley,15,NYK,2023-24
+Fournier,McBride,28,NYK,2023-24
+Achiuwa,Robinson,28,NYK,2023-24
+Flynn,Hartenstein,15,NYK,2023-24
+Brown Jr.,DiVincenzo,18,NYK,2023-24
+Achiuwa,Brown Jr.,25,NYK,2023-24
+Brown Jr.,McBride,35,NYK,2023-24
+Brown Jr.,Gibson,15,NYK,2023-24
+Hart,Toppin,14,NYK,2023-24
+DiVincenzo,Toppin,11,NYK,2023-24
+Achiuwa,Toppin,19,NYK,2023-24
+McBride,Toppin,35,NYK,2023-24
+Burks,Robinson,13,NYK,2023-24
+Gibson,Sims,13,NYK,2023-24
+Arcidiacono,Grimes,20,NYK,2023-24
+Brown Jr.,Sims,13,NYK,2023-24
+Brown Jr.,Toppin,13,NYK,2023-24
+Sims,Toppin,19,NYK,2023-24
+DiVincenzo,Flynn,11,NYK,2023-24
+Flynn,Gibson,8,NYK,2023-24
+Fournier,Randle,17,NYK,2023-24
+McBride,Milton,14,NYK,2023-24
+Burks,Milton,4,NYK,2023-24
+Bogdanovic,Milton,14,NYK,2023-24
+Brown Jr.,Hart,14,NYK,2023-24
+Fournier,Gibson,15,NYK,2023-24
+Arcidiacono,Jeffries,18,NYK,2023-24
+Arcidiacono,Gibson,4,NYK,2023-24
+Jeffries,McBride,38,NYK,2023-24
+Gibson,Jeffries,8,NYK,2023-24
+Hartenstein,Toppin,4,NYK,2023-24
+Anunoby,Fournier,4,NYK,2023-24
+Fournier,Grimes,6,NYK,2023-24
+Achiuwa,Fournier,5,NYK,2023-24
+Brunson,Fournier,16,NYK,2023-24
+DiVincenzo,Fournier,9,NYK,2023-24
+Grimes,Jeffries,15,NYK,2023-24
+Arcidiacono,Windler,4,NYK,2023-24
+Jeffries,Windler,8,NYK,2023-24
+McBride,Windler,8,NYK,2023-24
+Sims,Windler,8,NYK,2023-24
+Burks,Toppin,7,NYK,2023-24
+Gibson,Toppin,5,NYK,2023-24
+Burks,Gibson,7,NYK,2023-24
+Grimes,Windler,3,NYK,2023-24
+Quickley,Sims,5,NYK,2023-24
+Brunson,Toppin,4,NYK,2023-24
+Hart,Milton,7,NYK,2023-24
+Brunson,Milton,4,NYK,2023-24
+Milton,Robinson,3,NYK,2023-24
+Brown Jr.,Hartenstein,5,NYK,2023-24
+Arcidiacono,DiVincenzo,5,NYK,2023-24
+DiVincenzo,Jeffries,7,NYK,2023-24
+Brown Jr.,Jeffries,3,NYK,2023-24
+Jeffries,Toppin,4,NYK,2023-24
+Arcidiacono,Brown Jr.,6,NYK,2023-24
+Arcidiacono,Toppin,3,NYK,2023-24
+Flynn,Randle,8,NYK,2023-24
+Arcidiacono,Hart,4,NYK,2023-24
+Hart,Jeffries,7,NYK,2023-24
+Hartenstein,Milton,5,NYK,2023-24
+DiVincenzo,Milton,4,NYK,2023-24
+Bogdanovic,Gibson,4,NYK,2023-24
+Brown Jr.,Flynn,2,NYK,2023-24
+Arcidiacono,Skapintsev,2,NYK,2023-24
+Brown Jr.,Skapintsev,2,NYK,2023-24
+McBride,Skapintsev,2,NYK,2023-24
+Skapintsev,Toppin,1,NYK,2023-24
+Hartenstein,Jeffries,2,NYK,2023-24
+Jeffries,Quickley,4,NYK,2023-24
+Brown Jr.,Milton,1,NYK,2023-24
+Milton,Toppin,1,NYK,2023-24
+Jeffries,Robinson,1,NYK,2023-24
+Robinson,Sims,1,NYK,2023-24
+Brunson,Jeffries,3,NYK,2023-24
+Bogdanovic,Jeffries,1,NYK,2023-24
+Arcidiacono,Hartenstein,1,NYK,2023-24
+Hartenstein,Skapintsev,1,NYK,2023-24
+Quickley,Windler,1,NYK,2023-24
+Arcidiacono,Brunson,1,NYK,2023-24
+Diakite,McBride,1,NYK,2023-24
+Anunoby,Gibson,0,NYK,2023-24
+Arcidiacono,Barrett,0,NYK,2023-24
+Barrett,Jeffries,0,NYK,2023-24
+Burks,Jeffries,0,NYK,2023-24
+Hartenstein,Sims,0,NYK,2023-24
+Brunson,Diakite,0,NYK,2023-24
+Ingram,Williamson,1079,NOP,2023-24
+Ingram,Jones,1433,NOP,2023-24
+Ingram,Valanciunas,1255,NOP,2023-24
+Ingram,McCollum,1158,NOP,2023-24
+Jones,Williamson,1456,NOP,2023-24
+Valanciunas,Williamson,1058,NOP,2023-24
+McCollum,Williamson,1348,NOP,2023-24
+Jones,Valanciunas,1348,NOP,2023-24
+Jones,McCollum,1535,NOP,2023-24
+McCollum,Valanciunas,1221,NOP,2023-24
+Ingram,Nance Jr.,547,NOP,2023-24
+Nance Jr.,Williamson,709,NOP,2023-24
+Jones,Nance Jr.,619,NOP,2023-24
+McCollum,Nance Jr.,638,NOP,2023-24
+Murphy III,Williamson,928,NOP,2023-24
+Jones,Murphy III,916,NOP,2023-24
+Murphy III,Valanciunas,707,NOP,2023-24
+McCollum,Murphy III,999,NOP,2023-24
+Ingram,Murphy III,717,NOP,2023-24
+Murphy III,Nance Jr.,598,NOP,2023-24
+Daniels,Ingram,600,NOP,2023-24
+Daniels,Williamson,574,NOP,2023-24
+Daniels,Jones,551,NOP,2023-24
+Daniels,Valanciunas,624,NOP,2023-24
+Marshall,Nance Jr.,414,NOP,2023-24
+Alvarado,Nance Jr.,338,NOP,2023-24
+Marshall,Williamson,505,NOP,2023-24
+Alvarado,Williamson,432,NOP,2023-24
+Marshall,Murphy III,571,NOP,2023-24
+Alvarado,Marshall,593,NOP,2023-24
+Alvarado,Murphy III,534,NOP,2023-24
+Jones,Ryan,136,NOP,2023-24
+Hawkins,Ryan,234,NOP,2023-24
+Ryan,Valanciunas,142,NOP,2023-24
+McCollum,Ryan,111,NOP,2023-24
+Hawkins,Jones,421,NOP,2023-24
+Hawkins,Valanciunas,488,NOP,2023-24
+Hawkins,McCollum,310,NOP,2023-24
+Daniels,Murphy III,440,NOP,2023-24
+Daniels,McCollum,489,NOP,2023-24
+Hawkins,Ingram,404,NOP,2023-24
+Daniels,Hawkins,570,NOP,2023-24
+Ingram,Marshall,487,NOP,2023-24
+Alvarado,Ingram,381,NOP,2023-24
+Marshall,Valanciunas,451,NOP,2023-24
+Alvarado,Valanciunas,316,NOP,2023-24
+Hawkins,Williamson,435,NOP,2023-24
+Marshall,McCollum,436,NOP,2023-24
+Jones,Marshall,344,NOP,2023-24
+Alvarado,Jones,349,NOP,2023-24
+Alvarado,McCollum,239,NOP,2023-24
+Daniels,Marshall,300,NOP,2023-24
+Hawkins,Marshall,503,NOP,2023-24
+Marshall,Zeller,156,NOP,2023-24
+Alvarado,Daniels,321,NOP,2023-24
+Alvarado,Hawkins,266,NOP,2023-24
+Alvarado,Zeller,157,NOP,2023-24
+Daniels,Zeller,151,NOP,2023-24
+Hawkins,Zeller,216,NOP,2023-24
+Hawkins,Nance Jr.,351,NOP,2023-24
+Daniels,Nance Jr.,391,NOP,2023-24
+Ingram,Robinson-Earl,98,NOP,2023-24
+Daniels,Robinson-Earl,131,NOP,2023-24
+Hawkins,Robinson-Earl,180,NOP,2023-24
+Robinson-Earl,Valanciunas,51,NOP,2023-24
+Williamson,Zeller,77,NOP,2023-24
+Daniels,Ryan,170,NOP,2023-24
+Hawkins,Murphy III,183,NOP,2023-24
+Marshall,Ryan,94,NOP,2023-24
+Marshall,Robinson-Earl,144,NOP,2023-24
+Robinson-Earl,Ryan,94,NOP,2023-24
+Alvarado,Ryan,28,NOP,2023-24
+Alvarado,Robinson-Earl,131,NOP,2023-24
+Lewis Jr.,Ryan,74,NOP,2023-24
+Lewis Jr.,Robinson-Earl,43,NOP,2023-24
+Lewis Jr.,Seabron,28,NOP,2023-24
+Lewis Jr.,Zeller,55,NOP,2023-24
+Ryan,Seabron,46,NOP,2023-24
+Ryan,Zeller,66,NOP,2023-24
+Robinson-Earl,Seabron,22,NOP,2023-24
+Robinson-Earl,Zeller,89,NOP,2023-24
+Seabron,Zeller,22,NOP,2023-24
+Nance Jr.,Ryan,119,NOP,2023-24
+Ryan,Williamson,113,NOP,2023-24
+Ingram,Zeller,106,NOP,2023-24
+Murphy III,Zeller,64,NOP,2023-24
+Lewis Jr.,Nance Jr.,61,NOP,2023-24
+Lewis Jr.,Williamson,31,NOP,2023-24
+Daniels,Lewis Jr.,87,NOP,2023-24
+Jones,Zeller,64,NOP,2023-24
+Hawkins,Lewis Jr.,61,NOP,2023-24
+Ingram,Lewis Jr.,29,NOP,2023-24
+Jones,Lewis Jr.,32,NOP,2023-24
+Ingram,Ryan,106,NOP,2023-24
+Jones,Seabron,8,NOP,2023-24
+Seabron,Valanciunas,18,NOP,2023-24
+McCollum,Seabron,9,NOP,2023-24
+Robinson-Earl,Williamson,77,NOP,2023-24
+Jones,Robinson-Earl,64,NOP,2023-24
+Murphy III,Robinson-Earl,86,NOP,2023-24
+McCollum,Robinson-Earl,61,NOP,2023-24
+McCollum,Zeller,35,NOP,2023-24
+Lewis Jr.,McCollum,15,NOP,2023-24
+Nance Jr.,Seabron,13,NOP,2023-24
+Seabron,Williamson,6,NOP,2023-24
+Hawkins,Seabron,24,NOP,2023-24
+Nance Jr.,Robinson-Earl,42,NOP,2023-24
+Lewis Jr.,Liddell,8,NOP,2023-24
+Liddell,Ryan,8,NOP,2023-24
+Liddell,Seabron,5,NOP,2023-24
+Liddell,Zeller,16,NOP,2023-24
+Gates,Lewis Jr.,5,NOP,2023-24
+Gates,Ryan,8,NOP,2023-24
+Gates,Hawkins,8,NOP,2023-24
+Gates,Zeller,5,NOP,2023-24
+Nance Jr.,Valanciunas,11,NOP,2023-24
+Murphy III,Ryan,21,NOP,2023-24
+Alvarado,Lewis Jr.,15,NOP,2023-24
+Liddell,Marshall,12,NOP,2023-24
+Liddell,Robinson-Earl,13,NOP,2023-24
+Daniels,Liddell,10,NOP,2023-24
+Hawkins,Liddell,12,NOP,2023-24
+Alvarado,Liddell,8,NOP,2023-24
+Brockington,Ryan,3,NOP,2023-24
+Brockington,Robinson-Earl,3,NOP,2023-24
+Brockington,Hawkins,3,NOP,2023-24
+Brockington,Zeller,3,NOP,2023-24
+Lewis Jr.,Marshall,10,NOP,2023-24
+Lewis Jr.,Valanciunas,22,NOP,2023-24
+Ingram,Seabron,8,NOP,2023-24
+Daniels,Seabron,12,NOP,2023-24
+Gates,Nance Jr.,3,NOP,2023-24
+Daniels,Gates,3,NOP,2023-24
+Crutcher,Ryan,3,NOP,2023-24
+Crutcher,Robinson-Earl,3,NOP,2023-24
+Crutcher,Seabron,3,NOP,2023-24
+Crutcher,Hawkins,3,NOP,2023-24
+Nance Jr.,Zeller,6,NOP,2023-24
+Edwards,Towns,1485,MIN,2023-24
+McDaniels,Towns,1164,MIN,2023-24
+Conley,Towns,1222,MIN,2023-24
+Gobert,Towns,1277,MIN,2023-24
+Edwards,McDaniels,1715,MIN,2023-24
+Conley,Edwards,1506,MIN,2023-24
+Edwards,Gobert,1922,MIN,2023-24
+Conley,McDaniels,1396,MIN,2023-24
+Gobert,McDaniels,1574,MIN,2023-24
+Conley,Gobert,1802,MIN,2023-24
+Edwards,Reid,1234,MIN,2023-24
+McDaniels,Reid,805,MIN,2023-24
+Conley,Reid,798,MIN,2023-24
+Gobert,Reid,916,MIN,2023-24
+Alexander-Walker,Towns,895,MIN,2023-24
+Reid,Towns,668,MIN,2023-24
+Anderson,Towns,704,MIN,2023-24
+Alexander-Walker,Reid,1080,MIN,2023-24
+Alexander-Walker,Edwards,1197,MIN,2023-24
+Alexander-Walker,Anderson,1010,MIN,2023-24
+Anderson,Reid,1115,MIN,2023-24
+Anderson,Edwards,1133,MIN,2023-24
+Alexander-Walker,Conley,661,MIN,2023-24
+Alexander-Walker,Gobert,1062,MIN,2023-24
+Anderson,McDaniels,548,MIN,2023-24
+Anderson,Conley,706,MIN,2023-24
+Anderson,Gobert,864,MIN,2023-24
+Alexander-Walker,McDaniels,643,MIN,2023-24
+Brown Jr.,Towns,217,MIN,2023-24
+Alexander-Walker,Brown Jr.,202,MIN,2023-24
+Brown Jr.,Conley,185,MIN,2023-24
+Brown Jr.,Gobert,225,MIN,2023-24
+Alexander-Walker,Morris,232,MIN,2023-24
+Morris,Reid,241,MIN,2023-24
+Edwards,Morris,287,MIN,2023-24
+Anderson,Morris,205,MIN,2023-24
+McLaughlin,Towns,150,MIN,2023-24
+Alexander-Walker,McLaughlin,357,MIN,2023-24
+McLaughlin,Reid,367,MIN,2023-24
+Anderson,McLaughlin,318,MIN,2023-24
+Conley,McLaughlin,210,MIN,2023-24
+Gobert,McLaughlin,268,MIN,2023-24
+Milton,Towns,228,MIN,2023-24
+Alexander-Walker,Milton,184,MIN,2023-24
+Milton,Reid,333,MIN,2023-24
+Anderson,Milton,304,MIN,2023-24
+Gobert,Morris,201,MIN,2023-24
+McDaniels,Morris,157,MIN,2023-24
+Conley,Milton,143,MIN,2023-24
+Gobert,Milton,204,MIN,2023-24
+Edwards,McLaughlin,211,MIN,2023-24
+McDaniels,McLaughlin,225,MIN,2023-24
+Edwards,Milton,159,MIN,2023-24
+Brown Jr.,Reid,201,MIN,2023-24
+Anderson,Brown Jr.,160,MIN,2023-24
+Brown Jr.,Milton,128,MIN,2023-24
+McLaughlin,Warren,47,MIN,2023-24
+Alexander-Walker,Warren,78,MIN,2023-24
+Reid,Warren,58,MIN,2023-24
+Edwards,Warren,81,MIN,2023-24
+Brown Jr.,Edwards,100,MIN,2023-24
+Garza,Morris,35,MIN,2023-24
+Morris,Warren,37,MIN,2023-24
+Alexander-Walker,Garza,48,MIN,2023-24
+Edwards,Garza,45,MIN,2023-24
+Garza,Warren,43,MIN,2023-24
+Brown Jr.,McLaughlin,46,MIN,2023-24
+Brown Jr.,Garza,31,MIN,2023-24
+Brown Jr.,Moore Jr.,33,MIN,2023-24
+McLaughlin,Milton,76,MIN,2023-24
+Garza,Milton,26,MIN,2023-24
+Milton,Moore Jr.,36,MIN,2023-24
+Garza,McLaughlin,51,MIN,2023-24
+McLaughlin,Moore Jr.,29,MIN,2023-24
+Garza,Moore Jr.,53,MIN,2023-24
+McDaniels,Milton,81,MIN,2023-24
+Morris,Towns,68,MIN,2023-24
+Garza,Nix,22,MIN,2023-24
+Moore Jr.,Nix,20,MIN,2023-24
+Miller,Nix,21,MIN,2023-24
+Minott,Nix,40,MIN,2023-24
+Garza,Miller,28,MIN,2023-24
+Garza,Minott,48,MIN,2023-24
+Miller,Moore Jr.,45,MIN,2023-24
+Minott,Moore Jr.,56,MIN,2023-24
+Miller,Minott,54,MIN,2023-24
+McLaughlin,Morris,64,MIN,2023-24
+Brown Jr.,McDaniels,40,MIN,2023-24
+Conley,Morris,66,MIN,2023-24
+Brown Jr.,Miller,14,MIN,2023-24
+Brown Jr.,Minott,40,MIN,2023-24
+Miller,Milton,17,MIN,2023-24
+Milton,Minott,40,MIN,2023-24
+Moore Jr.,Warren,15,MIN,2023-24
+Miller,Warren,12,MIN,2023-24
+Minott,Warren,14,MIN,2023-24
+Conley,Warren,31,MIN,2023-24
+McLaughlin,Minott,37,MIN,2023-24
+Alexander-Walker,Minott,20,MIN,2023-24
+McDaniels,Warren,24,MIN,2023-24
+Gobert,Warren,36,MIN,2023-24
+Garza,McDaniels,28,MIN,2023-24
+Conley,Garza,18,MIN,2023-24
+Morris,Nix,7,MIN,2023-24
+Miller,Morris,10,MIN,2023-24
+Minott,Morris,12,MIN,2023-24
+McLaughlin,Nix,18,MIN,2023-24
+McLaughlin,Miller,14,MIN,2023-24
+Nix,Towns,10,MIN,2023-24
+Brown Jr.,Nix,14,MIN,2023-24
+Alexander-Walker,Nix,13,MIN,2023-24
+Gobert,Nix,5,MIN,2023-24
+Moore Jr.,Morris,6,MIN,2023-24
+Milton,Nix,9,MIN,2023-24
+Nix,Reid,9,MIN,2023-24
+Anderson,Nix,4,MIN,2023-24
+Garza,Reid,10,MIN,2023-24
+Nix,Warren,6,MIN,2023-24
+Anderson,Garza,10,MIN,2023-24
+Minott,Reid,9,MIN,2023-24
+Anderson,Moore Jr.,3,MIN,2023-24
+Anderson,Warren,14,MIN,2023-24
+Alexander-Walker,Moore Jr.,6,MIN,2023-24
+McDaniels,Nix,2,MIN,2023-24
+McDaniels,Moore Jr.,4,MIN,2023-24
+McDaniels,Minott,2,MIN,2023-24
+Edwards,Minott,2,MIN,2023-24
+Anderson,Minott,2,MIN,2023-24
+Edwards,Moore Jr.,2,MIN,2023-24
+Edwards,Miller,1,MIN,2023-24
+Moore Jr.,Reid,0,MIN,2023-24
+Gobert,Moore Jr.,0,MIN,2023-24
+Jackson,Morris,0,MIN,2023-24
+Jackson,McLaughlin,0,MIN,2023-24
+Garza,Jackson,0,MIN,2023-24
+Jackson,Minott,0,MIN,2023-24
+Jackson,Reid,0,MIN,2023-24
+Jackson,McDaniels,0,MIN,2023-24
+Beasley,Lopez,1871,MIL,2023-24
+Beasley,Lillard,1805,MIL,2023-24
+Beasley,Middleton,1061,MIL,2023-24
+Antetokounmpo,Beasley,1674,MIL,2023-24
+Lillard,Lopez,1957,MIL,2023-24
+Lopez,Middleton,1164,MIL,2023-24
+Antetokounmpo,Lopez,1555,MIL,2023-24
+Lillard,Middleton,961,MIL,2023-24
+Antetokounmpo,Lillard,1774,MIL,2023-24
+Antetokounmpo,Middleton,1049,MIL,2023-24
+Beasley,Crowder,735,MIL,2023-24
+Crowder,Lopez,688,MIL,2023-24
+Crowder,Lillard,776,MIL,2023-24
+Antetokounmpo,Crowder,704,MIL,2023-24
+Beasley,Connaughton,602,MIL,2023-24
+Connaughton,Lopez,696,MIL,2023-24
+Connaughton,Lillard,861,MIL,2023-24
+Antetokounmpo,Connaughton,997,MIL,2023-24
+Connaughton,Portis,1279,MIL,2023-24
+Beasley,Portis,792,MIL,2023-24
+Lopez,Portis,698,MIL,2023-24
+Lillard,Portis,1064,MIL,2023-24
+Crowder,Portis,547,MIL,2023-24
+Antetokounmpo,Portis,1044,MIL,2023-24
+Green,Portis,421,MIL,2023-24
+Beverley,Portis,376,MIL,2023-24
+Connaughton,Green,360,MIL,2023-24
+Beverley,Connaughton,301,MIL,2023-24
+Beverley,Green,138,MIL,2023-24
+Antetokounmpo,Green,368,MIL,2023-24
+Antetokounmpo,Beverley,284,MIL,2023-24
+Beauchamp,Portis,396,MIL,2023-24
+Beauchamp,Connaughton,241,MIL,2023-24
+Beauchamp,Lillard,279,MIL,2023-24
+Antetokounmpo,Beauchamp,405,MIL,2023-24
+Middleton,Portis,495,MIL,2023-24
+Crowder,Middleton,161,MIL,2023-24
+Payne,Portis,522,MIL,2023-24
+Connaughton,Payne,317,MIL,2023-24
+Middleton,Payne,279,MIL,2023-24
+Antetokounmpo,Payne,429,MIL,2023-24
+Connaughton,Middleton,268,MIL,2023-24
+Beauchamp,Payne,222,MIL,2023-24
+Beasley,Jackson Jr.,139,MIL,2023-24
+Jackson Jr.,Lopez,288,MIL,2023-24
+Jackson Jr.,Lillard,280,MIL,2023-24
+Antetokounmpo,Jackson Jr.,376,MIL,2023-24
+Jackson Jr.,Portis,284,MIL,2023-24
+Connaughton,Jackson Jr.,211,MIL,2023-24
+Beasley,Beverley,183,MIL,2023-24
+Beverley,Lopez,246,MIL,2023-24
+Beverley,Middleton,147,MIL,2023-24
+Beverley,Lillard,232,MIL,2023-24
+Connaughton,Crowder,451,MIL,2023-24
+Beasley,Payne,244,MIL,2023-24
+Lopez,Payne,307,MIL,2023-24
+Crowder,Green,128,MIL,2023-24
+Gallinari,Portis,105,MIL,2023-24
+Connaughton,Gallinari,104,MIL,2023-24
+Beverley,Gallinari,94,MIL,2023-24
+Antetokounmpo,Gallinari,72,MIL,2023-24
+Beverley,Crowder,142,MIL,2023-24
+Jackson Jr.,Middleton,156,MIL,2023-24
+Crowder,Payne,141,MIL,2023-24
+Beauchamp,Lopez,217,MIL,2023-24
+Green,Lopez,175,MIL,2023-24
+Green,Lillard,199,MIL,2023-24
+Green,Payne,125,MIL,2023-24
+Beasley,Beauchamp,98,MIL,2023-24
+Beauchamp,Middleton,115,MIL,2023-24
+Beasley,Green,116,MIL,2023-24
+Beauchamp,Jackson Jr.,153,MIL,2023-24
+Beauchamp,Crowder,77,MIL,2023-24
+Lillard,Payne,103,MIL,2023-24
+Jackson Jr.,Payne,102,MIL,2023-24
+Beauchamp,Washington Jr.,30,MIL,2023-24
+Beauchamp,Green,120,MIL,2023-24
+Green,Washington Jr.,25,MIL,2023-24
+Jackson Jr.,Washington Jr.,39,MIL,2023-24
+Antetokounmpo,Washington Jr.,47,MIL,2023-24
+Green,Jackson Jr.,110,MIL,2023-24
+Gallinari,Middleton,24,MIL,2023-24
+Gallinari,Green,66,MIL,2023-24
+Green,Middleton,69,MIL,2023-24
+Beverley,Jackson Jr.,26,MIL,2023-24
+Crowder,Jackson Jr.,49,MIL,2023-24
+Livingston,Payne,28,MIL,2023-24
+Beauchamp,Livingston,59,MIL,2023-24
+Green,Livingston,36,MIL,2023-24
+Antetokounmpo,Livingston,68,MIL,2023-24
+Beauchamp,Rollins,11,MIL,2023-24
+Rollins,Washington Jr.,12,MIL,2023-24
+Jackson Jr.,Rollins,8,MIL,2023-24
+Antetokounmpo,Rollins,12,MIL,2023-24
+Jackson Jr.,Livingston,42,MIL,2023-24
+Livingston,Lopez,31,MIL,2023-24
+Livingston,Middleton,11,MIL,2023-24
+Gallinari,Jackson Jr.,22,MIL,2023-24
+Gallinari,Lillard,22,MIL,2023-24
+Connaughton,Livingston,16,MIL,2023-24
+Beasley,Gallinari,32,MIL,2023-24
+Crowder,Gallinari,23,MIL,2023-24
+Livingston,Washington Jr.,21,MIL,2023-24
+Gallinari,Lopez,10,MIL,2023-24
+Beauchamp,Gallinari,18,MIL,2023-24
+Portis,Washington Jr.,8,MIL,2023-24
+Gallinari,Washington Jr.,13,MIL,2023-24
+Crowder,Washington Jr.,9,MIL,2023-24
+Gallinari,Livingston,11,MIL,2023-24
+Crowder,Livingston,9,MIL,2023-24
+Antetokounmpo,Antetokounmpo,13,MIL,2023-24
+Livingston,Rollins,5,MIL,2023-24
+Livingston,Portis,17,MIL,2023-24
+Beasley,Washington Jr.,7,MIL,2023-24
+Beasley,Livingston,5,MIL,2023-24
+Lopez,Washington Jr.,6,MIL,2023-24
+Beauchamp,Beverley,9,MIL,2023-24
+Green,Wigginton,5,MIL,2023-24
+Livingston,Wigginton,5,MIL,2023-24
+Lopez,Wigginton,7,MIL,2023-24
+Antetokounmpo,Wigginton,5,MIL,2023-24
+Bolden,Payne,3,MIL,2023-24
+Bolden,Green,3,MIL,2023-24
+Bolden,Jackson Jr.,3,MIL,2023-24
+Antetokounmpo,Bolden,3,MIL,2023-24
+Washington Jr.,Wigginton,2,MIL,2023-24
+Lillard,Livingston,3,MIL,2023-24
+Payne,Wigginton,2,MIL,2023-24
+Beauchamp,Wigginton,2,MIL,2023-24
+Beverley,Washington Jr.,1,MIL,2023-24
+Beverley,Livingston,1,MIL,2023-24
+Connaughton,Washington Jr.,0,MIL,2023-24
+Bolden,Wigginton,0,MIL,2023-24
+Bolden,Livingston,0,MIL,2023-24
+Adebayo,Rozier,796,MIA,2023-24
+Robinson,Rozier,469,MIA,2023-24
+Jovic,Rozier,338,MIA,2023-24
+Butler,Rozier,638,MIA,2023-24
+Adebayo,Robinson,1242,MIA,2023-24
+Adebayo,Jovic,661,MIA,2023-24
+Adebayo,Butler,1136,MIA,2023-24
+Jovic,Robinson,385,MIA,2023-24
+Butler,Robinson,932,MIA,2023-24
+Butler,Jovic,505,MIA,2023-24
+Adebayo,Martin,971,MIA,2023-24
+Adebayo,Herro,1041,MIA,2023-24
+Herro,Martin,578,MIA,2023-24
+Jovic,Martin,316,MIA,2023-24
+Butler,Martin,851,MIA,2023-24
+Herro,Jovic,378,MIA,2023-24
+Butler,Herro,624,MIA,2023-24
+Adebayo,Highsmith,813,MIA,2023-24
+Adebayo,Lowry,574,MIA,2023-24
+Highsmith,Robinson,621,MIA,2023-24
+Lowry,Robinson,509,MIA,2023-24
+Highsmith,Lowry,291,MIA,2023-24
+Butler,Highsmith,624,MIA,2023-24
+Butler,Lowry,653,MIA,2023-24
+Martin,Robinson,917,MIA,2023-24
+Lowry,Martin,297,MIA,2023-24
+Robinson,Robinson,195,MIA,2023-24
+Adebayo,Richardson,597,MIA,2023-24
+Martin,Richardson,417,MIA,2023-24
+Richardson,Robinson,740,MIA,2023-24
+Jaquez Jr.,Richardson,675,MIA,2023-24
+Adebayo,Jaquez Jr.,1117,MIA,2023-24
+Jaquez Jr.,Martin,971,MIA,2023-24
+Jaquez Jr.,Robinson,1105,MIA,2023-24
+Love,Martin,364,MIA,2023-24
+Jaquez Jr.,Lowry,459,MIA,2023-24
+Jaquez Jr.,Love,640,MIA,2023-24
+Butler,Jaquez Jr.,729,MIA,2023-24
+Love,Lowry,332,MIA,2023-24
+Butler,Love,538,MIA,2023-24
+Highsmith,Rozier,286,MIA,2023-24
+Herro,Rozier,188,MIA,2023-24
+Herro,Highsmith,445,MIA,2023-24
+Herro,Jaquez Jr.,604,MIA,2023-24
+Herro,Lowry,392,MIA,2023-24
+Jaquez Jr.,Jovic,296,MIA,2023-24
+Jovic,Lowry,138,MIA,2023-24
+Martin,Rozier,428,MIA,2023-24
+Jaquez Jr.,Rozier,350,MIA,2023-24
+Love,Richardson,336,MIA,2023-24
+Adebayo,Love,225,MIA,2023-24
+Love,Robinson,364,MIA,2023-24
+Lowry,Richardson,276,MIA,2023-24
+Butler,Richardson,415,MIA,2023-24
+Highsmith,Richardson,301,MIA,2023-24
+Highsmith,Jaquez Jr.,649,MIA,2023-24
+Mills,Rozier,111,MIA,2023-24
+Adebayo,Mills,96,MIA,2023-24
+Jovic,Mills,98,MIA,2023-24
+Butler,Mills,125,MIA,2023-24
+Herro,Love,273,MIA,2023-24
+Herro,Richardson,295,MIA,2023-24
+Highsmith,Martin,366,MIA,2023-24
+Herro,Robinson,453,MIA,2023-24
+Martin,Mills,115,MIA,2023-24
+Jaquez Jr.,Mills,130,MIA,2023-24
+Highsmith,Love,287,MIA,2023-24
+Love,Rozier,85,MIA,2023-24
+Adebayo,Wright,129,MIA,2023-24
+Martin,Wright,151,MIA,2023-24
+Robinson,Wright,70,MIA,2023-24
+Jaquez Jr.,Wright,180,MIA,2023-24
+Bryant,Richardson,112,MIA,2023-24
+Bryant,Robinson,204,MIA,2023-24
+Bryant,Highsmith,194,MIA,2023-24
+Bryant,Herro,143,MIA,2023-24
+Highsmith,Jovic,183,MIA,2023-24
+Bryant,Lowry,90,MIA,2023-24
+Bryant,Butler,211,MIA,2023-24
+Bryant,Jaquez Jr.,238,MIA,2023-24
+Richardson,Smith,37,MIA,2023-24
+Adebayo,Smith,79,MIA,2023-24
+Robinson,Smith,99,MIA,2023-24
+Jaquez Jr.,Smith,66,MIA,2023-24
+Bryant,Martin,175,MIA,2023-24
+Bryant,Mills,65,MIA,2023-24
+Richardson,Rozier,73,MIA,2023-24
+Bryant,Love,18,MIA,2023-24
+Adebayo,Cain,94,MIA,2023-24
+Cain,Herro,86,MIA,2023-24
+Cain,Jaquez Jr.,149,MIA,2023-24
+Cain,Lowry,74,MIA,2023-24
+Highsmith,Wright,184,MIA,2023-24
+Love,Wright,34,MIA,2023-24
+Butler,Wright,90,MIA,2023-24
+Bryant,Cain,58,MIA,2023-24
+Cain,Martin,56,MIA,2023-24
+Cain,Robinson,168,MIA,2023-24
+Bryant,Rozier,69,MIA,2023-24
+Bryant,Smith,33,MIA,2023-24
+Herro,Smith,37,MIA,2023-24
+Herro,Wright,31,MIA,2023-24
+Bryant,Jovic,24,MIA,2023-24
+Adebayo,Hampton,41,MIA,2023-24
+Hampton,Highsmith,13,MIA,2023-24
+Hampton,Herro,48,MIA,2023-24
+Hampton,Jaquez Jr.,56,MIA,2023-24
+Cain,Love,70,MIA,2023-24
+Cain,Jovic,34,MIA,2023-24
+Rozier,Wright,50,MIA,2023-24
+Bryant,Wright,88,MIA,2023-24
+Highsmith,Smith,39,MIA,2023-24
+Butler,Smith,36,MIA,2023-24
+Jovic,Richardson,71,MIA,2023-24
+Cain,Richardson,26,MIA,2023-24
+Richardson,Swider,33,MIA,2023-24
+Martin,Swider,29,MIA,2023-24
+Jovic,Swider,33,MIA,2023-24
+Cain,Swider,47,MIA,2023-24
+Highsmith,Swider,39,MIA,2023-24
+Robinson,Swider,35,MIA,2023-24
+Cain,Wright,28,MIA,2023-24
+Mills,Wright,31,MIA,2023-24
+Cain,Highsmith,38,MIA,2023-24
+Highsmith,Mills,39,MIA,2023-24
+Cain,Mills,11,MIA,2023-24
+Cain,Smith,17,MIA,2023-24
+Jovic,Love,62,MIA,2023-24
+Jovic,Wright,35,MIA,2023-24
+Hampton,Robinson,39,MIA,2023-24
+Hampton,Love,26,MIA,2023-24
+Hampton,Lowry,7,MIA,2023-24
+Mills,Robinson,17,MIA,2023-24
+Lowry,Smith,33,MIA,2023-24
+Adebayo,Swider,20,MIA,2023-24
+Jaquez Jr.,Swider,15,MIA,2023-24
+Butler,Cain,20,MIA,2023-24
+Love,Swider,6,MIA,2023-24
+Love,Mills,8,MIA,2023-24
+Hampton,Jovic,17,MIA,2023-24
+Butler,Hampton,14,MIA,2023-24
+Swider,Wright,28,MIA,2023-24
+Bryant,Swider,14,MIA,2023-24
+Rozier,Swider,6,MIA,2023-24
+Butler,Swider,11,MIA,2023-24
+Highsmith,Williams,8,MIA,2023-24
+Robinson,Williams,13,MIA,2023-24
+Cain,Williams,11,MIA,2023-24
+Swider,Williams,11,MIA,2023-24
+Cain,Hampton,24,MIA,2023-24
+Hampton,Swider,9,MIA,2023-24
+Love,Smith,17,MIA,2023-24
+Jaquez Jr.,Williams,3,MIA,2023-24
+Love,Williams,3,MIA,2023-24
+Mills,Williams,3,MIA,2023-24
+Mills,Swider,3,MIA,2023-24
+Bryant,Hampton,8,MIA,2023-24
+Williams,Wright,3,MIA,2023-24
+Hampton,Martin,4,MIA,2023-24
+Hampton,Smith,2,MIA,2023-24
+Jovic,Smith,5,MIA,2023-24
+Smith,Swider,2,MIA,2023-24
+Martin,Smith,6,MIA,2023-24
+Cain,Rozier,1,MIA,2023-24
+Jovic,Williams,1,MIA,2023-24
+Lowry,Swider,3,MIA,2023-24
+Jackson Jr.,Tillman,245,MEM,2023-24
+Bane,Jackson Jr.,893,MEM,2023-24
+Jackson Jr.,Williams,508,MEM,2023-24
+Jackson Jr.,Smart,400,MEM,2023-24
+Bane,Tillman,269,MEM,2023-24
+Tillman,Williams,287,MEM,2023-24
+Smart,Tillman,197,MEM,2023-24
+Bane,Williams,331,MEM,2023-24
+Bane,Smart,488,MEM,2023-24
+Smart,Williams,204,MEM,2023-24
+Jackson Jr.,Kennard,457,MEM,2023-24
+Kennard,Konchar,216,MEM,2023-24
+Aldama,Kennard,383,MEM,2023-24
+Kennard,Williams Jr.,408,MEM,2023-24
+Jackson Jr.,Konchar,584,MEM,2023-24
+Aldama,Jackson Jr.,832,MEM,2023-24
+Jackson Jr.,Williams Jr.,784,MEM,2023-24
+Aldama,Konchar,510,MEM,2023-24
+Konchar,Williams Jr.,453,MEM,2023-24
+Aldama,Williams Jr.,625,MEM,2023-24
+Jackson Jr.,Morant,195,MEM,2023-24
+Biyombo,Jackson Jr.,408,MEM,2023-24
+Bane,Morant,209,MEM,2023-24
+Biyombo,Morant,131,MEM,2023-24
+Morant,Smart,146,MEM,2023-24
+Bane,Biyombo,595,MEM,2023-24
+Biyombo,Smart,220,MEM,2023-24
+Goodwin,Pippen Jr.,105,MEM,2023-24
+LaRavia,Pippen Jr.,138,MEM,2023-24
+Jackson,Pippen Jr.,289,MEM,2023-24
+Jemison,Pippen Jr.,193,MEM,2023-24
+Goodwin,LaRavia,189,MEM,2023-24
+Goodwin,Jackson,232,MEM,2023-24
+Goodwin,Jemison,198,MEM,2023-24
+Jackson,LaRavia,405,MEM,2023-24
+Jemison,LaRavia,201,MEM,2023-24
+Jackson,Jemison,308,MEM,2023-24
+Jackson Jr.,Roddy,538,MEM,2023-24
+Jackson Jr.,Rose,200,MEM,2023-24
+Bane,Roddy,407,MEM,2023-24
+Bane,Rose,133,MEM,2023-24
+Roddy,Rose,188,MEM,2023-24
+Biyombo,Roddy,225,MEM,2023-24
+Biyombo,Rose,110,MEM,2023-24
+Morant,Williams Jr.,125,MEM,2023-24
+Bane,Williams Jr.,324,MEM,2023-24
+Biyombo,Williams Jr.,209,MEM,2023-24
+Jackson Jr.,Pippen Jr.,184,MEM,2023-24
+Konchar,Pippen Jr.,97,MEM,2023-24
+Aldama,Pippen Jr.,150,MEM,2023-24
+Pippen Jr.,Williams Jr.,69,MEM,2023-24
+Kennard,Williams,140,MEM,2023-24
+Aldama,Williams,347,MEM,2023-24
+Williams,Williams Jr.,343,MEM,2023-24
+Gilyard,Jackson Jr.,302,MEM,2023-24
+Gilyard,Konchar,159,MEM,2023-24
+Aldama,Gilyard,221,MEM,2023-24
+Gilyard,Williams Jr.,185,MEM,2023-24
+Bane,Gilyard,144,MEM,2023-24
+Biyombo,Gilyard,119,MEM,2023-24
+Gilyard,Smart,28,MEM,2023-24
+Roddy,Williams,307,MEM,2023-24
+Roddy,Smart,150,MEM,2023-24
+Biyombo,Williams,141,MEM,2023-24
+Aldama,Bane,521,MEM,2023-24
+Aldama,Biyombo,228,MEM,2023-24
+Aldama,Morant,92,MEM,2023-24
+Aldama,Smart,98,MEM,2023-24
+Bane,Nowell,83,MEM,2023-24
+Aldama,Nowell,93,MEM,2023-24
+Nowell,Williams Jr.,83,MEM,2023-24
+Biyombo,Nowell,66,MEM,2023-24
+Goodwin,Williams,89,MEM,2023-24
+Jemison,Williams,40,MEM,2023-24
+Aldama,Goodwin,154,MEM,2023-24
+Aldama,Jemison,125,MEM,2023-24
+Goodwin,Williams Jr.,97,MEM,2023-24
+Jemison,Williams Jr.,123,MEM,2023-24
+Jackson,Jackson Jr.,425,MEM,2023-24
+Bane,Pippen Jr.,41,MEM,2023-24
+Bane,Jackson,105,MEM,2023-24
+Aldama,Jackson,353,MEM,2023-24
+Bane,Konchar,258,MEM,2023-24
+Jackson,Konchar,251,MEM,2023-24
+Jemison,Kennard,131,MEM,2023-24
+Jemison,Konchar,102,MEM,2023-24
+Morant,Tillman,103,MEM,2023-24
+Goodwin,Jackson Jr.,109,MEM,2023-24
+Biyombo,Konchar,116,MEM,2023-24
+Konchar,Tillman,169,MEM,2023-24
+Konchar,Roddy,288,MEM,2023-24
+Konchar,Smart,52,MEM,2023-24
+Roddy,Tillman,257,MEM,2023-24
+Stevens,Williams,38,MEM,2023-24
+Aldama,Stevens,99,MEM,2023-24
+Goodwin,Stevens,104,MEM,2023-24
+Stevens,Williams Jr.,97,MEM,2023-24
+Roddy,Williams Jr.,266,MEM,2023-24
+Gilyard,Roddy,261,MEM,2023-24
+Bane,Kennard,174,MEM,2023-24
+Jackson,Kennard,275,MEM,2023-24
+Pippen Jr.,Stevens,68,MEM,2023-24
+LaRavia,Stevens,197,MEM,2023-24
+Jackson,Stevens,166,MEM,2023-24
+Jemison,Stevens,101,MEM,2023-24
+Aldama,Roddy,263,MEM,2023-24
+Kennard,Pippen Jr.,78,MEM,2023-24
+Biyombo,Kennard,92,MEM,2023-24
+Kennard,Smart,139,MEM,2023-24
+Jackson Jr.,Nowell,79,MEM,2023-24
+Nowell,Roddy,49,MEM,2023-24
+Clarke,Pippen Jr.,30,MEM,2023-24
+Clarke,Goodwin,57,MEM,2023-24
+Clarke,Jackson,61,MEM,2023-24
+Clarke,Jemison,26,MEM,2023-24
+Allen,Goodwin,52,MEM,2023-24
+Allen,LaRavia,43,MEM,2023-24
+Allen,Jackson,55,MEM,2023-24
+Allen,Jemison,69,MEM,2023-24
+Aldama,Rose,115,MEM,2023-24
+Gabriel,Jarreau,40,MEM,2023-24
+Gabriel,Goodwin,25,MEM,2023-24
+Gabriel,LaRavia,56,MEM,2023-24
+Gabriel,Jackson,44,MEM,2023-24
+Goodwin,Jarreau,21,MEM,2023-24
+Jarreau,LaRavia,93,MEM,2023-24
+Jackson,Jarreau,86,MEM,2023-24
+Morant,Williams,67,MEM,2023-24
+Aldama,Tillman,142,MEM,2023-24
+Tillman,Williams Jr.,239,MEM,2023-24
+Smart,Williams Jr.,84,MEM,2023-24
+Konchar,Stevens,45,MEM,2023-24
+Hurt,Konchar,25,MEM,2023-24
+Konchar,LaRavia,182,MEM,2023-24
+Hurt,Stevens,23,MEM,2023-24
+Hurt,LaRavia,41,MEM,2023-24
+Hurt,Jackson,78,MEM,2023-24
+Jackson,Williams Jr.,265,MEM,2023-24
+Gilyard,Jackson,185,MEM,2023-24
+Kennard,LaRavia,107,MEM,2023-24
+Jackson Jr.,LaRavia,240,MEM,2023-24
+Aldama,LaRavia,188,MEM,2023-24
+Pippen Jr.,Tillman,40,MEM,2023-24
+Pippen Jr.,Roddy,59,MEM,2023-24
+Goodwin,Konchar,68,MEM,2023-24
+Kennard,Tillman,169,MEM,2023-24
+Goodwin,Kennard,53,MEM,2023-24
+Kennard,Roddy,195,MEM,2023-24
+Gilyard,Kennard,140,MEM,2023-24
+Evbuomwan,Kennard,30,MEM,2023-24
+Jackson,Roddy,177,MEM,2023-24
+Evbuomwan,Roddy,47,MEM,2023-24
+Evbuomwan,Gilyard,37,MEM,2023-24
+Evbuomwan,Jackson,44,MEM,2023-24
+Gilyard,Tillman,104,MEM,2023-24
+Jackson,Tillman,89,MEM,2023-24
+Jackson Jr.,Stevens,76,MEM,2023-24
+Kennard,Rose,45,MEM,2023-24
+Rose,Williams Jr.,100,MEM,2023-24
+Jackson,Rose,53,MEM,2023-24
+Jemison,Rose,16,MEM,2023-24
+Jackson Jr.,Jemison,24,MEM,2023-24
+Konchar,Williams,181,MEM,2023-24
+Pereira,Pippen Jr.,48,MEM,2023-24
+Goodwin,Pereira,55,MEM,2023-24
+Jackson,Pereira,50,MEM,2023-24
+Jemison,Pereira,43,MEM,2023-24
+Gilyard,Williams,142,MEM,2023-24
+Jackson,Williams,178,MEM,2023-24
+Konchar,Nowell,37,MEM,2023-24
+Bane,LaRavia,89,MEM,2023-24
+Konchar,Rose,89,MEM,2023-24
+Rose,Williams,86,MEM,2023-24
+LaRavia,Williams,74,MEM,2023-24
+LaRavia,Roddy,47,MEM,2023-24
+Gilyard,LaRavia,37,MEM,2023-24
+LaRavia,Rose,59,MEM,2023-24
+Konchar,Morant,22,MEM,2023-24
+Gabriel,Stevens,31,MEM,2023-24
+Gabriel,Jemison,29,MEM,2023-24
+Jarreau,Stevens,42,MEM,2023-24
+Jarreau,Jemison,58,MEM,2023-24
+Kennard,Morant,40,MEM,2023-24
+LaRavia,Williams Jr.,78,MEM,2023-24
+Simpson,Stevens,42,MEM,2023-24
+Pereira,Stevens,42,MEM,2023-24
+Pippen Jr.,Simpson,65,MEM,2023-24
+Goodwin,Simpson,60,MEM,2023-24
+Pereira,Simpson,44,MEM,2023-24
+Clarke,Kennard,25,MEM,2023-24
+Clarke,Jackson Jr.,31,MEM,2023-24
+Clarke,LaRavia,56,MEM,2023-24
+Rose,Stevens,25,MEM,2023-24
+Konchar,Lofton Jr.,32,MEM,2023-24
+LaRavia,Lofton Jr.,11,MEM,2023-24
+Lofton Jr.,Williams Jr.,26,MEM,2023-24
+Gilyard,Lofton Jr.,31,MEM,2023-24
+Kennard,Stevens,51,MEM,2023-24
+Jemison,Roddy,26,MEM,2023-24
+Gilyard,Jemison,35,MEM,2023-24
+Clarke,Stevens,33,MEM,2023-24
+LaRavia,Simpson,40,MEM,2023-24
+LaRavia,Pereira,35,MEM,2023-24
+Hurt,Kennard,21,MEM,2023-24
+Gabriel,Konchar,37,MEM,2023-24
+Gabriel,Williams Jr.,13,MEM,2023-24
+Allen,Pippen Jr.,52,MEM,2023-24
+Jackson,Simpson,52,MEM,2023-24
+Allen,Simpson,76,MEM,2023-24
+Jemison,Simpson,69,MEM,2023-24
+Evbuomwan,Konchar,15,MEM,2023-24
+Jackson Jr.,Jarreau,36,MEM,2023-24
+Bane,Jarreau,31,MEM,2023-24
+Aldama,Jarreau,53,MEM,2023-24
+Clarke,Simpson,19,MEM,2023-24
+Clarke,White,7,MEM,2023-24
+Allen,Clarke,15,MEM,2023-24
+Simpson,White,41,MEM,2023-24
+Jackson,White,17,MEM,2023-24
+Allen,White,44,MEM,2023-24
+Rose,Tillman,33,MEM,2023-24
+Nowell,Williams,24,MEM,2023-24
+Kennard,Lofton Jr.,28,MEM,2023-24
+Bane,Lofton Jr.,28,MEM,2023-24
+Aldama,Lofton Jr.,26,MEM,2023-24
+Lofton Jr.,Williams,23,MEM,2023-24
+Lofton Jr.,Roddy,35,MEM,2023-24
+Nowell,Tillman,29,MEM,2023-24
+Pippen Jr.,Williams,23,MEM,2023-24
+Goodwin,Rose,6,MEM,2023-24
+Jarreau,Konchar,24,MEM,2023-24
+Hurt,Pippen Jr.,34,MEM,2023-24
+Hurt,Roddy,25,MEM,2023-24
+Hurt,Jemison,23,MEM,2023-24
+Gilyard,Hurt,29,MEM,2023-24
+Gilyard,Pippen Jr.,19,MEM,2023-24
+Jarreau,Pereira,21,MEM,2023-24
+Pippen Jr.,White,31,MEM,2023-24
+LaRavia,White,15,MEM,2023-24
+Morant,Roddy,38,MEM,2023-24
+Evbuomwan,Williams Jr.,11,MEM,2023-24
+Evbuomwan,Rose,15,MEM,2023-24
+Hurt,Jackson Jr.,11,MEM,2023-24
+Goodwin,White,15,MEM,2023-24
+Aldama,Gabriel,10,MEM,2023-24
+Jemison,White,9,MEM,2023-24
+Stevens,White,9,MEM,2023-24
+Allen,Stevens,6,MEM,2023-24
+Gabriel,Pippen Jr.,5,MEM,2023-24
+Gilyard,Stevens,10,MEM,2023-24
+Allen,Pereira,12,MEM,2023-24
+Stevens,Watanabe,40,MEM,2023-24
+Aldama,Watanabe,12,MEM,2023-24
+Gilyard,Watanabe,5,MEM,2023-24
+Jackson,Watanabe,17,MEM,2023-24
+Bane,Clarke,14,MEM,2023-24
+Lofton Jr.,Tillman,5,MEM,2023-24
+Hurt,Watanabe,12,MEM,2023-24
+LaRavia,Watanabe,23,MEM,2023-24
+Lofton Jr.,Smart,14,MEM,2023-24
+Nowell,Rose,9,MEM,2023-24
+Jackson Jr.,Lofton Jr.,12,MEM,2023-24
+Bane,Jemison,24,MEM,2023-24
+Hurt,Tillman,10,MEM,2023-24
+Aldama,Hurt,16,MEM,2023-24
+Jarreau,Kennard,10,MEM,2023-24
+LaRavia,Tillman,25,MEM,2023-24
+Evbuomwan,Jemison,9,MEM,2023-24
+Rose,Smart,9,MEM,2023-24
+Clarke,Pereira,20,MEM,2023-24
+Lofton Jr.,Nowell,4,MEM,2023-24
+Gilyard,Nowell,4,MEM,2023-24
+Hurt,Williams Jr.,11,MEM,2023-24
+Evbuomwan,Hurt,16,MEM,2023-24
+Evbuomwan,Pippen Jr.,12,MEM,2023-24
+Jackson,Lofton Jr.,4,MEM,2023-24
+Goodwin,Watanabe,14,MEM,2023-24
+Jemison,Watanabe,18,MEM,2023-24
+Goodwin,Hurt,9,MEM,2023-24
+Kennard,Pereira,10,MEM,2023-24
+Jackson Jr.,Pereira,7,MEM,2023-24
+Kennard,Watanabe,11,MEM,2023-24
+Watanabe,Williams Jr.,10,MEM,2023-24
+Gabriel,Jackson Jr.,6,MEM,2023-24
+Bane,Gabriel,4,MEM,2023-24
+Aldama,Evbuomwan,8,MEM,2023-24
+Aldama,Clarke,7,MEM,2023-24
+Jackson Jr.,Watanabe,14,MEM,2023-24
+Hurt,Williams,4,MEM,2023-24
+Rose,Watanabe,13,MEM,2023-24
+Gabriel,Kennard,4,MEM,2023-24
+LaRavia,Smart,11,MEM,2023-24
+Aldama,Pereira,9,MEM,2023-24
+Jarreau,Pippen Jr.,6,MEM,2023-24
+Watanabe,Williams,3,MEM,2023-24
+Bane,Stevens,11,MEM,2023-24
+Lofton Jr.,Rose,5,MEM,2023-24
+Gilyard,Rose,3,MEM,2023-24
+Clarke,Jarreau,3,MEM,2023-24
+Biyombo,LaRavia,4,MEM,2023-24
+Hachimura,Russell,1118,LAL,2023-24
+Reaves,Russell,1401,LAL,2023-24
+Davis,Russell,1785,LAL,2023-24
+James,Russell,1610,LAL,2023-24
+Hachimura,Reaves,1416,LAL,2023-24
+Davis,Hachimura,1190,LAL,2023-24
+Hachimura,James,1033,LAL,2023-24
+Davis,Reaves,1994,LAL,2023-24
+James,Reaves,1710,LAL,2023-24
+Davis,James,1728,LAL,2023-24
+Prince,Russell,1322,LAL,2023-24
+Prince,Reaves,1240,LAL,2023-24
+Davis,Prince,1504,LAL,2023-24
+James,Prince,1294,LAL,2023-24
+Reddish,Russell,531,LAL,2023-24
+Prince,Reddish,518,LAL,2023-24
+Davis,Reddish,722,LAL,2023-24
+James,Reddish,602,LAL,2023-24
+Reaves,Reddish,521,LAL,2023-24
+Dinwiddie,Russell,382,LAL,2023-24
+Dinwiddie,Hachimura,360,LAL,2023-24
+Dinwiddie,Reaves,424,LAL,2023-24
+Davis,Dinwiddie,445,LAL,2023-24
+Hachimura,Prince,610,LAL,2023-24
+Dinwiddie,James,288,LAL,2023-24
+Christie,Russell,436,LAL,2023-24
+Christie,Prince,391,LAL,2023-24
+Christie,Davis,475,LAL,2023-24
+Christie,James,410,LAL,2023-24
+Hachimura,Reddish,306,LAL,2023-24
+Hayes,Russell,497,LAL,2023-24
+Hachimura,Hayes,356,LAL,2023-24
+Hayes,Reaves,429,LAL,2023-24
+Hayes,James,464,LAL,2023-24
+Russell,Wood,395,LAL,2023-24
+Prince,Wood,346,LAL,2023-24
+Reaves,Wood,525,LAL,2023-24
+Davis,Wood,358,LAL,2023-24
+Hayes,Prince,470,LAL,2023-24
+Dinwiddie,Prince,333,LAL,2023-24
+Dinwiddie,Hayes,201,LAL,2023-24
+Christie,Hayes,318,LAL,2023-24
+Christie,Reaves,413,LAL,2023-24
+Russell,Vanderbilt,290,LAL,2023-24
+Reaves,Vanderbilt,323,LAL,2023-24
+Davis,Vanderbilt,355,LAL,2023-24
+James,Vanderbilt,305,LAL,2023-24
+Vanderbilt,Wood,206,LAL,2023-24
+Christie,Wood,343,LAL,2023-24
+James,Wood,408,LAL,2023-24
+Christie,Vanderbilt,213,LAL,2023-24
+Prince,Vanderbilt,232,LAL,2023-24
+Hachimura,Wood,290,LAL,2023-24
+Reddish,Vanderbilt,95,LAL,2023-24
+Hayes,Reddish,150,LAL,2023-24
+Hachimura,Vanderbilt,218,LAL,2023-24
+Christie,Hachimura,275,LAL,2023-24
+Russell,Vincent,137,LAL,2023-24
+Prince,Vincent,112,LAL,2023-24
+Hayes,Vincent,67,LAL,2023-24
+James,Vincent,133,LAL,2023-24
+Hayes,Wood,192,LAL,2023-24
+Christie,Dinwiddie,103,LAL,2023-24
+Davis,Vincent,126,LAL,2023-24
+Dinwiddie,Vincent,38,LAL,2023-24
+Hood-Schifino,Wood,66,LAL,2023-24
+Lewis,Wood,41,LAL,2023-24
+Hayes,Hood-Schifino,64,LAL,2023-24
+Hayes,Lewis,64,LAL,2023-24
+Christie,Hood-Schifino,63,LAL,2023-24
+Christie,Lewis,78,LAL,2023-24
+Hood-Schifino,Lewis,52,LAL,2023-24
+Davis,Hayes,90,LAL,2023-24
+Hachimura,Vincent,63,LAL,2023-24
+Reaves,Vincent,77,LAL,2023-24
+Hayes,Vanderbilt,59,LAL,2023-24
+Reddish,Wood,167,LAL,2023-24
+Dinwiddie,Reddish,87,LAL,2023-24
+Vincent,Wood,57,LAL,2023-24
+Christie,Reddish,125,LAL,2023-24
+Reddish,Vincent,48,LAL,2023-24
+Hayes,Windler,21,LAL,2023-24
+Hayes,Mays,50,LAL,2023-24
+Mays,Windler,22,LAL,2023-24
+Christie,Windler,14,LAL,2023-24
+Hood-Schifino,Windler,19,LAL,2023-24
+Christie,Mays,38,LAL,2023-24
+Hood-Schifino,Mays,18,LAL,2023-24
+Hachimura,Lewis,14,LAL,2023-24
+Giles III,Hayes,11,LAL,2023-24
+Giles III,Mays,10,LAL,2023-24
+Christie,Giles III,17,LAL,2023-24
+Giles III,Lewis,14,LAL,2023-24
+Lewis,Mays,17,LAL,2023-24
+Castleton,Prince,10,LAL,2023-24
+Lewis,Prince,7,LAL,2023-24
+Castleton,Hayes,21,LAL,2023-24
+Castleton,Christie,44,LAL,2023-24
+Castleton,Lewis,40,LAL,2023-24
+Dinwiddie,Wood,26,LAL,2023-24
+Mays,Russell,26,LAL,2023-24
+Mays,Vanderbilt,18,LAL,2023-24
+Castleton,Reddish,21,LAL,2023-24
+Lewis,Reddish,17,LAL,2023-24
+Hodge,Reddish,10,LAL,2023-24
+Castleton,Hodge,23,LAL,2023-24
+Christie,Hodge,20,LAL,2023-24
+Hodge,Lewis,28,LAL,2023-24
+Hodge,Wood,19,LAL,2023-24
+Hayes,Hodge,14,LAL,2023-24
+Hodge,Hood-Schifino,17,LAL,2023-24
+Castleton,Wood,9,LAL,2023-24
+Giles III,Hood-Schifino,4,LAL,2023-24
+Vanderbilt,Vincent,10,LAL,2023-24
+Castleton,Hachimura,11,LAL,2023-24
+Hachimura,Hodge,8,LAL,2023-24
+Castleton,Hood-Schifino,9,LAL,2023-24
+Castleton,Fudge,8,LAL,2023-24
+Christie,Fudge,4,LAL,2023-24
+Fudge,Lewis,14,LAL,2023-24
+Fudge,Hodge,14,LAL,2023-24
+Fudge,Hood-Schifino,10,LAL,2023-24
+Fudge,Wood,4,LAL,2023-24
+Mays,Wood,23,LAL,2023-24
+Hachimura,Mays,26,LAL,2023-24
+Hood-Schifino,Vanderbilt,10,LAL,2023-24
+Hood-Schifino,Prince,20,LAL,2023-24
+Hood-Schifino,Reaves,31,LAL,2023-24
+Davis,Hood-Schifino,13,LAL,2023-24
+Hood-Schifino,Russell,8,LAL,2023-24
+Hood-Schifino,James,19,LAL,2023-24
+James,Mays,15,LAL,2023-24
+Mays,Reddish,3,LAL,2023-24
+Castleton,Mays,9,LAL,2023-24
+Lewis,Windler,5,LAL,2023-24
+Vanderbilt,Windler,3,LAL,2023-24
+Hood-Schifino,Reddish,8,LAL,2023-24
+Castleton,Giles III,3,LAL,2023-24
+Mays,Prince,18,LAL,2023-24
+Castleton,Russell,4,LAL,2023-24
+Castleton,Vincent,3,LAL,2023-24
+Castleton,Dinwiddie,5,LAL,2023-24
+Christie,Vincent,4,LAL,2023-24
+Russell,Windler,6,LAL,2023-24
+Hachimura,Windler,3,LAL,2023-24
+Dinwiddie,Windler,6,LAL,2023-24
+Hodge,Vanderbilt,3,LAL,2023-24
+Hodge,Reaves,4,LAL,2023-24
+Giles III,Russell,4,LAL,2023-24
+Giles III,Prince,4,LAL,2023-24
+Giles III,James,3,LAL,2023-24
+Davis,Mays,12,LAL,2023-24
+Windler,Wood,9,LAL,2023-24
+Castleton,Reaves,3,LAL,2023-24
+Castleton,James,2,LAL,2023-24
+Fudge,Hayes,2,LAL,2023-24
+Davis,Windler,3,LAL,2023-24
+Mays,Reaves,11,LAL,2023-24
+Hachimura,Hood-Schifino,3,LAL,2023-24
+Lewis,Reaves,5,LAL,2023-24
+Castleton,Windler,3,LAL,2023-24
+Dinwiddie,Hood-Schifino,2,LAL,2023-24
+Dinwiddie,Lewis,3,LAL,2023-24
+Giles III,Reddish,1,LAL,2023-24
+Dinwiddie,Giles III,1,LAL,2023-24
+Lewis,Vincent,1,LAL,2023-24
+Reaves,Windler,1,LAL,2023-24
+Prince,Windler,1,LAL,2023-24
+Giles III,Reaves,0,LAL,2023-24
+Mann,Zubac,1106,LAC,2023-24
+Harden,Zubac,1366,LAC,2023-24
+George,Zubac,1495,LAC,2023-24
+Leonard,Zubac,1303,LAC,2023-24
+Harden,Mann,1420,LAC,2023-24
+George,Mann,1349,LAC,2023-24
+Leonard,Mann,1273,LAC,2023-24
+George,Harden,1777,LAC,2023-24
+Harden,Leonard,1616,LAC,2023-24
+George,Leonard,1635,LAC,2023-24
+Mann,Plumlee,259,LAC,2023-24
+Harden,Plumlee,322,LAC,2023-24
+George,Plumlee,313,LAC,2023-24
+Leonard,Plumlee,323,LAC,2023-24
+Powell,Zubac,633,LAC,2023-24
+Harden,Powell,1102,LAC,2023-24
+George,Powell,1016,LAC,2023-24
+Leonard,Powell,927,LAC,2023-24
+Powell,Theis,715,LAC,2023-24
+Coffey,Powell,883,LAC,2023-24
+Powell,Westbrook,1064,LAC,2023-24
+Coffey,Theis,523,LAC,2023-24
+Theis,Westbrook,521,LAC,2023-24
+Leonard,Theis,406,LAC,2023-24
+Coffey,Westbrook,580,LAC,2023-24
+Coffey,Leonard,520,LAC,2023-24
+Leonard,Westbrook,814,LAC,2023-24
+Coffey,Zubac,373,LAC,2023-24
+Coffey,Mann,448,LAC,2023-24
+Coffey,Harden,745,LAC,2023-24
+Coffey,George,558,LAC,2023-24
+Westbrook,Zubac,485,LAC,2023-24
+Harden,Westbrook,639,LAC,2023-24
+George,Westbrook,856,LAC,2023-24
+Harden,Theis,507,LAC,2023-24
+Mann,Theis,272,LAC,2023-24
+George,Theis,405,LAC,2023-24
+Mann,Powell,493,LAC,2023-24
+Mann,Westbrook,329,LAC,2023-24
+Covington,Zubac,58,LAC,2023-24
+Covington,Westbrook,62,LAC,2023-24
+Covington,George,64,LAC,2023-24
+Covington,Leonard,66,LAC,2023-24
+Tucker,Zubac,146,LAC,2023-24
+Mann,Tucker,136,LAC,2023-24
+Harden,Tucker,183,LAC,2023-24
+George,Tucker,233,LAC,2023-24
+Plumlee,Powell,345,LAC,2023-24
+Coffey,Plumlee,312,LAC,2023-24
+Plumlee,Westbrook,258,LAC,2023-24
+Powell,Tucker,195,LAC,2023-24
+Theis,Tucker,115,LAC,2023-24
+Tucker,Westbrook,159,LAC,2023-24
+Brown,Powell,151,LAC,2023-24
+Brown,Theis,203,LAC,2023-24
+Brown,Westbrook,136,LAC,2023-24
+Brown,Harden,69,LAC,2023-24
+Hyland,Zubac,154,LAC,2023-24
+Hyland,Westbrook,102,LAC,2023-24
+George,Hyland,200,LAC,2023-24
+Hyland,Leonard,196,LAC,2023-24
+Hyland,Mann,126,LAC,2023-24
+Brown,George,67,LAC,2023-24
+Hyland,Powell,240,LAC,2023-24
+Hyland,Theis,143,LAC,2023-24
+Coffey,Hyland,250,LAC,2023-24
+Moon,Theis,51,LAC,2023-24
+Boston Jr.,Theis,169,LAC,2023-24
+Coffey,Moon,74,LAC,2023-24
+Boston Jr.,Coffey,201,LAC,2023-24
+Brown,Coffey,176,LAC,2023-24
+Boston Jr.,Moon,93,LAC,2023-24
+Brown,Moon,94,LAC,2023-24
+Boston Jr.,Brown,180,LAC,2023-24
+Boston Jr.,Hyland,149,LAC,2023-24
+Boston Jr.,Plumlee,105,LAC,2023-24
+Brown,Hyland,133,LAC,2023-24
+Hyland,Plumlee,173,LAC,2023-24
+Brown,Plumlee,85,LAC,2023-24
+Martin,Powell,23,LAC,2023-24
+Batum,Powell,47,LAC,2023-24
+Hyland,Martin,25,LAC,2023-24
+Batum,Martin,21,LAC,2023-24
+Martin,Plumlee,23,LAC,2023-24
+Batum,Hyland,36,LAC,2023-24
+Batum,Plumlee,35,LAC,2023-24
+Boston Jr.,Mann,89,LAC,2023-24
+Brown,Mann,109,LAC,2023-24
+Coffey,Diabate,42,LAC,2023-24
+Diabate,Mann,29,LAC,2023-24
+Diabate,Hyland,37,LAC,2023-24
+Brown,Diabate,42,LAC,2023-24
+Brown,Leonard,39,LAC,2023-24
+Coffey,Tucker,125,LAC,2023-24
+Boston Jr.,Tucker,63,LAC,2023-24
+Hyland,Tucker,97,LAC,2023-24
+Plumlee,Tucker,69,LAC,2023-24
+Leonard,Tucker,129,LAC,2023-24
+Boston Jr.,Harden,73,LAC,2023-24
+Boston Jr.,George,26,LAC,2023-24
+Hyland,Moon,39,LAC,2023-24
+Moon,Plumlee,60,LAC,2023-24
+Batum,Westbrook,29,LAC,2023-24
+Batum,George,20,LAC,2023-24
+Batum,Leonard,18,LAC,2023-24
+Boston Jr.,Powell,79,LAC,2023-24
+Harden,Hyland,51,LAC,2023-24
+Boston Jr.,Westbrook,59,LAC,2023-24
+Coffey,Miller,16,LAC,2023-24
+Mann,Miller,7,LAC,2023-24
+Boston Jr.,Miller,21,LAC,2023-24
+Brown,Miller,28,LAC,2023-24
+Mann,Moon,35,LAC,2023-24
+Moon,Tucker,18,LAC,2023-24
+Miller,Moon,12,LAC,2023-24
+Miller,Plumlee,7,LAC,2023-24
+Brown,Zubac,31,LAC,2023-24
+Brown,Tucker,9,LAC,2023-24
+Diabate,Powell,25,LAC,2023-24
+Diabate,Tucker,7,LAC,2023-24
+Diabate,Harden,13,LAC,2023-24
+Diabate,Leonard,14,LAC,2023-24
+Batum,Covington,8,LAC,2023-24
+Boston Jr.,Primo,10,LAC,2023-24
+Boston Jr.,Diabate,8,LAC,2023-24
+Hyland,Primo,5,LAC,2023-24
+Diabate,Primo,5,LAC,2023-24
+Brown,Primo,10,LAC,2023-24
+Covington,Hyland,8,LAC,2023-24
+Moon,Primo,5,LAC,2023-24
+Miller,Primo,5,LAC,2023-24
+Coffey,Martin,10,LAC,2023-24
+Diabate,Martin,9,LAC,2023-24
+Brown,Martin,10,LAC,2023-24
+Plumlee,Theis,10,LAC,2023-24
+Boston Jr.,Zubac,34,LAC,2023-24
+Boston Jr.,Leonard,25,LAC,2023-24
+Martin,Miller,4,LAC,2023-24
+Diabate,Miller,7,LAC,2023-24
+Miller,Powell,3,LAC,2023-24
+Diabate,Westbrook,8,LAC,2023-24
+Martin,Westbrook,3,LAC,2023-24
+Diabate,George,6,LAC,2023-24
+Covington,Powell,5,LAC,2023-24
+Covington,Plumlee,5,LAC,2023-24
+Batum,Zubac,2,LAC,2023-24
+Miller,Zubac,2,LAC,2023-24
+Moon,Powell,2,LAC,2023-24
+Harden,Moon,1,LAC,2023-24
+Leonard,Miller,0,LAC,2023-24
+Siakam,Turner,835,IND,2023-24
+Nembhard,Turner,1060,IND,2023-24
+Haliburton,Turner,1584,IND,2023-24
+Nesmith,Turner,1227,IND,2023-24
+Nembhard,Siakam,959,IND,2023-24
+Haliburton,Siakam,884,IND,2023-24
+Nesmith,Siakam,857,IND,2023-24
+Haliburton,Nembhard,1067,IND,2023-24
+Nembhard,Nesmith,1101,IND,2023-24
+Haliburton,Nesmith,1244,IND,2023-24
+Hield,Turner,701,IND,2023-24
+Brown,Turner,745,IND,2023-24
+Toppin,Turner,724,IND,2023-24
+Brown,Hield,413,IND,2023-24
+Hield,Toppin,614,IND,2023-24
+Haliburton,Hield,645,IND,2023-24
+Brown,Toppin,558,IND,2023-24
+Brown,Haliburton,670,IND,2023-24
+Haliburton,Toppin,880,IND,2023-24
+Mathurin,Turner,682,IND,2023-24
+Brown,Mathurin,409,IND,2023-24
+Mathurin,Toppin,745,IND,2023-24
+Haliburton,Mathurin,699,IND,2023-24
+Mathurin,Siakam,289,IND,2023-24
+Mathurin,Nembhard,469,IND,2023-24
+Hield,Jackson,268,IND,2023-24
+Hield,Mathurin,537,IND,2023-24
+Hield,McConnell,370,IND,2023-24
+Jackson,Toppin,380,IND,2023-24
+McConnell,Toppin,758,IND,2023-24
+Jackson,Mathurin,434,IND,2023-24
+Jackson,McConnell,424,IND,2023-24
+Mathurin,McConnell,599,IND,2023-24
+Hield,Nesmith,619,IND,2023-24
+Brown,Nesmith,418,IND,2023-24
+Mathurin,Nesmith,533,IND,2023-24
+Hield,Siakam,202,IND,2023-24
+Hield,Nembhard,410,IND,2023-24
+Smith,Toppin,427,IND,2023-24
+Sheppard,Toppin,465,IND,2023-24
+McDermott,Toppin,140,IND,2023-24
+Sheppard,Smith,339,IND,2023-24
+McDermott,Smith,71,IND,2023-24
+McConnell,Smith,486,IND,2023-24
+McDermott,Sheppard,119,IND,2023-24
+McConnell,Sheppard,524,IND,2023-24
+McConnell,McDermott,154,IND,2023-24
+Jackson,Sheppard,216,IND,2023-24
+Jackson,McDermott,99,IND,2023-24
+Siakam,Smith,249,IND,2023-24
+Nembhard,Smith,415,IND,2023-24
+Haliburton,Smith,419,IND,2023-24
+Nesmith,Smith,485,IND,2023-24
+Mathurin,Smith,387,IND,2023-24
+Mathurin,Sheppard,169,IND,2023-24
+Nembhard,Toppin,416,IND,2023-24
+Nesmith,Toppin,478,IND,2023-24
+Smith,Turner,175,IND,2023-24
+Brown,Smith,191,IND,2023-24
+Sheppard,Turner,162,IND,2023-24
+Sheppard,Siakam,267,IND,2023-24
+Nembhard,Sheppard,181,IND,2023-24
+Haliburton,Sheppard,202,IND,2023-24
+Haliburton,McConnell,220,IND,2023-24
+Jackson,Siakam,107,IND,2023-24
+Jackson,Nembhard,224,IND,2023-24
+Haliburton,Jackson,260,IND,2023-24
+Jackson,Nesmith,294,IND,2023-24
+Hield,Smith,363,IND,2023-24
+Jackson,Nwora,80,IND,2023-24
+Nwora,Walker,83,IND,2023-24
+Nwora,Sheppard,90,IND,2023-24
+McConnell,Nwora,112,IND,2023-24
+Jackson,Walker,122,IND,2023-24
+Sheppard,Walker,200,IND,2023-24
+McConnell,Walker,186,IND,2023-24
+Siakam,Walker,65,IND,2023-24
+McConnell,Siakam,286,IND,2023-24
+Smith,Walker,90,IND,2023-24
+McConnell,Nesmith,467,IND,2023-24
+Brown,Nembhard,250,IND,2023-24
+Nesmith,Sheppard,157,IND,2023-24
+McConnell,Turner,302,IND,2023-24
+Brown,McConnell,134,IND,2023-24
+Toppin,Walker,110,IND,2023-24
+Brown,Jackson,135,IND,2023-24
+Siakam,Toppin,151,IND,2023-24
+McConnell,Nembhard,109,IND,2023-24
+Hield,Nwora,57,IND,2023-24
+Mathurin,Nwora,82,IND,2023-24
+Turner,Walker,63,IND,2023-24
+Nembhard,Walker,59,IND,2023-24
+Haliburton,Walker,48,IND,2023-24
+Mathurin,McDermott,12,IND,2023-24
+Nesmith,Nwora,25,IND,2023-24
+Johnson,Nwora,25,IND,2023-24
+Johnson,Walker,31,IND,2023-24
+Johnson,Sheppard,15,IND,2023-24
+Johnson,McConnell,19,IND,2023-24
+Nwora,Toppin,36,IND,2023-24
+Mathurin,Walker,65,IND,2023-24
+Jackson,Smith,41,IND,2023-24
+Brown,Nwora,32,IND,2023-24
+Nwora,Tshiebwe,28,IND,2023-24
+Brown,Tshiebwe,28,IND,2023-24
+Brown,Walker,73,IND,2023-24
+Brown,Sheppard,54,IND,2023-24
+Tshiebwe,Walker,32,IND,2023-24
+Sheppard,Tshiebwe,34,IND,2023-24
+Nesmith,Walker,43,IND,2023-24
+Brown,Johnson,17,IND,2023-24
+Brown,McDermott,25,IND,2023-24
+Jackson,Johnson,28,IND,2023-24
+McDermott,Walker,33,IND,2023-24
+Johnson,McDermott,12,IND,2023-24
+McDermott,Siakam,48,IND,2023-24
+Johnson,Mathurin,21,IND,2023-24
+McConnell,Tshiebwe,6,IND,2023-24
+Haliburton,McDermott,34,IND,2023-24
+Hield,Sheppard,74,IND,2023-24
+Johnson,Nembhard,7,IND,2023-24
+McDermott,Turner,13,IND,2023-24
+McDermott,Nesmith,16,IND,2023-24
+Hield,Walker,45,IND,2023-24
+Nembhard,Tshiebwe,12,IND,2023-24
+Jackson,Tshiebwe,9,IND,2023-24
+McDermott,Nembhard,25,IND,2023-24
+Jackson,Wong,4,IND,2023-24
+Brown,Wong,4,IND,2023-24
+Walker,Wong,4,IND,2023-24
+McDermott,Wong,4,IND,2023-24
+Nwora,Turner,26,IND,2023-24
+Hield,Johnson,7,IND,2023-24
+Nembhard,Nwora,18,IND,2023-24
+Jackson,Turner,4,IND,2023-24
+Haliburton,Nwora,24,IND,2023-24
+Nwora,Smith,26,IND,2023-24
+Mathurin,Tshiebwe,6,IND,2023-24
+Johnson,Tshiebwe,3,IND,2023-24
+Theis,Turner,5,IND,2023-24
+Hield,Theis,6,IND,2023-24
+Haliburton,Theis,6,IND,2023-24
+Mathurin,Theis,6,IND,2023-24
+Haliburton,Johnson,3,IND,2023-24
+Brown,Theis,4,IND,2023-24
+Nembhard,Theis,2,IND,2023-24
+Jackson,Theis,3,IND,2023-24
+Jackson,Jackson,2,IND,2023-24
+Toppin,Tshiebwe,2,IND,2023-24
+Haliburton,Tshiebwe,3,IND,2023-24
+McDermott,Tshiebwe,3,IND,2023-24
+Siakam,Tshiebwe,1,IND,2023-24
+Hield,Tshiebwe,1,IND,2023-24
+Brooks,VanVleet,1783,HOU,2023-24
+Green,VanVleet,2683,HOU,2023-24
+Sengun,VanVleet,1677,HOU,2023-24
+Smith Jr.,VanVleet,1769,HOU,2023-24
+Brooks,Green,2225,HOU,2023-24
+Brooks,Sengun,1393,HOU,2023-24
+Brooks,Smith Jr.,1491,HOU,2023-24
+Green,Sengun,1947,HOU,2023-24
+Green,Smith Jr.,2340,HOU,2023-24
+Sengun,Smith Jr.,1372,HOU,2023-24
+Thompson,VanVleet,631,HOU,2023-24
+Brooks,Thompson,652,HOU,2023-24
+Green,Thompson,1247,HOU,2023-24
+Smith Jr.,Thompson,714,HOU,2023-24
+Tate,VanVleet,618,HOU,2023-24
+Green,Tate,932,HOU,2023-24
+Sengun,Tate,489,HOU,2023-24
+Smith Jr.,Tate,404,HOU,2023-24
+Sengun,Thompson,376,HOU,2023-24
+Holiday,Smith Jr.,533,HOU,2023-24
+Holiday,Thompson,433,HOU,2023-24
+Holiday,Whitmore,382,HOU,2023-24
+Green,Holiday,1000,HOU,2023-24
+Smith Jr.,Whitmore,407,HOU,2023-24
+Thompson,Whitmore,543,HOU,2023-24
+Green,Whitmore,611,HOU,2023-24
+Green,Green,619,HOU,2023-24
+Landale,VanVleet,379,HOU,2023-24
+Brooks,Landale,276,HOU,2023-24
+Green,Landale,619,HOU,2023-24
+Landale,Thompson,383,HOU,2023-24
+Holiday,Tate,457,HOU,2023-24
+Eason,Holiday,272,HOU,2023-24
+Eason,Green,432,HOU,2023-24
+Eason,Tate,225,HOU,2023-24
+Eason,VanVleet,300,HOU,2023-24
+Brooks,Eason,127,HOU,2023-24
+Eason,Smith Jr.,167,HOU,2023-24
+Holiday,VanVleet,425,HOU,2023-24
+Brooks,Holiday,369,HOU,2023-24
+Brooks,Tate,225,HOU,2023-24
+Holiday,Sengun,404,HOU,2023-24
+VanVleet,Whitmore,349,HOU,2023-24
+Sengun,Whitmore,253,HOU,2023-24
+Eason,Sengun,208,HOU,2023-24
+Brooks,Whitmore,227,HOU,2023-24
+Bullock Jr.,Holiday,220,HOU,2023-24
+Bullock Jr.,Tate,137,HOU,2023-24
+Bullock Jr.,Smith Jr.,160,HOU,2023-24
+Bullock Jr.,Green,304,HOU,2023-24
+Landale,Smith Jr.,260,HOU,2023-24
+Landale,Whitmore,286,HOU,2023-24
+Holiday,Landale,338,HOU,2023-24
+Tate,Whitmore,152,HOU,2023-24
+Tate,Thompson,247,HOU,2023-24
+Landale,Tate,152,HOU,2023-24
+Bullock Jr.,VanVleet,119,HOU,2023-24
+Brooks,Bullock Jr.,88,HOU,2023-24
+Eason,Thompson,71,HOU,2023-24
+Bullock Jr.,Sengun,50,HOU,2023-24
+Bullock Jr.,Landale,157,HOU,2023-24
+Bullock Jr.,Thompson,117,HOU,2023-24
+Bullock Jr.,Whitmore,117,HOU,2023-24
+Holiday,Marjanovic,38,HOU,2023-24
+Hinton,Marjanovic,21,HOU,2023-24
+Marjanovic,Samuels Jr.,17,HOU,2023-24
+Bullock Jr.,Marjanovic,45,HOU,2023-24
+Hinton,Holiday,38,HOU,2023-24
+Holiday,Samuels Jr.,34,HOU,2023-24
+Hinton,Samuels Jr.,47,HOU,2023-24
+Bullock Jr.,Hinton,23,HOU,2023-24
+Bullock Jr.,Samuels Jr.,29,HOU,2023-24
+Eason,Landale,59,HOU,2023-24
+Landale,Marjanovic,22,HOU,2023-24
+Marjanovic,Thompson,33,HOU,2023-24
+Marjanovic,Whitmore,31,HOU,2023-24
+Hinton,Landale,25,HOU,2023-24
+Landale,Samuels Jr.,28,HOU,2023-24
+Hinton,Thompson,25,HOU,2023-24
+Hinton,Whitmore,36,HOU,2023-24
+Samuels Jr.,Thompson,19,HOU,2023-24
+Samuels Jr.,Whitmore,44,HOU,2023-24
+Marjanovic,Tate,13,HOU,2023-24
+Marjanovic,Williams,33,HOU,2023-24
+Holiday,Williams,85,HOU,2023-24
+Tate,Williams,37,HOU,2023-24
+Bullock Jr.,Williams,49,HOU,2023-24
+Smith Jr.,Williams,29,HOU,2023-24
+Landale,Williams,51,HOU,2023-24
+Hinton,Williams,18,HOU,2023-24
+Samuels Jr.,Williams,18,HOU,2023-24
+Whitmore,Williams,58,HOU,2023-24
+Eason,Whitmore,12,HOU,2023-24
+Thompson,Williams,57,HOU,2023-24
+Brooks,Williams,27,HOU,2023-24
+Bullock Jr.,Eason,33,HOU,2023-24
+Brooks,Hinton,8,HOU,2023-24
+Green,Hinton,19,HOU,2023-24
+Hinton,Sengun,11,HOU,2023-24
+Hinton,Smith Jr.,16,HOU,2023-24
+Green,Williams,30,HOU,2023-24
+Green,Marjanovic,10,HOU,2023-24
+Sengun,Williams,11,HOU,2023-24
+Marjanovic,Smith Jr.,9,HOU,2023-24
+Hinton,Tate,4,HOU,2023-24
+VanVleet,Williams,3,HOU,2023-24
+Green,Samuels Jr.,3,HOU,2023-24
+Eason,Williams,2,HOU,2023-24
+Landale,Sengun,1,HOU,2023-24
+Marjanovic,VanVleet,3,HOU,2023-24
+Brooks,Marjanovic,1,HOU,2023-24
+Samuels Jr.,Smith Jr.,1,HOU,2023-24
+Hinton,VanVleet,1,HOU,2023-24
+Kuminga,Podziemski,1058,GSW,2023-24
+Curry,Kuminga,1138,GSW,2023-24
+Green,Kuminga,698,GSW,2023-24
+Kuminga,Wiggins,669,GSW,2023-24
+Curry,Podziemski,904,GSW,2023-24
+Green,Podziemski,617,GSW,2023-24
+Podziemski,Wiggins,800,GSW,2023-24
+Curry,Green,1286,GSW,2023-24
+Curry,Wiggins,1455,GSW,2023-24
+Green,Wiggins,914,GSW,2023-24
+Kuminga,Thompson,1079,GSW,2023-24
+Curry,Thompson,1420,GSW,2023-24
+Green,Thompson,880,GSW,2023-24
+Thompson,Wiggins,1043,GSW,2023-24
+Curry,Looney,854,GSW,2023-24
+Looney,Thompson,821,GSW,2023-24
+Green,Looney,217,GSW,2023-24
+Looney,Wiggins,621,GSW,2023-24
+Kuminga,Looney,417,GSW,2023-24
+Looney,Podziemski,547,GSW,2023-24
+Podziemski,Thompson,881,GSW,2023-24
+Looney,Paul,402,GSW,2023-24
+Curry,Paul,599,GSW,2023-24
+Paul,Thompson,906,GSW,2023-24
+Paul,Wiggins,589,GSW,2023-24
+Curry,Jackson-Davis,469,GSW,2023-24
+Jackson-Davis,Thompson,629,GSW,2023-24
+Green,Jackson-Davis,224,GSW,2023-24
+Jackson-Davis,Wiggins,479,GSW,2023-24
+Kuminga,Paul,688,GSW,2023-24
+Paul,Payton II,317,GSW,2023-24
+Moody,Paul,519,GSW,2023-24
+Paul,Saric,533,GSW,2023-24
+Kuminga,Payton II,241,GSW,2023-24
+Moody,Payton II,209,GSW,2023-24
+Payton II,Saric,206,GSW,2023-24
+Kuminga,Moody,442,GSW,2023-24
+Kuminga,Saric,441,GSW,2023-24
+Moody,Saric,376,GSW,2023-24
+Looney,Saric,171,GSW,2023-24
+Curry,Saric,434,GSW,2023-24
+Saric,Thompson,497,GSW,2023-24
+Saric,Wiggins,472,GSW,2023-24
+Jackson-Davis,Paul,593,GSW,2023-24
+Jackson-Davis,Kuminga,446,GSW,2023-24
+Paul,Podziemski,617,GSW,2023-24
+Podziemski,Saric,569,GSW,2023-24
+Looney,Moody,307,GSW,2023-24
+Curry,Moody,546,GSW,2023-24
+Green,Moody,332,GSW,2023-24
+Moody,Wiggins,337,GSW,2023-24
+Moody,Podziemski,543,GSW,2023-24
+Jackson-Davis,Podziemski,574,GSW,2023-24
+Looney,Quinones,136,GSW,2023-24
+Kuminga,Quinones,187,GSW,2023-24
+Podziemski,Quinones,200,GSW,2023-24
+Quinones,Thompson,150,GSW,2023-24
+Green,Paul,305,GSW,2023-24
+Joseph,Kuminga,188,GSW,2023-24
+Joseph,Podziemski,195,GSW,2023-24
+Joseph,Thompson,138,GSW,2023-24
+Joseph,Saric,135,GSW,2023-24
+Jackson-Davis,Saric,243,GSW,2023-24
+Jackson-Davis,Moody,324,GSW,2023-24
+Moody,Thompson,357,GSW,2023-24
+Jackson-Davis,Payton II,169,GSW,2023-24
+Curry,Payton II,397,GSW,2023-24
+Payton II,Thompson,290,GSW,2023-24
+Jackson-Davis,Joseph,115,GSW,2023-24
+Payton II,Podziemski,231,GSW,2023-24
+Green,Payton II,231,GSW,2023-24
+Payton II,Wiggins,153,GSW,2023-24
+Green,Joseph,46,GSW,2023-24
+Looney,Payton II,165,GSW,2023-24
+Jackson-Davis,Quinones,132,GSW,2023-24
+Green,Saric,117,GSW,2023-24
+Quinones,Saric,102,GSW,2023-24
+Payton II,Robinson,14,GSW,2023-24
+Payton II,Santos,14,GSW,2023-24
+Payton II,Quinones,56,GSW,2023-24
+Robinson,Santos,53,GSW,2023-24
+Jackson-Davis,Robinson,38,GSW,2023-24
+Quinones,Robinson,72,GSW,2023-24
+Jackson-Davis,Santos,56,GSW,2023-24
+Quinones,Santos,131,GSW,2023-24
+Joseph,Looney,52,GSW,2023-24
+Curry,Quinones,80,GSW,2023-24
+Moody,Quinones,117,GSW,2023-24
+Joseph,Moody,84,GSW,2023-24
+Robinson,Spencer,10,GSW,2023-24
+Garuba,Robinson,14,GSW,2023-24
+Garuba,Spencer,12,GSW,2023-24
+Santos,Spencer,25,GSW,2023-24
+Quinones,Spencer,27,GSW,2023-24
+Garuba,Santos,16,GSW,2023-24
+Garuba,Quinones,14,GSW,2023-24
+Looney,Santos,50,GSW,2023-24
+Podziemski,Santos,92,GSW,2023-24
+Santos,Thompson,29,GSW,2023-24
+Quinones,Wiggins,46,GSW,2023-24
+Kuminga,Santos,50,GSW,2023-24
+Santos,Saric,53,GSW,2023-24
+Moody,Santos,70,GSW,2023-24
+Joseph,Santos,34,GSW,2023-24
+Curry,Joseph,37,GSW,2023-24
+Green,Quinones,54,GSW,2023-24
+Kuminga,Spencer,10,GSW,2023-24
+Saric,Spencer,10,GSW,2023-24
+Looney,Robinson,17,GSW,2023-24
+Moody,Robinson,31,GSW,2023-24
+Podziemski,Robinson,20,GSW,2023-24
+Paul,Quinones,36,GSW,2023-24
+Joseph,Wiggins,49,GSW,2023-24
+Curry,Santos,36,GSW,2023-24
+Green,Santos,23,GSW,2023-24
+Robinson,Saric,21,GSW,2023-24
+Joseph,Robinson,19,GSW,2023-24
+Joseph,Quinones,44,GSW,2023-24
+Santos,Wiggins,18,GSW,2023-24
+Paul,Santos,14,GSW,2023-24
+Garuba,Moody,8,GSW,2023-24
+Garuba,Joseph,6,GSW,2023-24
+Kuminga,Robinson,12,GSW,2023-24
+Joseph,Payton II,15,GSW,2023-24
+Joseph,Paul,11,GSW,2023-24
+Looney,Spencer,6,GSW,2023-24
+Curry,Robinson,5,GSW,2023-24
+Robinson,Wiggins,3,GSW,2023-24
+Paul,Robinson,3,GSW,2023-24
+Moody,Spencer,6,GSW,2023-24
+Jackson-Davis,Spencer,2,GSW,2023-24
+Garuba,Jackson-Davis,2,GSW,2023-24
+Jackson-Davis,Looney,1,GSW,2023-24
+Cunningham,Stewart,1040,DET,2023-24
+Ivey,Stewart,737,DET,2023-24
+Duren,Stewart,719,DET,2023-24
+Stewart,Thompson,715,DET,2023-24
+Cunningham,Ivey,1192,DET,2023-24
+Cunningham,Duren,1187,DET,2023-24
+Cunningham,Thompson,974,DET,2023-24
+Duren,Ivey,1223,DET,2023-24
+Ivey,Thompson,680,DET,2023-24
+Duren,Thompson,633,DET,2023-24
+Cunningham,Fontecchio,326,DET,2023-24
+Fontecchio,Ivey,295,DET,2023-24
+Duren,Fontecchio,295,DET,2023-24
+Fontecchio,Thompson,199,DET,2023-24
+Hayes,Stewart,515,DET,2023-24
+Cunningham,Hayes,428,DET,2023-24
+Duren,Hayes,455,DET,2023-24
+Hayes,Thompson,450,DET,2023-24
+Fontecchio,Stewart,181,DET,2023-24
+Cunningham,Knox II,221,DET,2023-24
+Ivey,Knox II,284,DET,2023-24
+Duren,Knox II,221,DET,2023-24
+Bogdanovic,Knox II,196,DET,2023-24
+Bogdanovic,Cunningham,570,DET,2023-24
+Bogdanovic,Ivey,626,DET,2023-24
+Bogdanovic,Duren,514,DET,2023-24
+Bagley III,Hayes,197,DET,2023-24
+Bagley III,Stewart,220,DET,2023-24
+Bagley III,Cunningham,295,DET,2023-24
+Bagley III,Thompson,238,DET,2023-24
+Hayes,Ivey,353,DET,2023-24
+Bogdanovic,Hayes,319,DET,2023-24
+Bogdanovic,Stewart,300,DET,2023-24
+Brown Jr.,Metu,142,DET,2023-24
+Brown Jr.,Wiseman,213,DET,2023-24
+Brown Jr.,Ivey,207,DET,2023-24
+Brown Jr.,Sasser,233,DET,2023-24
+Metu,Wiseman,192,DET,2023-24
+Ivey,Metu,199,DET,2023-24
+Metu,Sasser,232,DET,2023-24
+Ivey,Wiseman,457,DET,2023-24
+Sasser,Wiseman,528,DET,2023-24
+Ivey,Sasser,544,DET,2023-24
+Cunningham,Livers,213,DET,2023-24
+Ivey,Livers,217,DET,2023-24
+Duren,Livers,186,DET,2023-24
+Bogdanovic,Livers,165,DET,2023-24
+Burks,Cunningham,269,DET,2023-24
+Burks,Ivey,330,DET,2023-24
+Burks,Duren,275,DET,2023-24
+Bogdanovic,Burks,217,DET,2023-24
+Bogdanovic,Thompson,238,DET,2023-24
+Hayes,Livers,180,DET,2023-24
+Brown Jr.,Duren,124,DET,2023-24
+Duren,Metu,88,DET,2023-24
+Duren,Sasser,328,DET,2023-24
+Bagley III,Ivey,178,DET,2023-24
+Bagley III,Bogdanovic,96,DET,2023-24
+Hayes,Knox II,156,DET,2023-24
+Knox II,Stewart,115,DET,2023-24
+Burks,Livers,167,DET,2023-24
+Bagley III,Sasser,196,DET,2023-24
+Bagley III,Burks,114,DET,2023-24
+Bagley III,Harris,53,DET,2023-24
+Harris,Ivey,90,DET,2023-24
+Burks,Sasser,306,DET,2023-24
+Harris,Sasser,97,DET,2023-24
+Burks,Harris,65,DET,2023-24
+Knox II,Wiseman,129,DET,2023-24
+Knox II,Sasser,140,DET,2023-24
+Knox II,Thompson,223,DET,2023-24
+Burks,Knox II,221,DET,2023-24
+Thompson,Wiseman,290,DET,2023-24
+Burks,Wiseman,252,DET,2023-24
+Sasser,Thompson,374,DET,2023-24
+Burks,Thompson,394,DET,2023-24
+Livers,Stewart,98,DET,2023-24
+Livers,Thompson,143,DET,2023-24
+Brown Jr.,Cunningham,68,DET,2023-24
+Brown Jr.,Evbuomwan,115,DET,2023-24
+Cunningham,Wiseman,227,DET,2023-24
+Evbuomwan,Wiseman,102,DET,2023-24
+Cunningham,Evbuomwan,127,DET,2023-24
+Evbuomwan,Ivey,185,DET,2023-24
+Duren,Evbuomwan,121,DET,2023-24
+Evbuomwan,Sasser,122,DET,2023-24
+Sasser,Stewart,257,DET,2023-24
+Cunningham,Sasser,288,DET,2023-24
+Flynn,Metu,129,DET,2023-24
+Metu,Rhoden,123,DET,2023-24
+Fournier,Metu,152,DET,2023-24
+Flynn,Wiseman,203,DET,2023-24
+Rhoden,Wiseman,124,DET,2023-24
+Fournier,Wiseman,329,DET,2023-24
+Flynn,Rhoden,111,DET,2023-24
+Flynn,Fournier,177,DET,2023-24
+Fournier,Rhoden,98,DET,2023-24
+Hayes,Wiseman,166,DET,2023-24
+Livers,Wiseman,133,DET,2023-24
+Burks,Hayes,225,DET,2023-24
+Cunningham,Muscala,27,DET,2023-24
+Ivey,Muscala,80,DET,2023-24
+Duren,Muscala,65,DET,2023-24
+Muscala,Thompson,108,DET,2023-24
+Brown Jr.,Flynn,112,DET,2023-24
+Brown Jr.,Fournier,136,DET,2023-24
+Stewart,Wiseman,89,DET,2023-24
+Fontecchio,Wiseman,141,DET,2023-24
+Fontecchio,Sasser,121,DET,2023-24
+Fournier,Sasser,233,DET,2023-24
+Fontecchio,Fournier,130,DET,2023-24
+Fournier,Thompson,65,DET,2023-24
+Cunningham,Umude,99,DET,2023-24
+Ivey,Umude,130,DET,2023-24
+Duren,Umude,84,DET,2023-24
+Evbuomwan,Umude,22,DET,2023-24
+Hayes,Sasser,163,DET,2023-24
+Burks,Stewart,205,DET,2023-24
+Knox II,Morris,28,DET,2023-24
+Morris,Thompson,54,DET,2023-24
+Burks,Morris,53,DET,2023-24
+Morris,Muscala,26,DET,2023-24
+Knox II,Muscala,26,DET,2023-24
+Burks,Muscala,84,DET,2023-24
+Brown Jr.,Milton,31,DET,2023-24
+Milton,Wiseman,47,DET,2023-24
+Milton,Sasser,50,DET,2023-24
+Fournier,Milton,33,DET,2023-24
+Cunningham,Metu,57,DET,2023-24
+Evbuomwan,Metu,80,DET,2023-24
+Hayes,Muscala,35,DET,2023-24
+Fournier,Ivey,140,DET,2023-24
+Umude,Wiseman,98,DET,2023-24
+Sasser,Umude,179,DET,2023-24
+Fournier,Umude,39,DET,2023-24
+Morris,Sasser,13,DET,2023-24
+Gallinari,Morris,28,DET,2023-24
+Gallinari,Sasser,48,DET,2023-24
+Gallinari,Thompson,62,DET,2023-24
+Burks,Gallinari,67,DET,2023-24
+Brown Jr.,Rhoden,52,DET,2023-24
+Bogdanovic,Wiseman,126,DET,2023-24
+Ivey,Rhoden,61,DET,2023-24
+Rhoden,Sasser,121,DET,2023-24
+Muscala,Sasser,73,DET,2023-24
+Duren,Fournier,85,DET,2023-24
+Livers,Sasser,107,DET,2023-24
+Gallinari,Muscala,20,DET,2023-24
+Harris,Wiseman,35,DET,2023-24
+Harris,Livers,15,DET,2023-24
+Grimes,Wiseman,75,DET,2023-24
+Flynn,Grimes,36,DET,2023-24
+Fontecchio,Grimes,68,DET,2023-24
+Fournier,Grimes,51,DET,2023-24
+Flynn,Fontecchio,25,DET,2023-24
+Grimes,Sasser,26,DET,2023-24
+Brown Jr.,Grimes,11,DET,2023-24
+Brown Jr.,Fontecchio,31,DET,2023-24
+Gallinari,Knox II,13,DET,2023-24
+Fournier,Stewart,57,DET,2023-24
+Cunningham,Fournier,97,DET,2023-24
+Stewart,Umude,55,DET,2023-24
+Evbuomwan,Flynn,70,DET,2023-24
+Evbuomwan,Fournier,71,DET,2023-24
+Bagley III,Knox II,53,DET,2023-24
+Evbuomwan,Rhoden,19,DET,2023-24
+Cunningham,Grimes,39,DET,2023-24
+Grimes,Ivey,21,DET,2023-24
+Duren,Grimes,26,DET,2023-24
+Bagley III,Umude,67,DET,2023-24
+Bagley III,Rhoden,20,DET,2023-24
+Hayes,Umude,57,DET,2023-24
+Hayes,Rhoden,15,DET,2023-24
+Rhoden,Umude,25,DET,2023-24
+Fontecchio,Milton,15,DET,2023-24
+Bogdanovic,Sasser,75,DET,2023-24
+Flynn,Ivey,64,DET,2023-24
+Duren,Flynn,31,DET,2023-24
+Boeheim,Metu,47,DET,2023-24
+Boeheim,Wiseman,35,DET,2023-24
+Boeheim,Rhoden,37,DET,2023-24
+Boeheim,Sasser,39,DET,2023-24
+Bagley III,Livers,33,DET,2023-24
+Cunningham,Harris,48,DET,2023-24
+Duren,Harris,30,DET,2023-24
+Evbuomwan,Grimes,7,DET,2023-24
+Thompson,Umude,48,DET,2023-24
+Knox II,Umude,16,DET,2023-24
+Livers,Umude,21,DET,2023-24
+Grimes,Thompson,23,DET,2023-24
+Flynn,Thompson,14,DET,2023-24
+Gallinari,Stewart,9,DET,2023-24
+Harris,Hayes,59,DET,2023-24
+Bogdanovic,Harris,18,DET,2023-24
+Harris,Thompson,33,DET,2023-24
+Burks,Umude,36,DET,2023-24
+Gallinari,Ivey,29,DET,2023-24
+Boeheim,Flynn,37,DET,2023-24
+Gibson,Umude,6,DET,2023-24
+Gibson,Ivey,9,DET,2023-24
+Duren,Gibson,6,DET,2023-24
+Gibson,Sasser,13,DET,2023-24
+Boeheim,Ivey,20,DET,2023-24
+Boeheim,Evbuomwan,24,DET,2023-24
+Flynn,Sasser,59,DET,2023-24
+Muscala,Stewart,14,DET,2023-24
+Bogdanovic,Muscala,18,DET,2023-24
+Brown Jr.,Gibson,17,DET,2023-24
+Flynn,Gibson,18,DET,2023-24
+Gibson,Rhoden,14,DET,2023-24
+Fournier,Gibson,15,DET,2023-24
+Fontecchio,Umude,24,DET,2023-24
+Boeheim,Fournier,8,DET,2023-24
+Knox II,Livers,34,DET,2023-24
+Metu,Nowell,27,DET,2023-24
+Gibson,Metu,8,DET,2023-24
+Flynn,Nowell,24,DET,2023-24
+Nowell,Rhoden,21,DET,2023-24
+Gibson,Nowell,11,DET,2023-24
+Nowell,Wiseman,19,DET,2023-24
+Ivey,Nowell,12,DET,2023-24
+Gallinari,Harris,5,DET,2023-24
+Muscala,Wiseman,8,DET,2023-24
+Bagley III,Wiseman,5,DET,2023-24
+Cunningham,Gallinari,11,DET,2023-24
+Duren,Gallinari,8,DET,2023-24
+Bogdanovic,Gallinari,12,DET,2023-24
+Nowell,Sasser,20,DET,2023-24
+Grimes,Stewart,13,DET,2023-24
+Gibson,Wiseman,5,DET,2023-24
+Harris,Stewart,26,DET,2023-24
+Milton,Thompson,16,DET,2023-24
+Brown Jr.,Nowell,11,DET,2023-24
+Fournier,Nowell,14,DET,2023-24
+Boeheim,Brown Jr.,17,DET,2023-24
+Grimes,Umude,8,DET,2023-24
+Rhoden,Thompson,6,DET,2023-24
+Boeheim,Nowell,10,DET,2023-24
+Hayes,Morris,7,DET,2023-24
+Ivey,Morris,6,DET,2023-24
+Brown Jr.,Muscala,7,DET,2023-24
+Milton,Muscala,8,DET,2023-24
+Fournier,Muscala,10,DET,2023-24
+Cunningham,Flynn,5,DET,2023-24
+Morris,Stewart,6,DET,2023-24
+Ivey,Milton,7,DET,2023-24
+Rhoden,Stewart,8,DET,2023-24
+Cunningham,Rhoden,8,DET,2023-24
+Duren,Nowell,5,DET,2023-24
+Brown Jr.,Thompson,4,DET,2023-24
+Flynn,Milton,9,DET,2023-24
+Brown Jr.,Stewart,3,DET,2023-24
+Fontecchio,Muscala,5,DET,2023-24
+Evbuomwan,Milton,6,DET,2023-24
+Flynn,Muscala,4,DET,2023-24
+Evbuomwan,Muscala,3,DET,2023-24
+Duren,Morris,5,DET,2023-24
+Bogdanovic,Morris,6,DET,2023-24
+Bagley III,Cazalon,3,DET,2023-24
+Cazalon,Umude,3,DET,2023-24
+Cazalon,Rhoden,3,DET,2023-24
+Cazalon,Sasser,3,DET,2023-24
+Muscala,Umude,5,DET,2023-24
+Evbuomwan,Nowell,2,DET,2023-24
+Duren,Rhoden,8,DET,2023-24
+Cunningham,Milton,4,DET,2023-24
+Duren,Milton,2,DET,2023-24
+Flynn,Stewart,2,DET,2023-24
+Flynn,Umude,6,DET,2023-24
+Boeheim,Gibson,2,DET,2023-24
+Brown Jr.,Umude,2,DET,2023-24
+Muscala,Rhoden,2,DET,2023-24
+Boeheim,Duren,4,DET,2023-24
+Harris,Umude,2,DET,2023-24
+Murray,Porter Jr.,1389,DEN,2023-24
+Caldwell-Pope,Murray,1231,DEN,2023-24
+Gordon,Murray,1274,DEN,2023-24
+Jokic,Murray,1417,DEN,2023-24
+Caldwell-Pope,Porter Jr.,1987,DEN,2023-24
+Gordon,Porter Jr.,1939,DEN,2023-24
+Jokic,Porter Jr.,2127,DEN,2023-24
+Caldwell-Pope,Gordon,1853,DEN,2023-24
+Caldwell-Pope,Jokic,2186,DEN,2023-24
+Gordon,Jokic,1999,DEN,2023-24
+Jackson,Porter Jr.,965,DEN,2023-24
+Caldwell-Pope,Jackson,892,DEN,2023-24
+Gordon,Jackson,825,DEN,2023-24
+Jackson,Jokic,1021,DEN,2023-24
+Braun,Watson,1062,DEN,2023-24
+Braun,Jackson,944,DEN,2023-24
+Braun,Caldwell-Pope,531,DEN,2023-24
+Braun,Jokic,776,DEN,2023-24
+Jackson,Watson,897,DEN,2023-24
+Caldwell-Pope,Watson,425,DEN,2023-24
+Jokic,Watson,636,DEN,2023-24
+Nnaji,Strawther,204,DEN,2023-24
+Braun,Nnaji,456,DEN,2023-24
+Nnaji,Watson,420,DEN,2023-24
+Jackson,Nnaji,345,DEN,2023-24
+Braun,Strawther,371,DEN,2023-24
+Strawther,Watson,334,DEN,2023-24
+Jackson,Strawther,302,DEN,2023-24
+Braun,Murray,555,DEN,2023-24
+Murray,Watson,607,DEN,2023-24
+Jordan,Murray,150,DEN,2023-24
+Jackson,Murray,290,DEN,2023-24
+Braun,Jordan,294,DEN,2023-24
+Jordan,Watson,286,DEN,2023-24
+Jackson,Jordan,303,DEN,2023-24
+Braun,Porter Jr.,539,DEN,2023-24
+Braun,Gordon,473,DEN,2023-24
+Holiday,Murray,257,DEN,2023-24
+Holiday,Porter Jr.,309,DEN,2023-24
+Gordon,Holiday,262,DEN,2023-24
+Holiday,Jokic,422,DEN,2023-24
+Porter Jr.,Watson,483,DEN,2023-24
+Murray,Nnaji,204,DEN,2023-24
+Holiday,Nnaji,215,DEN,2023-24
+Braun,Holiday,418,DEN,2023-24
+Holiday,Watson,422,DEN,2023-24
+Gillespie,Porter Jr.,94,DEN,2023-24
+Caldwell-Pope,Gillespie,99,DEN,2023-24
+Gillespie,Gordon,99,DEN,2023-24
+Gillespie,Jokic,137,DEN,2023-24
+Holiday,Jackson,422,DEN,2023-24
+Jordan,Strawther,141,DEN,2023-24
+Caldwell-Pope,Holiday,185,DEN,2023-24
+Nnaji,Porter Jr.,145,DEN,2023-24
+Jokic,Strawther,145,DEN,2023-24
+Jordan,Porter Jr.,144,DEN,2023-24
+Holiday,Strawther,155,DEN,2023-24
+Holiday,Jordan,137,DEN,2023-24
+Gordon,Watson,237,DEN,2023-24
+Caldwell-Pope,Jordan,68,DEN,2023-24
+Pickett,Porter Jr.,16,DEN,2023-24
+Caldwell-Pope,Pickett,26,DEN,2023-24
+Gordon,Pickett,35,DEN,2023-24
+Jokic,Pickett,35,DEN,2023-24
+Gordon,Jordan,38,DEN,2023-24
+Braun,Gillespie,104,DEN,2023-24
+Gillespie,Watson,91,DEN,2023-24
+Gillespie,Jordan,14,DEN,2023-24
+Gillespie,Holiday,78,DEN,2023-24
+Murray,Strawther,57,DEN,2023-24
+Porter Jr.,Strawther,102,DEN,2023-24
+Caldwell-Pope,Strawther,69,DEN,2023-24
+Gordon,Strawther,100,DEN,2023-24
+Nnaji,Pickett,53,DEN,2023-24
+Key,Pickett,33,DEN,2023-24
+Pickett,Strawther,64,DEN,2023-24
+Braun,Pickett,56,DEN,2023-24
+Key,Nnaji,40,DEN,2023-24
+Key,Strawther,38,DEN,2023-24
+Braun,Key,24,DEN,2023-24
+Huff,Nnaji,25,DEN,2023-24
+Gillespie,Nnaji,51,DEN,2023-24
+Huff,Key,20,DEN,2023-24
+Gillespie,Key,26,DEN,2023-24
+Holiday,Key,30,DEN,2023-24
+Gillespie,Huff,20,DEN,2023-24
+Holiday,Huff,40,DEN,2023-24
+Huff,Pickett,31,DEN,2023-24
+Pickett,Tyson,42,DEN,2023-24
+Holiday,Pickett,48,DEN,2023-24
+Huff,Strawther,30,DEN,2023-24
+Huff,Tyson,26,DEN,2023-24
+Strawther,Tyson,28,DEN,2023-24
+Holiday,Tyson,28,DEN,2023-24
+Pickett,Watson,24,DEN,2023-24
+Caldwell-Pope,Nnaji,42,DEN,2023-24
+Nnaji,Tyson,18,DEN,2023-24
+Gillespie,Strawther,56,DEN,2023-24
+Jackson,Key,8,DEN,2023-24
+Jokic,Nnaji,23,DEN,2023-24
+Jordan,Nnaji,5,DEN,2023-24
+Gordon,Nnaji,38,DEN,2023-24
+Key,Tyson,18,DEN,2023-24
+Gillespie,Pickett,14,DEN,2023-24
+Gillespie,Tyson,16,DEN,2023-24
+Tyson,Watson,3,DEN,2023-24
+Jackson,Pickett,4,DEN,2023-24
+Huff,Jackson,4,DEN,2023-24
+Jordan,Pickett,3,DEN,2023-24
+Braun,Tyson,4,DEN,2023-24
+Jordan,Tyson,3,DEN,2023-24
+Jordan,Key,2,DEN,2023-24
+Jackson,Tyson,1,DEN,2023-24
+Gillespie,Jackson,1,DEN,2023-24
+Key,Watson,3,DEN,2023-24
+Huff,Watson,2,DEN,2023-24
+Key,Murray,1,DEN,2023-24
+Key,Porter Jr.,1,DEN,2023-24
+Braun,Huff,1,DEN,2023-24
+Caldwell-Pope,Huff,1,DEN,2023-24
+Caldwell-Pope,Tyson,1,DEN,2023-24
+Caldwell-Pope,Key,0,DEN,2023-24
+Jokic,Jordan,0,DEN,2023-24
+Jones Jr.,Washington,376,DAL,2023-24
+Doncic,Jones Jr.,1317,DAL,2023-24
+Gafford,Jones Jr.,371,DAL,2023-24
+Irving,Jones Jr.,932,DAL,2023-24
+Doncic,Washington,711,DAL,2023-24
+Gafford,Washington,482,DAL,2023-24
+Irving,Washington,759,DAL,2023-24
+Doncic,Gafford,420,DAL,2023-24
+Doncic,Irving,1295,DAL,2023-24
+Gafford,Irving,488,DAL,2023-24
+Jones Jr.,Williams,543,DAL,2023-24
+Jones Jr.,Lively II,571,DAL,2023-24
+Doncic,Williams,898,DAL,2023-24
+Doncic,Lively II,1068,DAL,2023-24
+Lively II,Williams,522,DAL,2023-24
+Irving,Williams,482,DAL,2023-24
+Irving,Lively II,609,DAL,2023-24
+Green,Washington,242,DAL,2023-24
+Lively II,Washington,202,DAL,2023-24
+Doncic,Green,945,DAL,2023-24
+Green,Lively II,520,DAL,2023-24
+Green,Irving,776,DAL,2023-24
+Doncic,Hardaway Jr.,1256,DAL,2023-24
+Green,Williams,495,DAL,2023-24
+Hardaway Jr.,Williams,683,DAL,2023-24
+Green,Hardaway Jr.,728,DAL,2023-24
+Hardaway Jr.,Lively II,595,DAL,2023-24
+Jones Jr.,Kleber,262,DAL,2023-24
+Green,Jones Jr.,457,DAL,2023-24
+Doncic,Kleber,610,DAL,2023-24
+Green,Kleber,370,DAL,2023-24
+Irving,Kleber,542,DAL,2023-24
+Gafford,Green,105,DAL,2023-24
+Hardaway Jr.,Jones Jr.,793,DAL,2023-24
+Jones Jr.,Powell,338,DAL,2023-24
+Green,Powell,370,DAL,2023-24
+Hardaway Jr.,Irving,937,DAL,2023-24
+Irving,Powell,356,DAL,2023-24
+Hardaway Jr.,Powell,538,DAL,2023-24
+Kleber,Washington,218,DAL,2023-24
+Hardaway Jr.,Kleber,559,DAL,2023-24
+Hardaway Jr.,Washington,327,DAL,2023-24
+Exum,Kleber,224,DAL,2023-24
+Exum,Washington,267,DAL,2023-24
+Doncic,Exum,667,DAL,2023-24
+Exum,Irving,403,DAL,2023-24
+Exum,Jones Jr.,392,DAL,2023-24
+Exum,Lively II,388,DAL,2023-24
+Exum,Hardaway Jr.,600,DAL,2023-24
+Exum,Williams,242,DAL,2023-24
+Exum,Gafford,165,DAL,2023-24
+Doncic,Powell,380,DAL,2023-24
+Powell,Williams,311,DAL,2023-24
+Kleber,Lively II,183,DAL,2023-24
+Hardy,Washington,83,DAL,2023-24
+Gafford,Hardy,86,DAL,2023-24
+Gafford,Hardaway Jr.,263,DAL,2023-24
+Hardy,Irving,269,DAL,2023-24
+Hardaway Jr.,Hardy,421,DAL,2023-24
+Exum,Green,195,DAL,2023-24
+Exum,Powell,180,DAL,2023-24
+Kleber,Williams,107,DAL,2023-24
+Curry,Jones Jr.,172,DAL,2023-24
+Curry,Doncic,195,DAL,2023-24
+Curry,Lively II,143,DAL,2023-24
+Curry,Hardaway Jr.,242,DAL,2023-24
+Lawson,Williams,128,DAL,2023-24
+Hardy,Williams,349,DAL,2023-24
+Prosper,Williams,125,DAL,2023-24
+Morris,Williams,75,DAL,2023-24
+Hardy,Lawson,197,DAL,2023-24
+Lawson,Prosper,159,DAL,2023-24
+Lawson,Morris,80,DAL,2023-24
+Hardy,Prosper,211,DAL,2023-24
+Hardy,Morris,123,DAL,2023-24
+Morris,Prosper,66,DAL,2023-24
+Holmes,Williams,94,DAL,2023-24
+Holmes,Lawson,55,DAL,2023-24
+Hardy,Holmes,126,DAL,2023-24
+Holmes,Prosper,94,DAL,2023-24
+Hardy,Jones Jr.,289,DAL,2023-24
+Doncic,Hardy,340,DAL,2023-24
+Hardy,Lively II,211,DAL,2023-24
+Green,Hardy,286,DAL,2023-24
+Green,Prosper,68,DAL,2023-24
+Hardy,Powell,306,DAL,2023-24
+Powell,Prosper,110,DAL,2023-24
+Curry,Williams,177,DAL,2023-24
+Gafford,Kleber,66,DAL,2023-24
+Lawson,Powell,105,DAL,2023-24
+Curry,Exum,100,DAL,2023-24
+Exum,Hardy,183,DAL,2023-24
+Hardy,Kleber,141,DAL,2023-24
+Doncic,Holmes,76,DAL,2023-24
+Holmes,Irving,51,DAL,2023-24
+Hardaway Jr.,Holmes,90,DAL,2023-24
+Green,Holmes,89,DAL,2023-24
+Curry,Holmes,39,DAL,2023-24
+Curry,Green,140,DAL,2023-24
+Curry,Hardy,102,DAL,2023-24
+Curry,Prosper,78,DAL,2023-24
+Holmes,Jones Jr.,50,DAL,2023-24
+Doncic,Lawson,61,DAL,2023-24
+Doncic,Prosper,52,DAL,2023-24
+Lawson,Lively II,40,DAL,2023-24
+Curry,Lawson,45,DAL,2023-24
+Lively II,Prosper,27,DAL,2023-24
+Curry,Powell,129,DAL,2023-24
+Jones Jr.,Morris,49,DAL,2023-24
+Doncic,Morris,62,DAL,2023-24
+Hardaway Jr.,Morris,89,DAL,2023-24
+Exum,Morris,56,DAL,2023-24
+Brown III,Williams,12,DAL,2023-24
+Brown III,Lawson,40,DAL,2023-24
+Brown III,Hardy,31,DAL,2023-24
+Brown III,Prosper,36,DAL,2023-24
+Brown III,Holmes,16,DAL,2023-24
+Dennis,Holmes,23,DAL,2023-24
+Brown III,Dennis,14,DAL,2023-24
+Dennis,Lawson,26,DAL,2023-24
+Dennis,Prosper,27,DAL,2023-24
+Exum,Holmes,57,DAL,2023-24
+Hardaway Jr.,Prosper,71,DAL,2023-24
+Exum,Prosper,61,DAL,2023-24
+Green,Lawson,43,DAL,2023-24
+Green,Morris,43,DAL,2023-24
+Morris,Powell,38,DAL,2023-24
+Hardaway Jr.,Lawson,70,DAL,2023-24
+Jones Jr.,Lawson,25,DAL,2023-24
+Kleber,Lawson,8,DAL,2023-24
+Kleber,Powell,50,DAL,2023-24
+Lively II,Morris,25,DAL,2023-24
+Kleber,Prosper,6,DAL,2023-24
+Curry,Kleber,47,DAL,2023-24
+Fudge,Lawson,16,DAL,2023-24
+Fudge,Hardy,15,DAL,2023-24
+Fudge,Prosper,14,DAL,2023-24
+Fudge,Morris,13,DAL,2023-24
+Holmes,Morris,21,DAL,2023-24
+Jones Jr.,Prosper,27,DAL,2023-24
+Dennis,Williams,8,DAL,2023-24
+Curry,Morris,45,DAL,2023-24
+Irving,Morris,18,DAL,2023-24
+Curry,Irving,59,DAL,2023-24
+Fudge,Williams,11,DAL,2023-24
+Fudge,Powell,8,DAL,2023-24
+Williams,Williams,5,DAL,2023-24
+Irving,Prosper,23,DAL,2023-24
+Dennis,Hardy,15,DAL,2023-24
+Gafford,Lawson,7,DAL,2023-24
+Gafford,Prosper,7,DAL,2023-24
+Exum,Lawson,36,DAL,2023-24
+Irving,Lawson,25,DAL,2023-24
+Powell,Washington,17,DAL,2023-24
+Brown III,Powell,4,DAL,2023-24
+Fudge,Green,4,DAL,2023-24
+Holmes,Kleber,7,DAL,2023-24
+Dennis,Doncic,3,DAL,2023-24
+Kleber,Morris,4,DAL,2023-24
+Fudge,Hardaway Jr.,3,DAL,2023-24
+Brown III,Hardaway Jr.,3,DAL,2023-24
+Brown III,Curry,3,DAL,2023-24
+Lawson,Washington,2,DAL,2023-24
+Prosper,Washington,2,DAL,2023-24
+Brown III,Morris,1,DAL,2023-24
+Allen,Mitchell,1407,CLE,2023-24
+Mitchell,Strus,1437,CLE,2023-24
+Garland,Mitchell,749,CLE,2023-24
+Mitchell,Mobley,789,CLE,2023-24
+Allen,Strus,1592,CLE,2023-24
+Allen,Garland,1275,CLE,2023-24
+Allen,Mobley,783,CLE,2023-24
+Garland,Strus,992,CLE,2023-24
+Mobley,Strus,1072,CLE,2023-24
+Garland,Mobley,1080,CLE,2023-24
+Mitchell,Wade,595,CLE,2023-24
+Mitchell,Okoro,849,CLE,2023-24
+Allen,Wade,760,CLE,2023-24
+Allen,Okoro,1253,CLE,2023-24
+Strus,Wade,719,CLE,2023-24
+Okoro,Strus,874,CLE,2023-24
+Okoro,Wade,601,CLE,2023-24
+LeVert,Niang,1132,CLE,2023-24
+Allen,LeVert,1076,CLE,2023-24
+Garland,LeVert,836,CLE,2023-24
+LeVert,Okoro,871,CLE,2023-24
+Allen,Niang,782,CLE,2023-24
+Garland,Niang,834,CLE,2023-24
+Niang,Okoro,840,CLE,2023-24
+Garland,Okoro,805,CLE,2023-24
+LeVert,Mobley,664,CLE,2023-24
+Mobley,Niang,543,CLE,2023-24
+Mobley,Okoro,562,CLE,2023-24
+LeVert,Mitchell,792,CLE,2023-24
+LeVert,Strus,827,CLE,2023-24
+Allen,Porter Jr.,270,CLE,2023-24
+Porter Jr.,Strus,240,CLE,2023-24
+Porter Jr.,Wade,168,CLE,2023-24
+Okoro,Porter Jr.,206,CLE,2023-24
+Mitchell,Niang,586,CLE,2023-24
+LeVert,Wade,416,CLE,2023-24
+Garland,Wade,331,CLE,2023-24
+Mobley,Wade,223,CLE,2023-24
+LeVert,Merrill,523,CLE,2023-24
+LeVert,Porter Jr.,222,CLE,2023-24
+LeVert,Thompson,271,CLE,2023-24
+Merrill,Niang,687,CLE,2023-24
+Niang,Porter Jr.,374,CLE,2023-24
+Niang,Thompson,404,CLE,2023-24
+Merrill,Porter Jr.,333,CLE,2023-24
+Merrill,Thompson,296,CLE,2023-24
+Porter Jr.,Thompson,206,CLE,2023-24
+Niang,Strus,595,CLE,2023-24
+Merrill,Strus,266,CLE,2023-24
+Strus,Thompson,198,CLE,2023-24
+Merrill,Mitchell,266,CLE,2023-24
+Allen,Merrill,474,CLE,2023-24
+Merrill,Okoro,346,CLE,2023-24
+Niang,Wade,256,CLE,2023-24
+Garland,Merrill,326,CLE,2023-24
+Merrill,Mobley,229,CLE,2023-24
+Jones,Niang,124,CLE,2023-24
+Jones,Merrill,170,CLE,2023-24
+Jones,Porter Jr.,139,CLE,2023-24
+Jones,Thompson,69,CLE,2023-24
+Mitchell,Thompson,157,CLE,2023-24
+Garland,Porter Jr.,83,CLE,2023-24
+Mobley,Porter Jr.,183,CLE,2023-24
+Merrill,Wade,193,CLE,2023-24
+Okoro,Thompson,149,CLE,2023-24
+Jones,Mobley,57,CLE,2023-24
+Bates,Jones,63,CLE,2023-24
+Bates,Merrill,51,CLE,2023-24
+Bates,Mobley,71,CLE,2023-24
+Bates,Porter Jr.,84,CLE,2023-24
+LeVert,Morris Sr.,77,CLE,2023-24
+Morris Sr.,Niang,94,CLE,2023-24
+Allen,Morris Sr.,72,CLE,2023-24
+Merrill,Morris Sr.,106,CLE,2023-24
+Garland,Thompson,168,CLE,2023-24
+Thompson,Wade,97,CLE,2023-24
+Garland,Morris Sr.,86,CLE,2023-24
+Morris Sr.,Okoro,51,CLE,2023-24
+Morris Sr.,Thompson,54,CLE,2023-24
+Jones,LeVert,114,CLE,2023-24
+Jones,Wade,49,CLE,2023-24
+Bates,Thompson,51,CLE,2023-24
+Mobley,Morris Sr.,50,CLE,2023-24
+Mitchell,Porter Jr.,59,CLE,2023-24
+Jones,Morris Sr.,17,CLE,2023-24
+Bates,Morris Sr.,21,CLE,2023-24
+Morris Sr.,Porter Jr.,31,CLE,2023-24
+Garland,Jones,48,CLE,2023-24
+Mobley,Thompson,61,CLE,2023-24
+Bates,Niang,60,CLE,2023-24
+Bates,Strus,33,CLE,2023-24
+Jones,Nance,28,CLE,2023-24
+Mobley,Nance,21,CLE,2023-24
+Bates,Nance,21,CLE,2023-24
+Nance,Thompson,11,CLE,2023-24
+Jones,Mitchell,43,CLE,2023-24
+Jones,Okoro,93,CLE,2023-24
+Jones,Strus,49,CLE,2023-24
+Allen,Bates,18,CLE,2023-24
+Nance,Porter Jr.,14,CLE,2023-24
+Morris Sr.,Strus,36,CLE,2023-24
+Bates,Okoro,28,CLE,2023-24
+Mobley,Mobley,4,CLE,2023-24
+Mitchell,Morris Sr.,17,CLE,2023-24
+Nance,Strus,4,CLE,2023-24
+Jerome,Jones,7,CLE,2023-24
+Jerome,LeVert,13,CLE,2023-24
+Jerome,Niang,13,CLE,2023-24
+Jerome,Mitchell,6,CLE,2023-24
+Merrill,Nance,10,CLE,2023-24
+Bates,LeVert,10,CLE,2023-24
+Bates,Wade,14,CLE,2023-24
+Garland,Jerome,4,CLE,2023-24
+Jerome,Wade,5,CLE,2023-24
+Jerome,Mobley,8,CLE,2023-24
+Bates,Garland,3,CLE,2023-24
+Bates,Mitchell,8,CLE,2023-24
+Jerome,Strus,2,CLE,2023-24
+Jerome,Okoro,2,CLE,2023-24
+Allen,Jones,10,CLE,2023-24
+Nance,Okoro,2,CLE,2023-24
+Nance,Wade,1,CLE,2023-24
+Allen,Thompson,0,CLE,2023-24
+LeVert,Nance,0,CLE,2023-24
+Caruso,White,1450,CHI,2023-24
+Caruso,Dosunmu,963,CHI,2023-24
+Caruso,DeRozan,1690,CHI,2023-24
+Caruso,Vucevic,1403,CHI,2023-24
+Dosunmu,White,1386,CHI,2023-24
+DeRozan,White,2211,CHI,2023-24
+Vucevic,White,2109,CHI,2023-24
+DeRozan,Dosunmu,1600,CHI,2023-24
+Dosunmu,Vucevic,1498,CHI,2023-24
+DeRozan,Vucevic,1991,CHI,2023-24
+Caruso,LaVine,376,CHI,2023-24
+LaVine,White,696,CHI,2023-24
+DeRozan,LaVine,580,CHI,2023-24
+LaVine,Vucevic,757,CHI,2023-24
+Caruso,Williams,403,CHI,2023-24
+White,Williams,909,CHI,2023-24
+DeRozan,Williams,805,CHI,2023-24
+Vucevic,Williams,740,CHI,2023-24
+Dosunmu,Williams,539,CHI,2023-24
+LaVine,Williams,327,CHI,2023-24
+Craig,White,605,CHI,2023-24
+Craig,DeRozan,624,CHI,2023-24
+Craig,Vucevic,658,CHI,2023-24
+Craig,LaVine,267,CHI,2023-24
+Craig,Dosunmu,515,CHI,2023-24
+Drummond,White,813,CHI,2023-24
+Dosunmu,Drummond,738,CHI,2023-24
+DeRozan,Drummond,1037,CHI,2023-24
+Drummond,Vucevic,205,CHI,2023-24
+Caruso,Green,129,CHI,2023-24
+Green,White,164,CHI,2023-24
+DeRozan,Green,169,CHI,2023-24
+Green,Vucevic,158,CHI,2023-24
+Caruso,Drummond,627,CHI,2023-24
+Caruso,Craig,310,CHI,2023-24
+Drummond,Williams,354,CHI,2023-24
+Carter,Craig,327,CHI,2023-24
+Craig,Drummond,349,CHI,2023-24
+Carter,Dosunmu,465,CHI,2023-24
+Carter,DeRozan,550,CHI,2023-24
+Carter,Drummond,542,CHI,2023-24
+Craig,Williams,157,CHI,2023-24
+Carter,Caruso,347,CHI,2023-24
+Carter,White,429,CHI,2023-24
+Caruso,Terry,233,CHI,2023-24
+Carter,Terry,205,CHI,2023-24
+DeRozan,Terry,368,CHI,2023-24
+Drummond,Terry,329,CHI,2023-24
+Carter,Williams,249,CHI,2023-24
+Dosunmu,Terry,349,CHI,2023-24
+Dosunmu,LaVine,210,CHI,2023-24
+Carter,Vucevic,339,CHI,2023-24
+Phillips,White,174,CHI,2023-24
+Dosunmu,Phillips,200,CHI,2023-24
+DeRozan,Phillips,120,CHI,2023-24
+Phillips,Vucevic,159,CHI,2023-24
+Terry,White,318,CHI,2023-24
+Bitim,Caruso,80,CHI,2023-24
+Bitim,Dosunmu,153,CHI,2023-24
+Bitim,DeRozan,104,CHI,2023-24
+Bitim,Vucevic,137,CHI,2023-24
+Terry,Williams,132,CHI,2023-24
+Dosunmu,Green,75,CHI,2023-24
+Carter,Phillips,113,CHI,2023-24
+Drummond,Phillips,124,CHI,2023-24
+Craig,Terry,152,CHI,2023-24
+Terry,Vucevic,221,CHI,2023-24
+Caruso,Phillips,65,CHI,2023-24
+Caruso,Taylor,45,CHI,2023-24
+Carter,Taylor,89,CHI,2023-24
+Dosunmu,Taylor,121,CHI,2023-24
+DeRozan,Taylor,86,CHI,2023-24
+Taylor,Terry,78,CHI,2023-24
+Phillips,Taylor,60,CHI,2023-24
+Phillips,Terry,87,CHI,2023-24
+Carter,LaVine,122,CHI,2023-24
+Craig,Phillips,69,CHI,2023-24
+Taylor,White,93,CHI,2023-24
+Taylor,Williams,32,CHI,2023-24
+Bitim,Carter,92,CHI,2023-24
+Drummond,Taylor,42,CHI,2023-24
+Drummond,LaVine,110,CHI,2023-24
+Drummond,Green,44,CHI,2023-24
+Taylor,Vucevic,33,CHI,2023-24
+Bitim,White,110,CHI,2023-24
+Bitim,Phillips,53,CHI,2023-24
+Bitim,Drummond,86,CHI,2023-24
+Bitim,Taylor,27,CHI,2023-24
+Bitim,Terry,78,CHI,2023-24
+Bitim,Craig,77,CHI,2023-24
+Carter,Sanogo,44,CHI,2023-24
+Sanogo,Taylor,14,CHI,2023-24
+Sanogo,Terry,42,CHI,2023-24
+Phillips,Sanogo,9,CHI,2023-24
+Green,Terry,68,CHI,2023-24
+Phillips,Williams,34,CHI,2023-24
+Carter,Green,33,CHI,2023-24
+Carter,Drell,20,CHI,2023-24
+Drell,White,12,CHI,2023-24
+Sanogo,White,33,CHI,2023-24
+Drell,Green,10,CHI,2023-24
+Green,Sanogo,17,CHI,2023-24
+Drell,Sanogo,24,CHI,2023-24
+Craig,Green,22,CHI,2023-24
+Bitim,Green,26,CHI,2023-24
+LaVine,Terry,25,CHI,2023-24
+Craig,Drell,12,CHI,2023-24
+Craig,Sanogo,27,CHI,2023-24
+Drell,Terry,15,CHI,2023-24
+DeRozan,Sanogo,13,CHI,2023-24
+Drell,Funk,10,CHI,2023-24
+Bitim,Drell,7,CHI,2023-24
+Funk,Terry,8,CHI,2023-24
+Funk,Sanogo,9,CHI,2023-24
+Bitim,Sanogo,21,CHI,2023-24
+Bitim,Funk,6,CHI,2023-24
+Bitim,Williams,3,CHI,2023-24
+Craig,Taylor,4,CHI,2023-24
+Green,Taylor,3,CHI,2023-24
+Caruso,Sanogo,3,CHI,2023-24
+Craig,Funk,5,CHI,2023-24
+Carter,Funk,6,CHI,2023-24
+LaVine,Taylor,9,CHI,2023-24
+Funk,Green,2,CHI,2023-24
+Dosunmu,Sanogo,4,CHI,2023-24
+Drell,Taylor,2,CHI,2023-24
+Funk,Taylor,2,CHI,2023-24
+LaVine,Phillips,1,CHI,2023-24
+Funk,White,0,CHI,2023-24
+Bridges,Richards,1148,CHA,2023-24
+Bridges,Mann,601,CHA,2023-24
+Bridges,Miller,1618,CHA,2023-24
+Bridges,Micic,763,CHA,2023-24
+Mann,Richards,448,CHA,2023-24
+Miller,Richards,1232,CHA,2023-24
+Micic,Richards,319,CHA,2023-24
+Mann,Miller,591,CHA,2023-24
+Mann,Micic,340,CHA,2023-24
+Micic,Miller,560,CHA,2023-24
+Bridges,Williams,798,CHA,2023-24
+Mann,Williams,472,CHA,2023-24
+Miller,Williams,929,CHA,2023-24
+Micic,Williams,533,CHA,2023-24
+Bridges,Martin,655,CHA,2023-24
+Martin,Richards,503,CHA,2023-24
+Mann,Martin,159,CHA,2023-24
+Martin,Miller,449,CHA,2023-24
+Bridges,Rozier,733,CHA,2023-24
+Richards,Rozier,433,CHA,2023-24
+Miller,Rozier,565,CHA,2023-24
+Hayward,Rozier,428,CHA,2023-24
+Bridges,Hayward,368,CHA,2023-24
+Hayward,Richards,230,CHA,2023-24
+Hayward,Miller,519,CHA,2023-24
+Ball,Washington,461,CHA,2023-24
+Washington,Williams,283,CHA,2023-24
+Miller,Washington,687,CHA,2023-24
+Hayward,Washington,405,CHA,2023-24
+Ball,Williams,283,CHA,2023-24
+Ball,Miller,364,CHA,2023-24
+Ball,Hayward,300,CHA,2023-24
+Hayward,Williams,454,CHA,2023-24
+Bridges,Pokusevski,259,CHA,2023-24
+Pokusevski,Williams,169,CHA,2023-24
+Miller,Pokusevski,137,CHA,2023-24
+Micic,Pokusevski,186,CHA,2023-24
+Richards,Williams,236,CHA,2023-24
+Bertans,Williams,415,CHA,2023-24
+Bertans,Richards,244,CHA,2023-24
+Bertans,Mann,294,CHA,2023-24
+Bertans,Miller,281,CHA,2023-24
+Rozier,Washington,493,CHA,2023-24
+Ball,Rozier,192,CHA,2023-24
+Rozier,Williams,216,CHA,2023-24
+McGowens,Rozier,273,CHA,2023-24
+Bridges,McGowens,522,CHA,2023-24
+McGowens,Richards,374,CHA,2023-24
+McGowens,Miller,311,CHA,2023-24
+Bertans,Bridges,361,CHA,2023-24
+Bertans,Micic,228,CHA,2023-24
+Ball,Bridges,297,CHA,2023-24
+Curry,Williams,128,CHA,2023-24
+Curry,Richards,80,CHA,2023-24
+Curry,Mann,101,CHA,2023-24
+Curry,Miller,85,CHA,2023-24
+Bridges,Washington,631,CHA,2023-24
+Martin,Washington,237,CHA,2023-24
+Richards,Washington,432,CHA,2023-24
+Bridges,Smith,527,CHA,2023-24
+Smith,Washington,416,CHA,2023-24
+Richards,Smith,323,CHA,2023-24
+Miller,Smith,321,CHA,2023-24
+Martin,McGowens,68,CHA,2023-24
+Pokusevski,Richards,98,CHA,2023-24
+Bertans,Pokusevski,159,CHA,2023-24
+Mann,Pokusevski,123,CHA,2023-24
+McGowens,Smith,263,CHA,2023-24
+Bridges,Curry,106,CHA,2023-24
+Curry,Micic,90,CHA,2023-24
+Maledon,Washington,126,CHA,2023-24
+Ball,Maledon,120,CHA,2023-24
+Ball,Richards,223,CHA,2023-24
+Maledon,Richards,107,CHA,2023-24
+Maledon,Miller,101,CHA,2023-24
+Rozier,Thor,211,CHA,2023-24
+Thor,Williams,190,CHA,2023-24
+Miller,Thor,303,CHA,2023-24
+Hayward,Thor,150,CHA,2023-24
+Black,Bridges,108,CHA,2023-24
+Black,Martin,38,CHA,2023-24
+Black,Richards,97,CHA,2023-24
+Black,Miller,93,CHA,2023-24
+Martin,Williams,103,CHA,2023-24
+Bertans,Martin,69,CHA,2023-24
+Martin,Micic,80,CHA,2023-24
+Mann,Thor,106,CHA,2023-24
+Bertans,Thor,106,CHA,2023-24
+Ball,Martin,74,CHA,2023-24
+Bouknight,Thor,65,CHA,2023-24
+Bouknight,McGowens,38,CHA,2023-24
+Bouknight,Smith Jr.,67,CHA,2023-24
+Bouknight,Mensah,63,CHA,2023-24
+McGowens,Thor,258,CHA,2023-24
+Smith Jr.,Thor,264,CHA,2023-24
+Mensah,Thor,138,CHA,2023-24
+McGowens,Smith Jr.,209,CHA,2023-24
+McGowens,Mensah,111,CHA,2023-24
+Mensah,Smith Jr.,174,CHA,2023-24
+Bridges,Smith Jr.,310,CHA,2023-24
+Martin,Smith Jr.,155,CHA,2023-24
+Smith Jr.,Washington,298,CHA,2023-24
+Miller,Smith Jr.,234,CHA,2023-24
+Smith Jr.,Williams,63,CHA,2023-24
+Richards,Smith Jr.,283,CHA,2023-24
+Bertans,Smith Jr.,82,CHA,2023-24
+Martin,Rozier,185,CHA,2023-24
+McGowens,Washington,278,CHA,2023-24
+Mensah,Rozier,136,CHA,2023-24
+Rozier,Smith,145,CHA,2023-24
+Bridges,Thor,223,CHA,2023-24
+Bridges,Mensah,179,CHA,2023-24
+Smith,Thor,186,CHA,2023-24
+Mensah,Smith,102,CHA,2023-24
+Rozier,Smith Jr.,177,CHA,2023-24
+Ball,Thor,177,CHA,2023-24
+Maledon,Thor,108,CHA,2023-24
+Richards,Thor,186,CHA,2023-24
+Martin,Smith,86,CHA,2023-24
+Ball,McGowens,127,CHA,2023-24
+Maledon,McGowens,46,CHA,2023-24
+McGowens,Williams,137,CHA,2023-24
+Bertans,McGowens,54,CHA,2023-24
+McGowens,Micic,72,CHA,2023-24
+Hayward,McGowens,82,CHA,2023-24
+Ball,Smith,97,CHA,2023-24
+Smith,Williams,90,CHA,2023-24
+Hayward,Smith,157,CHA,2023-24
+Black,Smith,79,CHA,2023-24
+Curry,Martin,31,CHA,2023-24
+Thor,Washington,170,CHA,2023-24
+Maledon,Williams,64,CHA,2023-24
+Bolden,Bridges,47,CHA,2023-24
+Bolden,Mann,75,CHA,2023-24
+Bolden,Miller,44,CHA,2023-24
+Bolden,Micic,39,CHA,2023-24
+Black,Washington,104,CHA,2023-24
+Black,Smith Jr.,161,CHA,2023-24
+Maledon,Rozier,33,CHA,2023-24
+Mensah,Washington,74,CHA,2023-24
+Smith,Smith Jr.,106,CHA,2023-24
+Micic,Thor,44,CHA,2023-24
+Bridges,Ntilikina,39,CHA,2023-24
+Ntilikina,Washington,33,CHA,2023-24
+Black,Ntilikina,15,CHA,2023-24
+Ntilikina,Smith,37,CHA,2023-24
+Mann,McGowens,75,CHA,2023-24
+Ball,Smith Jr.,80,CHA,2023-24
+Black,Bouknight,35,CHA,2023-24
+Black,Thor,89,CHA,2023-24
+Black,Mensah,44,CHA,2023-24
+Mensah,Miller,69,CHA,2023-24
+Miller,Ntilikina,19,CHA,2023-24
+Hayward,Maledon,52,CHA,2023-24
+Ball,Ntilikina,11,CHA,2023-24
+Black,Williams,15,CHA,2023-24
+Black,Mann,27,CHA,2023-24
+Black,McGowens,83,CHA,2023-24
+Martin,Mensah,69,CHA,2023-24
+Bolden,Thor,47,CHA,2023-24
+Bolden,McGowens,54,CHA,2023-24
+Bolden,Smith Jr.,48,CHA,2023-24
+Black,Bolden,27,CHA,2023-24
+Bertans,Bolden,37,CHA,2023-24
+Pokusevski,Thor,53,CHA,2023-24
+Pokusevski,Smith Jr.,64,CHA,2023-24
+Bailey,Pokusevski,36,CHA,2023-24
+Bailey,Richards,12,CHA,2023-24
+Bailey,Thor,34,CHA,2023-24
+Bailey,Smith Jr.,53,CHA,2023-24
+McGowens,Pokusevski,33,CHA,2023-24
+Bailey,McGowens,25,CHA,2023-24
+Bolden,Pokusevski,39,CHA,2023-24
+Bailey,Bouknight,7,CHA,2023-24
+Bailey,Black,41,CHA,2023-24
+Bailey,Mensah,11,CHA,2023-24
+Ball,Mensah,47,CHA,2023-24
+Mann,Smith Jr.,39,CHA,2023-24
+Curry,McGowens,7,CHA,2023-24
+Martin,Thor,24,CHA,2023-24
+Ntilikina,Richards,6,CHA,2023-24
+Bailey,Bolden,15,CHA,2023-24
+Bouknight,Rozier,14,CHA,2023-24
+Hayward,Martin,19,CHA,2023-24
+Black,Pokusevski,28,CHA,2023-24
+Bailey,Mann,17,CHA,2023-24
+Black,Rozier,14,CHA,2023-24
+Maledon,Smith,13,CHA,2023-24
+Bouknight,Maledon,5,CHA,2023-24
+Maledon,Smith Jr.,18,CHA,2023-24
+Black,Maledon,8,CHA,2023-24
+Hayward,Smith Jr.,19,CHA,2023-24
+Bouknight,Richards,10,CHA,2023-24
+Bouknight,Bridges,8,CHA,2023-24
+Bouknight,Miller,8,CHA,2023-24
+Bouknight,Smith,8,CHA,2023-24
+Bouknight,Ntilikina,4,CHA,2023-24
+Ntilikina,Thor,4,CHA,2023-24
+Mensah,Ntilikina,4,CHA,2023-24
+Bertans,Black,3,CHA,2023-24
+Bridges,Maledon,3,CHA,2023-24
+Ball,Black,7,CHA,2023-24
+Black,Hayward,2,CHA,2023-24
+Micic,Smith Jr.,8,CHA,2023-24
+Black,Micic,2,CHA,2023-24
+Bailey,Williams,2,CHA,2023-24
+Bailey,Bertans,3,CHA,2023-24
+Hayward,Mensah,3,CHA,2023-24
+Brown,Tatum,1576,BOS,2023-24
+Brown,White,1846,BOS,2023-24
+Brown,Holiday,1475,BOS,2023-24
+Brown,Porzingis,1356,BOS,2023-24
+Tatum,White,1694,BOS,2023-24
+Holiday,Tatum,1865,BOS,2023-24
+Porzingis,Tatum,1271,BOS,2023-24
+Holiday,White,1399,BOS,2023-24
+Porzingis,White,1281,BOS,2023-24
+Holiday,Porzingis,1088,BOS,2023-24
+Brown,Horford,1060,BOS,2023-24
+Horford,Tatum,1304,BOS,2023-24
+Horford,White,1092,BOS,2023-24
+Holiday,Horford,1009,BOS,2023-24
+Horford,Porzingis,588,BOS,2023-24
+Pritchard,Tatum,925,BOS,2023-24
+Hauser,Tatum,888,BOS,2023-24
+Hauser,Pritchard,1059,BOS,2023-24
+Horford,Pritchard,671,BOS,2023-24
+Holiday,Pritchard,705,BOS,2023-24
+Hauser,Horford,697,BOS,2023-24
+Hauser,Holiday,704,BOS,2023-24
+Kornet,Tatum,494,BOS,2023-24
+Kornet,Pritchard,729,BOS,2023-24
+Hauser,Kornet,634,BOS,2023-24
+Holiday,Kornet,390,BOS,2023-24
+Brown,Hauser,681,BOS,2023-24
+Hauser,White,731,BOS,2023-24
+Hauser,Porzingis,501,BOS,2023-24
+Horford,Kornet,246,BOS,2023-24
+Queta,Tatum,121,BOS,2023-24
+Pritchard,Queta,258,BOS,2023-24
+Hauser,Queta,205,BOS,2023-24
+Holiday,Queta,100,BOS,2023-24
+Brown,Pritchard,605,BOS,2023-24
+Pritchard,White,556,BOS,2023-24
+Brown,Kornet,330,BOS,2023-24
+Kornet,White,411,BOS,2023-24
+Kornet,Mykhailiuk,205,BOS,2023-24
+Brissett,Kornet,180,BOS,2023-24
+Brissett,Mykhailiuk,190,BOS,2023-24
+Mykhailiuk,Pritchard,355,BOS,2023-24
+Hauser,Mykhailiuk,186,BOS,2023-24
+Brissett,Pritchard,490,BOS,2023-24
+Brissett,Hauser,326,BOS,2023-24
+Kornet,Springer,58,BOS,2023-24
+Mykhailiuk,Springer,97,BOS,2023-24
+Pritchard,Springer,104,BOS,2023-24
+Hauser,Springer,48,BOS,2023-24
+Porzingis,Pritchard,378,BOS,2023-24
+Brissett,Tatum,198,BOS,2023-24
+Brissett,Brown,172,BOS,2023-24
+Brissett,White,180,BOS,2023-24
+Brissett,Porzingis,122,BOS,2023-24
+Kornet,Porzingis,82,BOS,2023-24
+Mykhailiuk,Tillman,92,BOS,2023-24
+Brissett,Tillman,74,BOS,2023-24
+Pritchard,Tillman,213,BOS,2023-24
+Hauser,Tillman,108,BOS,2023-24
+Brown,Tillman,94,BOS,2023-24
+Tillman,White,121,BOS,2023-24
+Horford,Tillman,54,BOS,2023-24
+Brissett,Horford,110,BOS,2023-24
+Brissett,Holiday,143,BOS,2023-24
+Brown,Queta,76,BOS,2023-24
+Mykhailiuk,Queta,103,BOS,2023-24
+Holiday,Mykhailiuk,30,BOS,2023-24
+Horford,Queta,60,BOS,2023-24
+Queta,White,80,BOS,2023-24
+Tatum,Tillman,98,BOS,2023-24
+Holiday,Tillman,79,BOS,2023-24
+Kornet,Walsh,27,BOS,2023-24
+Mykhailiuk,Walsh,56,BOS,2023-24
+Pritchard,Walsh,50,BOS,2023-24
+Hauser,Walsh,35,BOS,2023-24
+Kornet,Tillman,57,BOS,2023-24
+Banton,Kornet,61,BOS,2023-24
+Banton,Brissett,79,BOS,2023-24
+Banton,Pritchard,106,BOS,2023-24
+Banton,Hauser,75,BOS,2023-24
+Brissett,Springer,52,BOS,2023-24
+Springer,Tillman,36,BOS,2023-24
+Banton,Brown,40,BOS,2023-24
+Banton,Tatum,36,BOS,2023-24
+Banton,White,35,BOS,2023-24
+Banton,Horford,28,BOS,2023-24
+Brown,Stevens,23,BOS,2023-24
+Stevens,Tatum,24,BOS,2023-24
+Stevens,White,16,BOS,2023-24
+Holiday,Stevens,28,BOS,2023-24
+Porzingis,Tillman,38,BOS,2023-24
+Mykhailiuk,Stevens,77,BOS,2023-24
+Banton,Mykhailiuk,73,BOS,2023-24
+Brissett,Queta,96,BOS,2023-24
+Brissett,Stevens,52,BOS,2023-24
+Queta,Stevens,44,BOS,2023-24
+Banton,Queta,53,BOS,2023-24
+Banton,Stevens,68,BOS,2023-24
+Kornet,Stevens,24,BOS,2023-24
+Pritchard,Stevens,71,BOS,2023-24
+Hauser,Stevens,39,BOS,2023-24
+Mykhailiuk,Tatum,61,BOS,2023-24
+Horford,Mykhailiuk,21,BOS,2023-24
+Queta,Walsh,36,BOS,2023-24
+Stevens,Walsh,13,BOS,2023-24
+Banton,Walsh,13,BOS,2023-24
+Brissett,Walsh,37,BOS,2023-24
+Tillman,Walsh,15,BOS,2023-24
+Mykhailiuk,White,44,BOS,2023-24
+Porzingis,Queta,11,BOS,2023-24
+Kornet,Queta,11,BOS,2023-24
+Brown,Mykhailiuk,17,BOS,2023-24
+Mykhailiuk,Porzingis,22,BOS,2023-24
+Brown,Springer,13,BOS,2023-24
+Springer,White,18,BOS,2023-24
+Horford,Stevens,12,BOS,2023-24
+Queta,Springer,25,BOS,2023-24
+Banton,Holiday,16,BOS,2023-24
+Walsh,White,8,BOS,2023-24
+Holiday,Walsh,5,BOS,2023-24
+Davison,Mykhailiuk,15,BOS,2023-24
+Mykhailiuk,Peterson,8,BOS,2023-24
+Davison,Queta,30,BOS,2023-24
+Peterson,Queta,16,BOS,2023-24
+Davison,Springer,14,BOS,2023-24
+Peterson,Springer,16,BOS,2023-24
+Davison,Peterson,15,BOS,2023-24
+Brissett,Davison,16,BOS,2023-24
+Davison,Pritchard,9,BOS,2023-24
+Davison,Hauser,19,BOS,2023-24
+Springer,Walsh,11,BOS,2023-24
+Brissett,Peterson,7,BOS,2023-24
+Peterson,Pritchard,8,BOS,2023-24
+Peterson,Tillman,4,BOS,2023-24
+Banton,Porzingis,4,BOS,2023-24
+Springer,Tatum,8,BOS,2023-24
+Horford,Springer,4,BOS,2023-24
+Porzingis,Springer,8,BOS,2023-24
+Davison,Walsh,19,BOS,2023-24
+Peterson,Walsh,4,BOS,2023-24
+Davison,Kornet,5,BOS,2023-24
+Kornet,Peterson,4,BOS,2023-24
+Hauser,Peterson,4,BOS,2023-24
+Queta,Tillman,3,BOS,2023-24
+Davison,Stevens,6,BOS,2023-24
+Banton,Davison,6,BOS,2023-24
+Tatum,Walsh,5,BOS,2023-24
+Peterson,Stevens,3,BOS,2023-24
+Banton,Peterson,3,BOS,2023-24
+Davison,Tillman,2,BOS,2023-24
+Porzingis,Stevens,4,BOS,2023-24
+Porzingis,Walsh,2,BOS,2023-24
+Davison,Tatum,0,BOS,2023-24
+Bridges,Finney-Smith,1587,BKN,2023-24
+Claxton,Finney-Smith,1063,BKN,2023-24
+Finney-Smith,Johnson,728,BKN,2023-24
+Dinwiddie,Finney-Smith,817,BKN,2023-24
+Bridges,Claxton,1723,BKN,2023-24
+Bridges,Johnson,1241,BKN,2023-24
+Bridges,Dinwiddie,1252,BKN,2023-24
+Claxton,Johnson,1013,BKN,2023-24
+Claxton,Dinwiddie,877,BKN,2023-24
+Dinwiddie,Johnson,856,BKN,2023-24
+Finney-Smith,Thomas,857,BKN,2023-24
+Finney-Smith,Schroder,562,BKN,2023-24
+Bridges,Thomas,1443,BKN,2023-24
+Bridges,Schroder,746,BKN,2023-24
+Claxton,Thomas,1149,BKN,2023-24
+Claxton,Schroder,648,BKN,2023-24
+Schroder,Thomas,505,BKN,2023-24
+Johnson,Thomas,641,BKN,2023-24
+Dinwiddie,Thomas,641,BKN,2023-24
+Johnson,Schroder,309,BKN,2023-24
+Finney-Smith,Sharpe,346,BKN,2023-24
+Bridges,Sharpe,479,BKN,2023-24
+Johnson,Sharpe,324,BKN,2023-24
+Dinwiddie,Sharpe,299,BKN,2023-24
+Finney-Smith,Simmons,207,BKN,2023-24
+Bridges,Simmons,300,BKN,2023-24
+Simmons,Thomas,297,BKN,2023-24
+Dinwiddie,Simmons,90,BKN,2023-24
+Finney-Smith,O'Neale,482,BKN,2023-24
+Bridges,O'Neale,696,BKN,2023-24
+O'Neale,Thomas,632,BKN,2023-24
+Dinwiddie,O'Neale,533,BKN,2023-24
+O'Neale,Simmons,134,BKN,2023-24
+Johnson,O'Neale,326,BKN,2023-24
+O'Neale,Smith Jr.,462,BKN,2023-24
+O'Neale,Walker IV,395,BKN,2023-24
+Claxton,O'Neale,399,BKN,2023-24
+Smith Jr.,Walker IV,393,BKN,2023-24
+Claxton,Smith Jr.,455,BKN,2023-24
+Smith Jr.,Thomas,471,BKN,2023-24
+Claxton,Walker IV,354,BKN,2023-24
+Thomas,Walker IV,373,BKN,2023-24
+Finney-Smith,Walker IV,301,BKN,2023-24
+Bridges,Walker IV,432,BKN,2023-24
+Schroder,Walker IV,152,BKN,2023-24
+Claxton,Simmons,97,BKN,2023-24
+Bridges,Smith Jr.,560,BKN,2023-24
+Finney-Smith,Wilson,80,BKN,2023-24
+Bridges,Wilson,283,BKN,2023-24
+Claxton,Wilson,245,BKN,2023-24
+Schroder,Wilson,202,BKN,2023-24
+Bridges,Watford,351,BKN,2023-24
+Bridges,Clowney,166,BKN,2023-24
+Claxton,Watford,293,BKN,2023-24
+Claxton,Clowney,91,BKN,2023-24
+Thomas,Watford,339,BKN,2023-24
+Clowney,Thomas,193,BKN,2023-24
+Clowney,Watford,226,BKN,2023-24
+Sharpe,Thomas,351,BKN,2023-24
+Finney-Smith,Smith Jr.,345,BKN,2023-24
+Johnson,Smith Jr.,291,BKN,2023-24
+O'Neale,Sharpe,333,BKN,2023-24
+Sharpe,Smith Jr.,338,BKN,2023-24
+Dinwiddie,Smith Jr.,153,BKN,2023-24
+Sharpe,Walker IV,316,BKN,2023-24
+Dinwiddie,Walker IV,224,BKN,2023-24
+Simmons,Walker IV,106,BKN,2023-24
+Walker IV,Watford,282,BKN,2023-24
+Walker IV,Wilson,173,BKN,2023-24
+Clowney,Walker IV,119,BKN,2023-24
+Sharpe,Watford,260,BKN,2023-24
+Sharpe,Wilson,181,BKN,2023-24
+Clowney,Sharpe,60,BKN,2023-24
+Watford,Wilson,312,BKN,2023-24
+Clowney,Wilson,183,BKN,2023-24
+Schroder,Smith Jr.,126,BKN,2023-24
+Schroder,Sharpe,151,BKN,2023-24
+Simmons,Wilson,46,BKN,2023-24
+Thomas,Wilson,252,BKN,2023-24
+Bates-Diop,Smith Jr.,28,BKN,2023-24
+Smith Jr.,Watford,200,BKN,2023-24
+Smith Jr.,Wilson,188,BKN,2023-24
+Bates-Diop,Sharpe,30,BKN,2023-24
+Bates-Diop,Watford,64,BKN,2023-24
+Bates-Diop,Wilson,65,BKN,2023-24
+Clowney,Schroder,113,BKN,2023-24
+Finney-Smith,Watford,157,BKN,2023-24
+Schroder,Watford,102,BKN,2023-24
+Gilyard,Walker IV,31,BKN,2023-24
+Gilyard,Thomas,13,BKN,2023-24
+Gilyard,Wilson,30,BKN,2023-24
+Clowney,Gilyard,37,BKN,2023-24
+O'Neale,Watford,218,BKN,2023-24
+Johnson,Wilson,143,BKN,2023-24
+Brooks,Giles III,37,BKN,2023-24
+Giles III,Sharpe,34,BKN,2023-24
+Giles III,Watford,67,BKN,2023-24
+Giles III,Wilson,37,BKN,2023-24
+Brooks,Sharpe,50,BKN,2023-24
+Brooks,Watford,78,BKN,2023-24
+Brooks,Wilson,52,BKN,2023-24
+Johnson,Walker IV,243,BKN,2023-24
+Johnson,Watford,212,BKN,2023-24
+Johnson,Simmons,57,BKN,2023-24
+Bates-Diop,Walker IV,24,BKN,2023-24
+Brooks,Johnson,13,BKN,2023-24
+Brooks,Whitehead,15,BKN,2023-24
+Brooks,Clowney,20,BKN,2023-24
+Johnson,Whitehead,15,BKN,2023-24
+Clowney,Johnson,88,BKN,2023-24
+Whitehead,Wilson,11,BKN,2023-24
+Clowney,Whitehead,19,BKN,2023-24
+Bates-Diop,Johnson,16,BKN,2023-24
+Bates-Diop,Clowney,21,BKN,2023-24
+Dinwiddie,Watford,68,BKN,2023-24
+Clowney,Finney-Smith,34,BKN,2023-24
+Clowney,Smith Jr.,49,BKN,2023-24
+Giles III,O'Neale,44,BKN,2023-24
+Brooks,O'Neale,29,BKN,2023-24
+O'Neale,Wilson,57,BKN,2023-24
+Brooks,Simmons,6,BKN,2023-24
+Simmons,Watford,14,BKN,2023-24
+Brooks,Walker IV,22,BKN,2023-24
+Simmons,Smith Jr.,28,BKN,2023-24
+Schroder,Simmons,16,BKN,2023-24
+Giles III,Smith Jr.,18,BKN,2023-24
+Brooks,Smith Jr.,29,BKN,2023-24
+Gilyard,Johnson,11,BKN,2023-24
+Gilyard,Watford,19,BKN,2023-24
+Clowney,Simmons,5,BKN,2023-24
+Giles III,Walker IV,20,BKN,2023-24
+Giles III,Thomas,27,BKN,2023-24
+Brooks,Finney-Smith,15,BKN,2023-24
+Clowney,O'Neale,4,BKN,2023-24
+Clowney,Dinwiddie,4,BKN,2023-24
+Smith Jr.,Whitehead,10,BKN,2023-24
+Watford,Whitehead,10,BKN,2023-24
+Dinwiddie,Wilson,28,BKN,2023-24
+Brooks,Thomas,12,BKN,2023-24
+Bridges,Gilyard,14,BKN,2023-24
+Gilyard,Sharpe,10,BKN,2023-24
+Bridges,Brooks,10,BKN,2023-24
+Brooks,Dinwiddie,8,BKN,2023-24
+Bates-Diop,Schroder,8,BKN,2023-24
+Giles III,Johnson,9,BKN,2023-24
+Finney-Smith,Gilyard,4,BKN,2023-24
+Claxton,Gilyard,3,BKN,2023-24
+Finney-Smith,Giles III,5,BKN,2023-24
+Dinwiddie,Giles III,6,BKN,2023-24
+Clowney,Giles III,4,BKN,2023-24
+Bridges,Giles III,8,BKN,2023-24
+Bates-Diop,Bridges,5,BKN,2023-24
+Sharpe,Whitehead,4,BKN,2023-24
+Sharpe,Simmons,13,BKN,2023-24
+Bates-Diop,Finney-Smith,2,BKN,2023-24
+Bates-Diop,Claxton,1,BKN,2023-24
+Claxton,Sharpe,1,BKN,2023-24
+Murray,Young,1172,ATL,2023-24
+Bey,Murray,1601,ATL,2023-24
+Johnson,Murray,1263,ATL,2023-24
+Capela,Murray,1771,ATL,2023-24
+Bey,Young,1239,ATL,2023-24
+Johnson,Young,1142,ATL,2023-24
+Capela,Young,938,ATL,2023-24
+Bey,Johnson,894,ATL,2023-24
+Bey,Capela,1045,ATL,2023-24
+Capela,Johnson,933,ATL,2023-24
+Hunter,Murray,1414,ATL,2023-24
+Hunter,Young,621,ATL,2023-24
+Bey,Hunter,597,ATL,2023-24
+Capela,Hunter,914,ATL,2023-24
+Hunter,Johnson,623,ATL,2023-24
+Krejci,Murray,434,ATL,2023-24
+Bogdanovic,Murray,1434,ATL,2023-24
+Hunter,Krejci,311,ATL,2023-24
+Bogdanovic,Hunter,911,ATL,2023-24
+Capela,Krejci,342,ATL,2023-24
+Bogdanovic,Krejci,314,ATL,2023-24
+Bogdanovic,Capela,976,ATL,2023-24
+Bey,Bogdanovic,1159,ATL,2023-24
+Bogdanovic,Johnson,1095,ATL,2023-24
+Okongwu,Young,853,ATL,2023-24
+Bogdanovic,Young,912,ATL,2023-24
+Bey,Okongwu,896,ATL,2023-24
+Johnson,Okongwu,621,ATL,2023-24
+Bogdanovic,Okongwu,1072,ATL,2023-24
+Murray,Okongwu,732,ATL,2023-24
+Mathews,Young,353,ATL,2023-24
+Mathews,Okongwu,348,ATL,2023-24
+Johnson,Mathews,282,ATL,2023-24
+Bogdanovic,Mathews,451,ATL,2023-24
+Hunter,Okongwu,336,ATL,2023-24
+Matthews,Young,166,ATL,2023-24
+Matthews,Okongwu,194,ATL,2023-24
+Bey,Matthews,140,ATL,2023-24
+Bogdanovic,Matthews,261,ATL,2023-24
+Fernando,Murray,292,ATL,2023-24
+Mathews,Murray,500,ATL,2023-24
+Fernando,Hunter,348,ATL,2023-24
+Fernando,Mathews,416,ATL,2023-24
+Fernando,Krejci,169,ATL,2023-24
+Hunter,Mathews,327,ATL,2023-24
+Krejci,Mathews,195,ATL,2023-24
+Bey,Mathews,274,ATL,2023-24
+Bey,Fernando,112,ATL,2023-24
+Capela,Mathews,221,ATL,2023-24
+Forrest,Murray,112,ATL,2023-24
+Forrest,Okongwu,152,ATL,2023-24
+Bey,Forrest,124,ATL,2023-24
+Bogdanovic,Forrest,266,ATL,2023-24
+Fernando,Johnson,236,ATL,2023-24
+Bufkin,Fernando,126,ATL,2023-24
+Bogdanovic,Fernando,351,ATL,2023-24
+Bufkin,Hunter,48,ATL,2023-24
+Bufkin,Johnson,106,ATL,2023-24
+Bogdanovic,Bufkin,123,ATL,2023-24
+Capela,Okongwu,132,ATL,2023-24
+Bey,Krejci,34,ATL,2023-24
+Fernando,Forrest,206,ATL,2023-24
+Forrest,Hunter,112,ATL,2023-24
+Forrest,Johnson,105,ATL,2023-24
+Johnson,Krejci,89,ATL,2023-24
+Fernando,Young,145,ATL,2023-24
+Capela,Forrest,49,ATL,2023-24
+Mills,Young,47,ATL,2023-24
+Mills,Okongwu,156,ATL,2023-24
+Johnson,Mills,72,ATL,2023-24
+Bogdanovic,Mills,124,ATL,2023-24
+Matthews,Murray,208,ATL,2023-24
+Hunter,Matthews,80,ATL,2023-24
+Capela,Matthews,98,ATL,2023-24
+Bufkin,Mathews,86,ATL,2023-24
+Johnson,Matthews,58,ATL,2023-24
+Mills,Murray,98,ATL,2023-24
+Bey,Mills,85,ATL,2023-24
+Fernando,Windler,60,ATL,2023-24
+Mathews,Windler,42,ATL,2023-24
+Forrest,Windler,52,ATL,2023-24
+Bogdanovic,Windler,38,ATL,2023-24
+Forrest,Mathews,169,ATL,2023-24
+Forrest,Mills,55,ATL,2023-24
+Krejci,Matthews,60,ATL,2023-24
+Griffin,Young,62,ATL,2023-24
+Griffin,Okongwu,85,ATL,2023-24
+Griffin,Johnson,25,ATL,2023-24
+Bogdanovic,Griffin,93,ATL,2023-24
+Bey,Griffin,36,ATL,2023-24
+Fernando,Griffin,56,ATL,2023-24
+Fernando,Lundy,20,ATL,2023-24
+Griffin,Mathews,54,ATL,2023-24
+Lundy,Mathews,29,ATL,2023-24
+Forrest,Griffin,45,ATL,2023-24
+Forrest,Lundy,23,ATL,2023-24
+Griffin,Lundy,21,ATL,2023-24
+Mathews,Mills,62,ATL,2023-24
+Krejci,Young,20,ATL,2023-24
+Lundy,Young,22,ATL,2023-24
+Lundy,Okongwu,29,ATL,2023-24
+Bey,Lundy,22,ATL,2023-24
+Bogdanovic,Lundy,17,ATL,2023-24
+Capela,Mills,37,ATL,2023-24
+Griffin,Murray,56,ATL,2023-24
+Griffin,Hunter,40,ATL,2023-24
+Fernando,Matthews,118,ATL,2023-24
+Mathews,Matthews,129,ATL,2023-24
+Matthews,Windler,18,ATL,2023-24
+Forrest,Matthews,60,ATL,2023-24
+Bufkin,Krejci,62,ATL,2023-24
+Forrest,Young,26,ATL,2023-24
+Forrest,Krejci,50,ATL,2023-24
+Bufkin,Capela,35,ATL,2023-24
+Griffin,Matthews,12,ATL,2023-24
+Bufkin,Murray,22,ATL,2023-24
+Bey,Bufkin,26,ATL,2023-24
+Capela,Griffin,14,ATL,2023-24
+Fernando,Gueye,37,ATL,2023-24
+Windler,Young,7,ATL,2023-24
+Gueye,Young,35,ATL,2023-24
+Gueye,Windler,11,ATL,2023-24
+Gueye,Mathews,42,ATL,2023-24
+Gueye,Krejci,24,ATL,2023-24
+Bufkin,Gueye,30,ATL,2023-24
+Gueye,Murray,17,ATL,2023-24
+Gueye,Hunter,15,ATL,2023-24
+Bogdanovic,Gueye,25,ATL,2023-24
+Krejci,Windler,26,ATL,2023-24
+Bufkin,Windler,15,ATL,2023-24
+Bufkin,Forrest,33,ATL,2023-24
+Bufkin,Young,8,ATL,2023-24
+Bufkin,Okongwu,8,ATL,2023-24
+Griffin,Krejci,24,ATL,2023-24
+Fernando,Mills,24,ATL,2023-24
+Forrest,Gueye,17,ATL,2023-24
+Griffin,Gueye,29,ATL,2023-24
+Bufkin,Griffin,19,ATL,2023-24
+Hunter,Mills,23,ATL,2023-24
+Krejci,Okongwu,14,ATL,2023-24
+Bogdanovic,Bogdanovic,5,ATL,2023-24
+Bufkin,Matthews,23,ATL,2023-24
+Capela,Windler,13,ATL,2023-24
+Griffin,Mills,13,ATL,2023-24
+Murray,Windler,15,ATL,2023-24
+Matthews,Mills,14,ATL,2023-24
+Lundy,Mills,8,ATL,2023-24
+Lundy,Matthews,5,ATL,2023-24
+Hunter,Windler,3,ATL,2023-24
+Capela,Gueye,6,ATL,2023-24
+Lundy,Murray,11,ATL,2023-24
+Bufkin,Mills,2,ATL,2023-24
+Capela,Lundy,4,ATL,2023-24
+Hunter,Lundy,1,ATL,2023-24
+Capela,Fernando,0,ATL,2023-24
