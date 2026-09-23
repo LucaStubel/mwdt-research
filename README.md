@@ -6,9 +6,9 @@
 [![SSAC27](https://img.shields.io/badge/Submitted-MIT%20Sloan%202027-red.svg)](https://sloansportsconference.com)
 [![Status](https://img.shields.io/badge/Status-Under%20Review-orange.svg)]()
 
-**Author:** Luca Stuebel — Texas A&M University San Antonio  
+**Author:** Luca Stubel — Texas A&M University San Antonio  
 **Advisor:** Dr. Tan Kim — Department of Management  
-**Contact:** lucastuebel@gmail.com
+**Contact:** luca@das2.com
 
 ---
 
@@ -191,10 +191,10 @@ Kozlowski & Bell (2003) distinguish **compositional constructs** (legitimately a
 If you use this code or metric in your research, please cite:
 
 ```bibtex
-@article{stuebel2026mwdt,
+@article{stubel2026mwdt,
   title   = {Familiarity as a Dyadic Phenomenon: Introducing Minutes Weighted
              Dyadic Tenure and Its Relationship to NBA Team and Individual Performance},
-  author  = {Stuebel, Luca and Kim, Tan},
+  author  = {Stubel, Luca and Kim, Tan},
   journal = {Under Review},
   year    = {2026},
   school  = {Texas A&M University San Antonio}
