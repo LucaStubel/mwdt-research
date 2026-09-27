@@ -1,7 +1,7 @@
 """
 ================================================================================
 04 — EXHIBITS FOR THE SSAC 2027 ABSTRACT
-Minutes Weighted Dyadic Tenure — Stuebel (2026)
+Minutes Weighted Dyadic Tenure — Stubel (2026)
 ================================================================================
 
 Builds the one figure and one table used in the Sloan abstract directly from

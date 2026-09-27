@@ -1,5 +1,5 @@
 ==============================================================================
-03 — PLAYER-LEVEL ANALYSIS (H3 + MOVERS)   Stuebel & Kim (2026)
+03 — PLAYER-LEVEL ANALYSIS (H3 + MOVERS)   Stubel & Kim (2026)
 ==============================================================================
 Panel: 479 player-transitions; 477 with prior-season PPG matched (2 unmatched, mostly name-format differences).
 Transitions: {'2023-24 → 2024-25': 244, '2022-23 → 2023-24': 235}

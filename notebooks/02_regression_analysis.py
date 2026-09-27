@@ -1,7 +1,7 @@
 """
 ================================================================================
 02 — TEAM-LEVEL ANALYSIS: H1, H2, H4 + ROBUSTNESS
-Minutes Weighted Dyadic Tenure — Stuebel & Kim (2026)
+Minutes Weighted Dyadic Tenure — Stubel & Kim (2026)
 ================================================================================
 
 INPUTS
@@ -349,7 +349,7 @@ def main():
     sys.stdout = Tee(sys.__stdout__, log)
 
     print('=' * 78)
-    print('02 — TEAM-LEVEL ANALYSIS (H1, H2, H4, ROBUSTNESS)   Stuebel & Kim (2026)')
+    print('02 — TEAM-LEVEL ANALYSIS (H1, H2, H4, ROBUSTNESS)   Stubel & Kim (2026)')
     print('=' * 78)
     df = load()
     print(f"N = {len(df)} team-seasons | MWDT mean {df['MWDT'].mean():.2f} min, SD {df['MWDT'].std():.2f}")

@@ -10,7 +10,7 @@
 [![Status](https://img.shields.io/badge/Status-Working%20Paper-orange.svg)](#)
 [![Reproduce results](https://github.com/LucaStubel/mwdt-research/actions/workflows/reproduce.yml/badge.svg)](https://github.com/LucaStubel/mwdt-research/actions/workflows/reproduce.yml)
 
-**Author:** Luca Stuebel, Texas A&M University San Antonio
+**Author:** Luca Stubel, Texas A&M University San Antonio
 **Advisor:** Dr. Tan Kim, Department of Management
 **Contact:** lucastuebel@gmail.com
 
@@ -185,10 +185,10 @@ Script 01 rebuilds all dyads and team measures from the raw lineup files in `dat
 ## Citation
 
 ```bibtex
-@techreport{stuebel2026mwdt,
+@techreport{stubel2026mwdt,
   title       = {Familiarity as a Dyadic Phenomenon: Minutes Weighted Dyadic Tenure
                  and NBA Team and Individual Performance},
-  author      = {Stuebel, Luca and Kim, Tan},
+  author      = {Stubel, Luca and Kim, Tan},
   institution = {Texas A\&M University San Antonio},
   type        = {Working Paper},
   year        = {2026}

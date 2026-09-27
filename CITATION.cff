@@ -3,7 +3,7 @@ message: "If you use this data or code, please cite it as below."
 title: "Chemistry or Rotation Size? Auditing Pair-Level Familiarity Metrics in the NBA"
 type: software
 authors:
-  - family-names: Stuebel
+  - family-names: Stubel
     given-names: Luca
     affiliation: "Texas A&M University–San Antonio"
     email: lucastuebel@gmail.com
