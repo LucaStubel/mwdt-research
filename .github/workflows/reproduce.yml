@@ -1,1 +1,27 @@
+name: Reproduce results
 
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Rebuild everything from raw lineup data
+        run: |
+          python notebooks/01_mwdt_calculation.py
+          python notebooks/02_regression_analysis.py
+          python notebooks/03_h3_individual_carryover.py
+          python notebooks/04_sloan_abstract_exhibits.py
+      - name: Run reproducibility tests
+        run: pytest -q tests
+      - name: Show any differences to committed outputs (informational)
+        run: git diff --stat -- results/ data/processed/ || true
