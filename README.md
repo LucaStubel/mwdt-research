@@ -28,7 +28,9 @@ This repository builds dyad-level familiarity measures from NBA lineup data and 
 
 ## The Metric
 
-$$\text{MWDT} = \frac{\sum_{i<j} \text{minutes}(i,j)}{N_{\text{pairs}}}$$
+```math
+\text{MWDT} = \frac{\sum_{i \lt j} \text{minutes}(i,j)}{N_{\text{pairs}}}
+```
 
 - $\text{minutes}(i,j)$ = regular-season game-clock minutes players *i* and *j* shared the floor
 - $N_{\text{pairs}}$ = number of distinct player pairs that shared any minutes
@@ -91,7 +93,7 @@ Personal MWDT is mathematically four times minutes played, so H3 and the movers 
 | 5-man lineups (shared minutes) | pbpstats.com lineup export, regular season, 90 team-seasons | All 90 raw files included; dyads rebuilt exactly by script 01. Export capped at 500 lineups (see Harmonized measures) |
 | Roster continuity | Basketball-Reference, Roster Continuity (% of minutes by players from prior roster) | All 90 values match |
 | Win % | Official NBA regular-season standings | Spot-checked; league mean = .500 |
-| Payroll | HoopsHype team payroll (87 team-seasons); Spotrac total cap allocations for Philadelphia | HoopsHype values match (e.g. ATL 2022-23 $149,836,313). Philadelphia's original values duplicated Orlando's and were replaced with Spotrac figures. Spotrac values for all 90 team-seasons are in `payroll_spotrac.csv` (r = .92 with HoopsHype, median difference 1.9%); results are unchanged using them (R11) |
+| Payroll | HoopsHype team payroll (87 team-seasons); Spotrac total cap allocations for Philadelphia | HoopsHype values match (e.g. ATL 2022-23 USD 149,836,313). Philadelphia's original values duplicated Orlando's and were replaced with Spotrac figures. Spotrac values for all 90 team-seasons are in `payroll_spotrac.csv` (r = .92 with HoopsHype, median difference 1.9%); results are unchanged using them (R11) |
 | Net Rating, average age | Basketball-Reference team statistics (probable) | Not verified automatically; age is not significant in any model and the key results hold without it (R8) |
 | Player per-game stats | Basketball-Reference (script 00) | — |
 
