@@ -1,7 +1,7 @@
 """
 ================================================================================
 03 — PLAYER-LEVEL ANALYSIS: H3 (CARRYOVER) + MOVERS TEST
-Minutes Weighted Dyadic Tenure — Stubel & Kim (2026)
+Minutes Weighted Dyadic Tenure — Stubel (2026)
 ================================================================================
 
 WHAT THIS SCRIPT DOES
@@ -157,7 +157,7 @@ def main():
     log = open(OUT_TXT, 'w', encoding='utf-8')
     sys.stdout = Tee(sys.__stdout__, log)
     print('=' * 78)
-    print('03 — PLAYER-LEVEL ANALYSIS (H3 + MOVERS)   Stubel & Kim (2026)')
+    print('03 — PLAYER-LEVEL ANALYSIS (H3 + MOVERS)   Stubel (2026)')
     print('=' * 78)
 
     p = build_panel()

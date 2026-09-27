@@ -172,7 +172,7 @@ def collect_all_stats() -> pd.DataFrame:
 def main():
     print("=" * 65)
     print("NBA DATA COLLECTION")
-    print("MWDT Study — Stubel & Kim (2026)")
+    print("MWDT Study — Stubel (2026)")
     print("=" * 65)
 
     os.makedirs('data/raw', exist_ok=True)

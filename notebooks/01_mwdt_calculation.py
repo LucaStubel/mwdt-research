@@ -1,7 +1,7 @@
 """
 ================================================================================
 01 — MWDT CALCULATION FROM RAW LINEUP DATA
-Minutes Weighted Dyadic Tenure — Stubel & Kim (2026)
+Minutes Weighted Dyadic Tenure — Stubel (2026)
 ================================================================================
 
 INPUT

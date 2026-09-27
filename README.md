@@ -188,7 +188,7 @@ Script 01 rebuilds all dyads and team measures from the raw lineup files in `dat
 @techreport{stubel2026mwdt,
   title       = {Familiarity as a Dyadic Phenomenon: Minutes Weighted Dyadic Tenure
                  and NBA Team and Individual Performance},
-  author      = {Stubel, Luca and Kim, Tan},
+  author      = {Stubel, Luca},
   institution = {Texas A\&M University San Antonio},
   type        = {Working Paper},
   year        = {2026}

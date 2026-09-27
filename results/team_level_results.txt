@@ -1,5 +1,5 @@
 ==============================================================================
-02 — TEAM-LEVEL ANALYSIS (H1, H2, H4, ROBUSTNESS)   Stubel & Kim (2026)
+02 — TEAM-LEVEL ANALYSIS (H1, H2, H4, ROBUSTNESS)   Stubel (2026)
 ==============================================================================
 N = 90 team-seasons | MWDT mean 246.85 min, SD 58.07
 Win % mean = 0.500

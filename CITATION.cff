@@ -7,9 +7,6 @@ authors:
     given-names: Luca
     affiliation: "Texas A&M University–San Antonio"
     email: lucastuebel@gmail.com
-  - family-names: Kim
-    given-names: Tan
-    affiliation: "Texas A&M University–San Antonio"
 version: 1.0.0
 date-released: 2026-09-27
 repository-code: "https://github.com/LucaStubel/mwdt-research"
