@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Lineup data make it easy to turn shared minutes into "chemistry" metrics, and front offices value continuity. The evidence is weaker than the intuition: across 169 studies, team tenure predicts performance only modestly (ρ = .08–.20). One explanation is that familiarity lives between specific people (Wegner's transactive memory), so it should be measured between pairs. This study asks what such a metric actually measures when the game clock fixes how many minutes teammates can share.
+Lineup data make it easy to turn shared minutes into "chemistry" metrics, and front offices value continuity. The evidence is weaker than the intuition: across 169 studies, team tenure predicts performance only modestly (ρ = .08–.20; Gonzalez-Mulé et al., 2020). One explanation is that familiarity lives between specific people (transactive memory; Wegner, 1987), so it should be measured between pairs (e.g., Huckman et al., 2009). This study asks what such a metric measures when the game clock fixes how many minutes teammates can share.
 
 ## Methods
 
-Using pbpstats regular-season five-man lineup exports for all 30 teams from 2022-23 to 2024-25 (90 team-seasons, 14,796 pair-seasons), I compute a pair-averaged familiarity metric, Minutes Weighted Dyadic Tenure (MWDT): total shared minutes across all player pairs, divided by the number of pairs that shared the floor. Because exports cap at 500 lineups, all measures use lineups of three or more minutes, which are complete for every team. Net Rating is regressed on MWDT with controls for payroll, age, roster continuity and conference, clustering standard errors by franchise. Robustness checks vary payroll source, lineup threshold and controls. All data and code: github.com/LucaStubel/mwdt-research.
+Using pbpstats regular-season five-man lineup exports for all 30 teams from 2022-23 to 2024-25 (90 team-seasons, 14,796 pair-seasons), I compute a pair-averaged familiarity metric, Minutes Weighted Dyadic Tenure (MWDT): total shared minutes across all player pairs, divided by the number of pairs that shared the floor. Because exports cap at 500 lineups, all measures use lineups of three or more minutes, complete for every team. Net Rating is regressed on MWDT with controls for payroll, age, roster continuity and conference, clustering standard errors by franchise. Robustness checks vary payroll source, lineup threshold and controls. All data and code: github.com/LucaStubel/mwdt-research.
 
 ## Results
 
@@ -18,7 +18,7 @@ Pair-minute concentration remains associated with Net Rating after adjustment, a
 
 ## Conclusion
 
-Pair-averaged familiarity, the natural way to turn lineup data into a chemistry metric, mostly counts how many players a team used. Because familiarity and performance are measured in the same season, none of these associations is causal: healthy, strong teams can afford tight rotations. Any chemistry or continuity metric built from shared minutes should be benchmarked against rotation size before it informs roster decisions. Future studies should test concentration measures constructed exclusively from prior shared experience.
+Pair-averaged familiarity, a natural chemistry metric for lineup data, mostly counts how many players a team used. Because familiarity and performance are measured in the same season, none of these associations is causal: healthy, strong teams can afford tight rotations. Any chemistry or continuity metric built from shared minutes should be benchmarked against rotation size before it informs roster decisions. Future studies should test concentration measures constructed exclusively from prior shared experience.
 
 **Table 1.** OLS, DV = Net Rating, N = 90; controls: payroll, age, continuity, conference; stars use franchise-clustered p-values.
 

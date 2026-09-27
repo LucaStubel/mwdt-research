@@ -198,6 +198,7 @@ Script 01 rebuilds all dyads and team measures from the raw lineup files in `dat
 ## References
 
 - Gonzalez-Mulé, E., Cockburn, B. S., McCormick, B. W., & Zhao, P. (2020). Team tenure and team performance: A meta-analysis and process model. *Personnel Psychology, 73*, 151–198.
+- Huckman, R. S., Staats, B. R., & Upton, D. M. (2009). Team familiarity, role experience, and performance: Evidence from Indian software services. *Management Science, 55*(1), 85–100.
 - Kozlowski, S. W. J., & Bell, B. S. (2003). Work groups and teams in organizations. In *Handbook of Psychology* (Vol. 12, pp. 333–375). Wiley.
 - Lind, J. T., & Mehlum, H. (2010). With or without U? The appropriate test for a U-shaped relationship. *Oxford Bulletin of Economics and Statistics, 72*, 109–118.
 - Reagans, R., Argote, L., & Brooks, D. (2005). Individual experience and experience working together. *Management Science, 51*, 869–881.
