@@ -1,0 +1,11 @@
+# MWDT Research — pinned dependencies (tested with Python 3.12)
+# Install with: pip install -r requirements.txt
+pandas==3.0.2
+numpy==2.4.4
+scipy==1.17.1
+statsmodels==0.15.0
+patsy==1.0.3
+matplotlib==3.10.8
+reportlab==4.4.10
+openpyxl==3.1.5
+pytest

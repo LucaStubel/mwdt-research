@@ -1,0 +1,124 @@
+==============================================================================
+02 — TEAM-LEVEL ANALYSIS (H1, H2, H4, ROBUSTNESS)   Stuebel & Kim (2026)
+==============================================================================
+N = 90 team-seasons | MWDT mean 246.85 min, SD 58.07
+Win % mean = 0.500
+
+TABLE 1 — DESCRIPTIVES AND CORRELATIONS (N = 90)
+----------------------------------------------------------------------------------------------------
+                           Mean       SD       1       2       3       4       5       6
+1. MWDT (min)            246.85    58.07
+2. Net Rating              0.26     5.09  0.52***
+3. Win %                   0.50     0.15  0.51***  0.93***
+4. Payroll ($M)          163.49    20.47 -0.00    0.29**  0.40***
+5. Avg Age                26.27     1.31  0.00    0.20    0.31**  0.52***
+6. Roster Continuity       0.69     0.15  0.52***  0.45***  0.43***  0.00    0.07  
+7. N pairs used          156.37    37.68 -0.95*** -0.55*** -0.53***  0.01   -0.04   -0.50***
+* p<.05  ** p<.01  *** p<.001
+
+TABLE 2 — OLS, DV = NET RATING (Models 1–3) / WIN % (Model 4)
+------------------------------------------------------------------------------------------
+                                  Controls       H1 linear        H2 quad.      Win % (H1)
+MWDT (centered, min)                     —       0.0341***       0.0353***       0.0010***
+                                                  (0.0072)        (0.0064)        (0.0002)
+MWDT² (centered)                         —               —      -0.0002**                —
+                                                                  (0.0001)                
+Payroll ($M)                     0.0631*         0.0621*         0.0662*         0.0024** 
+                                  (0.0278)        (0.0314)        (0.0322)        (0.0008)
+Average age                      0.1421          0.1993          0.0604          0.0138   
+                                  (0.4752)        (0.4395)        (0.4682)        (0.0127)
+Roster continuity               15.0202***       8.2430**        7.7410**        0.2089*  
+                                  (3.2181)        (2.9796)        (2.9083)        (0.0901)
+East conference                 -1.1647         -0.9418         -0.8442         -0.0124   
+                                  (1.0846)        (1.0210)        (1.0286)        (0.0256)
+Constant                       -23.5773*       -20.3448        -16.4510         -0.3955   
+                                 (11.1548)       (10.5913)       (10.8953)        (0.2803)
+R²                                   0.298           0.407           0.429           0.466
+N                                       90              90              90              90
+Clustered SEs (30 franchises). * p<.05  ** p<.01  *** p<.001
+
+H1: +10 min of MWDT ≈ +0.34 Net Rating; +1 SD (58.1 min) ≈ +1.98 Net Rating, controls held constant.
+
+H2 — CURVILINEARITY
+----------------------------------------------------------------------
+b(MWDT_c)   = 0.03530  p = 0.0000
+b(MWDT_c²)  = -0.000185  p = 0.0024
+Turning point = 342.4 min (delta-method 95% CI 271.6 – 413.2)
+Share of team-seasons below turning point: 93%  (6 of 90 beyond it)
+
+Lind–Mehlum slope test (slope = b1 + 2·b2·(x − mean)):
+  at sample minimum (111.7 min): slope = +0.0852, SE = 0.0176, one-sided p = 0.000
+  at sample maximum (374.8 min): slope = -0.0120, SE = 0.0169, one-sided p = 0.240
+  -> Inverted U NOT supported: slope at the upper end is not significantly negative; the data show diminishing returns, not a downturn.
+
+H4 — MWDT vs. TRADITIONAL STABILITY MEASURE (within this sample)
+----------------------------------------------------------------------
+r(MWDT, NetRating)              = 0.520
+r(Roster Continuity, NetRating) = 0.449
+r(MWDT, Continuity)             = 0.519
+Williams test, H0 equal correlations: t(87) = 0.81, p = 0.420
+Joint model (Table 2, H1): MWDT p = 0.0000, Continuity p = 0.0057 — both contribute.
+
+Context only (not a like-for-like comparison): Gonzalez-Mulé et al. (2020)
+report artifact-corrected meta-analytic rho = .200 (additive), .110 (collective),
+.080 (dispersion) across organizational teams.
+
+TABLE 3 — ROBUSTNESS: DOES MWDT ADD INFORMATION BEYOND ROTATION SIZE?
+(DV = Net Rating; all models also include payroll, age, East)
+----------------------------------------------------------------------------------------------------------
+                                        R1              R2              R3              R4              R5
+MWDT (centered)                 -0.0168         -0.0546                  —               —               —
+                                  (0.0161)        (0.0323)                                                
+MWDT net of 1/N                          —               —               —       0.0056                  —
+                                                                                  (0.0801)                
+N pairs                         -0.0829***               —               —               —      -0.0363***
+                                  (0.0218)                                                        (0.0097)
+log N pairs                              —     -23.3404**                —               —               —
+                                                  (8.0070)                                                
+1000 / N pairs                           —               —       1.3715***       1.3711***               —
+                                                                  (0.2948)        (0.2973)                
+Top-10 pair share                        —               —               —               —      16.7784*  
+                                                                                                  (7.4558)
+Roster continuity                8.0550**        7.7691**        8.1767**        8.1747**        7.7514** 
+                                  (2.9857)        (2.9215)        (2.9654)        (2.9840)        (3.0083)
+R²                                   0.441           0.436           0.408           0.408           0.467
+N                                       90              90              90              90              90
+Clustered SEs (30 franchises). * p<.05  ** p<.01  *** p<.001
+
+r(MWDT, 1/N_Pairs) = 0.994;  r(1/N_Pairs, NetRating) = 0.516;  r(MWDT net of 1/N, NetRating) = 0.072
+
+FURTHER ROBUSTNESS (DV = Net Rating)
+----------------------------------------------------------------------
+  R7a all lineups (no harmonization): MWDT         b = +0.0347  p = 0.0000  N = 90
+  R7b all lineups: MWDT + N pairs                  b = -0.0226  p = 0.3791  N = 90
+  R7c all lineups: Top-10 share + N pairs          b = +19.5375  p = 0.0073  N = 90
+  R8 Top-10 share, without age control             b = +16.7213  p = 0.0235  N = 90
+  R9 Top-10 share + export-truncation dummy        b = +15.5212  p = 0.0678  N = 90
+  R10 Top-10 share, without payroll (N = 90)       b = +19.0509  p = 0.0215  N = 90
+  Top-10 share SD = 0.073; +1 SD ≈ +1.22 Net Rating (R5, p = 0.0244)
+  r(Top-10 share, N pairs) = -0.693; r(Truncated, N pairs) = 0.434
+
+R11 SPOTRAC PAYROLL FOR ALL 90 TEAM-SEASONS
+  H1 MWDT                                          b = +0.0342  p = 0.0000  N = 90
+  R1 MWDT + N pairs                                b = -0.0104  p = 0.5271  N = 90
+  R5 Top-10 share + N pairs                        b = +18.3301  p = 0.0197  N = 90
+  R9 R5 + truncation dummy                         b = +16.8322  p = 0.0571  N = 90
+
+R12 SMALL-CLUSTER INFERENCE: WILD CLUSTER RESTRICTED BOOTSTRAP
+  Method: restricted (null imposed), Rademacher weights at franchise level, 30 clusters,
+  B = 9,999 replications, seed = 2027, two-sided p = share of |t*| >= |t|, CRV1 small-sample factor.
+  H1 MWDT                          t = +4.715  clustered p = 0.000002  wild-bootstrap p = 0.000100 (1/9999)
+  R1 MWDT + N pairs                t = -1.042  clustered p = 0.297324  wild-bootstrap p = 0.298830 (2988/9999)
+  R5 Top-10 share + N pairs        t = +2.250  clustered p = 0.024425  wild-bootstrap p = 0.051505 (515/9999)
+  R9 R5 + truncation dummy         t = +1.826  clustered p = 0.067799  wild-bootstrap p = 0.140814 (1408/9999)
+R6 season fixed effects (no rotation control): b(MWDT_c) = 0.0328, p = 0.0000
+
+CASES CITED IN THE PAPER
+  NYK 2022-23: MWDT 374.8, N pairs 103, Net Rating +3.03
+  NYK 2023-24: MWDT 222.3, N pairs 172, Net Rating +4.89
+  GSW 2022-23: MWDT 330.7, N pairs 112, Net Rating +1.75
+  MEM 2022-23: MWDT 269.6, N pairs 138, Net Rating +3.93
+  MEM 2023-24: MWDT 111.7, N pairs 299, Net Rating -7.18
+  BOS 2023-24: MWDT 255.6, N pairs 149, Net Rating +11.71
+
+Figures saved to figures/ (fig1–fig4).

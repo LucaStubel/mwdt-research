@@ -1,0 +1,7 @@
+TABLE 1 — What does pair-averaged familiarity measure?
+DV: Net Rating                                  (1) MWDT       (2) + rotation size         (3) Concentration
+MWDT, per 10 min                    +0.34*** (p = 0.000)         -0.17 (p = 0.297)                         —
+Pairs used, per 10 pairs                               —      -0.83*** (p = 0.000)      -0.36*** (p = 0.000)
+Top-10 pair share, per 10 pp                           —                         —        +1.68* (p = 0.024)
+R²                                                  0.41                      0.44                      0.47
+N = 90 team-seasons. Controls: payroll, average age, roster continuity, conference. Stars and p-values: franchise-clustered SEs. * p<.05 ** p<.01 *** p<.001
