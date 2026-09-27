@@ -63,9 +63,9 @@ OLS with standard errors clustered by franchise (30 clusters; key tests also use
 | R4: MWDT net of 1/N_pairs + 1/N_pairs | residual MWDT b = .006 | .94 |
 | R5: Top-10 pair share + N_pairs | b = 16.8 (+1 SD ≈ +1.2 Net Rating) | .024 |
 | R7c: same, all lineups (not harmonized) | b = 19.5 | .007 |
+| R9: R5 + export-truncation dummy | b = 15.5 | .068 |
 | R11: R5 with Spotrac payroll for all 90 | b = 18.3 | .020 |
 | R12: R5, wild cluster bootstrap (small-cluster inference) | t = 2.25 | .052 |
-| R9: R5 + export-truncation dummy | b = 15.5 | .068 |
 
 **Reading.** The H1 association is carried almost entirely by rotation size: once the number of pairs is controlled, MWDT adds nothing. Among teams that used a similar number of pairs, those concentrating more minutes in their top 10 pairs tended to perform better (clustered p = .02; wild cluster bootstrap p = .052), but this estimate weakens when also controlling for export truncation, a proxy for how many lineups a team used (clustered p = .07; bootstrap p = .14). The concentration result is suggestive, not established; it is exploratory and was not a pre-stated hypothesis.
 
